@@ -1,0 +1,24 @@
+--- 
+blank_issues_enabled: false
+contact_links: 
+  - 
+  '
+    about: "Please ask and answer usage questions on Stack Overflow."
+    name: Question
+    url: "https://stackoverflow.com/questions/tagged/typescript"
+  -
+  ' 
+  '
+    about: "Alternatively, you can use the  Community Discord."
+    name: Chat
+    url: "https://discord.gg/typescript"
+  '
+  - 
+    about: "Please check the Wiki before filing new issues"
+    name: "SPM Food Index Wiki"
+    url: "https://github.com/seanpm2001/SPM_FoodIndex/wiki/home"
+  - 
+    about: "Please raise issues about the site on its own repo."
+    name: Website
+    url: "https://github.com/seanpm2001/SPM_FoodIndex/issues/new"
+
