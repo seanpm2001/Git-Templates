@@ -1,0 +1,15 @@
+Powered by Sampa
+
+Alternative to pcloud, google drive, onedrive, degoo, etc.
+
+Spelling
+
+Homepage
+
+Filters/Robot.txt, access levels, list of things NOT to include
+
+KA RELEASE 2X
+
+CODE DISTANCING = OPTIONAL
+
+
