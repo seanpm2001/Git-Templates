@@ -1,0 +1,1 @@
+1 sub-directory for this directory, containing 100 image files in JPG format. This is all the data from <Month> <DoM> <Year>
