@@ -1,0 +1,200 @@
+Root folder is missing #1 
+
+The root folder for this project is currently missing. I don't know how to bulk move every file (except for README.md, /ProjectWiki/, LICENSE, CONTRIBUTING.md, etc) to a new folder
+
+To correct the issue and get the full experience, rename the master folder to KhanAcademy
+
+https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/issues/1
+
+
+IGNORE.md files prior to June 11th 2020 subject for deletion #2 
+
+## Delete IGNORE.md files prior to June 11th 2020
+
+`IGNORE.md` files are template files and are bloat to the project. All folders from June 10th 2020 and below have unnecessary `IGNORE.md` files that need to be deleted.
+
+R1:
+
+I have started to make progress on this today, but I am going to be taking a break for now. I have removed all the IGNORE.md files that aren't necessary for all of June 2020, but I still have to dip down to May 2020 and lower. I don't feel like doing this right now, I am taking a break; this is just a status update.
+
+R2:
+
+I have forgotten to close this, I have been keeping up with this very well lately, and this issue is no longer relevant. This issue is now closed.
+
+https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/issues/2
+
+
+6.16.2020-6.19.2020 need to be added #3 
+
+I am saving these uploads for another time, as it is past 12:45 am right now, and I need to get to bed. I hope to finish this up tomorrow.
+
+R1:
+
+I have finished up doing this several minutes ago, and I have already made progress on another project. I will now be closing this, as the contents have been added.
+
+https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/issues/3
+
+
+The main README.md file needs an update #4 
+
+***
+
+### The main README.md file needs an update
+
+I don't think I will get to this today, maybe another day. I have been incredibly tense today, and I have also gotten distracted very frequently. The README file hasn't been updated in over a month, and needs to be modernized. This is a task for another day.
+
+***
+
+
+https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/issues/4
+
+
+Formatted directories need to be made for 2018 #5 
+
+***
+
+### Formatted directories need to be made for 2018
+
+Directories in the monthly compilation format need to be made for 2018. It took me a very long time to add in the rest of the directories (not including the upload of images and deletion of templates) so I am going to have to do this another time.
+
+***
+
+https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/issues/5
+
+
+Output demo for programs #6 
+
+***
+
+### Output demo for programs
+
+There needs to be a graphical reference for the output of the Khan Academy programs, along with a functional HTML document holding it.
+
+***
+
+
+https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/issues/6
+
+
+Files from January 2018 to May 31st 2018 inaccessible #7 
+
+***
+
+### Files from January 2018 to May 31st 2018 inaccessible
+
+I currently don't have access to most of the Khan Academy archives from between January 2018 to May 31st 2018. I will need some time to link up my hard drive for it.
+
+***
+
+
+
+https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/issues/7
+
+
+
+[Feature request] YouTube channel data #8 
+
+
+***
+
+### [Feature request] YouTube channel data
+
+Data from my YouTube channel Khan Academy series needs to be added.
+
+***
+
+
+https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/issues/8
+
+
+
+Original directory system #9 
+
+***
+
+### Original directory system
+
+I have been uploading files to a formatted directory structure. This is the better approach, but I would like to also include the original directories from within a separate directory. I currently don't know what to name it, or how to structure it. The major current issue is the 1000 item per directory limit (FAT32 * 10)
+
+The download archives must be separate from the singular daily Khan Academy archives. Maybe a part system? (part 1 > 1-900 | Part 2 > 901-1800 | Part 3 > 1801-2700 | etc...)
+
+***
+
+
+https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/issues/9
+
+
+[Small feature request] Acronym file #10 
+
+
+
+***
+
+### [Small feature request] Acronym file
+
+A helpful piece of documentation for this project would be an Acronym file. It would ensure that everyone knows what the acronyms used on this project stand for. This is also something that is very easy to implement. I just didn't feel like adding it in today.
+
+Here are some acronyms to start the list off:
+
+> * KA
+> * JS
+> * PNG
+> * SQL
+> * HTML
+> * CSS
+> * JPG
+> * MP4
+> * WP3
+> * WLMP
+> * WMV
+
+***
+
+R1:
+
+Here is another one:
+
+> * MD
+
+R2:
+
+I added this in today on July 26th 2020. If I missed any acronyms, please report them in a new issue. This issue is now closed.
+
+https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/issues/10
+
+
+Wiki needs to be moved to /external/ #11 
+
+***
+
+### Wiki needs to be moved to /external/
+
+As part of new compliance with my new GitHub standards, the `/ProjectWiki/` directory will need to be moved to the `/External/` directory.
+
+***
+
+R1:
+
+Part 1 is finished, I reuploaded the projectWiki to the new directory. All that is left is to delete the remaining original.
+
+R2:
+
+Part 2 is now finished. I deleted the original 16 files. This issue is now closed, as I have fixed the issue.
+
+https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/issues/11
+
+
+Find/recreate data for August 5th 2018 #12 
+
+***
+
+### Find/recreate data for August 5th 2018
+
+I searched for the images, videos, and project files for August 5th 2018 using all my methods on my current drive, but I couldn't find it. I am hoping it is one of the Khan Academy archives on an external drive. If not, it is possible to recreate it.
+
+Once I get around to plugging that hard drive in and searching for Khan Academy pictures, I will try to remember to check for it.
+
+***
+
+
+https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/issues/12

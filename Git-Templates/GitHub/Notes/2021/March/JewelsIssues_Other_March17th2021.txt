@@ -1,0 +1,31 @@
+Sorted data for September & October 2020 is needed #4
+
+***
+
+### Sorted data for September & October 2020 is needed
+
+The September and October 2020 directories are currently empty, besides a README.md file. Data needs to be moved in here. Currently, I don't know how to mass-move files in Git, so this is another issue that can't be fixed until I figure out how to do so.
+
+***
+
+https://github.com/seanpm2001/SeansLifeArchive_Images_Jewels_-Android_Game-/issues/4
+
+
+
+December 2020 updates needed #5 
+
+***
+
+### December 2020 updates needed
+
+The December 2020 directory has 2 issues:
+
+* The README files need to be merged
+
+* Data for December 31st 2020 is currently unavailable.
+
+These issues will need to get fixed eventually.
+
+***
+
+https://github.com/seanpm2001/SeansLifeArchive_Images_Jewels_-Android_Game-/issues/5

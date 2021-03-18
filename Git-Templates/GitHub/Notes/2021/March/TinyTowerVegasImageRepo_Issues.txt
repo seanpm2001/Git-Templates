@@ -1,0 +1,57 @@
+[January 2020] Data for January 15th 2020 is missing #1 
+
+***
+
+### [January 2020] Data for January 15th 2020 is missing
+
+Currently, I don't have access to data for January 15th 2020 for this project. It might be on an external hard drive. I can't check at the moment.
+
+***
+
+https://github.com/seanpm2001/SeansLifeArchive_Images_TinyTowerVegas/issues/1
+
+[March 2020] Data for March 30th and 31st missing #2 
+
+***
+
+### [March 2020] Data for March 30th and 31st missing
+
+Data for the 30th and 31st of March is not on my laptops solid state drive. This was around the time of the Ina Linux era, where I had difficulty managing files in the transition to Linux. The files are likely on an external hard drive. I don't have time to look for them at the moment.
+
+***
+
+R1:
+
+Personal side note: It looks like data for May 29th 2020 is missing as well, I just have an empty directory.
+
+R2:
+
+> Personal side note: It looks like data for May 29th 2020 is missing as well, I just have an empty directory.
+
+Another note to prevent insanity tomorrow if I try to figure this out: it seems like normal TT data was swapped for TTV data for the 28th, the 29th has no errors, so data is missing for the 28th, 30th, and 31st. If I get my head stuck on this, I should remember.issue(1);
+
+https://github.com/seanpm2001/SeansLifeArchive_Images_TinyTowerVegas/issues/2
+
+[Final 2020] The final data of 2020 up to day 1XX is missing #3 
+
+***
+
+### [Final 2020] The final data of 2020 up to day 1XX is missing
+
+The last of the Tiny Tower Vegas pictures from March 30th 2020 to an unknown date before August 2020 is currently not on my laptops solid state drive. I will need to dig through my external hard drives to find them at some point.
+
+***
+
+https://github.com/seanpm2001/SeansLifeArchive_Images_TinyTowerVegas/issues/3
+
+[Kept naming error] Original 3.13.2020 is actually March 12th 2020 #4 
+
+***
+
+### [Kept naming error] Original 3.13.2020 is actually March 12th 2020
+
+The original 3.13.2020 directory (the one without an `A` at the end) is actually for March 12th 2020. This is an error that was kept in the upload process. What happened is I accidentally named the March 12th 2020 data 1 day ahead by accident, then tried to correct it the next day without having to rename by doing the correct date, but with an A at the end.
+
+***
+
+https://github.com/seanpm2001/SeansLifeArchive_Images_TinyTowerVegas/issues/4

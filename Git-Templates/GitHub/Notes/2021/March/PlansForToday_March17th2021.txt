@@ -1,0 +1,20 @@
+Plans for today
+
+Hard drive backup
+Jewel image repo update {
+README
+Sponsor button
+Consecutive months of not plaaying
+Post archival
+}
+Video downloads
+KA repo sponsor button and archival
+New org: bgemjam-game {
+Jewels icon
+Repo update {
+* Sponsor button
+* Updates
+* Post archival
+}
+Also fork the jewels image repo here
+}
