@@ -1,0 +1,15 @@
+Blue Dentures
+
+The ultimate bluetooth companion program. A set of digital dentures for blue teeth.
+
+Feature ideas:
+
+Device battery level info
+Range info + distance from receiver
+Device history
+Device customizer : Set a password, change device name, view who connected and see a separate history on each connection, randomize MAC address, etc.
+Settings app integration for GNOME, KDE
+Customize profiles for bluetooth devices: add description, profile picture, alternative profile pictures (can also be animated) associated pictures, documentation, etc.
+Connection history; total time, device name, location, usage, total number of connects and disconnects
+All info can be exported in txt, csv, xml, html, yaml, rst, pdf, odt, docx, doc, dotx, dot, or md format.
+
