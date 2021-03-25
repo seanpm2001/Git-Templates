@@ -1,0 +1,7 @@
+Samsung Pay
+
+PROJECT LANGUAGE FILE
+
+1: C - Linux, various devices, not only ANdroid
+2: Java - Android, various devices
+3: Go - Because I want this to go away
