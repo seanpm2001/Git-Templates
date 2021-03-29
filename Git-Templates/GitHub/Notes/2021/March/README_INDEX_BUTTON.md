@@ -1,0 +1,1 @@
+I have come to really love the GitHub README index button, and I have been doing more for projects because of it. It has also helped me start making daily game descriptions on how I play, among other things
