@@ -1,0 +1,27 @@
+Keyoff
+A program that disables your keyboard temporarily for a set duration of time between 5 and 300 seconds, buttons can be turned off individually
+
+AdBlock_Bool
+An activism ad that goes through to a website that maliciously blocks out users who disable their ad blocker. A message to turn your ad blocker on will come up. Once the ad blocker is turned on, the sites "please turn off your ad blocker" message will come up. If the user then turns on their ad blocker (if they don't get too confused) it will go back to this ad, which is embedded on the users computer now until they leave the site. This is done to make website designers focus more on their users, and actually choose non-malicious, non-intrusive ads, or lose all their users.
+
+Image projects for:
+1. Bejeweled 2
+2. Bejeweled Twist
+3. Jetpack Joyride RUST
+4. GNOME Solitaire Genie
+5. Plants vs. Zombies COBOL - as the zombies are as dead as COBOL but are still alive
+6. New Super Mario Bros DS C++
+7. Hill Climb Racing Pascal
+8. Chuzzles Deluxe Groovy
+9. Insaniquarium Erlang
+10. Feeding frenzy Python
+
+Sound for system monitor: hospital beeps
+
+YKDefender
+
+A set of scripts to unlock a system affected by the Y2K, Y2K38, etc bugs and change the date back to before the death date to save the device. Can be set to automatically activate 2 seconds to 1 month before the bug
+
+Also: virtual machine OS that can virtualize these systems, does not have automatic time (possibly 2nd repo)
+
+Total: 14-15 repos
