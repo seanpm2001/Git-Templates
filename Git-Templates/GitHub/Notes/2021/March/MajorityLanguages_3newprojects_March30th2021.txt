@@ -1,0 +1,5 @@
+Majority languages
+
+AdBool: JavaScript (1) PHP (2)
+YKDefender: C (1) C++ (2)
+YKDefenderVM: C++ (1) C (2)
