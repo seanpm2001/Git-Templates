@@ -1,0 +1,8 @@
+https://github.com/seanpm2001-all/SNU_2D_ProgrammingTools_IDE_PureScript
+https://github.com/seanpm2001-all/SNU_2D_ProgrammingTools_IDE_ApachePig
+
+https://github.com/SNU-Programming-Tools/SNU_2D_ProgrammingTools_IDE_PureScript
+https://github.com/SNU-Programming-Tools/SNU_2D_ProgrammingTools_IDE_ApachePig
+
+https://github.com/snu-development/SNU_2D_ProgrammingTools_IDE_PureScript
+https://github.com/snu-development/SNU_2D_ProgrammingTools_IDE_ApachePig
