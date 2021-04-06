@@ -1,0 +1,2 @@
+https://github.com/seanpm2001/Windows_10_Python_Edition
+https://github.com/seanpm2001/Windows_server_2016_Python_Edition
