@@ -1,0 +1,2 @@
+https://github.com/anandundavia/thanos-js
+https://github.com/samuelmaddock/metastream
