@@ -1,0 +1,4 @@
+
+# BABBY
+
+GitHub upload limit warnings, debugging errors, new batches of sample commit descriptions
