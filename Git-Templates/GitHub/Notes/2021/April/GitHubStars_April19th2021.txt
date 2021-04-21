@@ -1,0 +1,10 @@
+https://github.com/r-anime/holo
+https://github.com/r-anime/stylesheet
+https://github.com/r-anime/surveysite
+https://github.com/r-anime/discord-mod-bot
+https://github.com/r-anime/awards-web
+https://github.com/r-anime/weeklies
+https://github.com/r-anime/comment-face-assets
+https://github.com/r-anime/selfpromobot
+https://github.com/r-anime/animeawards
+https://github.com/r-anime/animeawards-2017
