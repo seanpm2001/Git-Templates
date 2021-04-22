@@ -1,0 +1,7 @@
+@Seanpm2001
+
+https://github.com/PowerShell/PowerShell
+https://github.com/Azure/azure-powershell
+https://github.com/microsoft/WSL
+https://github.com/microsoft/WSL2-Linux-Kernel
+https://github.com/MicrosoftDocs/WSL
