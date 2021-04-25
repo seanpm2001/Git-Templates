@@ -1,0 +1,10 @@
+https://github.com/seanwallawalla-forks/core
+https://github.com/seanwallawalla-forks/php-src
+https://github.com/seanwallawalla-forks/openssl
+https://github.com/seanwallawalla-forks/node
+https://github.com/seanwallawalla-forks/brew
+https://github.com/seanwallawalla-forks/hadoop
+https://github.com/seanwallawalla-forks/rails
+https://github.com/seanwallawalla-forks/Alamofire
+
+https://github.com/Degoogle-your-life/privacy-project
