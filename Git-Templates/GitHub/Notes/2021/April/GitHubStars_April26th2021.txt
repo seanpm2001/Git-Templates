@@ -1,0 +1,8 @@
+@seanpm2001
+
+https://github.com/void-linux/void-packages
+https://github.com/pytube/pytube
+https://github.com/sparanoid/live-dl
+https://github.com/avinashkranjan/Amazing-Python-Scripts
+https://github.com/jely2002/youtube-dl-gui
+https://github.com/chakra-ui/chakra-ui
