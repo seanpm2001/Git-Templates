@@ -1,0 +1,2 @@
+https://github.com/Open-Smartwatch/open-smartwatch-os
+https://github.com/Dr-Noob/cpufetch
