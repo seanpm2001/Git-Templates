@@ -1,0 +1,10 @@
+https://github.com/Seanpm2001-C-lang
+https://github.com/Seanpm2001-Java-lang
+https://github.com/Seanpm2001-Shell-lang
+https://github.com/Seanpm2001-PHP-lang
+https://github.com/Seanpm2001-JavaScript-lang
+https://github.com/Seanpm2001-GoogleGo-lang
+https://github.com/Seanpm2001-Vala-lang
+https://github.com/Seanpm2001-Nim-lang
+https://github.com/Seanpm2001-Pascal-lang
+https://github.com/Seanpm2001-Assembly-lang
