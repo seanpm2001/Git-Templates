@@ -1,0 +1,10 @@
+https://github.com/Seanpm2001-Perl-lang
+https://github.com/Seanpm2001-Rust-lang
+https://github.com/Seanpm2001-Elixir-lang
+https://github.com/Seanpm2001-Modelica-lang
+https://github.com/Seanpm2001-Haskell-lang
+https://github.com/Seanpm2001-Boo-lang
+https://github.com/Seanpm2001-Genie-lang
+https://github.com/Seanpm2001-Erlang-lang
+https://github.com/Seanpm2001-Lua-lang
+https://github.com/Seanpm2001-Inno-setup-lang
