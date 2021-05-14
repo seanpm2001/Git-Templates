@@ -1,0 +1,10 @@
+https://github.com/Seanpm2001-Kotlin-lang
+https://github.com/Seanpm2001-Lisp-lang
+https://github.com/Seanpm2001-Scheme-lang
+https://github.com/Seanpm2001-COBOL-Lang
+https://github.com/Seanpm2001-FORTRAN-Lang
+https://github.com/Seanpm2001-VisualBasicScript-lang
+https://github.com/Seanpm2001-PostScript-lang
+https://github.com/Seanpm2001-TypeScript-lang
+https://github.com/Seanpm2001-Ruby-lang
+https://github.com/Seanpm2001-QSharp-lang
