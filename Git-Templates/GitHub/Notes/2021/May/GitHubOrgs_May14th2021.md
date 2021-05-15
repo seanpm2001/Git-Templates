@@ -1,0 +1,10 @@
+https://github.com/Seanpm2001-FSharp-lang
+https://github.com/Seanpm2001-Objective-C-Lang
+https://github.com/Seanpm2001-Swift-lang
+https://github.com/Seanpm2001-Scala-lang
+https://github.com/Seanpm2001-CSS-Lang
+https://github.com/Seanpm2001-D-lang
+https://github.com/Seanpm2001-LispFlavoredErlang-Lang
+https://github.com/seanpm2001-R-lang
+https://github.com/Seanpm2001-REBOL-Lang
+https://github.com/Seanpm2001-Objective-J-Lang
