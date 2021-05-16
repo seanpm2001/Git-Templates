@@ -1,0 +1,10 @@
+https://github.com/Seanpm2001-SQL-Lang
+https://github.com/Seanpm2001-Piglatin-lang
+https://github.com/Seanpm2001-CSharp-lang
+https://github.com/Seanpm2001-ALGOL-Lang
+https://github.com/Seanpm2001-Hack-lang
+https://github.com/Seanpm2001-Julia-lang
+https://github.com/Seanpm2001-AWK-Lang
+https://github.com/Seanpm2001-M4-Lang
+https://github.com/Seanpm2001-GLSL-Lang
+https://github.com/Seanpm2001-ActionScript-lang

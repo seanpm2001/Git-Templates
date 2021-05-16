@@ -1,0 +1,126 @@
+#### Seanpm2001-SQL-Lang
+
+https://github.com/Seanpm2001-SQL-Lang/KhanAcademyData_u-Seanwallawallaofficial
+https://github.com/Seanpm2001-SQL-Lang/SNU_2D_ProgrammingTools_IDE_SQL_-Structured_Query_Language-
+https://github.com/Seanpm2001-SQL-Lang/SNU_2D_SQL-Tests
+https://github.com/Seanpm2001-SQL-Lang/Code-distancing
+https://github.com/Seanpm2001-SQL-Lang/SNU_2D_ProgrammingTools
+https://github.com/Seanpm2001-SQL-Lang/GitHub_Organization_Info
+
+#### SNU-2D
+
+https://github.com/SNU-2D/SNU_2D_ProgrammingTools_IDE_SQL_-Structured_Query_Language-
+https://github.com/SNU-2D/SNU_2D_SQL-Tests
+https://github.com/SNU-2D/SNU_2D_ProgrammingTools_IDE_ApachePig
+https://github.com/SNU-2D/SNU_2D_ProgrammingTools_IDE_ALGOL
+https://github.com/SNU-2D/SNU_2D_ProgrammingTools_IDE_Hack
+https://github.com/SNU-2D/SNU_2D_ProgrammingTools_IDE_Julia
+https://github.com/SNU-2D/SNU_2D_ProgrammingTools_IDE_AWK
+https://github.com/SNU-2D/SNU_2D_ProgrammingTools_IDE_M4
+https://github.com/SNU-2D/SNU_2D_ProgrammingTools_IDE_GLSL
+https://github.com/SNU-2D/SNU_2D_ProgrammingTools_IDE_ActionScript
+
+#### Seanpm2001-all
+
+https://github.com/seanpm2001-all/SNU_2D_SQL-Tests
+
+#### SNU-Development
+
+https://github.com/snu-development/SNU_2D_SQL-Tests
+
+#### Seanpm2001-languages
+
+https://github.com/Seanpm2001-languages/pig
+https://github.com/Seanpm2001-languages/csharplang
+https://github.com/Seanpm2001-languages/hhvm
+
+#### Seanwallawalla-forks
+
+https://github.com/seanwallawalla-forks/pig
+https://github.com/seanwallawalla-forks/csharplang
+https://github.com/seanwallawalla-forks/hhvm
+
+#### Seanpm2001-Piglatin-lang
+
+https://github.com/Seanpm2001-Piglatin-lang/pig
+https://github.com/Seanpm2001-Piglatin-lang/SNU_2D_ProgrammingTools_IDE_ApachePig
+https://github.com/Seanpm2001-Piglatin-lang/Code-distancing
+https://github.com/Seanpm2001-Piglatin-lang/SNU_2D_ProgrammingTools
+https://github.com/Seanpm2001-Piglatin-lang/GitHub_Organization_Info
+
+#### Seanpm2001-CSharp-lang
+
+https://github.com/Seanpm2001-CSharp-lang/csharplang
+https://github.com/Seanpm2001-CSharp-lang/SeansLifeArchive_Images_OneNote-collection
+https://github.com/Seanpm2001-CSharp-lang/SeansLifeArchive_Images_OneDrive
+https://github.com/Seanpm2001-CSharp-lang/SeansLifeArchive_Images_Memes
+https://github.com/Seanpm2001-CSharp-lang/Code-distancing
+https://github.com/Seanpm2001-CSharp-lang/SNU_2D_ProgrammingTools
+https://github.com/Seanpm2001-CSharp-lang/GitHub_Organization_Info
+
+#### Myrick-family-archive
+
+https://github.com/Myrick-family-archive/SeansLifeArchive_Images_Memes
+https://github.com/Myrick-family-archive/SeansLifeArchive_Images_Memory-issues
+
+#### Seanpm2001-ALGOL-Lang
+
+https://github.com/Seanpm2001-ALGOL-Lang/SNU_2D_ProgrammingTools_IDE_ALGOL
+https://github.com/Seanpm2001-ALGOL-Lang/Code-distancing
+https://github.com/Seanpm2001-ALGOL-Lang/SNU_2D_ProgrammingTools
+https://github.com/Seanpm2001-ALGOL-Lang/GitHub_Organization_Info
+
+#### Seanpm2001-Hack-lang
+
+https://github.com/Seanpm2001-Hack-lang/SNU_2D_ProgrammingTools_IDE_Hack
+https://github.com/Seanpm2001-Hack-lang/hhvm
+https://github.com/Seanpm2001-Hack-lang/Code-distancing
+https://github.com/Seanpm2001-Hack-lang/SNU_2D_ProgrammingTools
+https://github.com/Seanpm2001-Hack-lang/GitHub_Organization_Info
+
+#### Seanpm2001-Julia-lang
+
+https://github.com/Seanpm2001-Julia-lang/julia
+https://github.com/Seanpm2001-Julia-lang/SNU_2D_ProgrammingTools_IDE_Julia
+https://github.com/Seanpm2001-Julia-lang/Code-distancing
+https://github.com/Seanpm2001-Julia-lang/SNU_2D_ProgrammingTools
+https://github.com/Seanpm2001-Julia-lang/GitHub_Organization_Info
+
+#### Seanpm2001-Shell-lang
+
+https://github.com/Seanpm2001-Shell-lang/SNU_2D_ProgrammingTools_IDE_Julia
+https://github.com/Seanpm2001-Shell-lang/SNU_2D_ProgrammingTools_IDE_AWK
+
+#### Seanpm2001-AWK-Lang
+
+https://github.com/Seanpm2001-AWK-Lang/SNU_2D_ProgrammingTools_IDE_AWK
+https://github.com/Seanpm2001-AWK-Lang/Code-distancing
+https://github.com/Seanpm2001-AWK-Lang/SNU_2D_ProgrammingTools
+https://github.com/Seanpm2001-AWK-Lang/GitHub_Organization_Info
+
+#### Seanpm2001-M4-Lang
+
+https://github.com/Seanpm2001-M4-Lang/SNU_2D_ProgrammingTools_IDE_M4
+https://github.com/Seanpm2001-M4-Lang/SeansLifeArchive_Extras_Animation
+https://github.com/Seanpm2001-M4-Lang/SeansLifeArchive_Images_Memory-issues
+https://github.com/Seanpm2001-M4-Lang/Code-distancing
+https://github.com/Seanpm2001-M4-Lang/SNU_2D_ProgrammingTools
+https://github.com/Seanpm2001-M4-Lang/GitHub_Organization_Info
+
+#### Seanpm2001-GLSL-Lang
+
+https://github.com/Seanpm2001-GLSL-Lang/SNU_2D_ProgrammingTools_IDE_GLSL
+https://github.com/Seanpm2001-GLSL-Lang/Code-distancing
+https://github.com/Seanpm2001-GLSL-Lang/SNU_2D_ProgrammingTools
+https://github.com/Seanpm2001-GLSL-Lang/GitHub_Organization_Info
+
+#### Seanpm2001-ActionScript-lang
+
+https://github.com/Seanpm2001-ActionScript-lang/SeansLifeArchive_Images_MajorMayhem
+https://github.com/Seanpm2001-ActionScript-lang/SNU_2D_ProgrammingTools_IDE_ActionScript
+https://github.com/Seanpm2001-ActionScript-lang/SNU_2D_Speedrunners
+https://github.com/Seanpm2001-ActionScript-lang/Snail-bob-maker
+https://github.com/Seanpm2001-ActionScript-lang/Code-distancing
+https://github.com/Seanpm2001-ActionScript-lang/SNU_2D_ProgrammingTools
+https://github.com/Seanpm2001-ActionScript-lang/GitHub_Organization_Info
+
