@@ -1,0 +1,10 @@
+https://github.com/Seanpm2001-PowerShell-lang
+https://github.com/Seanpm2001-BrightScript-lang
+https://github.com/Seanpm2001-Crystal-lang
+https://github.com/Seanpm2001-AppleScript-lang
+https://github.com/Seanpm2001-Liquid-lang
+https://github.com/Seanpm2001-Applications
+https://github.com/Seanpm2001-Google
+https://github.com/Seanpm2001-Operating-Systems
+https://github.com/Seanpm2001-iOS
+https://github.com/Seanpm2001-HyperHippo
