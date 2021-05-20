@@ -1,0 +1,9 @@
+Scala
+Swift
+Scheme
+Shell
+SQL
+TypeScript
+Vala
+VisualBasicScript
+TalkScript

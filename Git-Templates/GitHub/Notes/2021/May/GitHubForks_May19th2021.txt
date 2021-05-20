@@ -1,0 +1,100 @@
+#### Seanpm2001-languages
+
+https://github.com/Seanpm2001-languages/php-src
+
+#### PhD-In-PHP
+
+https://github.com/PhD-In-PHP/php-src
+https://github.com/PhD-In-PHP/freeCodeCamp
+https://github.com/PhD-In-PHP/PhD_In_PHP
+https://github.com/PhD-In-PHP/hello-world
+https://github.com/PhD-In-PHP/GitHub_Organization_Info
+
+#### Seanwallawalla-forks
+
+https://github.com/seanwallawalla-forks/freeCodeCamp
+https://github.com/seanwallawalla-forks/dogecoin
+
+#### Seanpm2001-AppleScript-lang
+
+https://github.com/Seanpm2001-AppleScript-lang/hello-world
+
+#### Seanpm2001-Assembly-lang
+
+https://github.com/Seanpm2001-Assembly-lang/hello-world
+
+#### Seanpm2001-ActionScript-lang
+
+https://github.com/Seanpm2001-ActionScript-lang/hello-world
+
+#### Seanpm2001-ALGOL-Lang
+
+https://github.com/Seanpm2001-ALGOL-Lang/hello-world
+
+#### Seanpm2001-AWK-Lang
+
+https://github.com/Seanpm2001-AWK-Lang/hello-world
+
+#### AudiBass-Manager
+
+https://github.com/AudiBass-Manager/SeansAudioDB
+https://github.com/AudiBass-Manager/AudiBass_Manager
+https://github.com/AudiBass-Manager/GitHub_Organization_Info
+
+#### Blue-Dentures
+
+https://github.com/Blue-Dentures/Blue_Dentures
+https://github.com/Blue-Dentures/GitHub_Organization_Info
+
+#### Seanpm2001-Python
+
+https://github.com/Seanpm2001-Python/Blue_Dentures
+
+#### ProTraApp
+
+https://github.com/ProTraApp/ProTraApp
+https://github.com/ProTraApp/GitHub_Organization_Info
+
+#### Seanpm2001-food
+
+https://github.com/Seanpm2001-food/SPM_FoodIndex
+https://github.com/Seanpm2001-food/GitHub_Organization_Info
+
+#### Seanpm2001-forkbombs
+
+https://github.com/Seanpm2001-forkbombs/Pynuke128
+https://github.com/Seanpm2001-forkbombs/SVG_Forkbombs
+https://github.com/Seanpm2001-forkbombs/GitHub_Organization_Info
+
+#### Seanpm2001-HTML5-Lang
+
+https://github.com/Seanpm2001-HTML5-Lang/SociaShame
+
+#### SociaShame
+
+https://github.com/SociaShame/SociaShame
+https://github.com/SociaShame/GitHub_Organization_Info
+
+#### CrossCompatXU
+
+https://github.com/CrossCompatXU/CrossCompatXU
+https://github.com/CrossCompatXU/GitHub_Organization_Info
+
+#### Hospital-defender
+
+https://github.com/Hospital-defender/Hospital_Defender
+https://github.com/Hospital-defender/GitHub_Organization_Info
+
+#### The-offline-experience
+
+https://github.com/The-offline-experience/The-Offline-Experience
+https://github.com/The-offline-experience/GitHub_Organization_Info
+
+#### Seanpm2001-all
+
+https://github.com/seanpm2001-all/The-Offline-Experience
+
+#### Seanpm2001-discussions
+
+https://github.com/Seanpm2001-discussions/The-Offline-Experience
+
