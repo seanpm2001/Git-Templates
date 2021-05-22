@@ -1,0 +1,67 @@
+* seanwallawalla-testing 
+* seanwallawalla-malware
+seanwallawalla-software
+seanpm2001-software
+seanwallawalla-browserextensions
+seanwalawalla-tools
+seanwallawalla-security
+seanwallawalla-operating-systems
+seanwallawalla-bots
+seanwallawalla-images
+seanwallawalla-audio
+seanwallawalla-social
+seanwallawalla-jokeprograms
+compusmell
+nostalgia-project
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* seanpm2001-assembly-lang
+* seanpm2001-awk-lang
+* seanpm2001-algol-lang
+* seanpm2001-actionscript-lang
+* seanpm2001-applescript-lang
+* seanpm2001-boo-lang
+* seanpm2001-brightscript-lang
+* seanpm2001-c-lang
+* seanpm2001-cpp-lang
+* seanpm2001-csharp-lang
+* seanpm2001-cobol-lang
+* seanpm2001-crystal-lang
+* seanpm2001-css-lang
+* seanpm2001-d-lang//
+* seanpm2001-erlang-lang
+* seanpm2001-elixir-lang
+* seanpm2001-fortran-lang
+* seanpm2001-fsharp-lang
+* seanpm2001-genie-lang
+* seanpm2001-GoogleGo-lang
+* seanpm2001-glsl-lang
+* seanpm2001-haskell-lang
+* seanpm2001-hack-lang
+* seanpm2001-inno-setup-lang
+* seanpm2001-julia-lang
+* seanpm2001-java-lang
+* seanpm2001-javascript-lang
+* seanpm2001-kotlin-lang
+* seanpm2001-liquid-lang
+* seanpm2001-lisp-lang
+* seanpm2001-lua-lang
+* seanpm2001-lisp-flavored-erlang-lang
+* seanpm2001-m4-lang
+seanpm2001-modelica-lang
+seanpm2001-nim-lang
+seanpm2001-objective-c-lang
+seanpm2001-objective-j-lang
+uOffice
+
