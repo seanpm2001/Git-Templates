@@ -1,0 +1,10 @@
+https://github.com/Seanpm2001-XSLT-lang
+https://github.com/Seanpm2001-QML-lang
+https://github.com/Seanpm2001-Less-lang
+https://github.com/Seanpm2001-SCSS-lang
+https://github.com/Seanpm2001-Sass-lang
+https://github.com/Seanpm2001-Stylus-lang
+https://github.com/Seanpm2001-Handlebars-lang
+https://github.com/Seanpm2001-Raku-lang
+https://github.com/Seanpm2001-ABC-lang
+https://github.com/Seanpm2001-Smalltalk-lang
