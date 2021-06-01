@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"></xs:schema>
+<!-- Start of script !-->
+<backpack1_sample>
+<!-- This backup holds a default, slightly modified Ubuntu 20.04 installation !-->
+
+<!-- Users !-->
+<user1>
+  <username1>Dennis Ritchie</username>
+  <username1Alias>DAR</username1Alias>
+  <password.username1>UNIX123</password.username1>
+  <profilePicture1Src="\\\DennisRitchie.png">
+  <.bin>
+  00000000 OTHER BINARY DATA HERE
+  </.bin>
+  <passwordHint."None">
+</user1>
+<user2>
+  <username2>John Smith VI</username2>
+  <username2Alias>JS6</username2>
+  <password.username2>123456</password.username2>
+  <profilePicture2Src="\\\StockProfilePictureIcon.png">
+  <.bin>
+  00000000 OTHER BINARY DATA HERE
+  </.bin>
+  <passwordHint."Count from 1 to 6">
+</user2>
+
+<!-- App menu !-->
+<appmenu>
+  <folders>
+    <folder1.name."browsers">
+      <shortcut1>Firefox 75.0</shortcut1>
+    </folder1>
+    <folder2.name."Empty">
+      <shortcut1>NULL</shortcut1>
+    </folder2>
+  </folders>
+  <apps1>
+    <app000A01>Mozilla Firefox
+      <proc>x64</proc>
+      <version>75.0</version>
+      <src>/home/<path></src>
+    </app000A01>
+  </apps1>
+</appmenu>
+
+<!-- Dock/taskbar !-->
+<dock1>
+  <pins>
+    <pin1."GNOME System Monitor" location="usr/share/gnome/">
+
+  </pins>
+</dock1>
+
+<!-- System !-->
+<systemInfo>
+  <uname="Ubuntu 20.04">
+  <de="GNOME 3.36.1">
+  <platform="64 bit Linux">
+  <provider="Dell">
+  <language="English (US)">
+  <languageISO="EN_US">
+</systemInfo>
+
+<!-- USR/SHARE !-->
+<usr.share>
+  <folder1>
+    <sounds>
+      <incomplete></incomplete>
+    </sounds>
+  </folder1>
+</usr.share>
+
+<!-- USR/HOME !-->
+<usr.home>
+  <desktop>
+    <shortcutsForDesktop>
+      ?$%TRASH
+      ?$%HOME
+    </shortcutsForDesktop>
+  </desktop>
+  <folder1>
+    <sounds>
+      <incomplete></incomplete>
+    </sounds>
+  </folder1>
+</usr.home>
+</backpack1_sample>
+<!-- This demo is incomplete and is broken. It is taking a long time to write, and I feel I went far enough with thed demp !-->
+</xml>
+<!-- File info
+File type: Backpack XML backup (*.backpack)
+File language: XML 1.0 fifth edition
+File version: 1 (Monday, May 31st 2021 at 6:14 pm)
+Line count (including blank lines and compiler line): 99
+!-->
+<!-- End of script !-->
+
