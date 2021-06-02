@@ -1,0 +1,10 @@
+https://github.com/Seanpm2001-Clojure-lang
+https://github.com/Seanpm2001-Motorola-S-Record-lang
+https://github.com/Seanpm2001-SGML-lang
+https://github.com/Seanpm2001-YAML-lang
+https://github.com/Seanpm2001-XML-lang
+https://github.com/Seanpm2001-JScript-lang
+https://github.com/Seanpm2001-CSound-lang
+https://github.com/Seanpm2001-Diff-lang
+https://github.com/Seanpm2001-Jython-lang
+https://github.com/Seanpm2001-JScript-Dot-Net-lang
