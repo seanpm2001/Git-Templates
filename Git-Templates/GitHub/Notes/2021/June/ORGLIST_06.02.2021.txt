@@ -1,0 +1,10 @@
+https://github.com/Seanpm2001-IronPython-lang
+https://github.com/Seanpm2001-IntelHexBinary-lang
+https://github.com/Seanpm2001-Markdown-lang
+https://github.com/Seanpm2001-MediaWiki-lang
+https://github.com/Seanpm2001-MS-DOS-Style-lang
+https://github.com/Seanpm2001-JSSS-lang
+https://github.com/Seanpm2001-Blockly-lang
+https://github.com/Seanpm2001-ReStructuredText-lang
+https://github.com/Seanpm2001-Scratch-lang
+https://github.com/Seanpm2001-VHDL-lang
