@@ -1,0 +1,10 @@
+https://github.com/Seanpm2001-SXML-lang
+https://github.com/Seanpm2001-TCL-lang
+https://github.com/Seanpm2001-Verilog-AMS-lang
+https://github.com/Seanpm2001-WebAssembly-lang
+https://github.com/Seanpm2001-JupyterNotebook-lang
+https://github.com/Seanpm2001-CoffeeScript-lang
+https://github.com/Seanpm2001-Seed7-lang
+https://github.com/Seanpm2001-Oberon-lang
+https://github.com/Seanpm2001-NVidia-CUDA-lang
+https://github.com/Seanpm2001-TOML-lang

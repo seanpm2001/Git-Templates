@@ -1,0 +1,4 @@
+No CoffeeScript IDE exists
+DMail needs its own repo
+Gist repositories
+TuxBot

@@ -1,0 +1,3 @@
+https://github.com/Tyrrrz/YoutubeExplode
+https://github.com/songyuqing-cloud/TuxBot-OperatingSystem
+https://github.com/turbot/steampipe-mod-github-sherlock
