@@ -1,0 +1,7 @@
+https://github.com/ant-design/ant-design
+https://github.com/notepad-plus-plus/npp-usermanual
+https://github.com/notepad-plus-plus/userDefinedLanguages
+https://github.com/RickStrahl/MarkdownMonster
+https://github.com/mcstaralliance/ZenScript
+https://github.com/in-tension/SimpleMCZenScripts
+
