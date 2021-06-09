@@ -1,0 +1,7 @@
+https://github.com/henrywhitaker3/Speedtest-Tracker
+https://github.com/MrAlex94/Waterfox
+https://github.com/danny0838/webscrapbook
+https://github.com/ethersphere/bee
+https://github.com/discordjs/discord.js
+https://github.com/commaai/openpilot
+https://github.com/NixOS/nix
