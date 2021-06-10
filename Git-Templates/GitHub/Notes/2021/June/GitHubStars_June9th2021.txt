@@ -1,0 +1,12 @@
+https://github.com/huggingface/transformers
+https://github.com/dotnet/aspnetcore
+https://github.com/NixOS/nix-pills
+https://github.com/NixOS/rfcs
+https://github.com/NixOS/nixos-weekly
+https://github.com/NixOS/nixos-homepage
+https://github.com/NixOS/nixos-hardware
+https://github.com/NixOS/nixos-summer
+https://github.com/NixOS/nixos-artwork
+https://github.com/NixOS/nixos-search
+https://github.com/NixOS/mobile-nixos
+https://github.com/NixOS/nix-mode
