@@ -1,0 +1,2 @@
+*.rst linguist-detectable=true
+*.rst linguist-documentation=false
