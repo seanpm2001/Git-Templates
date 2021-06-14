@@ -1,0 +1,7 @@
+https://github.com/apple/swift-evolution
+https://github.com/apple/darwin-xnu
+https://github.com/apple/darwin-libpthread
+https://github.com/apple/darwin-libplatform
+https://github.com/chetankhargone/yml
+https://github.com/tiberiushunter/hassio-config
+https://github.com/yaml/www.yaml.org
