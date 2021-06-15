@@ -1,0 +1,7 @@
+https://github.com/acmeism/RosettaCodeData
+https://github.com/acmeism/www.coglife.net-site
+https://github.com/acmeism/www.cogbase.org-site
+https://github.com/acmeism/www.acmeism.org-site
+https://github.com/acmeism/www.cdent.org-site
+https://github.com/acmeism/uniscript-vim
+https://github.com/acmeism/xxx-cd
