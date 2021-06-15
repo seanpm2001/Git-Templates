@@ -1,0 +1,24 @@
+
+====
+
+= Project language file =
+
+== For SNU/2D/Programming Tools/IDE/MediaWiki ==
+
+The project language file for this project is MediaWiki/WikiText, as this project (SNU_2D_ProgrammingTools_IDE_MediaWiki) focuses directly on MediaWiki.
+
+This is the first time I am using WikiText/MediaWiki as a project language file, as I learned how to make the GitHub linguist recognize Markdown as a language. I found this out 2 days ago when snooping around on [https://github.com/apple/swift-evolution/blob/main/.gitattributes Apple/Swift Evolution] and I have now expanded it to 4 languages. if you want to do this yourself, simply add this to your <code>.gitattributes</code> file (if you haven't created one yet, make it now, do not add anything else to the file name but <code>.gitattributes</code>)
+
+<code>*.wiki linguist-detectable=true</code>
+
+<code>*.wiki linguist-documentation=false</code>
+
+== File info ==
+
+File type: <code>MediaWiki/Wikitext document (*.wiki)</code>
+
+File version: <code>1 (Tuesday, June 15th 2021 at 12:37 pm)</code>
+
+Line count (including blank lines and compiler line): <code>25</code>
+
+====
