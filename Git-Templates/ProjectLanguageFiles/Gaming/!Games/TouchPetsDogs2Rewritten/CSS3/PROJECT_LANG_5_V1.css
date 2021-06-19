@@ -1,0 +1,34 @@
+/* Start of script */
+
+/* I decided to make the 5th project language file for this project (Touch Pets Dogs 2 Rewritten) to be CSS, as CSS is one of the 3 main languages used for web development. */
+/* Now to make this a multi-purpose file, I will add styling for a basic dark mode template */
+
+h1 {
+  color: white;
+}
+h2 {
+  color: white;
+}
+h3 {
+  color: white;
+}
+h4 {
+  color: white;
+}
+h5 {
+  color: white;
+}
+h6 {
+  color: white;
+}
+p {
+  color: white;
+}
+
+/* File info
+* File type: Cascading Styling Sheets 3 stylesheet source file (*.css)
+* File version: 1 (Saturday, June 19th 2021 at 4:56 pm)
+* Line count (including blank lines and compiler line): 35
+*/
+
+/* End of script */
