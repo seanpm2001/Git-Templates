@@ -1,0 +1,3 @@
+https://github.com/home-assistant/core
+https://github.com/home-assistant/frontend
+https://github.com/home-assistant/operating-system
