@@ -1,0 +1,3 @@
+[submodule "Torvalds/Linux"]
+	path = WacOS/Kernel/Linux5.7
+	url = https://github.com/torvalds/linux
