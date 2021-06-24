@@ -1,0 +1,145 @@
+<pre><font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ tracker reset --hard
+<font color="#CC0000"><b>CAUTION: This process may irreversibly delete data.</b></font>
+Although most content indexed by Tracker can be safely reindexed, it can’t be assured that this is the case for all data. Be aware that you may be incurring in a data loss situation, proceed at your own risk.
+
+Are you sure you want to proceed? [y|N]: y
+Found 1 PID…
+  Killed process 1192 — “tracker-miner-fs”
+_g_io_module_get_default: Found default implementation dconf (DConfSettingsBackend) for ‘gsettings-backend’
+Setting database locations
+Checking database directories exist
+Checking database version
+Checking whether database files exist
+Removing all database/storage files
+  Removing database:&apos;/home/sean/.cache/tracker/meta.db&apos;
+  Removing db-locale file:&apos;/home/sean/.cache/tracker/db-locale.txt&apos;
+  Removing journal:&apos;/home/sean/.local/share/tracker/data/tracker-store.journal&apos;
+  Removing db-version file:&apos;/home/sean/.cache/tracker/db-version.txt&apos;
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ cal
+     June 2021        
+Su Mo Tu We Th Fr Sa  
+       1  2  3  4  5  
+ 6  7  8  9 10 11 12  
+13 14 15 16 17 18 19  
+20 21 22 <span style="background-color:#FFFFFF"><font color="#300A24">23</font></span> 24 25 26  
+27 28 29 30           
+                      
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ nut
+
+Command &apos;nut&apos; not found, but can be installed with:
+
+sudo apt install nutsqlite
+
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ sql
+
+Command &apos;sql&apos; not found, but can be installed with:
+
+sudo apt install parallel
+
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ deb
+
+Command &apos;deb&apos; not found, did you mean:
+
+  command &apos;dub&apos; from snap dub (1.19.0)
+  command &apos;den&apos; from snap den (1.2.0-0)
+  command &apos;dub&apos; from deb dub (1.19.0-1build2)
+  command &apos;deb3&apos; from deb quilt (0.65-3)
+  command &apos;dab&apos; from deb bsdgames (2.17-28build1)
+  command &apos;debc&apos; from deb devscripts (2.20.2ubuntu2)
+  command &apos;debi&apos; from deb devscripts (2.20.2ubuntu2)
+  command &apos;edb&apos; from deb edb-debugger (1.0.0-1build3)
+  command &apos;derb&apos; from deb icu-devtools (66.1-2ubuntu2)
+  command &apos;dep&apos; from deb go-dep (0.5.4-3)
+  command &apos;dex&apos; from deb dex (0.8.0-2)
+
+See &apos;snap info &lt;snapname&gt;&apos; for additional versions.
+
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ lslocks
+COMMAND           PID  TYPE SIZE MODE  M      START        END PATH
+dell-linux-assi  1045 FLOCK      WRITE 0          0          0 
+firefox          4454 POSIX      WRITE 0 1073741826 1073742335 
+nautilus         4067 POSIX      READ  0 1073741826 1073742335 
+nautilus         4067 POSIX      READ  0        128        128 
+firefox          4454 POSIX      WRITE 0 1073741826 1073742335 
+soffice.bin      4340 POSIX      WRITE 0          0          0 
+firefox          4454 POSIX      READ  0        128        128 
+whoopsie         1885 FLOCK      WRITE 0          0          0 /run/lock...
+update-notifier  2417 FLOCK      WRITE 0          0          0 /run/user/1001/up
+firefox          4454 POSIX      WRITE 0 1073741826 1073742335 
+firefox          4454 POSIX      READ  0 1073741826 1073742335 
+cron              927 FLOCK      WRITE 0          0          0 /run...
+firefox          4454 POSIX      WRITE 0 1073741826 1073742335 
+firefox          4454 POSIX      WRITE 0 1073741826 1073742335 
+firefox          4454 POSIX      WRITE 0 1073741826 1073742335 
+firefox          4454 POSIX      WRITE 0 1073741826 1073742335 
+firefox          4454 POSIX      WRITE 0          0          0 
+firefox          4454 POSIX      WRITE 0 1073741826 1073742335 
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ lslocks
+COMMAND           PID  TYPE SIZE MODE  M      START        END PATH
+dell-linux-assi  1045 FLOCK      WRITE 0          0          0 
+nautilus         4067 POSIX      READ  0 1073741826 1073742335 
+nautilus         4067 POSIX      READ  0        128        128 
+soffice.bin      4340 POSIX      WRITE 0          0          0 
+whoopsie         1885 FLOCK      WRITE 0          0          0 /run/lock...
+update-notifier  2417 FLOCK      WRITE 0          0          0 /run/user/1001/up
+cron              927 FLOCK      WRITE 0          0          0 /run/snapd/ns...
+tracker-store    7051 POSIX      READ  0 1073741826 1073742335 
+tracker-store    7051 POSIX      READ  0        128        128 
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ lslocks
+COMMAND           PID  TYPE SIZE MODE  M      START        END PATH
+dell-linux-assi  1045 FLOCK      WRITE 0          0          0 
+nautilus         4067 POSIX      READ  0 1073741826 1073742335 
+nautilus         4067 POSIX      READ  0        128        128 
+soffice.bin      4340 POSIX      WRITE 0          0          0 
+whoopsie         1885 FLOCK      WRITE 0          0          0 /run/lock...
+update-notifier  2417 FLOCK      WRITE 0          0          0 /run/user/1001/update-notifier.pid
+cron              927 FLOCK      WRITE 0          0          0 /run/snapd/ns...
+tracker-store    7051 POSIX      READ  0 1073741826 1073742335 
+tracker-store    7051 POSIX      READ  0        128        128 
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ lslocks
+COMMAND           PID  TYPE SIZE MODE  M      START        END PATH
+dell-linux-assi  1045 FLOCK      WRITE 0          0          0 
+nautilus         4067 POSIX      READ  0 1073741826 1073742335 
+nautilus         4067 POSIX      READ  0        128        128 
+soffice.bin      4340 POSIX      WRITE 0          0          0 
+whoopsie         1885 FLOCK      WRITE 0          0          0 /run/lock...
+update-notifier  2417 FLOCK      WRITE 0          0          0 /run/user/1001/update-notifier.pid
+cron              927 FLOCK      WRITE 0          0          0 /run/snapd/ns...
+tracker-store    7051 POSIX      READ  0 1073741826 1073742335 
+tracker-store    7051 POSIX      READ  0        128        128 
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ lslocks
+COMMAND           PID  TYPE SIZE MODE  M      START        END PATH
+dell-linux-assi  1045 FLOCK      WRITE 0          0          0 
+nautilus         4067 POSIX      READ  0 1073741826 1073742335 
+nautilus         4067 POSIX      READ  0        128        128 
+soffice.bin      4340 POSIX      WRITE 0          0          0 
+whoopsie         1885 FLOCK      WRITE 0          0          0 /run/lock...
+update-notifier  2417 FLOCK      WRITE 0          0          0 /run/user/1001/update-notifier.pid
+cron              927 FLOCK      WRITE 0          0          0 /run/snapd/ns...
+tracker-store    7051 POSIX      READ  0 1073741826 1073742335 
+tracker-store    7051 POSIX      READ  0        128        128 
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ whoopsie
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ lslocks
+COMMAND           PID  TYPE SIZE MODE  M      START        END PATH
+dell-linux-assi  1045 FLOCK      WRITE 0          0          0 
+nautilus         4067 POSIX      READ  0 1073741826 1073742335 
+nautilus         4067 POSIX      READ  0        128        128 
+soffice.bin      4340 POSIX      WRITE 0          0          0 
+whoopsie         1885 FLOCK      WRITE 0          0          0 /run/lock...
+update-notifier  2417 FLOCK      WRITE 0          0          0 /run/user/1001/update-notifier.pid
+cron              927 FLOCK      WRITE 0          0          0 /run/snapd/ns...
+tracker-store    7051 POSIX      READ  0 1073741826 1073742335 
+tracker-store    7051 POSIX      READ  0        128        128 
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ lslocks whoopsie
+COMMAND           PID  TYPE SIZE MODE  M      START        END PATH
+dell-linux-assi  1045 FLOCK      WRITE 0          0          0 
+nautilus         4067 POSIX      READ  0 1073741826 1073742335 
+nautilus         4067 POSIX      READ  0        128        128 
+soffice.bin      4340 POSIX      WRITE 0          0          0 
+whoopsie         1885 FLOCK      WRITE 0          0          0 /run/lock...
+update-notifier  2417 FLOCK      WRITE 0          0          0 /run/user/1001/update-notifier.pid
+cron              927 FLOCK      WRITE 0          0          0 /run/snapd/ns...
+tracker-store    7051 POSIX      READ  0 1073741826 1073742335 
+tracker-store    7051 POSIX      READ  0        128        128 
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ 
+</pre>

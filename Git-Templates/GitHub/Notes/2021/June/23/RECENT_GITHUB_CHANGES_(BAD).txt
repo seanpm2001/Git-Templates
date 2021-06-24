@@ -1,0 +1,4 @@
+Recent bad GitHub changes
+
+Task lists have circular progress bar
+Location cannot be customized in organizations or user profiles
