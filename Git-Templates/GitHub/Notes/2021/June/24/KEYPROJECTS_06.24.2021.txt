@@ -1,0 +1,4 @@
+Key projects
+
+https://github.com/snapcrafters/fork-and-rename-me - For snap development
+
