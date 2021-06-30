@@ -1,0 +1,9 @@
+Biology
+Snapcraft
+Apache
+GNU
+GPL
+MIT
+Zoology
+Ornithology
+
