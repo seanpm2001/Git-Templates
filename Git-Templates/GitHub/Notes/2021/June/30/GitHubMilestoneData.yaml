@@ -1,0 +1,22 @@
+# Start of script
+# GitHub issues/milestone data file
+milestonedatafile: "v1 (Wednesday, June 30th 2021 at 3:25 pm)"
+# Divider
+# Milestone 1 data as of Wednesday, June 30th 2021
+milestone1Title: "2021 Goals" 
+milestone1Description: "For the completion of 2021 goals."
+milestone1DueDate: null/false
+milestone1IssueCount: 2
+milestone1IssueLink1: https://github.com/seanpm2001/GitHub_Organization_Info/issues/3
+milestone1IssueLink2: https://github.com/seanpm2001/GitHub_Organization_Info/issues/16
+milestone1CompletePercentage: 0%
+# Divider
+# Milestone 1 data as of Wednesday, June 30th 2021
+milestone2Title: "The missing organizations"
+milestone2Description: "For finding and documenting the 2 missing organizations (missing as of June 13th 2021)"
+milestone2DueDate: null/false
+milestone2IssueCount: 1
+milestone2IssueLink1: https://github.com/seanpm2001/GitHub_Organization_Info/issues/2
+milestone2CompletePercentage: 0%
+# End of script
+
