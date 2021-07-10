@@ -1,15 +1,17 @@
 
 ***
 
+##### Top
+
 # Project language file listing
 
 ## For Seanpm2001 GitHub pages projects
 
-### Listing (as of July 9th 2021)
+### Listing (as of July 10th 2021)
 
-Please update this list as frequently as possible when new data arrives.
+**Note to self:** _Please update this list as frequently as possible when new data arrives._
 
-List is in alphabetical order (for first 28 entries)
+**List is in alphabetical order (for first 28 entries)**
 
 1. [404-Day.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/404-Day.github.io/)
 
@@ -66,5 +68,83 @@ List is in alphabetical order (for first 28 entries)
 27. [TuxBot-operating-system.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/TuxBot-operating-system.github.io/)
 
 28. [WacOS-Dev.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/WacOS-Dev.github.io/)
+
+**Entries from 29 and up are sorted by most recently created/re-uploaded**
+
+29. [BGemJam-game.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/BGemJam-game.github.io/)
+
+30. [Degoogle-your-life.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Degoogle-your-life.github.io/)
+
+31. [Tetris128.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Tetris128.github.io/)
+
+32. No other entries at the moment
+
+***
+
+## File info
+
+**File type:** `Markdown document (*.md)`
+
+**File version:** `2 (Saturday, July 10th 2021 at 3:52 pm)`
+
+**Language:** `English (US)`
+
+**Line count (including blank lines and compiler line):** `0,151`
+
+***
+
+## File history
+
+**Version 1 (Friday, July 9th 2021 at 8:50 pm)**
+
+> Changes:
+
+> * Started the file
+
+> * Added the title section
+
+> * Added the listing section with the first 28 entries
+
+> * No other changes in version 1
+
+**Version 2 (Saturday, July 10th 2021 at 3:52 pm)**
+
+> Changes:
+
+> * Updated the listing section, with 3 new entries
+
+> * Added the file info section
+
+> * Added the file history section
+
+> * Added the footer section
+
+> * No other changes in version 2
+
+**Version 3 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 3
+
+**Version 4 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 4
+
+***
+
+### Footer
+
+You have reached the end of this file.
+
+( [Back to top](#Top) | [Exit to Seanpm2001/Git-Templates](https://github.com/seanpm2001/Git-Templates) | [Exit to GitHub](https://github.com) )
+
+##### EOF
 
 ***
