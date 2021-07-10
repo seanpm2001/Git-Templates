@@ -1,0 +1,65 @@
+https://github.com/seanpm2001/seanpm2001.github.io
+{ Theme: none
+Site link: https://seanpm2001.github.io/
+Other: unknown
+}
+https://github.com/seanwallawalla-testing/seanwallawalla-testing.github.io
+{ Theme: leap day
+Site link: https://seanwallawalla-testing.github.io/
+Other: unknown
+}
+https://github.com/Seanpm2001-Testing/Seanpm2001-Testing.github.io
+{ Theme: leap day
+Site link: https://seanpm2001-testing.github.io/
+Other: unknown
+}
+https://github.com/Degoogle-your-life/Degoogle-your-life.github.io
+{ Theme: none
+Site link: https://degoogle-your-life.github.io/
+Other: unknown
+}
+https://github.com/Engineer-Superdesk/Engineer-Superdesk.github.io
+{ Theme: architect
+Site link: https://github.com/Engineer-Superdesk/Engineer-Superdesk.github.io
+Other: unknown
+}
+https://github.com/SNU-Programming-Tools/SNU-Programming-Tools.github.io
+{ Theme: hacker
+Site link: https://snu-programming-tools.github.io/
+Other: unknown
+}
+https://github.com/SNU-TimeMachine/SNU-TimeMachine.github.io
+{ Theme: time machine
+Site link: https://snu-timemachine.github.io/
+Other: unknown
+}
+https://github.com/TouchPetsDogs2Rewritten/TouchPetsDogs2Rewritten.github.io
+{ Theme: merlot
+Site link: https://touchpetsdogs2rewritten.github.io/
+Other: unknown
+}
+https://github.com/TuxBot-operating-system/TuxBot-operating-system.github.io
+{ Theme: midnight
+Site link: https://tuxbot-operating-system.github.io/
+Other: unknown
+}
+https://github.com/Seanpm2001-Food-Index/Seanpm2001-Food-Index.github.io
+{ Theme: merlot
+Site link: https://seanpm2001-food-index.github.io/
+Other: unknown
+}
+https://github.com/iBlast-Game/iBlast-Game.github.io
+{ Theme: architect
+Site link: https://iblast-game.github.io/
+Other: unknown
+}
+https://github.com/Code-distancing/Code-distancing.github.io
+{ Theme: modernist
+Site link: https://code-distancing.github.io/
+Other: unknown
+}
+https://github.com/Seanpm2001-COVID-19/Seanpm2001-COVID-19.github.io/
+{ Theme: modernist
+Site link: https://seanpm2001-covid-19.github.io/
+Other: unknown
+}
