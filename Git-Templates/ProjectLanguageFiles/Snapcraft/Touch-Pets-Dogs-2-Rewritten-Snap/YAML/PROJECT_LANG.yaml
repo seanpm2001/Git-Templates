@@ -1,0 +1,15 @@
+# Start of script
+# Project language file
+# For: Touch-Pets-Dogs-2-Rewritten-Snap
+# The project language file for this project is YAML as this project (Touch-Pets-Dogs-2-Rewritten/Snap) makes heavy usage of YAML for its main documentation.
+# This is a rare instance in which I am using YAML as a project language file, as I learned how to make the GitHub linguist recognize Markdown as a language, and I extended this to other languages, this time with YAML. I found this out when snooping around on [Apple/Swift Evolution](https://github.com/apple/swift-evolution/blob/main/.gitattributes) if you want to do this yourself, simply add this to your `.gitattributes` file (if you haven't created one yet, make it now, do not add anything else to the file name but `.gitattributes`)
+gitattributes: ".gitattributes"
+line1: *.yml linguist-detectable=true
+line2: *.yaml linguist-detectable=true
+# This project was recreated from a project created in error. The original project can be found at https://github.com/TouchPetsDogs2Rewritten/TouchPetsDogs2Rewritten-Snap
+# The link to the other project refers to a fork, and doesn't integrate with my organizations. This is the link to this project: https://github.com/Seanpm2001-Snapcraft/Touch-Pets-Dogs-2-Rewritten-Snap
+## File info
+# File type: YAML document (*.yml *.yaml)
+# File version: 1 (Sunday, July 11th 2021 at 3:52 pm)
+# Line count (including blank lines and compiler line): 16
+# End of script
