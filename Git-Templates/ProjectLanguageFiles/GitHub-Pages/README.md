@@ -77,7 +77,11 @@
 
 31. [Tetris128.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Tetris128.github.io/)
 
-32. No other entries at the moment
+32. [SuperPower-laptops.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SuperPower-laptops.github.io/)
+
+33. [Seanpm2001-Firefox.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Firefox.github.io/)
+
+34. No other entries at the moment
 
 ***
 
@@ -85,11 +89,11 @@
 
 **File type:** `Markdown document (*.md)`
 
-**File version:** `2 (Saturday, July 10th 2021 at 3:52 pm)`
+**File version:** `3 (Saturday, July 10th 2021 at 6;20 pm)`
 
 **Language:** `English (US)`
 
-**Line count (including blank lines and compiler line):** `0,151`
+**Line count (including blank lines and compiler line):** `0,175`
 
 ***
 
@@ -121,11 +125,15 @@
 
 > * No other changes in version 2
 
-**Version 3 (Coming soon)**
+**Version 3 (Saturday, July 10th 2021 at 6:20 pm)**
 
 > * Changes:
 
-> * Coming soon!
+> * Added 2 new entries
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 3
 
@@ -136,6 +144,22 @@
 > * Coming soon!
 
 > * No other changes in version 4
+
+**Version 5 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 5
+
+**Version 6 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 6
 
 ***
 
