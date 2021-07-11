@@ -81,7 +81,13 @@
 
 33. [Seanpm2001-Firefox.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Firefox.github.io/)
 
-34. No other entries at the moment
+34. [9x-Internet.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/9x-Internet.github.io/)
+
+35. [seanwallawalla-bots.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/seanwallawalla-bots.github.io/)
+
+36. [Seanpm2001-bots.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-bots.github.io/)
+
+37. No other entries at the moment
 
 ***
 
@@ -89,11 +95,11 @@
 
 **File type:** `Markdown document (*.md)`
 
-**File version:** `3 (Saturday, July 10th 2021 at 6;20 pm)`
+**File version:** `4 (Saturday, July 10th 2021 at 8:38 pm)`
 
 **Language:** `English (US)`
 
-**Line count (including blank lines and compiler line):** `0,175`
+**Line count (including blank lines and compiler line):** `0,201`
 
 ***
 
@@ -137,11 +143,15 @@
 
 > * No other changes in version 3
 
-**Version 4 (Coming soon)**
+**Version 4 (Saturday, July 10th 2021 at 8:38 pm)**
 
 > * Changes:
 
-> * Coming soon!
+> * Added 3 new entries
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 4
 
@@ -160,6 +170,22 @@
 > * Coming soon!
 
 > * No other changes in version 6
+
+**Version 7 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 7
+
+**Version 8 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 8
 
 ***
 
