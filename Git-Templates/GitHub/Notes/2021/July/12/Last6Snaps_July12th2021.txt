@@ -1,0 +1,6 @@
+https://github.com/Seanpm2001-Robotics/RecursionBot-Snap
+https://github.com/Seanpm2001-Robotics/Self-Care_Bot-Snap
+https://github.com/Slaveworks/Slaveworks-Snap
+https://github.com/SVG-video/SVG-video-Snap
+https://github.com/TalkScript/TalkScript-Snap
+https://github.com/Tetris128/Tetris128-Snap

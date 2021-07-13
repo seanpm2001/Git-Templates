@@ -1,0 +1,66 @@
+Stock elevator
+
+A stock library for elevators in video games and blueprints
+
+0D - Not possible
+1D - Not possible
+2D - various choices
+3D - Various choices
+4D - various choices
+
+In graphics
+
+Velocity
+Snapped cables, falling
+Cableless mode
+Use as a checkpoint/end point
+Button setup
+Elevator music
+Double sided
+Glass
+Transparency
+Emergency services
+
+In blueprints
+
+Standard elevator blueprints
+
+GitItMan2003, Git IT Manager - Manage various Git-based websites at once {
+
+Import and fetch upstream between various Git-websites at the same time
+
+URLL file
+
+Stands for: URL List
+
+A shortcut file that contains multiple shortcuts
+
+Very simple syntax, just copy and paste the links into the document, 1 link per line. It will ignore whitespace and find each link
+
+You can also write the syntax similar to that of a regular URL file, but as a list. Both syntax modes are allowed
+
+Opens like this:
+
+[You have opened a list of URLs. Which one would you like to open first?]
+
+<listing, all entries>
+
+Once the first one is opened, the dialogue changes to:
+
+[You have opened a list of URLs. Which one would you like to open next?]
+
+<listing, still all entries, purple for ones opened>
+
+File properties:
+
+Icon set
+
+Default icon
+
+Keep memory of opened links [on/off]
+
+MIME type: Internet/URL List
+
+GUI mode: QT/GTK/WIN64/Metal
+
+
