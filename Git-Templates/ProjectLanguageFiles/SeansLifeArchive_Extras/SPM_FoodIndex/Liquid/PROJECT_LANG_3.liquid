@@ -1,0 +1,33 @@
+<div id="page">
+  <h2>{{projectlanguagefile}}</h2>
+
+  {% paginate blog.articles by 20 %}
+
+    {% for article in blog.articles  %}
+
+    <div class="article">
+      <div class="headline">
+      <h3 class="title">
+        <a href="{{article.url}}">{{ project-language-file }}</a>
+      </h3>
+      <h4 class="date">Posted on {{ article.created_at | date: Sunday, June 27th 2021 @ 4:57 pm }} by {{ seanpm2001 }}.</h4>
+      </div>
+
+      <div class="article-body textile">
+        {{ I decided to make liquid the third project language file for this project (SPM_FoodIndex) as tdrinks are considered a liquid, and drinks are also included in this index project.. | strip_html | truncate: 512 }}
+      </div>
+
+      {% if blog.comments_enabled? %}
+        <p style="text-align: right"><a href="{{article.url}}#comments">{{ article.comments_count }} comments</a></p>
+      {% endif %}
+    </div>
+
+    {% endfor %}
+
+    <div id="pagination">
+      {{ paginate | default_pagination }}
+    </div>
+
+  {% endpaginate %}
+
+</div>
