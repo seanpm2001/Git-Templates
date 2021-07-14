@@ -7,7 +7,7 @@
 
 ## For Seanpm2001 GitHub pages projects
 
-### Listing (as of July 10th 2021)
+### Listing (as of Tuesday, July 13th 2021)
 
 **Note to self:** _Please update this list as frequently as possible when new data arrives._
 
@@ -87,7 +87,11 @@
 
 36. [Seanpm2001-bots.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-bots.github.io/)
 
-37. No other entries at the moment
+37. [URLL-Specification.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/URLL-Specification.github.io/)
+
+38. [Reactop-computers.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Reactop-computers.github.io/)
+
+39. No other entries at the moment
 
 ***
 
@@ -95,15 +99,18 @@
 
 **File type:** `Markdown document (*.md)`
 
-**File version:** `4 (Saturday, July 10th 2021 at 8:38 pm)`
+**File version:** `5 (Tuesday, July 13th 2021 at 9:00 pm)`
 
 **Language:** `English (US)`
 
-**Line count (including blank lines and compiler line):** `0,201`
+**Line count (including blank lines and compiler line):** `0,230`
 
 ***
 
 ## File history
+
+<details>
+  <summary><p>This section has been collapsed for readability. <b>Click/tap here to expand/collapse the file version history section.</b></p></summary>
 
 **Version 1 (Friday, July 9th 2021 at 8:50 pm)**
 
@@ -155,11 +162,15 @@
 
 > * No other changes in version 4
 
-**Version 5 (Coming soon)**
+**Version 5 (Tuesday, July 13th 2021 at 9:00 pm)**
 
 > * Changes:
 
-> * Coming soon!
+> * Added 2 new entries
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 5
 
@@ -187,6 +198,24 @@
 
 > * No other changes in version 8
 
+**Version 9 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 9
+
+**Version 10 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 10
+
+</details>
+  
 ***
 
 ### Footer
