@@ -1,0 +1,5 @@
+FTP support
+QT goals
+Standardization
+> URL files on Linux
+

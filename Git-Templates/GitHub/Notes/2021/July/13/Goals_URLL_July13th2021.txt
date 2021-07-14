@@ -1,0 +1,16 @@
+Docs
+
+Linklax compatibility and integration
+IP addresses
+About pages
+> Mozilla
+> Chrome
+> Opera
+> Safari
+Bad links
+FTP support
+How to deal with whitespace
+QT goals
+Standardization
+> URL files on Linux
+
