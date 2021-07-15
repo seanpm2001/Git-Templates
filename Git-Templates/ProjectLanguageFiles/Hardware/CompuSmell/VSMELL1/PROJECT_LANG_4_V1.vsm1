@@ -1,0 +1,18 @@
+import scent.garden // The garden scent library
+// Start of script
+// I decided to make Virtual SMell script 1 to the the 4th project language file for this project (CompuSmell) as it is the original language used for this project, and it needs representation.
+function playInTheGarden {
+print.console("I decided to make Virtual SMell script 1 to the the 4th project language file for this project (CompuSmell) as it is the original language used for this project, and it needs representation.");
+scent.spray("RaspberryBush.snint") [ (strength=10%) for { 0.1 second_s } ]; // snint is a portmanteau that means scent/sniff, it is a unique keyword for the language
+scent.stop(all);
+}
+for x in range(1, 43) {
+f.playInTheGarden();
+}
+// End of script
+/* File info
+* File type: Virtual SMell 1.0 script file (*.vsm1)
+* File version: 1 (Wednesday, July 14th 2021 at 6:10 pm)
+* Line count (including blank lines and compiler line: 19
+*/
+#EOF // This is a required line
