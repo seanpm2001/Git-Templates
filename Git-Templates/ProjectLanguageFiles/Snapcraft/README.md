@@ -45,7 +45,9 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 15. Touch-Pets-Dogs-2-Rewritten-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/Touch-Pets-Dogs-2-Rewritten-Snap/) | [View the full project](https://github.com/TouchPetsDogs2Rewritten/Touch-Pets-Dogs-2-Rewritten-Snap/) )
 
-16. No other snap projects (as of July 12th 2021 at 4:07 pm)
+16. YKDefender-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/YKDefender-Snap/) | [View the full project](https://github.com/YKDefender/YKDefender-Snap) )
+
+17. No other snap projects (as of July 14th 2021 at 5:46 pm)
 
 ***
 
@@ -53,13 +55,16 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 **File type:**  `Markdown document (*.md)`
 
-**File version:** `2 (Monday, July 12th 2021 at 4:07 pm)`
+**File version:** `3 (Wednesday, July 14th 2021 at 5:46 pm)`
 
 **Line count (including blank lines and compiler line):** `135`
 
 ***
 
 ## File history
+
+<details>
+  <summary><p>This section has been collapsed for readability. <b>Click/tap here to expand/collapse the file version history section.</b></p></summary>
 
 **Version 1 (Sunday, July 11th 2021 at 8:51 pm)**
 
@@ -93,11 +98,15 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 > * No other changes in version 2
 
-**Version 3 (Coming soon)**
+**Version 3 (Wednesday, July 14th 2021 at 5:46 pm)**
 
 > Changes:
 
-> * Coming soon!
+> * Updated the list to add the most recent entry (1x)
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 3
 
@@ -109,13 +118,31 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 > * No other changes in version 4
 
+**Version 5 (Coming soon)**
+
+> Changes:
+
+> * Coming soon!
+
+> * No other changes in version 5
+
+**Version 6 (Coming soon)**
+
+> Changes:
+
+> * Coming soon!
+
+> * No other changes in version 6
+
+</details>
+
 ***
 
 ## Footer
 
 You have reached the end of this file.
 
-( [Back to top](#Snapcraft-project-language-files) | [Back to Seanpm2001/Git-Templates/](/Git-Templates/) | [Exit to GitHub](https://github.com) )
+( [Back to top](#Snapcraft-project-language-files) | [Back to Seanpm2001/Git-Templates/](/Git-Templates/) | [Exit to GitHub](https://github.com/) )
 
 ### EOF
 
