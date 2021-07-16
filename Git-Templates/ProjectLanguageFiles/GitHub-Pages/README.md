@@ -7,7 +7,7 @@
 
 ## For Seanpm2001 GitHub pages projects
 
-### Listing (as of Tuesday, July 13th 2021)
+### Listing (as of Thursday, July 15th 2021)
 
 **Note to self:** _Please update this list as frequently as possible when new data arrives._
 
@@ -91,7 +91,17 @@
 
 38. [Reactop-computers.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Reactop-computers.github.io/)
 
-39. No other entries at the moment
+39. [YKDefender.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/YKDefender.github.io/)
+
+40. [NUNIX-dev.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/NUNIX-dev.github.io/)
+
+41. [SNU-Porn.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SNU-Porn.github.io/)
+
+42. [SNU-Erotica.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SNU-Erotica.github.io/)
+
+43. [Seanpm2001-KhanAcademy.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-KhanAcademy.github.io/)
+
+44. No other entries at the moment
 
 ***
 
@@ -99,11 +109,11 @@
 
 **File type:** `Markdown document (*.md)`
 
-**File version:** `5 (Tuesday, July 13th 2021 at 9:00 pm)`
+**File version:** `6 (Thursday, July 15th 2021 at 5:28 pm)`
 
 **Language:** `English (US)`
 
-**Line count (including blank lines and compiler line):** `0,230`
+**Line count (including blank lines and compiler line):** `0,260`
 
 ***
 
@@ -174,11 +184,15 @@
 
 > * No other changes in version 5
 
-**Version 6 (Coming soon)**
+**Version 6 (Thursday, July 15th 2021 at 5:28 pm)**
 
 > * Changes:
 
-> * Coming soon!
+> * Added 5 new entries, as I forgot to update this file yesterday
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 6
 
@@ -213,6 +227,22 @@
 > * Coming soon!
 
 > * No other changes in version 10
+
+**Version 11 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 11
+
+**Version 12 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 12
 
 </details>
   
