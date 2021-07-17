@@ -1,0 +1,15 @@
+https://github.com/SNU-Porn/SNU-Porn.github.io/
+{ Theme: midnight
+Site link: https://snu-porn.github.io/
+Other: unknown
+}
+https://github.com/SNU-Erotica/SNU-Erotica.github.io/
+{ Theme: midnight
+Site link: https://snu-erotica.github.io/
+Other: unknown
+}
+https://github.com/Seanpm2001-KhanAcademy/Seanpm2001-KhanAcademy.github.io/
+{ Theme: Hacker (3 reasons: has skeuomorphism, has the Khan Academy colors, Embraces what started you back on Khan Academy (programming))
+Site link: https://seanpm2001-khanacademy.github.io/
+Other: unknown
+}
