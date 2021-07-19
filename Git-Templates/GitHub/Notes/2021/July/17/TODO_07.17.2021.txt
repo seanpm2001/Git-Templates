@@ -1,0 +1,37 @@
+Coloress
+
+Coloring book viewer and creator for the S Desktop Environment (Skeuowie)
+
+GH-Pages-LanguageProjectTemplate
+
+Fork from V5-Default
+
+Designed to be so ready that only little changes have to be made (date, logo, history)
+
+GH-Pages-SNU-ProjectTemplate
+
+Fork from V5-Default
+
+Include:
+
+SNU Logo
+Basic SNU documentation and resources
+
+Work on SafeT
+
+Project languages: Shell, QML, Python, Vim Script, 
+
+Start with Konsole support
+
+Template:
+
+Other_v5
+
+Language list, headings, replacements
+
+Update
+
+SNU Porn
+SNU Erotica
+
+SNU Dimensional porting tool
