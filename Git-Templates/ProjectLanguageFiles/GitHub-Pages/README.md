@@ -7,7 +7,7 @@
 
 ## For Seanpm2001 GitHub pages projects
 
-### Listing (as of Thursday, July 15th 2021)
+### Listing (as of Tuesday, July 20th 2021)
 
 **Note to self:** _Please update this list as frequently as possible when new data arrives._
 
@@ -101,7 +101,15 @@
 
 43. [Seanpm2001-KhanAcademy.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-KhanAcademy.github.io/)
 
-44. No other entries at the moment
+44. [SafeT.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SafeT.github.io/)
+
+45. [SimZonns.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SimZonns.github.io/)
+
+46. [Frog-mania.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Frog-mania.github.io/)
+
+47. [Boom-Bay.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Boom-Bay.github.io/)
+
+48. No other entries at the moment
 
 ***
 
@@ -109,11 +117,11 @@
 
 **File type:** `Markdown document (*.md)`
 
-**File version:** `6 (Thursday, July 15th 2021 at 5:28 pm)`
+**File version:** `7 (Tuesday, July 20th 2021 at 6:55 pm)`
 
 **Language:** `English (US)`
 
-**Line count (including blank lines and compiler line):** `0,260`
+**Line count (including blank lines and compiler line):** `0,288`
 
 ***
 
@@ -196,11 +204,15 @@
 
 > * No other changes in version 6
 
-**Version 7 (Coming soon)**
+**Version 7 (Tuesday, July 20th 2021 at 6:55 pm)**
 
 > * Changes:
 
-> * Coming soon!
+> * Added 4 new entries
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 7
 
@@ -243,6 +255,22 @@
 > * Coming soon!
 
 > * No other changes in version 12
+
+**Version 13 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 13
+
+**Version 14 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 14
 
 </details>
   
