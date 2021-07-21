@@ -7,7 +7,7 @@
 
 ## For Seanpm2001 GitHub pages projects
 
-### Listing (as of Tuesday, July 20th 2021)
+### Listing (as of Tuesday, July 20th 2021 at 8:34 pm)
 
 **Note to self:** _Please update this list as frequently as possible when new data arrives._
 
@@ -109,7 +109,9 @@
 
 47. [Boom-Bay.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Boom-Bay.github.io/)
 
-48. No other entries at the moment
+48. [GitHubby-development.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/GitHubby-development.github.io/)
+
+49. No other entries at the moment
 
 ***
 
@@ -117,11 +119,11 @@
 
 **File type:** `Markdown document (*.md)`
 
-**File version:** `7 (Tuesday, July 20th 2021 at 6:55 pm)`
+**File version:** `8 (Tuesday, July 20th 2021 at 8:34 pm)`
 
 **Language:** `English (US)`
 
-**Line count (including blank lines and compiler line):** `0,288`
+**Line count (including blank lines and compiler line):** `0,310`
 
 ***
 
@@ -216,11 +218,15 @@
 
 > * No other changes in version 7
 
-**Version 8 (Coming soon)**
+**Version 8 (Tuesday, July 20th 2021 at 8:34 pm)**
 
 > * Changes:
 
-> * Coming soon!
+> * Added 1 new entry, as I decided to do 1 more tonight.
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 8
 
@@ -271,6 +277,22 @@
 > * Coming soon!
 
 > * No other changes in version 14
+
+**Version 15 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 15
+
+**Version 16 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 16
 
 </details>
   
