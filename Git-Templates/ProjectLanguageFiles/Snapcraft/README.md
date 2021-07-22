@@ -47,7 +47,15 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 16. YKDefender-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/YKDefender-Snap/) | [View the full project](https://github.com/YKDefender/YKDefender-Snap) )
 
-17. No other snap projects (as of July 14th 2021 at 5:46 pm)
+17. Boom-Bay-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/Boom-Bay-Snap/) | [View the full project](https://github.com/Boom-Bay/Boom-Bay-Snap/) )
+
+18. Frog-mania-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/Frog-mania-Snap/) | [View the full project](https://github.com/Frog-mania/Frog-mania-Snap/) )
+
+19. GitHubby-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/GitHubby-Snap/) | [View the full project](https://github.com/GitHubby-development/GitHubby-Snap/) )
+
+20. SimZonns-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/SimZonns-Snap/) | [View the full project](https://github.com/SimZonns/SimZonns-Snap/) )
+
+21. No other snap projects (as of July 21st 2021 at 8:58 pm)
 
 ***
 
@@ -55,9 +63,9 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 **File type:**  `Markdown document (*.md)`
 
-**File version:** `3 (Wednesday, July 14th 2021 at 5:46 pm)`
+**File version:** `4 (Wednesday, July 21st 2021 at 8:58 pm)`
 
-**Line count (including blank lines and compiler line):** `135`
+**Line count (including blank lines and compiler line):** `190`
 
 ***
 
@@ -110,11 +118,15 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 > * No other changes in version 3
 
-**Version 4 (Coming soon)**
+**Version 4 (Wednesday, July 21st 2021 at 8:58 pm)**
 
 > Changes:
 
-> * Coming soon!
+> * Updated the list to add the most recent entry (4x)
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 4
 
@@ -133,6 +145,22 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 > * Coming soon!
 
 > * No other changes in version 6
+
+**Version 7 (Coming soon)**
+
+> Changes:
+
+> * Coming soon!
+
+> * No other changes in version 7
+
+**Version 8 (Coming soon)**
+
+> Changes:
+
+> * Coming soon!
+
+> * No other changes in version 8
 
 </details>
 
