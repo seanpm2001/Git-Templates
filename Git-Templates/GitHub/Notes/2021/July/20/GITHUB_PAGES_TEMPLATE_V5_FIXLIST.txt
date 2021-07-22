@@ -1,0 +1,6 @@
+Things to fix in template V4
+
+SNU Erotica to be removed entirely
+Better name instead of file.svg
+Comment out the first line of the By: section
+Fix the index

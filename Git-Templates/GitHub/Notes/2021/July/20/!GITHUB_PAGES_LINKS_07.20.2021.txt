@@ -1,0 +1,25 @@
+https://github.com/SafeT-dev/SafeT-dev.github.io/
+{ Theme: hacker
+Site link: https://safet-dev.github.io/
+Other: unknown
+}
+https://github.com/SimZonns/SimZonns.github.io
+{ Theme: Modernist
+Site link: https://simzonns.github.io/
+Other: unknown
+}
+https://github.com/Frog-mania/Frog-mania.github.io
+{ Theme: Cayman
+Site link: https://frog-mania.github.io/
+Other: unknown
+}
+https://github.com/Boom-Bay/Boom-Bay.github.io
+{ Theme: Merlot
+Site link: https://boom-bay.github.io/
+Other: unknown
+}
+https://github.com/GitHubby-development/GitHubby-development.github.io
+{ Theme: Leap day
+Site link: https://githubby-development.github.io/
+Other: unknown
+}
