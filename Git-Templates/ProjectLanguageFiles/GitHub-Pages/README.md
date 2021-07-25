@@ -7,7 +7,7 @@
 
 ## For Seanpm2001 GitHub pages projects
 
-### Listing (as of Tuesday, July 20th 2021 at 8:34 pm)
+### Listing (as of Saturday, July 24th 2021 at 9:14 pm)
 
 **Note to self:** _Please update this list as frequently as possible when new data arrives._
 
@@ -111,7 +111,9 @@
 
 48. [GitHubby-development.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/GitHubby-development.github.io/)
 
-49. No other entries at the moment
+49. [Team8Collection.github.io](/Git-Templates/ProjectLanguageFIles/GitHUb-Pages/Team8Collection.github.io/)
+
+50. No other entries at the moment
 
 ***
 
@@ -119,11 +121,11 @@
 
 **File type:** `Markdown document (*.md)`
 
-**File version:** `8 (Tuesday, July 20th 2021 at 8:34 pm)`
+**File version:** `9 (Saturday, July 24th 2021 at 9:14 pm)`
 
 **Language:** `English (US)`
 
-**Line count (including blank lines and compiler line):** `0,310`
+**Line count (including blank lines and compiler line):** `0,328`
 
 ***
 
@@ -294,6 +296,22 @@
 
 > * No other changes in version 16
 
+**Version 17 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 17
+
+**Version 18 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 18
+
 </details>
   
 ***
@@ -302,7 +320,7 @@
 
 You have reached the end of this file.
 
-( [Back to top](#Top) | [Exit to Seanpm2001/Git-Templates](https://github.com/seanpm2001/Git-Templates) | [Exit to GitHub](https://github.com) )
+( [Back to top](#Top) | [Exit to Seanpm2001/Git-Templates](https://github.com/seanpm2001/Git-Templates/) | [Exit to GitHub](https://github.com) )
 
 ##### EOF
 
