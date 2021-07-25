@@ -1,0 +1,3 @@
+50 light white dusty
+120 light white normal
+45 light white normal
