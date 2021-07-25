@@ -55,7 +55,9 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 20. SimZonns-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/SimZonns-Snap/) | [View the full project](https://github.com/SimZonns/SimZonns-Snap/) )
 
-21. No other snap projects (as of July 21st 2021 at 8:58 pm)
+21. Team8Collection-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/Team8Collection-Snap/) | [View the full project](https://github.com/Team8Collection/Team8Collection-Snap/) )
+
+22. No other snap projects (as of July 24th 2021 at 9:55 pm)
 
 ***
 
@@ -63,9 +65,9 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 **File type:**  `Markdown document (*.md)`
 
-**File version:** `4 (Wednesday, July 21st 2021 at 8:58 pm)`
+**File version:** `5 (Saturday, July 24th 2021 at 9:55 pm)`
 
-**Line count (including blank lines and compiler line):** `190`
+**Line count (including blank lines and compiler line):** `212`
 
 ***
 
@@ -130,11 +132,15 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 > * No other changes in version 4
 
-**Version 5 (Coming soon)**
+**Version 5 (Saturday, July 24th 2021 at 9:55 pm)**
 
 > Changes:
 
-> * Coming soon!
+> * Updated the list to add the most recent entry (1x)
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 5
 
@@ -161,6 +167,22 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 > * Coming soon!
 
 > * No other changes in version 8
+
+**Version 9 (Coming soon)**
+
+> Changes:
+
+> * Coming soon!
+
+> * No other changes in version 9
+
+**Version 10 (Coming soon)**
+
+> Changes:
+
+> * Coming soon!
+
+> * No other changes in version 10
 
 </details>
 
