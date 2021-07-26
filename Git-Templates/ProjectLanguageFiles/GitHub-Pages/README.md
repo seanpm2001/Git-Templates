@@ -7,7 +7,7 @@
 
 ## For Seanpm2001 GitHub pages projects
 
-### Listing (as of Saturday, July 24th 2021 at 9:14 pm)
+### Listing (as of Sunday, July 25th 2021 at 9:11 pm)
 
 **Note to self:** _Please update this list as frequently as possible when new data arrives._
 
@@ -113,6 +113,8 @@
 
 49. [Team8Collection.github.io](/Git-Templates/ProjectLanguageFIles/GitHUb-Pages/Team8Collection.github.io/)
 
+50. [Numeric-Liberation-Front.github.io](/Git-Templates/ProjectLanguageFIles/GitHUb-Pages/Numeric-Liberation-Front.github.io/)
+
 50. No other entries at the moment
 
 ***
@@ -121,11 +123,11 @@
 
 **File type:** `Markdown document (*.md)`
 
-**File version:** `9 (Saturday, July 24th 2021 at 9:14 pm)`
+**File version:** `10 (Sunday, July 25th 2021 at 9:11 pm)`
 
 **Language:** `English (US)`
 
-**Line count (including blank lines and compiler line):** `0,328`
+**Line count (including blank lines and compiler line):** `0,354`
 
 ***
 
@@ -232,19 +234,27 @@
 
 > * No other changes in version 8
 
-**Version 9 (Coming soon)**
+**Version 9 (Saturday, July 24th 2021 at 9:14 pm)**
 
 > * Changes:
 
-> * Coming soon!
+> * Added 1 new entry
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 9
 
-**Version 10 (Coming soon)**
+**Version 10 (Sunday, July 25th 2021 at 9:11 pm)**
 
 > * Changes:
 
-> * Coming soon!
+> * Added 1 new entry
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 10
 
@@ -311,6 +321,22 @@
 > * Coming soon!
 
 > * No other changes in version 18
+
+**Version 19 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 19
+
+**Version 20 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 20
 
 </details>
   
