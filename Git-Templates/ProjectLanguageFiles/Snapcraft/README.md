@@ -57,7 +57,9 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 21. Team8Collection-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/Team8Collection-Snap/) | [View the full project](https://github.com/Team8Collection/Team8Collection-Snap/) )
 
-22. No other snap projects (as of July 24th 2021 at 9:55 pm)
+22. Underune_Maker_Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/Underune_Maker-_nap/) | [View the full project](https://github.com/Underune_Maker/Underune_Maker_Snap/) )
+
+23. No other snap projects (as of Saturday, july 31st 2021 at 5:14 pm)
 
 ***
 
@@ -65,9 +67,9 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 **File type:**  `Markdown document (*.md)`
 
-**File version:** `5 (Saturday, July 24th 2021 at 9:55 pm)`
+**File version:** `6 (Saturday, July 31st 2021 at 5:14 pm)`
 
-**Line count (including blank lines and compiler line):** `212`
+**Line count (including blank lines and compiler line):** `234`
 
 ***
 
@@ -144,11 +146,15 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 > * No other changes in version 5
 
-**Version 6 (Coming soon)**
+**Version 6 (Saturday, July 31st 2021 at 7:14 pm)**
 
 > Changes:
 
-> * Coming soon!
+> * Updated the list to add the most recent entry (1x)
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 6
 
@@ -183,6 +189,22 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 > * Coming soon!
 
 > * No other changes in version 10
+
+**Version 11 (Coming soon)**
+
+> Changes:
+
+> * Coming soon!
+
+> * No other changes in version 11
+
+**Version 12 (Coming soon)**
+
+> Changes:
+
+> * Coming soon!
+
+> * No other changes in version 12
 
 </details>
 
