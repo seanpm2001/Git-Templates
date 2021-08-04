@@ -1,0 +1,7 @@
+https://github.com/s-matyukevich/raspberry-pi-os
+https://github.com/thibmaek/awesome-raspberry-pi
+https://github.com/halpz/re3
+https://github.com/Wavy667/this-is-going-to-get-dmcad
+https://github.com/yt-dlp/yt-dlp
+https://github.com/spatie/dns
+
