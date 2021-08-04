@@ -1,0 +1,25 @@
+; Start of script
+
+; Read value from registry
+$ProductID = ReadValue("HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion","ProductId")
+
+; Display result or error message
+If @ERROR = 0
+    ? "ProductID=$ProductID"
+Else
+    ? "Error reading product ID"
+Endif
+?
+
+; Done
+Exit @ERROR
+
+; I decided to make the third project language file for this project (StartFsck) to be KiXtart, as I don't feel that it is represented enough, and it is good for registry modifications under old versions of Windows (pre-Windows 8)
+
+; File info
+
+; File type: KiXtart source file (*.kix)
+; File version: 1 (Wednesday, August 4th 2021 at 3:28 pm)
+; Line count (including blank lines and compiler line): 26
+
+; End of script
