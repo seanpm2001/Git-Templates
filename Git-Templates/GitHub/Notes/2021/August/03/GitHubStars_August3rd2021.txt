@@ -1,0 +1,9 @@
+https://github.com/git/git-scm.com
+https://github.com/git/git
+https://github.com/git/git-reference
+https://github.com/git/git.github.io
+https://github.com/git/htmldocs
+https://github.com/git/gitscm-old
+https://github.com/git/sha1collisiondetection
+https://github.com/EstebanBorai/EstebanBorai/tree/main
+
