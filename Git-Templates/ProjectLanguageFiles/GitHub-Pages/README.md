@@ -7,7 +7,7 @@
 
 ## For Seanpm2001 GitHub pages projects
 
-### Listing (as of Saturday, July 31st 2021 at 6:21 pm)
+### Listing (as of Friday, August 6th 2021 at 6:40 pm)
 
 **Note to self:** _Please update this list as frequently as possible when new data arrives._
 
@@ -111,15 +111,19 @@
 
 48. [GitHubby-development.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/GitHubby-development.github.io/)
 
-49. [Team8Collection.github.io](/Git-Templates/ProjectLanguageFIles/GitHUb-Pages/Team8Collection.github.io/)
+49. [Team8Collection.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Team8Collection.github.io/)
 
-50. [Numeric-Liberation-Front.github.io](/Git-Templates/ProjectLanguageFIles/GitHUb-Pages/Numeric-Liberation-Front.github.io/)
+50. [Numeric-Liberation-Front.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Numeric-Liberation-Front.github.io/)
 
-51. [Underune-maker.github.io](/Git-Templates/ProjectLanguageFIles/GitHUb-Pages/Underune-maker.github.io/)
+51. [Underune-maker.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Underune-maker.github.io/)
 
-52. [Slick-license-manager.github.io](/Git-Templates/ProjectLanguageFIles/GitHUb-Pages/Slick-license-manager.github.io/)
+52. [Slick-license-manager.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Slick-license-manager.github.io/)
 
-53. No other entries at the moment
+53. [Portal-Voice-Assistant.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Portal-Voice-Assistant.github.io/)
+
+54. [Seanpm2001-Blocklist.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Blocklist.github.io/)
+
+55. No other entries at the moment
 
 ***
 
@@ -127,11 +131,11 @@
 
 **File type:** `Markdown document (*.md)`
 
-**File version:** `11 (Saturday, July 31st 2021 at 6:21 pm)`
+**File version:** `12 (Friday, August 6th 2021 at 6:40 pm)`
 
 **Language:** `English (US)`
 
-**Line count (including blank lines and compiler line):** `0,378`
+**Line count (including blank lines and compiler line):** `0,402`
 
 ***
 
@@ -274,11 +278,15 @@
 
 > * No other changes in version 11
 
-**Version 12 (Coming soon)**
+**Version 12 (Friday, August 6th 2021 at 6:40 pm)**
 
 > * Changes:
 
-> * Coming soon!
+> * Added 2 new entries
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 12
 
@@ -361,6 +369,22 @@
 > * Coming soon!
 
 > * No other changes in version 22
+
+**Version 23 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 23
+
+**Version 24 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 24
 
 </details>
   
