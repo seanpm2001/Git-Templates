@@ -1,0 +1,42 @@
+Add
+
+Swear blocks
+
+Ucuntu
+WinFsck
+StartFsck
+Not included:
+What the FLoC
+
+Sexual education blocks
+
+
+
+Sexual blocks
+
+SNU Porn
+SexualityCenter
+
+Erotica blocks
+
+SNU Erotica
+
+Political blocks
+
+Seanpm2001/Politics
+
+Malware blocks
+
+Ucuntu
+
+Extras
+
+AudioDB
+
+Additionally, you may want to block the blocklist when you are done
+
+YAMLAMLAMLAMLAMLAMALAMLAML...YAMLAMLAML...
+
+A curated blocklist for blocking certain content of mine when needed.
+
+Note: this is not a full-fledged blocklist. I do not plan on maintaining one. There are many that exist, and I just need to compromise on some things for GitHub in certain countries, so I created a smaller blocklist.
