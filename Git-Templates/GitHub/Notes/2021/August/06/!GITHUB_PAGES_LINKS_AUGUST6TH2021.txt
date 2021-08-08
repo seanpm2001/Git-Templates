@@ -1,0 +1,5 @@
+https://github.com/Seanpm2001-Blocklist/Seanpm2001-Blocklist.github.io
+{ Theme:
+Site link: https://seanpm2001-blocklist.github.io/
+Other: unknown
+}

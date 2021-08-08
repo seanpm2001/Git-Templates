@@ -1,0 +1,7 @@
+https://github.com/NuGet/Home
+https://github.com/mono/monodevelop
+https://github.com/firehol/firehol
+https://github.com/firehol/blocklist-ipsets
+https://github.com/stallman-copypasta/Stallman-Copypasta.github.io
+https://github.com/rms-support-letter/rms-support-letter.github.io
+
