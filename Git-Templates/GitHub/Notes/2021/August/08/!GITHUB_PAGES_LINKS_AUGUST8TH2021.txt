@@ -1,0 +1,5 @@
+https://github.com/SNU-Beliefs/SNU-Beliefs.github.io
+{ Theme: Merlot
+Site link: https://snu-beliefs.github.io/
+Other: unknown
+}
