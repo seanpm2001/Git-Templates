@@ -7,7 +7,7 @@
 
 ## For Seanpm2001 GitHub pages projects
 
-### Listing (as of Friday, August 6th 2021 at 6:40 pm)
+### Listing (as of Wednesday, August 11th 2021 at 4:50 pm)
 
 **Note to self:** _Please update this list as frequently as possible when new data arrives._
 
@@ -123,7 +123,15 @@
 
 54. [Seanpm2001-Blocklist.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Blocklist.github.io/)
 
-55. No other entries at the moment
+55. [SNU-Beliefs.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/SNU-Beliefs.github.io/)
+
+56. [The-Pirates-Copy.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/The-Pirates-Copy.github.io/)
+
+57. [NimbleBit-Glossary.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/NimbleBit-Glossary.github.io/)
+
+58. [BluPhone.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/BluPhone.github.io/)
+
+59. No other entries at the moment
 
 ***
 
@@ -131,11 +139,11 @@
 
 **File type:** `Markdown document (*.md)`
 
-**File version:** `12 (Friday, August 6th 2021 at 6:40 pm)`
+**File version:** `13 (Wednesday, August 11th 2021 at 4:50 pm)`
 
 **Language:** `English (US)`
 
-**Line count (including blank lines and compiler line):** `0,402`
+**Line count (including blank lines and compiler line):** `0,432`
 
 ***
 
@@ -290,11 +298,17 @@
 
 > * No other changes in version 12
 
-**Version 13 (Coming soon)**
+**Version 13 (Wednesday, August 11th 2021 at 4:50 pm)**
 
 > * Changes:
 
-> * Coming soon!
+> * Added 4 new entries
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * Updated the footer
 
 > * No other changes in version 13
 
@@ -386,6 +400,22 @@
 
 > * No other changes in version 24
 
+**Version 25 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 25
+
+**Version 26 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 26
+
 </details>
   
 ***
@@ -394,7 +424,7 @@
 
 You have reached the end of this file.
 
-( [Back to top](#Top) | [Exit to Seanpm2001/Git-Templates](https://github.com/seanpm2001/Git-Templates/) | [Exit to GitHub](https://github.com) )
+( [Back to top](#Top) | [Exit to Seanpm2001/Git-Templates](https://github.com/seanpm2001/Git-Templates/) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) )
 
 ##### EOF
 
