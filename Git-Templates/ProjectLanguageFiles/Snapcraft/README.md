@@ -59,7 +59,13 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 22. Underune_Maker_Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/Underune_Maker-_nap/) | [View the full project](https://github.com/Underune_Maker/Underune_Maker_Snap/) )
 
-23. No other snap projects (as of Saturday, july 31st 2021 at 5:14 pm)
+23. The-Pirates-Copy_Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/The-Pirates-Copy-Snap/) | [View the full project](https://github.com/The-Pirates-Copy/The-Pirates-Copy-Snap/) )
+
+24. BluPhone-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/BluPhone-Snap/) | [View the full project](https://github.com/BluPhone/BluPhone-Snap/) )
+
+25. GratyBot-Snap (official) ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/GratyBot-Snap-1/) | [View the full project](https://github.com/GratyBot/GratyBot-Snap/) )
+
+26. No other snap projects (as of Wednesday, August 11th 2021 at 7:23 pm)
 
 ***
 
@@ -67,9 +73,9 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 **File type:**  `Markdown document (*.md)`
 
-**File version:** `6 (Saturday, July 31st 2021 at 5:14 pm)`
+**File version:** `7 (Wednesday, August 11th 2021 at 7:23 pm)`
 
-**Line count (including blank lines and compiler line):** `234`
+**Line count (including blank lines and compiler line):** `262`
 
 ***
 
@@ -158,11 +164,17 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 > * No other changes in version 6
 
-**Version 7 (Coming soon)**
+**Version 7 (Wednesday, August 11th 2021 at 7:23 pm)**
 
 > Changes:
 
-> * Coming soon!
+> * Updated the list to add the most recent entry (3x)
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * Updated the footer
 
 > * No other changes in version 7
 
@@ -206,6 +218,22 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 > * No other changes in version 12
 
+**Version 13 (Coming soon)**
+
+> Changes:
+
+> * Coming soon!
+
+> * No other changes in version 13
+
+**Version 14 (Coming soon)**
+
+> Changes:
+
+> * Coming soon!
+
+> * No other changes in version 14
+
 </details>
 
 ***
@@ -214,7 +242,7 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 You have reached the end of this file.
 
-( [Back to top](#Snapcraft-project-language-files) | [Back to Seanpm2001/Git-Templates/](/Git-Templates/) | [Exit to GitHub](https://github.com/) )
+( [Back to top](#Snapcraft-project-language-files) | [Back to Seanpm2001/Git-Templates/](/Git-Templates/) | [Exit to GitHub](https://github.com/) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) )
 
 ### EOF
 
