@@ -1,0 +1,2 @@
+https://github.com/pancakeswap/pancake-document
+https://github.com/mkerrisk/man-pages

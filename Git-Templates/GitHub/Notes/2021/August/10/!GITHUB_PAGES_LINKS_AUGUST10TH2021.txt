@@ -1,0 +1,10 @@
+https://github.com/The-Pirates-Copy/The-Pirates-Copy.github.io
+{ Site link: https://the-pirates-copy.github.io/
+Theme: Merlot
+Other: unknown
+}
+https://github.com/NimbleBit-Glossary/NimbleBit-Glossary.github.io
+{ Site link: https://nimblebit-glossary.github.io/
+Theme: Leap Day
+Other: unknown
+}
