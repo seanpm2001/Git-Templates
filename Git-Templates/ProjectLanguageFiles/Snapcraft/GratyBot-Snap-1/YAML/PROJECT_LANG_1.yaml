@@ -1,0 +1,13 @@
+# Start of script
+# Project language file
+# For: GratyBot-Snap
+# The project language file for this project is YAML as this project (GratyBot/Snap) makes heavy usage of YAML for its main documentation.
+# This is a rare instance in which I am using YAML as a project language file, as I learned how to make the GitHub linguist recognize Markdown as a language, and I extended this to other languages, this time with YAML. I found this out when snooping around on [Apple/Swift Evolution](https://github.com/apple/swift-evolution/blob/main/.gitattributes) if you want to do this yourself, simply add this to your `.gitattributes` file (if you haven't created one yet, make it now, do not add anything else to the file name but `.gitattributes`)
+gitattributes: ".gitattributes"
+line1: *.yml linguist-detectable=true
+line2: *.yaml linguist-detectable=true
+## File info
+# File type: YAML document (*.yml *.yaml)
+# File version: 1 (Wednesday, August 11th 2021 at 7:14 pm)
+# Line count (including blank lines and compiler line): 14
+# End of script
