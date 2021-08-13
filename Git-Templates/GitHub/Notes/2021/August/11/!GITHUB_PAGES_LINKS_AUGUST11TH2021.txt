@@ -1,0 +1,10 @@
+https://github.com/BluPhone/BluPhone.github.io
+{ Site link: https://bluphone.github.io/
+Theme: Midnight
+Other: unknown
+}
+https://github.com/GratyBot/GratyBot.github.io
+{ Site link: https://gratybot.github.io/
+Theme: Leap Day
+Other: unknown
+}

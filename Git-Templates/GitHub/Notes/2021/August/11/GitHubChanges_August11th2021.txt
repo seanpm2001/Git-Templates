@@ -1,0 +1,6 @@
+Organization layout - August 5th 2021
+Crappy layout, no borders, harder to browse and navigate, clunky, not as good, not necessary
+> Times added back - ~August 9th 2021
+Auto collapse and auto expand while editing files - August 11th 2021
+Not used to it
+Code button shrunk, de-emphasized, although functionality remains the same, for now. - August 11th 2021
