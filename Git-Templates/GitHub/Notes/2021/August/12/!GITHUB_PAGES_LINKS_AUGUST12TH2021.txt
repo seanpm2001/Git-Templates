@@ -1,0 +1,15 @@
+https://github.com/Self-Care-Bot/Self-Care-Bot.github.io
+{ Theme: Tactile
+Site link: https://self-care-bot.github.io/
+Other: unknown
+}
+https://github.com/Virg-io-dev/Virg-io-dev.github.io/
+{ Theme: Modernist
+Site link: https://virg-io-dev.github.io/
+Other: unknown
+}
+https://github.com/Cyborg-System-Monitor/Cyborg-System-Monitor.github.io
+{ Theme: Slate
+Site link: https://cyborg-system-monitor.github.io/
+Other: unknown
+}
