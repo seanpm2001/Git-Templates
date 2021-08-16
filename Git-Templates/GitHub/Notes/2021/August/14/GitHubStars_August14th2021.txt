@@ -1,0 +1,9 @@
+https://github.com/uCalc/powerbasic-to-cpp/tree/master
+https://github.com/bazelbuild/starlark
+https://github.com/twigphp/Twig
+https://github.com/imagej/ImageJA
+https://github.com/Joker/jade
+https://github.com/mde/ejs
+https://github.com/LogtalkDotOrg/logtalk2
+https://github.com/Anniepoo/prolog-examples
+
