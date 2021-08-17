@@ -1,0 +1,8 @@
+https://github.com/Seanpm2001-Starlark-lang
+https://github.com/Seanpm2001-UnrealScript-lang
+https://github.com/Seanpm2001-EJS-lang
+https://github.com/Seanpm2001-Twig-language
+https://github.com/Seanpm2001-Jade-lang
+https://github.com/Seanpm2001-ImageJ-lang
+https://github.com/Seanpm2001-LogTalk-lang
+https://github.com/Seanpm2001-Prolog-lang
