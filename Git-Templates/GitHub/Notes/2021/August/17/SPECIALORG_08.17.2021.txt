@@ -1,0 +1,4 @@
+https://github.com/LogtalkDotOrg
+https://github.com/flathub
+https://github.com/OpenMandrivaAssociation
+
