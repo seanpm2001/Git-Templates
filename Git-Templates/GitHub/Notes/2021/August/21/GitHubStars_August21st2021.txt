@@ -1,0 +1,15 @@
+https://github.com/bsdhw/Intro
+https://github.com/helloSystem/Utilities
+https://github.com/bsdhw/helloSystem-Utilities
+https://github.com/bsdhw/Drivers
+https://github.com/bsdhw/SupportedIDs
+https://github.com/bsdhw/BestBSDComputer
+https://github.com/bsdhw/HardwareSupport
+https://github.com/bsdhw/Dmesg
+https://github.com/bsdhw/SMART
+https://github.com/bsdhw/LsCPU
+https://github.com/bsdhw/DMI
+https://github.com/bsdhw/EDID
+https://github.com/bsdhw/PCIconf
+https://github.com/bsdhw/Trends
+
