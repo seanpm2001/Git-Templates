@@ -1,0 +1,26 @@
+YACC
+SXML
+SREC
+MediaWiki
+Intel Hex Binary
+Clojure
+ASP
+ASP.NET
+ABC
+Common Lisp
+Docker
+Emacs Lisp
+GDScript
+Gherkin
+Handlebars
+Isabelle
+JSSS
+Less
+Nunjucks
+SCSS
+Stylus
+Vue.js
+WebVTT
+ZenScript
+Sass
+SubRip Text

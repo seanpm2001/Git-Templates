@@ -1,0 +1,3 @@
+# Standardized General Markup Language
+*.sgml linguist-detectable=true
+*.sgml linguist-documentation=false
