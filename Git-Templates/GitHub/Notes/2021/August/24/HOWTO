@@ -1,0 +1,21 @@
+---
+Building this website project by @seanpm2001
+---
+
+This project doesn't have to be built to be viewed, and currently doesn't require installation, it is a basic website project that is compliant with web standards, so it should work in any web browser that respects WHATWG.
+
+If you want to load the project language file, you will need to have an HTML5 framework installed (version 5.0 or higher)
+
+If you want to view the image files, the majority of files are in JPG format. Make sure your computer can handle images of 2560x1440/2560x1080 resolution well, and that your computer can handle JPG files.
+
+If you want to use the site with theming outside of GitHub, you will need an equivalent renderer, and Jekyll version ? installed. I don't have good instructions for this yet, and I don't know if it is entirely possible yet at the moment.
+
+Some image files are in other formats, such as SVG, and PNG. You will need support for viewing these files to view these files.
+
+Some included files are in Markdown format (*.md) for best viewing, you should use a markdown viewer/markdown editor.
+
+Some included files are in PDF format. They should be opened with a document viewer capable of handling PDF documents.
+
+---
+Build instructions file version: 1 (Tuesday, August 24th 2021 at 3:49 pm)
+---
