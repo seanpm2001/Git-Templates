@@ -1,0 +1,50 @@
+08.26.2021
+
+https://duckduckgo.com/?q=276%2C010%2C252+bytes+to+MiB&t=ffab&ia=answer
+
+276,010,252 bytes
+263.22364807 MiB
+
+Duration: 0:30
+Lighting: White light
+
+08.27.2021
+
+https://duckduckgo.com/?q=366%2C511%2C577+bytes+to+MiB&t=ffab&ia=answer
+
+366,511,577 bytes
+349.533081055 MiB
+
+Duration: 0:40
+Lighting: White light
+
+08.28.2021
+
+https://duckduckgo.com/?q=273%2C902%2C723+bytes+to+MiB&t=ffab&ia=answer
+
+273,902,723 bytes
+261.214256287 MiB
+
+Duration: 0:30
+Lighting: White light
+
+08.29.2021
+
+https://duckduckgo.com/?q=346%2C288%2C874+bytes+to+MiB&t=ffab&ia=answer
+
+Video1
+346,288,874 bytes
+330.246925354 MiB
+
+Duration: 0:38
+Lighting: White light
+
+https://duckduckgo.com/?q=319%2C296%2C469+bytes+to+MiB&t=ffab&ia=answer
+
+Video2
+319,296,469 bytes
+304.504394531 MiB
+
+Duration: 0:35
+Lighting: White light
+
