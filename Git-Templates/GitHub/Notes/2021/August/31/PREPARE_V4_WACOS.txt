@@ -1,0 +1,13 @@
+Prepare August 2021 release of WacOS
+
+Starter
+
+2021.08.30build
+
+Changes:
+
+2021.08.31build
+
+Changes:
+
+

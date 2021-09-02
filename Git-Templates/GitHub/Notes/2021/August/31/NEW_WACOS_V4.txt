@@ -1,0 +1,60 @@
+New features
+
+Directories
+
+Alt-kernel (XNU)
+Apple documentation
+AppleScript
+Assembly
+BASYS
+Browser
+C
+C++
+!Cloud
+Community
+Desktop Environment
+Drivers
+File Systems
+Installer
+Kernel updates
+Motorola
+Objective-C
+Objective-C++
+OldVersions archive
+Python
+SirIsaacNewtonScript
+SirIsaacNewtonOS
+Swift
+Unicode
+VHDL
+VM
+Wac OS X
+Wac TV OS
+WAMMY
+WhyPadOS
+WhyPhoneOS
+WhyWatchOS
+WOAHS-X
+wOS
+.github
+
+Root files
+
+Project language files
+Git-files (.gitattributes)
+Massive README update
+Logo placeholder
+Makefile
+Install file
+Credits file
+Authors file
+Copying file
+Codenames
+
+Other
+
+website
+Sponsor support
+Popularity
+95 commits > 426 commits
+
