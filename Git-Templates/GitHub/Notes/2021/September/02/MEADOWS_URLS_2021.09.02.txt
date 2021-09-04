@@ -1,0 +1,24 @@
+TO work on
+
+https://github.com/seanpm2001/Meadows_Mod_Battery_and_power
+https://github.com/seanpm2001/Meadows_Mod_Profile
+https://github.com/seanpm2001/Meadows_Mod_Profile_User_Stats
+https://github.com/seanpm2001/Meadows_Mod_Legacy
+https://github.com/seanpm2001/Meadows_Mod_Legacy_Color-mode
+https://github.com/seanpm2001/Meadows_Mod_Legacy_Image_Quality
+https://github.com/seanpm2001/Meadows_Mod_Legacy_RAM
+https://github.com/seanpm2001/Meadows_Mod_Legacy_System_Graphics
+https://github.com/seanpm2001/Meadows_Mod_Legacy_Aspect_Ratio
+https://github.com/seanpm2001/Meadows_Mod_Settings
+https://github.com/seanpm2001/Meadows_Mod_ModeManager
+https://github.com/seanpm2001/Meadows_Programs
+https://github.com/seanpm2001/Meadows_Modules
+https://github.com/seanpm2001/Meadows_Mod_NotificationCenter
+https://github.com/seanpm2001/Meadows_DevMod_pre-development_files
+https://github.com/seanpm2001/Meadows_Mod_Installation_and_Setup
+https://github.com/seanpm2001/Meadows_Mod_Drives
+
+OLD
+
+https://github.com/seanpm2001/Meadows_Programs_Clock_and_Calendar
+
