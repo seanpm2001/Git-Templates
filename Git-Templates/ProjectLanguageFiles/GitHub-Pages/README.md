@@ -7,7 +7,7 @@
 
 ## For Seanpm2001 GitHub pages projects
 
-### Listing (as of Wednesday, August 11th 2021 at 4:50 pm)
+### Listing (as of Saturday, 2021 September 4th at 10:50 pm)
 
 **Note to self:** _Please update this list as frequently as possible when new data arrives._
 
@@ -131,19 +131,33 @@
 
 58. [BluPhone.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/BluPhone.github.io/)
 
-59. No other entries at the moment
+59. [GratyBot.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/GratyBot.github.io/)
+
+60. [Self-Care-Bot.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/Self-Care-Bot.github.io/)
+
+61. [Virg-io-dev.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/Virg-io-dev.github.io/)
+
+62. [Cyborg-System-Monitor.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/Cyborg-System-Monitor.github.io/)
+
+63. [UltimateCalculator.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/UltimateCalculator.github.io/)
+
+64. [Computing-longevity.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/Computing-longevity.github.io/)
+
+65. [Snail-Bob-Maker.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/Snail-Bob-Maker.github.io/)
+
+66. No other entries at the moment
 
 ***
 
 ## File info
 
-**File type:** `Markdown document (*.md)`
+**File type:** `Markdown document (*.md *.mkd *.markdown)`
 
-**File version:** `13 (Wednesday, August 11th 2021 at 4:50 pm)`
+**File version:** `14 (Saturday, 2021 September 4th at 10:50 pm)`
 
 **Language:** `English (US)`
 
-**Line count (including blank lines and compiler line):** `0,432`
+**Line count (including blank lines and compiler line):** `0,468`
 
 ***
 
@@ -312,11 +326,17 @@
 
 > * No other changes in version 13
 
-**Version 14 (Coming soon)**
+**Version 14 (2021, Saturday September 4th at 10:50 pm)**
 
 > * Changes:
 
-> * Coming soon!
+> * Added 7 new entries
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * Updated the footer, adding support for the Swisscows search engine
 
 > * No other changes in version 14
 
@@ -416,6 +436,22 @@
 
 > * No other changes in version 26
 
+**Version 27 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 27
+
+**Version 28 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 28
+
 </details>
   
 ***
@@ -424,7 +460,7 @@
 
 You have reached the end of this file.
 
-( [Back to top](#Top) | [Exit to Seanpm2001/Git-Templates](https://github.com/seanpm2001/Git-Templates/) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) )
+( [Back to top](#Top) | [Exit to Seanpm2001/Git-Templates](https://github.com/seanpm2001/Git-Templates/) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://www.swisscows.com/) )
 
 ##### EOF
 
