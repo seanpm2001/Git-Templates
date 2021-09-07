@@ -7,7 +7,7 @@
 
 ## For Seanpm2001 GitHub pages projects
 
-### Listing (as of Saturday, 2021 September 4th at 10:50 pm)
+### Listing (as of Tuesday, 2021 September 7th at 4:49 pm)
 
 **Note to self:** _Please update this list as frequently as possible when new data arrives._
 
@@ -145,7 +145,13 @@
 
 65. [Snail-Bob-Maker.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/Snail-Bob-Maker.github.io/)
 
-66. No other entries at the moment
+66. [Medical-ethics.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/Medical-ethics.github.io/)
+
+67. [Seanwallawalla-Health.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanwallawalla-health.github.io/)
+
+68. [Seanpm2001-Health.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Health.github.io/)
+
+69. No other entries at the moment
 
 ***
 
@@ -153,11 +159,11 @@
 
 **File type:** `Markdown document (*.md *.mkd *.markdown)`
 
-**File version:** `14 (Saturday, 2021 September 4th at 10:50 pm)`
+**File version:** `15 (Tuesday, 2021 September 7th at 4:49 pm)`
 
 **Language:** `English (US)`
 
-**Line count (including blank lines and compiler line):** `0,468`
+**Line count (including blank lines and compiler line):** `0,494`
 
 ***
 
@@ -340,11 +346,15 @@
 
 > * No other changes in version 14
 
-**Version 15 (Coming soon)**
+**Version 15 (2021, Tuesday September 7th at 4:49 pm)**
 
 > * Changes:
 
-> * Coming soon!
+> * Added 3 new entries
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 15
 
@@ -451,6 +461,22 @@
 > * Coming soon!
 
 > * No other changes in version 28
+
+**Version 29 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 29
+
+**Version 30 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 30
 
 </details>
   
