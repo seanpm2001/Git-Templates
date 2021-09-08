@@ -65,17 +65,23 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 25. GratyBot-Snap (official) ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/GratyBot-Snap-1/) | [View the full project](https://github.com/GratyBot/GratyBot-Snap/) )
 
-26. No other snap projects (as of Wednesday, August 11th 2021 at 7:23 pm)
+26. Cyborg-System-Monitor-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/Cyborg-System-Monitor-Snap/) | [View the full project](https://github.com/Seanpm2001-Snapcraft/Cyborg-System-Monitor-Snap) )
+
+27. Virg-io-dev-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/Virg-io-dev-Snap/) | [View the full project](https://github.com/Seanpm2001-Snapcraft/Virg-io-dev-Snap) )
+
+28. UltimateCalculator-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/UltimateCalculator-Snap/) | [View the full project](https://github.com/Seanpm2001-Snapcraft/UltimateCalculator-Snap) )
+
+29. No other snap projects (as of Tuesday, 2021 September 7th at 5:03 pm)
 
 ***
 
 ## File info
 
-**File type:**  `Markdown document (*.md)`
+**File type:**  `Markdown document (*.md *.mkd *.markdown)`
 
-**File version:** `7 (Wednesday, August 11th 2021 at 7:23 pm)`
+**File version:** `8 (Tuesday, 2021 September 7th at 5:03 pm)`
 
-**Line count (including blank lines and compiler line):** `262`
+**Line count (including blank lines and compiler line):** `290`
 
 ***
 
@@ -178,11 +184,17 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 > * No other changes in version 7
 
-**Version 8 (Coming soon)**
+**Version 8 (Tuesday, 2021 September 7th at 5:03 pm)**
 
 > Changes:
 
-> * Coming soon!
+> * Updated the list to add the most recent entry (3x)
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * Updated the footer to add support for safe.duckduckgo and Swisscows
 
 > * No other changes in version 8
 
@@ -234,6 +246,22 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 > * No other changes in version 14
 
+**Version 15 (Coming soon)**
+
+> Changes:
+
+> * Coming soon!
+
+> * No other changes in version 15
+
+**Version 16 (Coming soon)**
+
+> Changes:
+
+> * Coming soon!
+
+> * No other changes in version 16
+
 </details>
 
 ***
@@ -242,7 +270,7 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 You have reached the end of this file.
 
-( [Back to top](#Snapcraft-project-language-files) | [Back to Seanpm2001/Git-Templates/](/Git-Templates/) | [Exit to GitHub](https://github.com/) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) )
+( [Back to top](#Snapcraft-project-language-files) | [Back to Seanpm2001/Git-Templates/](/Git-Templates/) | [Exit to GitHub](https://github.com/) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Safe.DuckDuckGo](https://safe.duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://www.swisscows.com/) )
 
 ### EOF
 
