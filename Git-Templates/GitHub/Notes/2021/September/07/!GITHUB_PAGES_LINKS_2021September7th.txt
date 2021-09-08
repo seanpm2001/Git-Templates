@@ -1,0 +1,20 @@
+https://github.com/Medical-ethics/Medical-ethics.github.io
+{ Theme: Modernist
+Site link: https://medical-ethics.github.io/
+Other: unknown
+}
+https://github.com/Seanwallawalla-health/Seanwallawalla-health.github.io
+{ Theme: Cayman
+Site link: https://seanwallawalla-health.github.io/
+Other: unknown
+}
+https://github.com/Seanpm2001-Health/Seanpm2001-Health.github.io
+{ Theme: Slate
+Site link: https://seanpm2001-health.github.io/
+Other: unknown
+}
+https://github.com/Seanpm2001-KolibriGames
+{ Theme:  Cayman
+Site link: https://seanpm2001-kolibrigames.github.io/
+Other: unknown
+}
