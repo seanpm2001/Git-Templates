@@ -1,0 +1,6 @@
+https://github.com/pluja/awesome-privacy
+https://github.com/deepseagirl/degoogle
+https://github.com/Destroyer616/Degoogle
+https://github.com/thecoshman/degoogle
+https://github.com/supabase/supabase
+
