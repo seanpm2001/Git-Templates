@@ -7,7 +7,7 @@
 
 ## For Seanpm2001 GitHub pages projects
 
-### Listing (as of Tuesday, 2021 September 7th at 5:09 pm)
+### Listing (as of Tuesday, 2021 September 7th at 5:13 pm)
 
 **Note to self:** _Please update this list as frequently as possible when new data arrives._
 
@@ -149,7 +149,7 @@
 
 67. [Seanwallawalla-Health.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanwallawalla-health.github.io/)
 
-68. [Seanpm2001-Health.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Health.github.io/)
+68. [Seanpm2001-health.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-health.github.io/)
 
 69. No other entries at the moment
 
@@ -159,7 +159,7 @@
 
 **File type:** `Markdown document (*.md *.mkd *.markdown)`
 
-**File version:** `16 (Tuesday, 2021 September 7th at 5:09 pm)`
+**File version:** `17 (Tuesday, 2021 September 7th at 5:13 pm)`
 
 **Language:** `English (US)`
 
@@ -372,11 +372,11 @@
 
 > * No other changes in version 16
 
-**Version 17 (Coming soon)**
+**Version 17 (2021, Tuesday September 7th at 5:13 pm)**
 
 > * Changes:
 
-> * Coming soon!
+> * Fixed 1 link, bad capitalization fixed
 
 > * No other changes in version 17
 
