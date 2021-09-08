@@ -7,7 +7,7 @@
 
 ## For Seanpm2001 GitHub pages projects
 
-### Listing (as of Tuesday, 2021 September 7th at 4:49 pm)
+### Listing (as of Tuesday, 2021 September 7th at 5:09 pm)
 
 **Note to self:** _Please update this list as frequently as possible when new data arrives._
 
@@ -123,33 +123,33 @@
 
 54. [Seanpm2001-Blocklist.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Blocklist.github.io/)
 
-55. [SNU-Beliefs.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/SNU-Beliefs.github.io/)
+55. [SNU-Beliefs.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SNU-Beliefs.github.io/)
 
-56. [The-Pirates-Copy.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/The-Pirates-Copy.github.io/)
+56. [The-Pirates-Copy.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/The-Pirates-Copy.github.io/)
 
-57. [NimbleBit-Glossary.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/NimbleBit-Glossary.github.io/)
+57. [NimbleBit-Glossary.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/NimbleBit-Glossary.github.io/)
 
-58. [BluPhone.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/BluPhone.github.io/)
+58. [BluPhone.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/BluPhone.github.io/)
 
-59. [GratyBot.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/GratyBot.github.io/)
+59. [GratyBot.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/GratyBot.github.io/)
 
-60. [Self-Care-Bot.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/Self-Care-Bot.github.io/)
+60. [Self-Care-Bot.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Self-Care-Bot.github.io/)
 
-61. [Virg-io-dev.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/Virg-io-dev.github.io/)
+61. [Virg-io-dev.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Virg-io-dev.github.io/)
 
-62. [Cyborg-System-Monitor.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/Cyborg-System-Monitor.github.io/)
+62. [Cyborg-System-Monitor.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Cyborg-System-Monitor.github.io/)
 
-63. [UltimateCalculator.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/UltimateCalculator.github.io/)
+63. [UltimateCalculator.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/UltimateCalculator.github.io/)
 
-64. [Computing-longevity.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/Computing-longevity.github.io/)
+64. [Computing-longevity.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Computing-longevity.github.io/)
 
-65. [Snail-Bob-Maker.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/Snail-Bob-Maker.github.io/)
+65. [Snail-Bob-Maker.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Snail-Bob-Maker.github.io/)
 
-66. [Medical-ethics.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/Medical-ethics.github.io/)
+66. [Medical-ethics.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Medical-ethics.github.io/)
 
-67. [Seanwallawalla-Health.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanwallawalla-health.github.io/)
+67. [Seanwallawalla-Health.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanwallawalla-health.github.io/)
 
-68. [Seanpm2001-Health.github.io](Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Health.github.io/)
+68. [Seanpm2001-Health.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Health.github.io/)
 
 69. No other entries at the moment
 
@@ -159,11 +159,11 @@
 
 **File type:** `Markdown document (*.md *.mkd *.markdown)`
 
-**File version:** `15 (Tuesday, 2021 September 7th at 4:49 pm)`
+**File version:** `16 (Tuesday, 2021 September 7th at 5:09 pm)`
 
 **Language:** `English (US)`
 
-**Line count (including blank lines and compiler line):** `0,494`
+**Line count (including blank lines and compiler line):** `0,516`
 
 ***
 
@@ -358,11 +358,17 @@
 
 > * No other changes in version 15
 
-**Version 16 (Coming soon)**
+**Version 16 (2021, Tuesday September 7th at 5:09 pm)**
 
 > * Changes:
 
-> * Coming soon!
+> * Fixed a link error for entries 54 to 68
+  
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * Updated the footer to add support for safe.duckduckgo.com
 
 > * No other changes in version 16
 
@@ -478,6 +484,22 @@
 
 > * No other changes in version 30
 
+**Version 31 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 31
+
+**Version 32 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 32
+
 </details>
   
 ***
@@ -486,7 +508,7 @@
 
 You have reached the end of this file.
 
-( [Back to top](#Top) | [Exit to Seanpm2001/Git-Templates](https://github.com/seanpm2001/Git-Templates/) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://www.swisscows.com/) )
+( [Back to top](#Top) | [Exit to Seanpm2001/Git-Templates](https://github.com/seanpm2001/Git-Templates/) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Safe.DuckDuckGo](https://safe.duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://www.swisscows.com/) )
 
 ##### EOF
 
