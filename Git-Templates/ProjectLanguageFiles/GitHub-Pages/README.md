@@ -7,7 +7,7 @@
 
 ## For Seanpm2001 GitHub pages projects
 
-### Listing (as of Tuesday, 2021 September 7th at 5:13 pm)
+### Listing (as of Tuesday, 2021 September 7th at 7:57 pm)
 
 **Note to self:** _Please update this list as frequently as possible when new data arrives._
 
@@ -151,7 +151,9 @@
 
 68. [Seanpm2001-health.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-health.github.io/)
 
-69. No other entries at the moment
+69. [Seanpm2001-KolibriGames.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-KolibriGames.github.io/)
+
+70. No other entries at the moment
 
 ***
 
@@ -159,11 +161,11 @@
 
 **File type:** `Markdown document (*.md *.mkd *.markdown)`
 
-**File version:** `17 (Tuesday, 2021 September 7th at 5:13 pm)`
+**File version:** `18 (Tuesday, 2021 September 7th at 7:57 pm)`
 
 **Language:** `English (US)`
 
-**Line count (including blank lines and compiler line):** `0,516`
+**Line count (including blank lines and compiler line):** `0,554`
 
 ***
 
@@ -380,11 +382,15 @@
 
 > * No other changes in version 17
 
-**Version 18 (Coming soon)**
+**Version 18 (2021, Tuesday September 7th at 7:57 pm)**
 
 > * Changes:
 
-> * Coming soon!
+> * Added 1 new entry, I am really in a website writing mood today
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 18
 
@@ -499,6 +505,38 @@
 > * Coming soon!
 
 > * No other changes in version 32
+
+**Version 33 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 33
+
+**Version 34 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 34
+
+**Version 35 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 35
+
+**Version 36 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 36
 
 </details>
   
