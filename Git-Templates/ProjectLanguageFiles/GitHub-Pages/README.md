@@ -7,7 +7,7 @@
 
 ## For Seanpm2001 GitHub pages projects
 
-### Listing (as of Tuesday, 2021 September 8th at 7:53 pm)
+### Listing (as of Thursday, 2021 September 9th at 9:27 pm)
 
 **Note to self:** _Please update this list as frequently as possible when new data arrives._
 
@@ -158,8 +158,10 @@
 71. [Hospital-defender.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Hospital-defender.github.io/)
 
 72. [README-Desktop-LIBrary.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/README-Desktop-LIBrary.github.io/)
- 
-73. No other entries at the moment
+
+73. [SNU-DennisRitchieMemorial.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SNU-DennisRitchieMemorial.github.io/)
+
+74. No other entries at the moment
 
 ***
 
@@ -167,11 +169,11 @@
 
 **File type:** `Markdown document (*.md *.mkd *.markdown)`
 
-**File version:** `19 (Wednesday, 2021 September 8th at 7:53 pm)`
+**File version:** `20 (Thursday, 2021 September 9th at 9:27 pm)`
 
 **Language:** `English (US)`
 
-**Line count (including blank lines and compiler line):** `0,804`
+**Line count (including blank lines and compiler line):** `0,602`
 
 ***
 
@@ -371,7 +373,7 @@
 > * Changes:
 
 > * Fixed a link error for entries 54 to 68
-  
+
 > * Updated the file info section
 
 > * Updated the file history section
@@ -412,11 +414,15 @@
 
 > * No other changes in version 19
 
-**Version 20 (Coming soon)**
+**Version 20 (2021, Thursday September 9th at 9:27 pm)**
 
 > * Changes:
 
-> * Coming soon!
+> * Added 1 new entry
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 20
 
@@ -564,8 +570,24 @@
 
 > * No other changes in version 38
 
+**Version 39 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 39
+
+**Version 40 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 40
+
 </details>
-  
+
 ***
 
 ### Footer
