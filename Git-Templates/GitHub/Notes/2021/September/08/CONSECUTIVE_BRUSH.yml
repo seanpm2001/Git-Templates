@@ -1,0 +1,8 @@
+$/PROTECT.sh # This file needs to be protected from modification to stay legitimate
+# Counting the consecutive days of brushing your teeth
+consecutive_brushes: 0
+broken_consecutive_streaks: 0
+best_streak: 0
+worst_streak: 0
+worst_nonZero_streak: null
+
