@@ -7,7 +7,7 @@
 
 ## For Seanpm2001 GitHub pages projects
 
-### Listing (as of Thursday, 2021 September 9th at 9:27 pm)
+### Listing (as of Friday, 2021 September 10th at 6:21 pm)
 
 **Note to self:** _Please update this list as frequently as possible when new data arrives._
 
@@ -161,7 +161,9 @@
 
 73. [SNU-DennisRitchieMemorial.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SNU-DennisRitchieMemorial.github.io/)
 
-74. No other entries at the moment
+74. [Seapm2001-Scratch.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Scratch.github.io/)
+
+75. No other entries at the moment
 
 ***
 
@@ -169,11 +171,11 @@
 
 **File type:** `Markdown document (*.md *.mkd *.markdown)`
 
-**File version:** `20 (Thursday, 2021 September 9th at 9:27 pm)`
+**File version:** `21 (Friday, 2021 September 10th at 6:21 pm)`
 
 **Language:** `English (US)`
 
-**Line count (including blank lines and compiler line):** `0,602`
+**Line count (including blank lines and compiler line):** `0,624`
 
 ***
 
@@ -426,11 +428,15 @@
 
 > * No other changes in version 20
 
-**Version 21 (Coming soon)**
+**Version 21 (2021, Friday Septemnber 10th at 6:21 pm)**
 
 > * Changes:
 
-> * Coming soon!
+> * Added 1 new entry
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 21
 
@@ -585,6 +591,22 @@
 > * Coming soon!
 
 > * No other changes in version 40
+
+**Version 41 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 41
+
+**Version 42 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 42
 
 </details>
 
