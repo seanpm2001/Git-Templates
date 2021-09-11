@@ -7,7 +7,7 @@
 
 ## For Seanpm2001 GitHub pages projects
 
-### Listing (as of Friday, 2021 September 10th at 6:21 pm)
+### Listing (as of Saturday, 2021 September 11th at 3:45 pm)
 
 **Note to self:** _Please update this list as frequently as possible when new data arrives._
 
@@ -163,7 +163,9 @@
 
 74. [Seapm2001-Scratch.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Scratch.github.io/)
 
-75. No other entries at the moment
+75. [Seanwallawalla.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanwallawalla.github.io/)
+
+76. No other entries at the moment (1 entry is from my own account and not an organization, and 1 entry is from my alt account)
 
 ***
 
@@ -171,11 +173,11 @@
 
 **File type:** `Markdown document (*.md *.mkd *.markdown)`
 
-**File version:** `21 (Friday, 2021 September 10th at 6:21 pm)`
+**File version:** `22 (Saturday, 2021 September 11th at 3:45 pm)`
 
 **Language:** `English (US)`
 
-**Line count (including blank lines and compiler line):** `0,624`
+**Line count (including blank lines and compiler line):** `0,646`
 
 ***
 
@@ -440,11 +442,15 @@
 
 > * No other changes in version 21
 
-**Version 22 (Coming soon)**
+**Version 22 (2021 Saturday September 11th at 3:45 pm)**
 
 > * Changes:
 
-> * Coming soon!
+> * Added 1 new entry
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 22
 
@@ -607,6 +613,22 @@
 > * Coming soon!
 
 > * No other changes in version 42
+
+**Version 43 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 43
+
+**Version 44 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 44
 
 </details>
 
