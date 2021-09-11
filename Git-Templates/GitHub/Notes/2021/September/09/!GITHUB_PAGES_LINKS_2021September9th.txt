@@ -1,0 +1,5 @@
+https://github.com/SNU-DennisRitchieMemorial/SNU-DennisRitchieMemorial.github.io
+{ Theme: Time machine
+Site link: https://snu-dennisritchiememorial.github.io/
+Other: unknown
+}
