@@ -7,7 +7,7 @@
 
 ## For Seanpm2001 GitHub pages projects
 
-### Listing (as of Saturday, 2021 September 11th at 3:45 pm)
+### Listing (as of Sunday, 2021 September 12th at 4:20 pm)
 
 **Note to self:** _Please update this list as frequently as possible when new data arrives._
 
@@ -43,7 +43,7 @@
 
 15. [Seanpm2001-Food-Index.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Food-Index.github.io/)
 
-16. [Seanpm2001.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001.github.io/)
+16. [Seanpm2001.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001.github.io/) (MAIN)
 
 17. [Seanpm2001-Robotics.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Robotics.github.io/)
 
@@ -163,9 +163,13 @@
 
 74. [Seapm2001-Scratch.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Scratch.github.io/)
 
-75. [Seanwallawalla.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanwallawalla.github.io/)
+75. [Seanwallawalla.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanwallawalla.github.io/) (ALT)
 
-76. No other entries at the moment (1 entry is from my own account and not an organization, and 1 entry is from my alt account)
+76. [Its-time-to-cut-WideVine-DRM.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Its-time-to-cut-WideVine-DRM.github.io/)
+
+77. [Perl-harbor.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Perl-harbor.github.io/)
+
+78. No other entries at the moment (1 entry is from my own account and not an organization, and 1 entry is from my alt account)
 
 ***
 
@@ -173,11 +177,11 @@
 
 **File type:** `Markdown document (*.md *.mkd *.markdown)`
 
-**File version:** `22 (Saturday, 2021 September 11th at 3:45 pm)`
+**File version:** `23 (Sunday, 2021 September 12th at 4:20 pm)`
 
 **Language:** `English (US)`
 
-**Line count (including blank lines and compiler line):** `0,646`
+**Line count (including blank lines and compiler line):** `0,670`
 
 ***
 
@@ -454,11 +458,15 @@
 
 > * No other changes in version 22
 
-**Version 23 (Coming soon)**
+**Version 23 (2021 , Sunday September 12th at 4:20 pm)**
 
 > * Changes:
 
-> * Coming soon!
+> * Added 2 new entries
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 23
 
@@ -629,6 +637,22 @@
 > * Coming soon!
 
 > * No other changes in version 44
+
+**Version 45 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 45
+
+**Version 46 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 46
 
 </details>
 
