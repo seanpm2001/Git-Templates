@@ -1,0 +1,2 @@
+*.http linguist-detectable=true
+*.http linguist-documentation=false
