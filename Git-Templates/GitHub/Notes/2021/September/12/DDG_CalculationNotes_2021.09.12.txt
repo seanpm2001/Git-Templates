@@ -1,0 +1,10 @@
+2021.09.12
+
+https://duckduckgo.com/?q=367%2C231%2C649+bytes+to+MiB&t=ffab&ia=answer
+
+367,231,649 bytes
+350.219726563 MiB
+
+Sound: normal
+Duration: 0:40
+Lighting: White light (max)

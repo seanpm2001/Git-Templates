@@ -1,0 +1,10 @@
+https://github.com/Its-time-to-cut-WideVine-DRM/Its-time-to-cut-WideVine-DRM.github.io
+{ Theme: Tactile
+Site link: https://its-time-to-cut-widevine-drm.github.io/
+Other: unknown
+}
+https://github.com/Perl-harbor/Perl-harbor.github.io
+{ Theme: Time Machine
+Site link: https://perl-harbor.github.io/
+Other: unknown
+}
