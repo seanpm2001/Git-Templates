@@ -1,0 +1,3 @@
+https://github.com/justinmeza/httpd.lol
+https://github.com/PieVieRo/LOLCODE-calculator
+

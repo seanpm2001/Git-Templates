@@ -1,0 +1,17 @@
+Invention:
+
+QKBelt (Quad Keyboard Belt) originally Key Belt Stache
+
+A basic device that wraps around the bottom of the laptop, and expands 1-512 centimeters above the keyboard. A keyboard is placeable over the top, and the whole device is hinged.
+
+Types:
+
+Netbook
+Laptop
+Normal
+Mega
+
+Laptop keyboard solution: a key belt stache : a 4 part frame that wraps around the lower body of the laptop, and lets you mount a keyboard 2-8 centimeters above the original (EXTRA: For newer models: expand the keyboard up as much as needed) connected by hinges, NOT made of wood, but some other material.
+Cons:
+Slightly harder to hold
+Bluetooth is now a dependency, if Bluetooth fails, you either have to restart/debug or go back to your broken keyboard to try and get it fixedA

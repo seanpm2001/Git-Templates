@@ -1,0 +1,14 @@
+https://github.com/seanpm2001/Blocklist
+Add to blocklist
+Brainfuck IDE and repo
+Plaintext list of links to block
+
+Possible advisories
+
+SNU Programming Tools - Links to brainfuck uncensored
+GitHub organization info - Links to brainfuck uncensored
+Code DIstancing - Links to brainfuck uncensored
+
+Other updates
+
+Modernize project
