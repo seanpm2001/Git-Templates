@@ -1,0 +1,5 @@
+Wiki guidelines
+
+Problem: GitHub has no protections for Wikis for projects with collaborators, as I can restrict editing for non-collaborators, but I can't control who else can work on the Wiki. I can't trust collaborators on projects with Wikis, no matter how good of a person they are, as their accounts can still be hijacked, and someone can come in and hide bad things into the Wikis and do other types of vandalism. I don't want a GitHub marketplace bot to help me with this, as if the bot goes down, then the vandalism starts.
+
+So for collaborators, there are guidelines for writing Wikis here.
