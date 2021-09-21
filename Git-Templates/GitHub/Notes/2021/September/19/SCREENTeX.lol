@@ -1,0 +1,1 @@
+ScreenTeX is a tool that grabs all text when taking a screenshot rather than getting an image Rich text and formatting options Export as TXT, MD, PY, Java, C, C++, CSV, C#, JavaScript, Kotlin, etc. Add alias: ALT + P + F10 to separate from actual screenshots Option to save data in a different format after each screenshot, default is TXT.

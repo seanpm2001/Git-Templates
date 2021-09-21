@@ -1,0 +1,11 @@
+https://github.com/discord/discord-api-docs
+https://github.com/discord/discord-open-source
+https://github.com/discord/discord-rpc
+https://github.com/discord/discord-interactions-php
+https://github.com/discord/instruments
+https://github.com/discord/fastglobal
+https://github.com/discord/semaphore
+https://github.com/discord/discord-interactions-js
+https://github.com/discord/react-base-hooks
+https://github.com/discord/airhornbot
+
