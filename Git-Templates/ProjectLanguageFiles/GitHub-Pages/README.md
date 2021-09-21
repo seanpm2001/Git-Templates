@@ -7,7 +7,7 @@
 
 ## For Seanpm2001 GitHub pages projects
 
-### Listing (as of Sunday, 2021 September 12th at 4:20 pm)
+### Listing (as of Tuesday, 2021 September 21st at 4:22 pm)
 
 **Note to self:** _Please update this list as frequently as possible when new data arrives._
 
@@ -169,7 +169,11 @@
 
 77. [Perl-harbor.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Perl-harbor.github.io/)
 
-78. No other entries at the moment (1 entry is from my own account and not an organization, and 1 entry is from my alt account)
+78. [BootDown-dev.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/BootDown-dev.github.io/)
+
+79. [ScreenTeX.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/ScreenTeX.github.io/)
+
+80. No other entries at the moment (1 entry is from my own account and not an organization, and 1 entry is from my alt account)
 
 ***
 
@@ -177,11 +181,11 @@
 
 **File type:** `Markdown document (*.md *.mkd *.markdown)`
 
-**File version:** `23 (Sunday, 2021 September 12th at 4:20 pm)`
+**File version:** `24 (Tuesday, 2021 September 21st at 4:22 pm)`
 
 **Language:** `English (US)`
 
-**Line count (including blank lines and compiler line):** `0,670`
+**Line count (including blank lines and compiler line):** `0,694`
 
 ***
 
@@ -458,7 +462,7 @@
 
 > * No other changes in version 22
 
-**Version 23 (2021 , Sunday September 12th at 4:20 pm)**
+**Version 23 (2021, Sunday September 12th at 4:20 pm)**
 
 > * Changes:
 
@@ -470,11 +474,15 @@
 
 > * No other changes in version 23
 
-**Version 24 (Coming soon)**
+**Version 24 (2021, Tuesday, September 21st at 4:22 pm)**
 
 > * Changes:
 
-> * Coming soon!
+> * Added 2 new entries
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 24
 
@@ -653,6 +661,22 @@
 > * Coming soon!
 
 > * No other changes in version 46
+
+**Version 47 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 47
+
+**Version 48 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 48
 
 </details>
 
