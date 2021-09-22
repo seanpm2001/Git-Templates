@@ -1,0 +1,5 @@
+https://github.com/zephray/VerilogBoy
+https://github.com/Cacodemon345/uefidoom
+https://github.com/a1ive/grub2-filemanager
+https://github.com/platomav/BIOSUtilities
+
