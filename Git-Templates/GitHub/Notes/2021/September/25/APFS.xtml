@@ -1,0 +1,20 @@
+Developer(s)	Apple Inc.
+Full name	Apple File System
+Introduced	March 27, 2017 (iOS), September 25, 2017 (macOS), with iOS 10.3, macOS 10.13
+Partition identifier	7C3457EF-0000-11AA-AA11-00306543ECAC (GPT)
+Structures
+Directory contents	B-tree[1]
+Limits
+Max. file size	8 EiB (9,223,372,036,854,775,808 bytes)[2]
+Max. number of files	9,223,372,036,854,775,808[2]
+Allowed characters in filenames	Unicode 9.0 encoded in UTF-8[3]
+Features
+Dates recorded	access, attributes modified, contents modified, created
+Date range	January 1, 1970 – July 21, 2554[1]
+Date resolution	1 ns[2]
+File system permissions	Unix permissions, NFSv4 ACLs
+Transparent compression	Partial (decmpfs)[4]
+Transparent encryption	Yes[5]
+Copy-on-write	Yes[3][5]
+Other
+Supported operating systems	macOS, iPadOS, iOS, tvOS, watchOS
