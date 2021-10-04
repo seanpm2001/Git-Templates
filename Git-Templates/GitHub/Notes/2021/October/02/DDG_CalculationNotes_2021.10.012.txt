@@ -1,0 +1,11 @@
+2021.10.02 (Twenty-Twenty-One, October Second) DuckDuckGo Calculation Notes
+
+URL: https://duckduckgo.com/?q=306%2C068%2C167+bytes+to+MiB&t=ffab&ia=answer
+
+291.889,190,674 MiB
+000,306,068,167 Oct
+
+Aud: Gud
+Dur: 33s
+Lim: Max
+

@@ -1,0 +1,224 @@
+Hans de Zwart
+845 Followers
+About
+
+Sign in
+
+During World War II, we did have something to hide
+The Godwin lecture: Which lessons about privacy can we learn in the present day from the attack on Amsterdam’s municipal register in 1943?
+Hans de Zwart
+
+Hans de Zwart
+
+Apr 30, 2015·20 min read
+
+
+Gerrit van der Veen, Willem Arondéus, Johan Brouwer, Rudi Bloemgarten and a number of others had thoroughly prepared the assault and decided there could be no casualties. They entered the building disguised as policemen. Guards were overpowered, given a sedative and taken out the back to be parked in the Artis zoo for safekeeping. The filing cabinets containing public records were turned upside down. After soaking the files in benzene, the group set the largest possible fire.
+
+That night, the fire department played a crucial part. A few resistance sympathizers among the firefighters had been notified of the attack. When the alarm sounded they intentionally delayed the deployment of trucks in order to give the fire time to do maximum damage. Water was used extra generously during and after the extinguishing, in order to add water damage to the havoc of the flames.
+
+In the end, the attack turned out less successful than planned. Due to the tight stacking of the identity cards, a lot of information was saved. Approximately 15 percent of the documents was destroyed by the fire, a few thousand were rendered illegible by the water and of course the overall disarray was enormous.
+
+The resistance group was betrayed by a member of the NSB (the political party of Dutch nazi sympathizers). In July 1943 the twelve members of the group were executed in the dunes near Overveen.
+The retention of our data
+
+The building which housed the municipal register during World War II survived both the attack and the war. I wanted to give my lecture there, but unfortunately this was not possible. At this moment, the Artis zoo is converting the building into a congress centre. There is no other story than the one of this attack which so clearly shows us the dark side of storing personal data.
+The municipal register today (after its renovation), Picasdre, CC-licensed
+
+As an implementation of a European Directive, the ‘Wet bewaarplicht telecommunicatiegegevens’ (telecommunication data retention law) came into effect in the Netherlands on 1 September 2009. This law requires internet and telecom providers to store all their customers’ traffic and location data for a period of six to twelve months. For example, were I to call you now, Vodafone would have to store the timestamps, telephone numbers, names and addresses of the subscribers involved and the locations of the mobile phones used for six to twelve months.
+
+Though the content of the call itself does not have to be stored, this data is nonetheless very sensitive. To prove the point, my colleague Ton Siedsma noted all his behavioral data for a week and handed it over to editor Dimitri Tokmetzis of De Correspondent. Tokmetzis, aided by a research team from the University of Ghent and a security expert, analyzed these fifteen thousand data points about Siedsma’s emails, phone calls and website visits.
+
+One week of data turned out to be more than enough to draw a detailed picture of Siedsma’s person. A quote from the article on De Correspondent:
+
+    “Ton is in his early twenties and finished his degree recently. He receives e-mails about student housing and side jobs, judging by the subject line and the senders. He works long days, partly due to his daily commute by train. He is commonly not home before eight. Once home, he continues to work into the night. He then continues to call and e-mail his colleagues. […] Ton likes reading about sports on nu.nl, nrc.nl and vk.nl. He is specifically interested in cycling and an avid cyclist himself. He also reads Scandinavian thrillers, or at least looks up information about them on Google and Yahoo. In addition, he has an interest in philosophy and religion. We suspect that Ton is a christian.”
+
+This data retention law is a disproportionate violation of our privacy. Why should all this information be retained? In Germany, they agreed back in 2009 that the European directive was not consistent with the European Convention on Human Rights. Less than a month ago, the Court of Justice of the European Union declared the directive invalid. The Finnish minister of Education, Science and Communication immediately responded:
+
+    “Naturally, we must clean out the paragraphs enacted due to the directive. We will gladly adhere to this decision.”
+
+One would expect the Dutch government to be equally pleased with the verdict. That does not seem to be the case. In response to questions in the Dutch parliament on Tuesday, April 8, State Secretary of Justice Fred Teeven (VVD) says:
+
+    “It is important that your Internet traffic data and telephone data can be saved for a certain period.”
+
+After which he decided to take another eight weeks to think about the Netherlands’ response to the verdict of the European court. In a country where less than 75 years ago, we felt it was utterly necessary to commit an attack on a database containing information about our population, I expected something else from the responsible government official.
+I have nothing to hide
+
+In the past years I’ve had numerous discussions about the importance of privacy. As such a discussion goes on, the probability that my discussion partner will use the argument “But I have nothing to hide!” approaches 1. I have come to understand that this reaction is reserved for the privileged. The person who replies with “I have nothing to hide” is most likely not marginalized in society and has good faith in his or her own government. Activists in Syria and asylum seekers (regardless of their background story), but also people registered with the UWV (Institute for Employee Insurance) are among the people you will never hear using this argument.
+
+My response depends on the situation. Sometimes I’ll reply with “We did have something to hide during World War II.” That one is rarely appreciated. At this point I become guilty of a ‘Godwin,’ a comparison with World War II, in order to bolster my argument. And that’s poor form.
+Wilders isn’t Hitler
+
+Where does the term ‘Godwin’ come from?
+
+The American privacy lawyer Mike Godwin (1958) was, like many others, on the Internet before it was invented. It was the era in which all our communication infrastructure was not yet completely commercialized and run by public institutions. The time in which we designed technology in such a way that it did not require handing off our data to five American tech giants.
+
+As early as 1990 he noted that online discussions increasingly included comparisons to nazis. Political policy was repeatedly compared to Nazism. Making this comparison had become a ‘meme,’ an idea which spreads like a virus. Personally, Godwin felt this trivialized the Holocaust and therefore decided to, as an experiment, employ a ‘counter meme’. He developed what he called ‘Godwin’s Law’ or ‘Godwin’s Rule of Nazi Analogies.’ It read as follows:
+
+    “As an online discussion grows longer, the probability of a comparison involving Nazis or Hitler approaches 1.”
+
+In every discussion which by his opinion included an unjustified nazi analogy, he placed his ‘law’. In online discussions where his law was mentioned, these comparisons were made less frequently. Ever since, invoking Godwin’s Law has become an effective way to reprimand those who make a comparison to World War II, and not just online.
+
+Godwin’s Law is also regularly called upon in Dutch debate. In recent years, this particularly occurred in relation to politician Geert Wilders.
+
+Every time Wilders takes the next step in his populist script there is someone who, usually from a profound moral outrage, compares him to Hitler. The events which follow are invariably the same: Wilders claims to be aggrieved, points out that he does not want to destroy anyone and that he in fact feels quite at home in Israel. The person who made the comparison is rebuked and becomes the pariah.
+
+A recent example played out a week before the municipal elections. Wilders was campaigning at a market in The Hague and said his voters are voting for “a city with less expenses and, if at all possible, a few less Moroccans.” Fouad Sidali, member of the board of the PvdA (Dutch labor party), responded with a tweet:
+
+    “Hitler is among us. In the guise of Geert Wilders. Hitler also held the opinion that there should be less Jews. Lest we ever forget.”
+
+One day later Sidali writes:
+
+    “The comparison was inappropriate and should not have been made. One must however realize which emotions are evoked by Wilders’ statements.”
+
+Of course, this was said in another tweet (by the way, I wonder what Joseph Goebbels would have been able to accomplish with a medium like Twitter) and on Twitter, Wilders responds within half an hour:
+
+    “Sidali reined in by Spekman, takes back his words. Wise. Departure to Morocco would be even wiser.”
+
+Following the commotion about Wilders’ statements on the evening of the municipal elections (where he asked his audience whether they wanted ‘more or less Moroccans’ and the audience scanted ‘Less! Less! Less’) Ronald Sørensen, member of the Senate for the PVV (Partij voor de Vrijheid, Geert Wilders’ ‘Party for Freedom’), placed the comparisons to Nazi Germany in perspective. In Dutch newspaper Algemeen Dagblad he said:
+
+    “Yes, we want less Moroccans. But a one-way flight to the Moroccan sun is still kind of different from a one-way trip to Auschwitz.”
+
+I guess I’ll call this a ‘reverse Godwin’: using a comparison to the Holocaust to put a positive spin on your own actions.
+The significance of remembrance and liberation
+
+Just to be clear: it is understandable that the ‘Godwin’ is a taboo.
+
+It touches upon a paradoxical element within the activities on 4 and 5 May (the Dutch national Remembrance and Liberation days): horrors of World War II which are so hideous that they stand alone, as an absolutization of evil. The Holocaust and Adolf Hitler are to be compared to nothing or no one; they were once but never again. At the same time, the suffering of World War II can only truly have meaning if it can be related to current societal, economical and political discussions.
+
+As the number of people alive who lived through World War II decreases, this will become an increasingly urgent problem for the National Committee 4 and 5 May, founded in 1987. Since 2001, they have been using the annual ‘freedom census’ about Dutch people’s experience regarding 4 and 5 May. The 2014 results just came in. I quote:
+
+    “World War II and the attacks on 9/11 are two historical events which have influenced the way more than half of Dutch people think about freedom and unfreedom. To this day, World War II remains a current topic of discussions, eight out of ten Dutchmen still talk about this war.”
+
+The researchers also note that 4 and 5 May should remain close to the experience of the citizens, in order to maintain this clear position in society.
+
+The fact that it is inappropriate to compare someone to Hitler, does not mean the many lessons which can be learned from the past must be glossed over. Therefore, I want to use a historical perspective for the remainder of this story to delve a little deeper into freedom, risk and control in our data hungry and swiftly digitalizing information society.
+The Bijlmer’s failed ideal of malleability
+
+We’ll start in the Bijlmer (an urban area on the outskirts of Amsterdam). To me, a symbol of belief in society’s malleability, which at the time of the Bijlmermeer’s construction (late 60s/early 70s) was remarkably strong. The urban design of the Bijlmer was based on the concept of the ‘functional city.’ The ideal blueprint for an ideal society was a radical division between the functions of living, working and leisure. The high-rise, positioned to ensure optimal sun hours for every home, was to be erected in a green parkland. Traffic was to be on raised roads, separated from cyclists and pedestrians.
+Apartment blocks in the Bijlmer, Arden, CC-licensed
+
+I feel a strong connection to this neighborhood. Besides being completely fascinated by the failed malleability ideal, I also taught physical education at the Open Schoolgemeenschap (Open School) Bijlmer for seven years. This school was built on typical seventies ideals. They had a novel pedagogic style, but the building itself was also special. The school was ‘at the center of the neighborhood’ and the separation between inside and outside was to be minimized. Thus, there was a bicycle path which cut straight through the building and there were concrete tiles on the floor. Everything had to be open, the class rooms had no doors and everyone was free to walk in and out. There was a firm belief in the good of mankind and faith in each other’s virtue.
+
+When the identification act was introduced in the Netherlands in 2005, I still worked there. It was not long before I noticed: regularly, black kids from the classes were prompted by police on the street to show identification. White kids were never asked for anything.
+The identification act
+
+Identification is an instrument of social control, an instrument of surveillance. It is used to let people in or keep them out.
+
+During World War II, we were very much aware of this fact. Gerrit van der Veen was both one of the people who committed the attack on the municipal register and one of the co-founders of the Persoonsbewijzencentrale (‘Center for Personal Identification’), also known as the PCB. After many attempts, the PCB succeeded in forging near-perfect copies of identity documents. At its height, more than a hundred people were involved with the organization and they produced more than 65.000 forged identity documents in total. Besides ‘arian’ documents (without the J for ‘Jew’), the PCB also forged official stamps and produced tobacco coupons. As Lou de Jong wrote:
+
+    “In the tension of an illegal existence smoking was, for many illegal workers, a life necessity.”
+
+Identity documents are still, for various reasons, forged.
+
+Take for example the Lichtbildausweis. A simple card with some personal data. You can purchase one for ten euros from the German civil rights organization Digital Courage. Journalist Brenno de Winter made the news with it in recent years: he used a Lichtbildausweis to identify himself at parliament, the AIVD (the Dutch General Intelligence and Security Service), three police departments, the Marechaussee (State Police) during a visit to the Royal Palace, the European Parliament, various ministries, the OPTA (), and at various companies. They all accepted his Ausweis.
+A Lichtbildausweis. Order them here.
+
+As a small personal rebellion against the identification act, I carried a Lichtbildausweis since last December. It made me aware of how often we are required to show ID. I too used this card to enter everywhere without trouble. This usually went as follows: a counter clerk fails to recognize the card and decides to inquire with a more experienced colleague. That colleague takes a brief look and says: ‘Oh, it’s German and that’s part of the EU, so it’s fine.’ And then I’m admitted. Contrary to de Winter I was not able to vote using the card. De Winter — and take note of the ‘Godwin’ — wrote for Dutch weekly magazine HP/De Tijd:
+
+    “It was painful to be able to vote with my Lichtbildausweis, while German hasn’t been ruling the Netherlands for a while now.”
+
+In April 2014 it went awry. The team of my employer Bits of Freedom was to give members of parliament a workshop about Big Data. At the reception, names were taken in order to check the guest list. The clerk extended his hand and I handed him my Lichtbildausweis. He read my name and his colleague checked my name off the list. The card was returned and I received a visitors’ sticker. Then he said: “Could you please show me that card again?” When I handed it over once more, he recognized it as a fake. I congratulated him, noting he was only the second person alert enough to notice it, and handed him my real passport. He remained friendly, but nonetheless ‘had to report this.’
+
+This was the start of a jovial escalation. Within fifteen minutes of handing over my Lichtbildausweis, I was in the backseat of a police car, my hands on the front seat, on my way downtown. From that moment onwards you find yourself in a procedure with a number of fixed steps. My right to remain silent was read to me, I had a short conversation with an assistant public prosecutor, bickered a little about how complete the list of confiscated possessions should be and had my picture taken and fingers printed. In no time I found myself sitting in a cell in my nice suit, parted from my belt and shoes, waiting for a lawyer on standby service. Luckily I was allowed to bring my book, ironically titled Technologies of Insecurity, into the cell with me.
+
+In those few hours I learned a lot. Not only that you are fed rather disgusting microwave meals when you’re in the cell or that you can ask for chalk if you want to draw on the door. I also learned that when completely dependent on others, you immediately start adjusting your behavior: ‘Would they be really annoyed if I ring the bell again to ask if I can use the toilet? I guess I could hold it a little longer.’ Because I wanted to be treated properly and go home as soon as possible, I asked permission for everything I did. ‘Can I close the door while I urinate?’
+
+After two hours in the holding cell I had a short conversation with a lawyer and was questioned immediately after. After questioning I was put back into that cell for another two hours. In total, I was deprived of my freedom for five and a half hours. At this moment the case is still pending with the public prosecutor. I have no idea what the next step will be.
+
+Now, why am I telling you about my rather goofy private form of civil resistance? Two reasons. Firstly, because I feel the whole episode is somewhat symptomatic for the society in which we are starting to live: a society of control in which we wish to abolish every risk. Secondly, because a lack of freedom provides a clear perspective on what freedom really means.
+Societies of risk and control
+
+A much-heard reply to my arrest was the following: ‘But Hans, isn’t it obvious that you’d be asked for identification at the parliament?’ How is that logical? I understand why I have to walk through a gate to check whether I’m carrying any weapons, but why would the people’s representatives necessarily have to know who’s coming to talk to them? Is parliament not eminently the place where a citizen should be able to lay down grievances in relative anonymity?
+
+What I also found typical is that no one tried to deescalate the situation. The doorman, the head of security, the policewoman on duty, the two officers who came over from the station and the assistant public prosecutor; every one of them could have prevented my evening in jail. ‘Ah, you work for a civil rights movement and are opposed to the identity act, how interesting. Well, you’re really not supposed to have such a card, of course. Now hand it over, and please refrain from such actions in the future.’ That did not happen, because rules are rules and you are to abide by them. We no longer feel free to deviate from those rules. (For those of you to whom Eichmann comes to mind: that comparison seems unsuitable even to me and I’d like to skip it here.)
+CCTV Mobile, Banksy
+
+Our response to an increasingly complex world, is to manage away all uncertainty. In his recent book Nassim Taleb came up with a great English word for it: touristification. He writes:
+
+    “[Touristification] is the systematic removal of uncertainty and randomness from things, trying to make matters highly predictable in their smallest details. All that for the sake of comfort, convenience, and efficiency. What a tourist is in relation to an adventurer […] touristification is to life.”
+
+Taleb uses the image of the ‘soccer mom’. A modern parent tries to control every aspect of its child’s experience. No disappointments, no traumas. The world as Disney World. Thus, the kids lack the randomness, chaos and all uncertainty which teaches one how to deal with the world. These are fragile children.
+
+On a macro level the same happens. We want a completely predictable world, but are served the opposite. This is why I was talking about a high school in the Bijlmer. The seventies belief in the virtue of man is no longer. But the belief in society’s malleability is back in full force.
+
+And this time we’ll succeed. Because we have data.
+Smart cities and Big Data
+
+To grasp that, we need one last story about World War II.
+
+In January 1933, Hitler came into power and in April of that year he decided to hold a census. He needed it to more easily identify Jews, gypsies and other ethnic groups. Dehomag, a German subsidiary of the American IBM, supplied the technology to accomplish this. The former CEO of IBM, Thomas Watson, personally traveled to Germany at the end of 1933 to make the arrangements. The investment in the subsidiary was raised from 400.000 to 7 million Reichsmark, with which their first factory in Berlin was built. IBM and Dehomag were all set for a lucrative relationship with Hitler’s regime. A few years later, every concentration camp had its own IBM technology with which the administration with camp inmates was kept using punchcards.
+
+Edwin Black, the American investigative journalist who got to the bottom of this story for his book IBM and the Holocaust, writes that the Holocaust would also have happened without IBM’s help. Nonetheless, it is his opinion that the camps would never have been able to make that many victims if they had not had these machines and punchcards. IBM was the purveyor of an essential bit of Holocaust machinery. In the introduction to his book Black writes:
+
+    “Solipsistic and dazzled by its own swirling universe of technical possibilities, IBM was self-gripped by a special amoral corporate mantra: if it can be done, it should be done. To the blind technocrat, the means were more important than the ends.”
+
+‘If it can be done, it should be done.’ With those words in mind, I’d like to take a look at the language the modern IBM uses to push their corporate agenda concerning ‘smart cities’. The other day, I had a look on their website. Under the tab ‘Solutions’ I found the following:
+
+    “The systems which are crucial to modern society — transport, water, energy, education, healthcare, government — converge in our cities. [..] Many of these systems have been instrumentized and produce data streams — but now we also have the option [remember: ‘if it can be done, it should be done’, but now we also have the option] to interconnect these systems. We have the tools for analysis, the immense computational power and the visualisation capabilities to register and interpret this data. Through this we can make smarter decisions about the way we handle the world in which we live.”
+
+Who is really making those so-called ‘smarter’ decisions? The contours of our future society are starting to show more starkly. This is to be a society with a gigantic gap between the ‘data-haves’ (governments and large corporations) and the ‘data-have nots’ (citizens). The ‘data-haves,’ parties such as Google, Amazon or IBM, capitalize the data streams, which we all can’t help but create wherever we go. Based on analyses of that data (to which we as citizens have no access) new policies are made and algorithms are written which are supposed to optimize our world, but which can also drastically restrict it.
+‘Your subscription will be terminated’
+Car2Go, Elvert Barnes, CC-licensed
+
+Because I do not own a car, I use a Car2Go every now and then. I can check in and out with a card and pay per minute. During the ride, a green counter decides whether you’re driving economically enough. A while ago, a friend of mine was driving along Amsterdam’s inner city canals and he was in a bit of a rush. That caused him to pull up quickly and brake often, making the trip rather uneconomical. At a certain point, the counter reached zero and the board computer told him: “You are driving recklessly, please adjust your driving style or your subscription will be terminated.” He was not driving recklessly at all, but the computer seemed to disagree.
+
+It’s a good example of the contemporary primacy of the algorithm. In the case of a subscription to a car rental service it’s all rather innocent, you could just catch a tram. But how about a ‘computer says no’ when you’re trying to get a loan or a mortgage, or when the algorithm decides you cannot get an insurance? Where are our guarantees technology cannot be used for modern form of ‘redlining’? ‘Oh no, seems like you’ve been listening to a lot of gangster rap on Spotify, I’m afraid our hotel doesn’t have a vacancy after all…’ ‘Yes, I understand you want to open an Islamic butcher in this building, but the computer clearly states the Muslim quota in this neighborhood’s retail space has already been reached.’
+
+Besides a naive faith in the malleability of society, the whole ‘smart city’ thinking and most other applications of Big Data ignore another crucial fact: you can’t leave it to algorithms to take the right decisions based on the maximum amount of data. The most optimal and efficient solution is not always the right one. ‘Good’ is in the moral spectrum and should be preceded by transparent political judgments. We cannot assume companies will use their moral compass when making decisions for us.
+
+Does such a future full of algorithmic gatekeepers leave us any freedom at all?
+Freedom when we’re healthy
+
+In 2012, the National Committee for 4 and 5 May asked the Dutch School of Public Administration to describe the concept of freedom. The authors discuss the dilemma of freedom’s naturalness. I quote:
+
+    “One who feels unfree knows what freedom is, or is supposed to be. It can be compared to people who are ill and to whom the meaning of being healthy is undisputed. But when we’re healthy, we should make sure we remain as such. That goes even more for people who have never really been ill.”
+
+I don’t think this analogy is completely accurate. Because, just like we’re not always able to recognize the fact that we’re ill, we’re often not at all that good in feeling and recognizing unfreedom. As a teacher, I spent years being led by the school bell. The bell decided when I could get up and when I could go for lunch. In all those years, I was never bothered by it. Not until I found a different job did I notice how large the influence of that bell had been and how much I had sacrificed for it. The human ability to adapt is so great, that we’re very much able to feel free in a situation in which we’re relatively unfree.
+Snowden and resistance
+
+Edward Snowden has shown us we are not free. His courage and personal sacrifice can no doubt be compared to that of Gerrit van der Veen. He is a hero of the resistance in a war we are all waging. Thanks to him, we have a clear picture of the path chosen by our governments: complete control and extreme risk minimization, facilitated by public-private partnerships. Today I have paid little attention to the impact of his revelations, I’ll gladly leave that to next year’s speaker.
+
+With this first Godwin lecture I have attempted to explain why the freedom we celebrate today is not to be taken for granted. And that the attack on the Amsterdam municipal register is both a powerful historical symbol and a warning for the data hunger of our modern government and corporations. Hopefully my story has made clear that, just like during the attack on the municipal register, we need resistance heroes and firefighters.
+
+If you are unable or unwilling to join the resistance, can we count on you in the role of the firefighter?
+
+This text a slightly abridged version of a Dutch speech delivered as the ‘Godwin lecture’ on May 5th 2014 (Dutch national liberation day).
+
+On May 5th 2015 Cory Doctorow will give the Godwin lecture with the title ‘The NSA are not the Stasi: Godwin for mass surveillance’. A livestream will be provided.
+
+Translated by Benjamin van Gaalen.
+Hans de Zwart
+
+Fighting for digital rights at @bitsoffreedom
+Hans de Zwart Follows
+
+    Cory Doctorow
+    Cory Doctorow
+    Bryan Alexander
+    Bryan Alexander
+    Doug Belshaw
+    Doug Belshaw
+    untold stories
+    untold stories
+    James Bridle
+    James Bridle
+
+See all (133)
+
+    Godwin
+    World War 2
+    Privacy
+
+More from Hans de Zwart
+
+Fighting for digital rights at @bitsoffreedom
+
+About
+
+Write
+
+Help
+
+Legal
+

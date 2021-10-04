@@ -1,0 +1,36 @@
+Milestone 5 version 1.0.1B - 2021 October 2nd
+
+***
+
+# Milestone 5 version 1.0.1B - 2021 October 2nd
+
+## M5V1.0.1B
+
+### About
+
+This is the fourth public release of the AdVenture Communist image folder for the SeanPM Life Archive project. This release contains the rest of the data up to 2021 October 2nd. This is the follow up release to the final planned content release with new image files of gameplay.
+
+#### Changes
+ 
+- [x] Updated documentation and archived old files
+
+- [x] Archived discussion, issue, and release data
+
+- [x] Deleted 76 `IGNORE.md` files
+
+- [ ] No other content included in this release
+
+### Release data
+
+**Commit count:** `1,721`
+
+**Commits in last release:** `1,631`
+
+**Commit change:** `90`
+
+**GitHub version:** `4 (Saturday,  2021 October 2nd at 3:50 pm) Milestone 5 version 1.0.1B - 2021 October 2nd`
+
+***
+
+https://github.com/seanpm2001/SeansLifeArchive_Images_AdVenture_Communist/releases/tag/M5V1.0.1B
+
