@@ -1,0 +1,59 @@
+NetP
+
+Specifications and improvements (late 2021 October 6th update)
+
+Compatibility modes
+
+MIME type: image/netp
+ALT MIME type (in compatibility mode): image/webp
+
+Lossless
+Lossy
+
+RIFF (Resource Interchange File Format)
+
+Magic Number comparison
+Magic number (WebP): 52 49 46 46 xx xx xx xx 57 45 42 50
+Magic number (NetP): N1 D4 X8 99 xx xx xx xx N2 D3 X9 99
+
+WebP 1.0 {
+
+	DATA():
+	Metadata:
+	{[resolution: w x h / h x w]}
+	{[animated: t/f]}
+	{[date of creation: yyyy/mm/dd]}
+	{[tags: <addTag>]}
+
+}
+
+Animated WebP 1.0 {
+
+}
+
+WebP 2.0 {
+
+	DATA()
+	Metadata:
+	{[resolution: w x h / h x w]}
+	{[animated: t/f]}
+	{[date of creation: yyyy/mm/dd]}
+	{[tags: <addTag>]}
+
+}
+
+Animated WebP 2.0 {
+
+}
+
+Export tags
+
+Additional comments: WebP really should not exist in its current state. I am surprised that despite its growing popularity, its lack of improvement, and lack of support, that it is still a growing format. For example, MediaWiki (including all of its Wiki projects, such as Wikipedia, Wiktionary, Wikidata, etc.) and Eye of GNOME do not support the format at all. Firefox supports it but not too well. It also has known problems, such as being not as effective as the APNG or JPEG in terms of improvements.
+
+Export options:
+
+NetP 1.0: PNG, JPG, JPEG, JFIF, JIF, PNS, GIF (non-animated) SVG, BMP, TIF, TIFF, JP2, WIM, WEBP
+Animated NetP 1.0: APNG, GIF, GIFV, NETV, MP4, MKV, SWF, MOV, QT, WEBM
+NetP 2.0: JPG, JPEG, JFIF, JIF, PNS, GIF (non-animated) SVG, BMP, TIF, TIFF, JP2, WIM, WEBP
+Animated NetP 2.0: APNG, GIF, GIFV, NETV, MP4, MKV, SWF, MOV, QT, WEBM
+
