@@ -1,0 +1,11 @@
+2021.10.10 (Twenty-Twenty-One, October Ninth/Tenth) DuckDuckGo Calculation Notes
+
+URL: https://duckduckgo.com/?q=21%2C867%2C198+bytes+to+MiB&t=hy&va=g&ia=answer
+
+020.XX8,541,870,117 MiB
+000,000,021,867,198 Oct
+
+Audio quality: Good
+Video Duration: 0:02
+Lighting-mode: White
+
