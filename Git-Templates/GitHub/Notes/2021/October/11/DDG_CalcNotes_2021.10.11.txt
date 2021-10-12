@@ -1,0 +1,38 @@
+2021.10.11 (Twenty-Twenty-One, October Tenth/Eleventh) DuckDuckGo Calculation Notes
+
+Duration
+
+URL: https://duckduckgo.com/?q=+29%2C006%2C324+bytes+to+MiB&t=hy&va=g&ia=answer
+
+XXX,027.662,563,324 MiB
+XXX,000,029,006,324 Oct
+
+Audio quality: Good
+Video Duration: 0:03
+Lighting-mode: White
+
+RAW notes:
+
+https://duckduckgo.com/?q=+29%2C006%2C324+bytes+to+MiB&t=hy&va=g&ia=answer
+3 seconds
+White light
+Good audio
+29,006,324 MB
+27.662563324 MiB
+
+DDG Weight calculation notes (2021 October 11th)
+
+Weight
+
+2.5 pounds to kilograms
+
+Link: https://duckduckgo.com/?q=2.5+pounds+to+kilograms&t=hy&va=g&ia=answer
+Input: 2.5 pounds
+Answer: 1.133981 KG
+
+1.7 pounds to kilograms
+
+Link: https://duckduckgo.com/?q=1.7+pounds+to+kilograms&t=hy&va=g&ia=answer
+Input: 1.7 Pounds
+Answer: 0.771107 KG
+

@@ -1,0 +1,11 @@
+https://github.com/gnu-smalltalk/smalltalk
+https://github.com/emacs-mirror/emacs
+https://github.com/coreutils/gnulib
+https://github.com/coreutils/coreutils
+https://github.com/google/oss-fuzz
+https://github.com/AssemblyScript/assemblyscript
+https://github.com/emscripten-core/emscripten/
+https://github.com/emscripten-core/emsdk
+https://github.com/emscripten-core/emscripten-fastcomp
+https://github.com/llvm/llvm-project
+

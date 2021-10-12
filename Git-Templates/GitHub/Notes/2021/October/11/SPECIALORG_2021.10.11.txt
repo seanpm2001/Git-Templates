@@ -1,0 +1,3 @@
+https://github.com/AssemblyScript
+https://github.com/emscripten-core
+https://github.com/llvm

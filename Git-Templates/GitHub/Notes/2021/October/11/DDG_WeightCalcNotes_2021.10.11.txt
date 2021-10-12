@@ -1,0 +1,14 @@
+DDG Weight calculation notes (2021 October 11th)
+
+2.5 pounds to kilograms
+
+Link: https://duckduckgo.com/?q=2.5+pounds+to+kilograms&t=hy&va=g&ia=answer
+Input: 2.5 pounds
+Answer: 1.133981 KG
+
+1.7 pounds to kilograms
+
+Link: https://duckduckgo.com/?q=1.7+pounds+to+kilograms&t=hy&va=g&ia=answer
+Input: 1.7 Pounds
+Answer: 0.771107 KG
+
