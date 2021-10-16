@@ -1,0 +1,11 @@
+https://github.com/AssemblyScript/examples
+https://github.com/KDE/oxygen
+https://github.com/KDE/krita
+https://github.com/KDE/kdenlive
+https://github.com/KDE/kwin
+https://github.com/KDE/okular
+https://github.com/att/ast
+https://github.com/att/vfd
+https://github.com/att/uwin
+https://github.com/att/ksh2020-wiki
+
