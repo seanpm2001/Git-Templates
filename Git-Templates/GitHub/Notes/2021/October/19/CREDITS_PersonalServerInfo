@@ -1,0 +1,24 @@
+
+---
+
+{{int:version-credits-summary}}
+This Server Info project by Seanpm2001 is a semi-collaborative project released under the GNU General Public License v3. We would like to recognize the following names for their contribution to the product.
+
+This comment block and this file (excluding author names) was modified from MediaWiki/CREDITS -->
+
+== Maintainers ==
+<!-- BEGIN MAINTAINERS LIST !-->
+
+1. @seanpm2001 - Creator and primary maintainer of this project
+2. No other contributors as of Tuesday, 2021 October 19th
+
+== Contributors ==
+<!-- BEGIN CONTRIBUTOR LIST -->
+1. @seanpm2001
+2. @GitHub (For being the first host of this project)
+3. @WesternDigital (Not on GitHub, but thanks to them for providing reliable and durable external hard drives for so many years, making this project possible)
+4. @Torvalds (For creating the Linux kernel, as all my systems (including the server) run on Linux)
+5. @Git (For the Git version control system)
+6. No other contributors as of Tuesday, 2021 October 19th
+
+---

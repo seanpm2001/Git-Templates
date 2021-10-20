@@ -1,0 +1,17 @@
+2021.10.10
+
+Underune maker todo
+Underune maker {
+Books { CH1 CH2 CH3 CH4 CH5 CH6 CH7 TITLE }
+CharacterEdit { Face, sprites, costumes, font, text, role }
+RepoData
+Labeldata
+Projectdata
+ProjectWiki
+
+2021.10.19
+
+I still have more data to process, so more variables will be added:
+
+Noelle mice immunity toggle
+

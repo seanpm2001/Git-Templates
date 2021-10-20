@@ -1,0 +1,51 @@
+# Default GitHub issue data file (YAML)
+issuelabel_1: color1: "#ffffff" title1: "wontfix" description1: "This will not be worked on"
+issueLabel_2: color2: "#d876e3" title2: "question" description2: "Further information is requested"
+issueLabel_3: color3: "#e4e669" title3: "invalid" description3: "This doesn't seem right"
+issueLabel_4: color4: "#008672" title4: "help wanted" description4: "Extra attention is needed"
+issueLabel_5: color5: "#7057ff" title5: "good first issue" description5: "Good for newcomers"
+issueLabel_6: color6: "#a2eeef" title6: "enhancement" description6: "New feature or request"
+issueLabel_7: color7: "#cfd3d7" title7: "duplicate" description7: "This issue or pull request already exists"
+issueLabel_8: color8: "#0075ca" title8: "documentation" description8: "Improvements or additions to documentation"
+issueLabel_9: color9: "#d73a4a" title9: "bug" description9: "Something isn't working"
+issueLabel_10: color10: "#0e8a16" title10: "Feature request" description10: "For requesting new features"
+issueLabel_11: color11: "#0AC1AC" title11: "Stylesheet" description11: "For stylesheet specific problems (CSS, Less)"
+issueLabel_12: color12: "#FBCA04" title12: "JavaScript" description12: "For JavaScript related problems (JS, JS++)"
+issueLabel_13: color13: "#1D76DB" title13: "Python" description13: "For Python related problems"
+issueLabel_14: color14: "#D93F0B" title14: "HTML" description14: "For HTML5 related problems."
+issueLabel_15: color15: "#D4C5F9" title15: "PHP" description15: "For PHP related problems"
+issueLabel_16: color16: "#006B75" title16: "WHATWG incompatibility" description16: "For problems with display between browsers"
+issueLabel_17: color17: "#5319E7" title17: "Messier object" description17: "For issues related to Messier objects."
+issueLabel_18: color18: "#ED12D8" title18: "Syntax error" description18: "For syntax errors."
+issueLabel_19: color19: "#FBCA04" title19: "Needs optimization" description19: "For when the page is using up too much memory (more than it should)"
+issueLabel_20: color20: "#7B08CB" title20: "Andromeda Galaxy" description20: "For issues related to the Andromeda Galaxy"
+issueLabel_21: color21: "#000000" title21: "Boötes void" description21: "For issues related to the Boötes void"
+issueLabel_22: color22: "#12D961" title22: "Non-3D" description22: "For when graphics aren't 3D enough, and should be put in 1D, 2D, or 4D mode instead."
+issueLabel_23: color23: "#BC0321" title23: "High CPU" description23: "For issues related to high CPU usage."
+issueLabel_24: color24: "#68DC55" title24: "Animation problem" description24: "For when animations aren't working correctly."
+issueLabel_25: color25: "#FBCA04" title25: "Linux" description25: "For issues related to the site working on Linux."
+issueLabel_26: color26: "#7F80ED" title26: "Windows 10" description26: "For issues related to the site working on Windows 10."
+issueLabel_27: color27: "#D93F0B" title27: "MacOS 11" description27: "For issues related to the site working on MacOS 11.0 (Big Sur)"
+issueLabel_28: color28: "#0052CC" title28: "Windows" description28: "For issues related to the site working on Windows in general."
+issueLabel_29: color29: "#121394" title29: "MacOS" description29: "For issues related to the site working on MacOS in general"
+issueLabel_30: color30: "#15BBC5" title30: "Windows 11" description30: "For issues related to the site working on Windows 11."
+issueLabel_31: color31: "#70AB16" title31: "MacOS 12" description31: "For issues related to the site working on MacOS 12.0 (Monterey)"
+issueLabel_32: color32: "#1F6C34" title32: "FreeBSD" description32: "For issues related to the site working on FreeBSD."
+issueLabel_33: color33: "#147D67" title33: "DragonflyBSD" description33: "For issues related to the site working on DragonflyBSD."
+issueLabel_34: color34: "#63E4EF" title34: "OpenBSD" description34: "For issues related to the site working on OpenBSD"
+issueLabel_35: color35: "#F9D0C4" title35: "NetBSD" description35: "For issues related to the site working on NetBSD."
+issueLabel_36: color36: "#3F2AD4" title36: "Security" description36: "For low level security issues (DO NOT REPORT ZERO DAY VULNERABILITIES HERE)"
+issueLabel_37: color37: "#BA141A" title37: "Dependency issue" description37: "For issues with dependencies."
+issueLabel_38: color38: "#0e8a16" title38: "Barnard object" description38: "For issues related to Barnard objects."
+issueLabel_39: color39: "#D4C5F9" title39: "Whirlpool Galaxy (M51)" description39: "For issues related to Messier 51 (Whirlpool Galaxy)"
+# issueLabel_40: color40: "#000000" title40: "void" description40: "not yet created"
+# Users can also create their own issue labels, and customize the color, title, and description
+
+# File info
+# File type: YAML source file (*.yml *.yaml)
+# File version: 1 (Tuesday, 2021 October 19th at 9:44 pm)
+# Line count (including blank lines and compiler line): 51
+
+# No known limit on # of issue labels
+# End of file
+
