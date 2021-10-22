@@ -1,9 +1,15 @@
 
 ***
 
+###### Top
+
+![Snapcraft_Logo.png failed to load. The file may be missing or corrupt, or it may not have been referenced (linked to) correctly. Check the file for errors. First, check the`README.md` file for errors](/Git-Templates/ProjectLanguageFiles/Snapcraft/Snapcraft_Logo.png)
+
 # Snapcraft project language files
 
 ## About
+
+<details open><summary><p>Click/tap here to expand/collapse the about (lead) section</p></summary>
 
 This directory is for hosting project language files for my snapcraft platform projects.
 
@@ -11,9 +17,45 @@ I have decided on July 11th 2021 to put project language files in my snapcraft p
 
 The process of adding them took just 2 days, I struggled originally, and was thinking of 2-3 a day over 5-7 days, but ended up finishing all of it in a 2 day period.
 
-## Snap projects
+( [See my collection of Snapcraft projects here](https://github.com/Seanpm2001-Snapcraft/) | [Make a snapcraft project with my V5 Snapcraft template](https://github.com/seanpm2001/Snapcraft-template_V5/) )
+
+There are far fewer Snapcraft projects than there are GitHub Pages projects. [Click/tap here to view my GitHub Pages projects](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/).
+
+</details>
+
+***
+
+## Index
+
+<details open><summary><p>Click/tap here to expand/collapse the index</p></summary>
+
+[00.0 - Top](#Top)
+
+[01.0 - Title](#Snapcraft-project-language-files)
+
+[02.0 - About](#About)
+
+[03.0 - Index](#Index)
+
+[04.0 - Snap/Snapcraft projects](#Snap-Snapcraft-projects)
+
+[05.0 - File info](#File-info)
+
+[06.0 - File history](#File-history)
+
+[07.0 - Footer](#Footer)
+
+> [07.9 - EOF (End Of File)](#EOF)
+
+</details>
+
+***
+
+## Snap/Snapcraft projects
 
 **Projects are in a random order.**
+
+<details open><summary><p>Click/tap here to expand/collapse the list of Snapcraft projects</p></summary>
 
 1. BGemJam-game-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/BGemJam-game-Snap/) | [View the full project](https://github.com/BGemJam-game/BGemJam-game-Snap/) )
 
@@ -65,29 +107,37 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 25. GratyBot-Snap (official) ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/GratyBot-Snap-1/) | [View the full project](https://github.com/GratyBot/GratyBot-Snap/) )
 
-26. Cyborg-System-Monitor-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/Cyborg-System-Monitor-Snap/) | [View the full project](https://github.com/Seanpm2001-Snapcraft/Cyborg-System-Monitor-Snap) )
+26. Cyborg-System-Monitor-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/Cyborg-System-Monitor-Snap/) | [View the full project](https://github.com/Cyborg-System-Monitor/Cyborg-System-Monitor-Snap) )
 
-27. Virg-io-dev-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/Virg-io-dev-Snap/) | [View the full project](https://github.com/Seanpm2001-Snapcraft/Virg-io-dev-Snap) )
+27. Virg-io-dev-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/Virg-io-dev-Snap/) | [View the full project](https://github.com/Virg-io-dev/Virg-io-dev-Snap) )
 
-28. UltimateCalculator-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/UltimateCalculator-Snap/) | [View the full project](https://github.com/Seanpm2001-Snapcraft/UltimateCalculator-Snap) )
+28. UltimateCalculator-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/UltimateCalculator-Snap/) | [View the full project](https://github.com/UltimateCalculator/UltimateCalculator-Snap) )
 
-29. uOffice-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/uOffice-Snap/) | [View the full project](https://github.com/Seanpm2001-Snapcraft/uOffice-Snap) )
+29. uOffice-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/uOffice-Snap/) | [View the full project](https://github.com/uOffice/uOffice-Snap) )
 
-30. No other snap projects (as of Thursday, 2021 October 21st at 7:11 pm)
+30. No other snap projects (as of Thursday, 2021 October 21st at 7:30 pm)
+
+</details>
 
 ***
 
 ## File info
 
+<details open><summary><p>Click/tap here to expand/collapse the file info section</p></summary>
+
 **File type:**  `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `9 (Thursday, 2021 October 21st at 7:11 pm)`
+**File version:** `10 (Thursday, 2021 October 21st at 7:30 pm)`
 
-**Line count (including blank lines and compiler line):** 316`
+**Line count (including blank lines and compiler line):** `396`
+
+**Article language:** `English (US) / Markdown`
 
 **All times are UTC-7 (PDT/Pacific Time)**
 
 **You may need special rendering support for the `<dropdown>` HTML tag being used in this document**
+
+</details>
 
 ***
 
@@ -216,11 +266,25 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 > * No other changes in version 9
 
-**Version 10 (Coming soon)**
+**Version 10 (Thursday, 2021 October 21st at 7:30 pm)**
 
 > Changes:
 
-> * Coming soon!
+> * Cleaned the file up a bit
+
+> * Added the Snapcraft logo
+
+> * Updated the lead section with new data
+
+> * Fixed several Snapcraft links
+
+> * Added an index
+
+> * Updated the footer
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 10
 
@@ -288,6 +352,22 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 > * No other changes in version 18
 
+**Version 19 (Coming soon)**
+
+> Changes:
+
+> * Coming soon!
+
+> * No other changes in version 19
+
+**Version 20 (Coming soon)**
+
+> Changes:
+
+> * Coming soon!
+
+> * No other changes in version 20
+
 </details>
 
 ***
@@ -298,7 +378,7 @@ You have reached the end of this file.
 
 ( [Back to top](#Snapcraft-project-language-files) | [Back to Seanpm2001/Git-Templates/](/Git-Templates/) | [Exit to GitHub](https://github.com/) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Safe.DuckDuckGo](https://safe.duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://www.swisscows.com/) )
 
-### EOF
+###### EOF
 
 ***
 
