@@ -71,17 +71,23 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 28. UltimateCalculator-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/UltimateCalculator-Snap/) | [View the full project](https://github.com/Seanpm2001-Snapcraft/UltimateCalculator-Snap) )
 
-29. No other snap projects (as of Tuesday, 2021 September 7th at 5:03 pm)
+29. uOffice-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/uOffice-Snap/) | [View the full project](https://github.com/Seanpm2001-Snapcraft/uOffice-Snap) )
+
+30. No other snap projects (as of Thursday, 2021 October 21st at 7:11 pm)
 
 ***
 
 ## File info
 
-**File type:**  `Markdown document (*.md *.mkd *.markdown)`
+**File type:**  `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `8 (Tuesday, 2021 September 7th at 5:03 pm)`
+**File version:** `9 (Thursday, 2021 October 21st at 7:11 pm)`
 
-**Line count (including blank lines and compiler line):** `290`
+**Line count (including blank lines and compiler line):** 316`
+
+**All times are UTC-7 (PDT/Pacific Time)**
+
+**You may need special rendering support for the `<dropdown>` HTML tag being used in this document**
 
 ***
 
@@ -198,11 +204,15 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 
 > * No other changes in version 8
 
-**Version 9 (Coming soon)**
+**Version 9 (Thursday, 2021 October 21st at 7:11 pm)**
 
 > Changes:
 
-> * Coming soon!
+> * Updated the list to add the most recent entry (1x)
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 9
 
@@ -261,6 +271,22 @@ The process of adding them took just 2 days, I struggled originally, and was thi
 > * Coming soon!
 
 > * No other changes in version 16
+
+**Version 17 (Coming soon)**
+
+> Changes:
+
+> * Coming soon!
+
+> * No other changes in version 17
+
+**Version 18 (Coming soon)**
+
+> Changes:
+
+> * Coming soon!
+
+> * No other changes in version 18
 
 </details>
 
