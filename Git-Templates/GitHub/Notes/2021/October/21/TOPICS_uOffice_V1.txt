@@ -1,0 +1,14 @@
+python
+linux
+gplv3
+windows-7
+py
+md
+txt
+gpl3
+document-viewer
+database-viewer
+spreadsheet-viewer
+uoffice
+ultimate-office
+presentation-viewer
