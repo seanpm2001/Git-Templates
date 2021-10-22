@@ -3,13 +3,45 @@
 
 ##### Top
 
+![GitHubPagesIcon.png failed to load. The file may be missing or corrupt, or it may not have been referenced (linked to) correctly. Check the file for errors. First, check the`README.md` file for errors](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/GitHubPagesIcon.png)
+
+📌 TODO: Add website and project links to all 80 entries.
+
 # Project language file listing
 
 ## For Seanpm2001 GitHub pages projects
 
-### Listing (as of Tuesday, 2021 September 21st at 4:22 pm)
+<details open><summary><p>Click/tap here to expand/collapse the index</p></summary>
+
+[00.0 - Top](#Top)
+
+[01.0 - Title](#Project-language-file-listing)
+
+> [01.1 - Subtitle](#For-Seanpm2001-GitHub-page-projects)
+
+[02.0 - Index](#Index)
+
+[03.0 - Listing](#Listing)
+
+[04.0 - File info](#File-info)
+
+[05.0 - File history](#File-history)
+
+[06.0 - Footer](#Footer)
+
+> [06.9 - EOF (End Of File)](#EOF)
+
+</details>
+
+****
+
+### Listing
+
+**(as of Thursday, 2021 October 21st at 7:46 pm)**
 
 **Note to self:** _Please update this list as frequently as possible when new data arrives._
+
+<details open><summary><p>Click/tap here to expand/collapse the list of GitHub pages projects</p></summary>
 
 **List is in alphabetical order (for first 28 entries)**
 
@@ -173,19 +205,31 @@
 
 79. [ScreenTeX.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/ScreenTeX.github.io/)
 
-80. No other entries at the moment (1 entry is from my own account and not an organization, and 1 entry is from my alt account)
+80. [uOffice.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/uOffice.github.io/)
+
+81. No other entries at the moment (1 entry is from my own account and not an organization, and 1 entry is from my alt account)
+
+</details>
 
 ***
 
 ## File info
 
-**File type:** `Markdown document (*.md *.mkd *.markdown)`
+<details open><summary><p>Click/tap here to expand/collapse the file info section</p></summary>
 
-**File version:** `24 (Tuesday, 2021 September 21st at 4:22 pm)`
+**File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**Language:** `English (US)`
+**File version:** `25 (Thursday, 2021 October 21st at 7:46 pm)`
 
-**Line count (including blank lines and compiler line):** `0,694`
+**Article language:** `English (US) / Markdown`
+
+**Line count (including blank lines and compiler line):** `0,768`
+
+**All times are UTC-7 (PDT/Pacific Time)**
+
+**You may need special rendering support for the `<dropdown>` HTML tag being used in this document**
+
+</details>
 
 ***
 
@@ -486,11 +530,25 @@
 
 > * No other changes in version 24
 
-**Version 25 (Coming soon)**
+**Version 25 (2021, Thursday, October 21st at 7:46 pm)**
 
 > * Changes:
 
-> * Coming soon!
+> * Remodeled the file
+
+> * Added a logo
+
+> * Added an index
+
+> * Updated the listing
+
+> * Updated all sections (except for the footer) to contain a dropdown
+
+> * Added 1 new entry
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 25
 
@@ -677,6 +735,22 @@
 > * Coming soon!
 
 > * No other changes in version 48
+
+**Version 49 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 49
+
+**Version 50 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 50
 
 </details>
 
