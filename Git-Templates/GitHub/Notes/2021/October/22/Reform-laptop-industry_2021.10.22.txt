@@ -1,0 +1,22 @@
+Reforms in the laptop industry
+
+Battery percentage SHOULD NOT be determined by idle time
+
+Laptops need to be thick enough to have at least 2 USB 3 ports, Dongles should be obsolete
+
+Laptops should weigh at least 1.0 pound each
+
+All laptops should have at least 3 choices for a default Operating System, and you shouldn't get a single byte of a difference for choosing a different operating system (Example: 7,999,999,999 bytes of RAM for choosing Linux, and 8,000,000,000 bytes of RAM for using Windows) (Windows, ChromeOS, Linux/safe (Ubuntu, Triskell, Red Hat Linux, Fedora, Arch, Manjaro, etc.)) the safe option is the difficult one to define, as evil unsafe Linux-based systems such as ChromeOS exist. The 3rd option should be a common Linux distribution that respects the user, Ubuntu isn't the worst when compared to Windows (non-Linux) or ChromeOS, but another common replacement would be Red Hat Linux or Fedora Linux. Come on, people are paying you hundreds/thousands of dollars to buy a laptop, they should at least have more freedom when it comes to which operating system they can choose.
+
+{ [1] MacOS isn't listed as an option here, as any computer that sells with MacOS installed typically won't give you another option. This reform doesn't apply to Apple, as there isn't much that can be done here 
+
+[2] BSD isn't listed as an option either, as it is harder to support. I am not against BSD, I just want to create terms that as many laptop manufacturers as possible can get behind. BSD can easily be a 4th option, same goes for Solaris, ReactOS, and other operating systems not yet listed.
+
+}
+
+The following text is supposed to be crossed through. If it is not, please skip from line 19 to line 21
+
+~~Installing a different operating system SHOULD NOT void the warranty. If we really have to talk about it like this: modification of the device system software can void the warranty, unless your system software is open source, you know what, screw the warranty. I am going to rewrite this~~
+
+Installing a different operating system or modifying the system software SHOULD NOT void the warranty. You paid for the laptop, you should be able to choose what you can do with it.
+

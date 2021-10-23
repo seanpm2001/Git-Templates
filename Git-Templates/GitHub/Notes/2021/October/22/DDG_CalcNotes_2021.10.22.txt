@@ -1,0 +1,24 @@
+2021.10.22 (Twenty-Twenty-One, October Twenty-Second) DuckDuckGo Calculation Notes
+
+URL: https://duckduckgo.com/?q=545%2C362%2C327+bytes+to+MiB&t=hy&va=g&ia=answer
+
+545,362,327 bytes
+520.097,732,544 MiB
+
+Duration: 1:00
+Light Mode: White
+Audio quality: Good
+
+RAW notes (unformatted):
+
+Fish eating during fishtank video
+1 minute, white light
+545,362,327 bytes
+520.097732544 MiB
+
+DDG Weight calculation notes (2021 October 11th)
+
+Weight
+
+NO NOTES
+
