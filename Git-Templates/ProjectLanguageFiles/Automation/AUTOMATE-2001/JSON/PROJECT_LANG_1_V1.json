@@ -1,0 +1,11 @@
+{
+	"projectLanguage": "1",
+	"projectLangHead": "For AUTOMATE-2001",
+	"projectLanHead2": "About:",
+	"projectLangBody": "I decided to make JSON the main project language for this project (Seanpm2001/AUTOMATE-2001/) as I don't use the format that much, and I have found that this works best with the GitHub API, which is used for part of this project.",
+}[]{
+	"FileInfo": "Nil",
+	"FileType": "JSON source file (*.json)",
+	"FileVersion": "1 (2021, Saturday, October 23rd at 6:50 pm)",
+	"LineCount": "Including blank lines and compiler line): 12",
+}
