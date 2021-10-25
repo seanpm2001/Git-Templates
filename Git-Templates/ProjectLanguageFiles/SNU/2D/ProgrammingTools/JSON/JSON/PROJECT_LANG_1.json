@@ -1,0 +1,11 @@
+{
+	"projectLanguage": "1",
+	"projectLangHead": "For SNU/2D/ProgrammingTools/IDE/JSON",
+	"projectLanHead2": "About:",
+	"projectLangBody": "I decided to make JSON the main project language for this project (SNU/2D/ProgrammingTools/IDE/JSON) as this is a JSON interpreter, and JSON is its primary language. I am not sure if a JSON interpreter can be written in JSON, it might need to be done in another language.",
+}[]{
+	"FileInfo": "Nil",
+	"FileType": "JSON source file (*.json)",
+	"FileVersion": "1 (2021, Monday, October 25th at 4:07 pm)",
+	"LineCount": "Including blank lines and compiler line): 12",
+}
