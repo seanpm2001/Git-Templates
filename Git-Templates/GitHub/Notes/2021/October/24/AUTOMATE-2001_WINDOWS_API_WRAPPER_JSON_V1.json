@@ -1,0 +1,29 @@
+// Start of script
+// A JSON wrapper for the Windows API (vanilla) interface stylesheet
+{
+	// Main thread
+	// Information about the program
+	"StartThread1": "Bool/True",
+	"Program1": "STYLE.cs",
+	"LanguageA": "C# 3.0",
+	"MinimumVersion": "C# 1.0",
+	"MaximumVersion": "Unknown",
+	"Type": "Interface stylesheet program for GitHub automation",
+	"LanguageB": "English (US)",
+	"Authors": "@seanpm2001",
+	"InterfaceType": "GUI (Graphical User Interface) Windows API",
+	"StylesheetQT": "/GitHub/QT/STYLE.qml",
+	"StyleSheetGTK": "/GitHub/GTK/STYLE.vala",
+	"StyleSheetWindows": "/GitHub/Windows/STYLE.cs", // Current
+	"EndThread1": "Nil",
+}
+[] // Divider
+
+// File info
+// File type: JSON (JavaScript Object Notation) source file (*.json)
+// File version: 1 (2021, Sunday, October 24th at 4:53 pm)
+// Line count (including blank lines and comiler line): 29
+// File language: English (US)
+
+// End of script
+

@@ -1,0 +1,18 @@
+// Start of script
+
+{
+  // Pushing to GitHub pages to keep the site active
+  "Date": ".getCurrentDate",
+  "PushTime": "Once a month",
+  "PushCommit": "/ACTIVE.txt" + "\nMonthly push to keep site active - " + "<date>",
+  "EndPush": "True",
+}
+
+// File info
+// File type: JSON (JavaScript Object Notation) source file (*.json)
+// File version: 1 (2021, Sunday, October 24th at 3:32 pm)
+// Line count (including blank lines and comiler line): 18
+// File language: English (US)
+
+// End of script
+

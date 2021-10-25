@@ -1,0 +1,51 @@
+// Start of script
+{
+  // Main thread
+  "push": "Nil",
+  "pushCommit1Title": "<getTitleA>",
+  "pushDescription1Body": "<getDescriptionA>",
+  "pushCommit2Title": "<getTitleB>",
+  "pushDescription2Body": "<getDescriptionB>",
+  "pushCommit3Title": "<getTitleC>",
+  "pushDescription3Body": "<getDescriptionC>",
+  "pushCommit4Title": "<getTitleD>",
+  "pushDescription4Body": "<getDescriptionD>",
+}
+[] // Divider
+{
+  // Automating the first commit
+  "AutomateA": "/GitHub/API/Archival/Discussion/English/MAIN.js",
+  "getTitleA": "README.md (V1)",
+  "getDescriptionA": "The README.md file for this directory.",
+}
+[] // Divider
+{
+  // Automating the second commit
+  "AutomateB": "/GitHub/API/Archival/Discussion/English/MAIN.js",
+  "getTitleB": "README_V1.md",
+  "getDescriptionB": "An archive of the first version of the README.md file for this directory",
+}
+[] // Divider
+{
+  // Automating the third commit
+  "AutomateC": "/GitHub/API/Archival/Discussion/English/MAIN.js",
+  "getTitleC": "TITLE.txt",
+  "getDescriptionC": "The title for this discussion",
+}
+[] // Divider
+{
+  // Automating the fourth commit
+  "AutomateD": "/GitHub/API/Archival/Discussion/English/MAIN.js",
+  "getTitleD": "URL.txt",
+  "getDescriptionD": "The link to this discussion",
+}
+[] // Divider
+
+// File info
+// File type: JSON (JavaScript Object Notation) source file (*.json)
+// File version: 1 (2021, Sunday, October 24th at 2:49 pm)
+// Line count (including blank lines and comiler line): 51
+// File language: English (US)
+
+// End of script
+
