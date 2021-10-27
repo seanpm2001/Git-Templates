@@ -1,0 +1,21 @@
+2021.10.26 (Twenty-Twenty-One, October Twenty-Sixth) DuckDuckGo Calculation Notes
+
+URL: https://duckduckgo.com/?q=181%2C609%2C001+bytes+to+MiB&t=hy&va=g&ia=answer
+
+XXX,181,609,001 bytes
+173.195,838,928 MiB
+
+Duration: 0:20
+Light Mode: Blue
+Audio quality: Good
+
+RAW notes (unformatted):
+
+NIL
+
+DDG Weight calculation notes (2021 October 11th)
+
+Weight
+
+NO NOTES
+

@@ -1,0 +1,13 @@
+github
+json
+automation
+gplv3
+md
+txt
+gpl3
+github-automation
+software-automation
+seanpm2001
+automate2001
+automate-2001
+life-saver 
