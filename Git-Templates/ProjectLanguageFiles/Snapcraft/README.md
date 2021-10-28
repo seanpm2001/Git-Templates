@@ -115,7 +115,9 @@ There are far fewer Snapcraft projects than there are GitHub Pages projects. [Cl
 
 29. uOffice-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/uOffice-Snap/) | [View the full project](https://github.com/uOffice/uOffice-Snap) )
 
-30. No other snap projects (as of Thursday, 2021 October 21st at 7:30 pm)
+30. AUTOMATE-2001-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/AUTOMATE-2001-Snap/) | [View the full project](https://github.com/AUTOMATE-2001/AUTOMATE-2001-Snap) )
+
+31. No other snap projects (as of Wednesday, 2021 October 27th at 11:30 pm)
 
 </details>
 
@@ -127,11 +129,11 @@ There are far fewer Snapcraft projects than there are GitHub Pages projects. [Cl
 
 **File type:**  `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `10 (Thursday, 2021 October 21st at 7:30 pm)`
+**File version:** `11 (Wednesday, 2021 October 27th at 11:30 pm)`
 
-**Line count (including blank lines and compiler line):** `396`
+**Line count (including blank lines and compiler line):** `418`
 
-**Article language:** `English (US) / Markdown`
+**Article language:** `English (US) / Markdown / HTML5`
 
 **All times are UTC-7 (PDT/Pacific Time)**
 
@@ -288,11 +290,15 @@ There are far fewer Snapcraft projects than there are GitHub Pages projects. [Cl
 
 > * No other changes in version 10
 
-**Version 11 (Coming soon)**
+**Version 11 (2021, Wednesday, October 27th at 11:30 pm)**
 
 > Changes:
 
-> * Coming soon!
+> * Added 1 new entry
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 11
 
@@ -367,6 +373,22 @@ There are far fewer Snapcraft projects than there are GitHub Pages projects. [Cl
 > * Coming soon!
 
 > * No other changes in version 20
+
+**Version 21 (Coming soon)**
+
+> Changes:
+
+> * Coming soon!
+
+> * No other changes in version 21
+
+**Version 22 (Coming soon)**
+
+> Changes:
+
+> * Coming soon!
+
+> * No other changes in version 22
 
 </details>
 
