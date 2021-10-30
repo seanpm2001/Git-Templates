@@ -1,0 +1,71 @@
+Lyrics for all non-English videos, and lyrics for all English songs
+
+Rucka Rucka Ali
+Bohemian Rhapsody
+Don't stop me now
+We are the champions
+We will rock you
+Maroon 5 - Animals
+Maroon 5 - Heathens
+Maroon 5 - We are young
+Twenty One Pilots - Stressed out
+It is Wednesday my dudes
+Office theme
+Nintendo DS startup
+XBOX Startup
+PlayStation startup
+Bjork - I remember you
+Chinese anthem
+PPAP
+PonPonPon
+Polish Cow
+Seinfeld theme
+Teen Titans Go
+SpongeBob
+Stitches Brick in yo face
+Silent Partner - Sad Past
+Clash Royale
+Hay Day
+Clash of CLans
+FNAF1
+FNAF2
+FNAF3
+FNAF4
+FNAF World
+Country roads
+Old town road
+The devil went down to Georgia
+Tones and I
+Tones and I - Dance monkey
+Chocolate rain
+Chariots of fire
+Coffin dance
+Coldplay - Clocks
+Coldplay - Viva La Vida
+Jeopardy theme
+
+Broad categories
+
+Country Music
+Meme series
+Curb your enthusiasm remixes
+Undertale remixes
+Deltarune remixes
+
+To create:
+
+Billy Joel - Piano Man
+Billy Joel - We didn't start the fire
+Adele - Hello
+Elton John - Yellow Brick Road
+Vanessa Carlton - 1000 miles
+Toto - Africa
+
+Recent audio conversion
+
+I have recently discovered album customizations on VLC Media Player, and it has inspired a new phase of exporting and updating my music collection with audio only equivalents of some songs. Some songs are up to ~2000x smaller without the music video.
+
+Don't worry, I didn't delete the original files. The original video only, video with audio, and audio only versions are still there.
+
+This is my big step in switching over to the SLIM I audio system, which will give me additional storage space, and make the collection more portable. I am hoping to be able to fit the entire collection on a single 128 gigabyte (or smaller, likely not smaller than 48 gigabytes) MicroSD card, rather than on a 400 Gigabyte MicroSD card.
+
