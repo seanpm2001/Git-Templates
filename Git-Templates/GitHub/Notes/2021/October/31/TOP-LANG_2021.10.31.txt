@@ -1,0 +1,16 @@
+My top languages (Polyglot index)
+
+Markup
+
+Markdown (about 95% mastery), HTML5 (~94% of all tags memorized)
+
+Stylesheet
+
+QML (very low mastery, about 1%), CSS (low mastery, about 3%), Less (very low mastery, about 2.1%)
+
+Functional
+
+Python (about 35% mastery), Boo (about 34% mastery), Java (low mastery, about 12% mastery), C (low mastery, about 7% mastery), C++ (low mastery, about 4% mastery), Rust (low mastery, about 2.6% mastery), Ruby (low mastery, about 2.5% mastery) JavaScript (very low mastery, about 2.2%)
+
+These mastery ratings are judged based off of how much I know, and how I much I know that I don't know.
+
