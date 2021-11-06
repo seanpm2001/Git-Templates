@@ -1,0 +1,5 @@
+https://github.com/signalapp/Signal-Desktop
+https://github.com/signalapp/libsignal-client
+https://github.com/signalapp/Signal-iOS
+https://github.com/signalapp/Signal-Server
+
