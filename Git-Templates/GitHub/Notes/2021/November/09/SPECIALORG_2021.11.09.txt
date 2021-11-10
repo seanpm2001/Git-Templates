@@ -1,0 +1,6 @@
+https://github.com/coffeescript
+https://github.com/airbnb
+https://github.com/Comcast
+https://github.com/Samsung
+https://github.com/qt
+

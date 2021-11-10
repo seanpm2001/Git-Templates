@@ -1,0 +1,21 @@
+2021.11.09 (Twenty-Twenty-One, November Ninth) DuckDuckGo Calculation Notes
+
+https://duckduckgo.com/?t=ffab&q=220%2C134%2C159+bytes+to+MiB&ia=answer
+
+220,134,159 bytes
+209.936141968 MiB
+
+Duration: 0:24
+Light Mode: Blue
+Audio quality: Very good
+
+RAW notes (unformatted):
+
+NIL
+
+DDG Weight calculation notes (2021 October 11th)
+
+Weight
+
+NO NOTES
+
