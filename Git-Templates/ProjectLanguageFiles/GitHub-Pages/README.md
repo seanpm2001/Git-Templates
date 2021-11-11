@@ -5,7 +5,7 @@
 
 ![GitHubPagesIcon.png failed to load. The file may be missing or corrupt, or it may not have been referenced (linked to) correctly. Check the file for errors. First, check the`README.md` file for errors](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/GitHubPagesIcon.png)
 
-- [x] 📌 TODO: Add website and project links to all 80 entries. (completed on 2021 October 27th)
+<!-- - [x] 📌 TODO: Add website and project links to all 80 entries. (completed on 2021 October 27th) !-->
 
 # Project language file listing
 
@@ -37,7 +37,7 @@
 
 ### Listing
 
-**(as of Wednesday, 2021 October 27th at 6:42 pm)**
+**(as of Wednesday, 2021 November 10th at 8:05 pm)**
 
 **Note to self:** _Please update this list as frequently as possible when new data arrives._
 
@@ -209,7 +209,9 @@
 
 81. ( [AUTOMATE-2001.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/AUTOMATE-2001.github.io/) | [Project link](https://github.com/AUTOMATE-2001/AUTOMATE-2001.github.io/) | [Website link](https://AUTOMATE-2001.github.io/) )
 
-82. No other entries at the moment (1 entry is from my own account and not an organization, and 1 entry is from my alt account)
+82. ( [Bosky-dev.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Bosky-dev.github.io/) | [Project link](https://github.com/Bosky-dev/Bosky-dev.github.io/) | [Website link](https://bosky-dev.github.io/) )
+
+83. No other entries at the moment (1 entry is from my own account and not an organization, and 1 entry is from my alt account)
 
 </details>
 
@@ -221,11 +223,11 @@
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `26 (Wednesday, 2021 October 27th at 6:42 pm)`
+**File version:** `27 (Wednesday, 2021 November 10th at 8:05 pm)`
 
 **Article language:** `English (US) / Markdown / HTML5`
 
-**Line count (including blank lines and compiler line):** `0,790`
+**Line count (including blank lines and compiler line):** `0,812`
 
 **All times are UTC-7 (PDT/Pacific Time)**
 
@@ -566,11 +568,15 @@
 
 > * No other changes in version 26
 
-**Version 27 (Coming soon)**
+**Version 27 (2021, Wednesday, November 10th at 8:05 pm)**
 
 > * Changes:
 
-> * Coming soon!
+> * Added 1 new entry
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 27
 
@@ -773,6 +779,22 @@
 > * Coming soon!
 
 > * No other changes in version 52
+
+**Version 53 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 53
+
+**Version 54 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 54
 
 </details>
 
