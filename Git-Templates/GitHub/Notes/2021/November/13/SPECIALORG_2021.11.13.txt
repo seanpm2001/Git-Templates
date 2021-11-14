@@ -1,0 +1,8 @@
+https://github.com/isabelle-prover
+https://github.com/haskell
+https://github.com/stylus
+https://github.com/supercollider
+https://github.com/handlebars-lang
+https://github.com/d-language-server
+https://github.com/IBM
+
