@@ -1,0 +1,12 @@
+https://github.com/WHTJEON/widevine-dl
+https://github.com/WHTJEON/narrowvine
+https://github.com/WHTJEON/narrowvine-reborn
+https://github.com/Igglybuff/awesome-piracy
+https://github.com/ssh3ll/Windows-10-Hardening
+https://github.com/cryptonek/widevine-l3-decryptor
+https://github.com/guozhen-dev/widevine-l3-decryptor
+https://github.com/tomer8007/widevine-l3-decryptor/wiki/Reversing-the-old-Widevine-Content-Decryption-Module
+https://github.com/Pincer-org/Pincer
+https://github.com/Pincer-org/Pincer-Bot
+https://github.com/Pincer-org/pincer.dev
+
