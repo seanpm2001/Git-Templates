@@ -1,0 +1,19 @@
+11.18
+
+https://duckduckgo.com/?q=103%2C720%2C718+bytes+to+MiB&t=ffab&ia=answer
+
+103,720,718 bytes
+98.916053772 MiB
+11 sec
+White light
+Bad audio quality
+
+11.19
+
+https://duckduckgo.com/?q=139%2C434%2C195+bytes+to+MiB&t=ffab&ia=answer
+
+139,434,195 bytes
+132.974624634 MiB
+15 sec
+Dark Blue light
+Poor audio quality
