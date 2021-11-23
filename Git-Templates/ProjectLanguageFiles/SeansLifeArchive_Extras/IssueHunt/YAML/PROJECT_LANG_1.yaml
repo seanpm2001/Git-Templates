@@ -1,0 +1,19 @@
+# Start of script
+# Project language file
+# For: SeansLifeArchive_Extras_IssueHunt
+# The project language file for this project is YAML as this project (SeansLifeArchive/Extras/IssueHunt) makes heavy usage of YAML for its main documentation.
+# This is a rare instance in which I am using YAML as a project language file, as I learned how to make the GitHub linguist recognize Markdown as a language, and I extended this to other languages, this time with YAML. I found this out when snooping around on [Apple/Swift Evolution](https://github.com/apple/swift-evolution/blob/main/.gitattributes) if you want to do this yourself, simply add this to your `.gitattributes` file (if you haven't created one yet, make it now, do not add anything else to the file name but `.gitattributes`)
+# I chose YAML as the first project language for this project (Seanpm2001/LifeArchive/Extras/IssueHunt) as YAML is the language that currently is the majority in the development of IssueHunt (as far as open source goes) and this project is about IssueHunt, so the language fits. IssueHunt really wasn't written in a programming language, so out of the choice of Markdown and YAML, I chose YAML, as the funding file uses YAML.
+gitattributes: ".gitattributes"
+line1: *.yml linguist-detectable=true
+line2: *.yaml linguist-detectable=true
+titletext: "Project language file 1"
+subtitletexT: "For: SeansLifeArchive/Extras/IssueHunt"
+projectlanguage: "YAML"
+projectlanguageDescription: "I chose YAML as the first project language for this project (Seanpm2001/LifeArchive/Extras/IssueHunt) as YAML is the language that currently is the majority in the development of IssueHunt (as far as open source goes) and this project is about IssueHunt, so the language fits. IssueHunt really wasn't written in a programming language, so out of the choice of Markdown and YAML, I chose YAML, as the funding file uses YAML."
+end: "quit"
+## File info
+# File type: YAML document (*.yml *.yaml)
+# File version: 1 (Monday, 2021 November 22nd at 4:35 pm)
+# Line count (including blank lines and compiler line): 20
+# End of script
