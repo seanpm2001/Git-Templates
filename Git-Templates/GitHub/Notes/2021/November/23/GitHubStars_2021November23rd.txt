@@ -1,0 +1,5 @@
+https://github.com/Raku/doc
+https://github.com/Raku/examples
+https://github.com/microsoft/QuantumLibraries
+https://github.com/jefflomacy/villagerdb
+
