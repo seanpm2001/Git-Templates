@@ -1,0 +1,13 @@
+https://github.com/mohanson/brainfuck
+https://github.com/justinmeza/lci
+https://github.com/TheAlgorithms/PHP
+https://github.com/TheAlgorithms/Julia
+https://github.com/TheAlgorithms/Lua
+https://github.com/TheAlgorithms/Kotlin
+https://github.com/TheAlgorithms/C-Sharp
+https://github.com/TheAlgorithms/Jupyter
+https://github.com/TheAlgorithms/Elixir
+https://github.com/TheAlgorithms/MATLAB-Octave
+https://github.com/TheAlgorithms/Clojure
+https://github.com/TheAlgorithms/Swift
+
