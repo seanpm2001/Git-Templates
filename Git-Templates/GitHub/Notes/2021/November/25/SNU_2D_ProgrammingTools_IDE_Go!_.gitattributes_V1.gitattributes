@@ -1,0 +1,194 @@
+# Start of script
+# .gitattributes
+# This file defines what languages can show up in the GitHub linguist menu (the menu that tells you what percentage each language is using up on this project.
+# Some non-programming languages must be included manually with this file. Want to create your own? Do something similar to what is done here, and name the file
+# .gitattributes
+# and nothing else, no characters before, no characters after
+# Start of linguist script
+# HTML (Duplicate, as it is already detected by GitHub Linguist by default)
+*.htm linguist-detectable=true
+*.htm linguist-documentation=false
+*.html linguist-detectable=true
+*.html linguist-documentation=false
+# YAML (YAML Ain't Markup Language)
+*.yml linguist-detectable=true
+*.yml linguist-documentation=false
+*.yaml linguist-detectable=true
+*.yaml linguist-documentation=false
+# Markdown
+# Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
+*.md linguist-detectable=false
+*.md linguist-documentation=false
+# Makefile (GNU Make)
+*.mk linguist-detectable=true
+*.mk linguist-documentation=false
+*.make linguist-detectable=true
+*.make linguist-documentation=false
+# Shell (BA SH, Bourne Again Shell)
+*.sh linguist-detectable=true
+*.sh linguist-documentation=false
+# Emacs Lisp
+*.el linguist-detectable=true
+*.el linguist-documentation=false
+# LaTeX
+*.tex linguist-detectable=true
+*.tex linguist-documentation=false
+*.texshop linguist-detectable=true
+*.texshop linguist-documentation=false
+# BiBTeX (subcategory of LaTeX)
+*.bib linguist-detectable=true
+*.bib linguist-documentation=false
+# Go! (NOT Google Golang)
+*.go linguist-detectable=true
+*.go linguist-documentation=false
+# Portable Object Files
+*.po linguist-detectable=true
+*.po linguist-documentation=false
+# Rich Text Format
+*.rtf linguist-detectable=true
+*.rtf linguist-documentation=false
+*.mk linguist-detectable=true
+*.mk linguist-documentation=false
+# GNU AutoConf files
+*.in linguist-detectable=true
+*.in linguist-documentation=false
+*.out linguist-detectable=true
+*.out linguist-documentation=false
+*.output linguist-detectable=true
+*.output linguist-documentation=false
+# Scan files
+*.scan linguist-detectable=true
+*.scan linguist-documentation=false
+# M4 automation & M4 Sugar files
+*.m4 linguist-detectable=true
+*.m4 linguist-documentation=false
+# Portable C
+*.c linguist-detectable=true
+*.c linguist-documentation=false
+# C Headers
+*.h linguist-detectable=true
+*.h linguist-documentation=false
+# ROFF files
+*.0 linguist-detectable=true
+*.0 linguist-documentation=false
+*.1 linguist-detectable=true
+*.1 linguist-documentation=false
+*.2 linguist-detectable=true
+*.2 linguist-documentation=false
+*.3 linguist-detectable=true
+*.3 linguist-documentation=false
+*.4 linguist-detectable=true
+*.4 linguist-documentation=false
+# GITIGNORE files
+*.gitignore linguist-detectable=true
+*.gitignore linguist-documentation=false
+*.cvsignore linguist-detectable=true
+*.cvsignore linguist-documentation=false
+# MacOS automation files
+*.post_install linguist-detectable=true
+*.post_install linguist-documentation=false
+*.post_upgrade linguist-detectable=true
+*.post_upgrade linguist-documentation=false
+# SGML (Standardized General Markup Language)
+*.sgml linguist-detectable=true
+*.sgml linguist-documentation=false
+# XML (eXtensible Markup Language)
+*.xml linguist-detectable=true
+*.xml linguist-documentation=false
+# CSS (Cascade Styling Sheets)
+*.css linguist-detectable=true
+*.css linguist-documentation=false
+# RDF (Resource Description Framework Summary)
+*.rdf linguist-detectable=true
+*.rdf linguist-documentation=false
+# GPG Key (GNU Privacy Guard key)
+*.gpg linguist-detectable=true
+*.gpg linguist-documentation=false
+# JSON (JavaScript Object Notation)
+*.json linguist-detectable=true
+*.json linguist-documentation=false
+# DL (Dynamic Library file)
+*.dl linguist-detectable=true
+*.dl linguist-documentation=false
+# LYX (LYX document)
+*.lyx linguist-detectable=true
+*.lyx linguist-documentation=false
+# TOC (Table Of Contents file)
+*.toc linguist-detectable=true
+*.toc linguist-documentation=false
+# PDF (Portable Document Format)
+*.pdf linguist-detectable=false
+*.pdf linguist-documentation=false
+# PNG (Portable Network Graphics image file)
+*.png linguist-detectable=false
+*.png linguist-documentation=false
+# Graffle (OmniGraffle Sketch file)
+*.graffle linguist-detectable=true
+*.graffle linguist-documentation=false
+# TDPL (Top Down Parsing Language file)
+*.tdpl linguist-detectable=true
+*.tdpl linguist-documentation=false
+# Unknown
+*.am linguist-detectable=true
+*.am linguist-documentation=false
+*.gh linguist-detectable=true
+*.gh linguist-documentation=false
+*.ap linguist-detectable=true
+*.ap linguist-documentation=false
+*.ah linguist-detectable=true
+*.ah linguist-documentation=false
+*.aam linguist-detectable=true
+*.aam linguist-documentation=false
+*.af linguist-detectable=true
+*.af linguist-documentation=false
+*.goc linguist-detectable=true
+*.goc linguist-documentation=false
+*.ah linguist-detectable=true
+*.ah linguist-documentation=false
+*.alx linguist-detectable=true
+*.alx linguist-documentation=false
+*.glx linguist-detectable=true
+*.glx linguist-documentation=false
+*.sty linguist-detectable=true
+*.sty linguist-documentation=false
+*.nls linguist-detectable=true
+*.nls linguist-documentation=false
+*.nlo linguist-detectable=true
+*.nlo linguist-documentation=false
+*.lot linguist-detectable=true
+*.lot linguist-documentation=false
+*.lof linguist-detectable=true
+*.lof linguist-documentation=false
+*.loe linguist-detectable=true
+*.loe linguist-documentation=false
+*.ind linguist-detectable=true
+*.ind linguist-documentation=false
+*.ilg linguist-detectable=true
+*.ilg linguist-documentation=false
+*.ilx linguist-detectable=true
+*.ilx linguist-documentation=false
+*.brf linguist-detectable=true
+*.brf linguist-documentation=false
+*.glo linguist-detectable=true
+*.glo linguist-documentation=false
+*.plo linguist-detectable=true
+*.plo linguist-documentation=false
+*.lo linguist-detectable=true
+*.lo linguist-documentation=false
+*.o linguist-detectable=true
+*.o linguist-documentation=false
+*.la linguist-detectable=true
+*.la linguist-documentation=false
+*.lai linguist-detectable=true
+*.lai linguist-documentation=false
+*.gprules linguist-detectable=true
+*.gprules linguist-documentation=false
+*.ul linguist-detectable=true
+*.ul linguist-documentation=false
+# End of linguist script
+# File info
+# File type: gitattributes file (.gitattributes)
+# File version: 1 (Thursday, 2021 November 25th at 7:52 pm)
+# Line count (including blank lines and compiler line): 194
+# End of script
+

@@ -1,0 +1,13 @@
+https://github.com/garronej/tsafe
+https://github.com/TheAlgorithms/Haskell
+https://github.com/TheAlgorithms/OCaml
+https://github.com/TheAlgorithms/Scala
+https://github.com/TheAlgorithms/Elm
+https://github.com/TheAlgorithms/F-Sharp
+https://github.com/TheAlgorithms/AArch64_Assembly
+https://github.com/TheAlgorithms/C-Plus-Plus
+https://github.com/TheAlgorithms/Javascript
+https://github.com/TheAlgorithms/C
+https://github.com/TheAlgorithms/Go
+https://github.com/TheAlgorithms/Ruby
+
