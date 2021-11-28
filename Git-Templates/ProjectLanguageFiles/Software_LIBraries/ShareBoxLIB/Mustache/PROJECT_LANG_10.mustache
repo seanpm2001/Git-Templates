@@ -1,0 +1,27 @@
+<h1>{{header}}</h1>
+{{#list}}
+  <ul>
+  {{#item}}
+    {{#current}}
+      <li><strong>{{name}}</strong></li>
+    {{/current}}
+    {{#link}}
+      <li><a href="{{url}}">{{name}}</a></li>
+        <li><p>Project language file 10</p></li>
+        <li><p>For: Seanpm2001/ShareBoxLIB</p></li>
+        <li><p>About:</p></li>
+        <li><p>I chose Mustache as the tenh project language for this project (Seanpm2001/ShareBoxLIB) as Mustache is one of the languages used on certain variants of this projects framework, so this project can work well with other programming language frameworks.</p></li>
+    {{/link}}
+  {{/item}}
+  </ul>
+{{/list}}
+
+{{^list}}
+  <p>The list is empty.</p>
+{{/list}}
+/* File info
+* File type: Mustache source file (*.mustache)
+* File version: 1 (2021, Saturday, November 27th at 9:41 pm)
+* Line count (including blank lines and compiler line): 28
+*/
+// End of script
