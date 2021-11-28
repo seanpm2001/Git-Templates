@@ -1,0 +1,13 @@
+c
+education
+collection
+knowledge
+gplv3
+md
+txt
+gpl3
+c-lang
+learn-c
+portable-c
+c-collection
+standard-c 

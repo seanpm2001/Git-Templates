@@ -1,0 +1,25 @@
+<!-- Start of script !-->
+<!-- H1, H2, H3, H4, H5, H6 !-->
+<!-- XML Sample file !-->
+<title1="Project language file 1 - Seanpm2001/Learn-XML"></title1>
+<bodyMain>
+<titlemeta="Project language file 1"></titlemeta>
+<projectDi>For: Seanpm2001/Learn-XML</projectDi>
+<description>I decided to make XML the main project language file for this project (Seanpm2001/Learn-XML) as XML is the language this project is dedicated to, because this project is about learning the XML programming language. It only makes sense to make XML the official language for this project.</description>
+</bodyMain>
+<!-- Divider !-->
+<fileInfo>
+	<fileVerCurrent="Version 1 (2021 Friday November 26th th at 7:09 pm)"></fileVerCurrent>
+	<fileVerFirst="Version 1 (2021 Friday November 26th th at 7:09 pm)"></fileVerFirst>
+	<fileType="XML"></fileType><!-- Obvious, but the compiler may need it !-->
+	<lineCount>
+    <includingblanklinesandcompilerline>
+    25 lines
+    </includingblanklinesandcompilerline>
+  </lineCount>
+	<encoding1="UTF-8"></encoding1>
+	<indenting="Unix (LF)"></indenting>
+	<size1="Undetermined">SIZE</size1>
+</fileInfo>
+<!-- End of script !-->
+
