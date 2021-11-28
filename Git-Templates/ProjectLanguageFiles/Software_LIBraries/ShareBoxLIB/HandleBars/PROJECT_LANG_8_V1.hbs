@@ -1,0 +1,25 @@
+<!-- Start of script !--->
+<h1>{{header}}</h1>
+{{#if items}}
+  <ul>
+    {{#each items}}
+      {{#if current}}
+        <li><strong>{{name}}</strong></li>
+      {{^}}
+        <li><a href="{{url}}">{{name}}</a></li>
+        <li><p>Project language file 8</p></li>
+        <li><p>For: Seanpm2001/ShareBoxLIB</p></li>
+        <li><p>About:</p></li>
+        <li><p>I chose HandleBars as the eighth project language for this project (Seanpm2001/ShareBoxLIB) as HandleBars is one of the languages used on certain variants of this projects framework, so this project can work well with other programming language frameworks.</p></li>
+      {{/if}}
+    {{/each}}
+  </ul>
+{{^}}
+  <p>The list is empty.</p>
+{{/if}}
+<!-- File info
+>>* File type: HandleBars source file (*.hbs *.handlebars)
+>>* File version: 1 (2021, Saturday, November 27th at 9:19 pm)
+>>* Line count (including blank lines and compiler line): 26
+!-->
+<!-- End of script !-->
