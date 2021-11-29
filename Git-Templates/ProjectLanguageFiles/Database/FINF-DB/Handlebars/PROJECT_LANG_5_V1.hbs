@@ -1,0 +1,25 @@
+<!-- Start of script !--->
+<h1>{{header}}</h1>
+{{#if items}}
+  <ul>
+    {{#each items}}
+      {{#if current}}
+        <li><strong>{{name}}</strong></li>
+      {{^}}
+        <li><a href="{{url}}">{{name}}</a></li>
+        <li><p>Project language file 5</p></li>
+        <li><p>For: Seanpm2001/FINF-DB</p></li>
+        <li><p>About:</p></li>
+        <li><p>I chose HandleBars as the fifth project language for this project (Seanpm2001/FINF-DB) as HandleBars is one of the alternative database languages for this project.</p></li>
+      {{/if}}
+    {{/each}}
+  </ul>
+{{^}}
+  <p>The list is empty.</p>
+{{/if}}
+<!-- File info
+>>* File type: HandleBars source file (*.hbs *.handlebars)
+>>* File version: 1 (2021, Sunday, November 28th at 5:52 pm)
+>>* Line count (including blank lines and compiler line): 26
+!-->
+<!-- End of script !-->
