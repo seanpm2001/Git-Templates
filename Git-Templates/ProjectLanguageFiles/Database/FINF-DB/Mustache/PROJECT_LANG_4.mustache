@@ -1,0 +1,27 @@
+<h1>{{header}}</h1>
+{{#list}}
+  <ul>
+  {{#item}}
+    {{#current}}
+      <li><strong>{{name}}</strong></li>
+    {{/current}}
+    {{#link}}
+      <li><a href="{{url}}">{{name}}</a></li>
+        <li><p>Project language file 4</p></li>
+        <li><p>For: Seanpm2001/FINF-DB</p></li>
+        <li><p>About:</p></li>
+        <li><p>I decided to make Mustache the fourth project language file for this project (Seanpm2001/FINF-DB) as Mustache is one of the alternative database languages for this project</p></li>
+    {{/link}}
+  {{/item}}
+  </ul>
+{{/list}}
+
+{{^list}}
+  <p>The list is empty.</p>
+{{/list}}
+/* File info
+* File type: Mustache source file (*.mustache)
+* File version: 1 (2021, Sunday, November 28th at 5:48 pm)
+* Line count (including blank lines and compiler line): 28
+*/
+// End of script
