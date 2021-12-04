@@ -1,0 +1,10 @@
+https://github.com/LibreOffice/core
+https://github.com/GNOME/shotwell
+https://github.com/GNOME/nautilus
+https://github.com/GNOME/gnome-calendar
+https://github.com/pulseaudio/pulseaudio
+https://github.com/GNOME/rhythmbox
+https://github.com/GNOME/gnome-text-editor
+https://github.com/GNOME/gnome-bluetooth
+https://github.com/GNOME/gnome-software
+
