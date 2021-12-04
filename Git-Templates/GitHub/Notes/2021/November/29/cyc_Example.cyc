@@ -1,0 +1,10 @@
+char *itoa(int i)
+{
+    char buf[20], *z;
+    sprintf(buf,"%d",i);
+    z = buf;
+    return z;
+}
+// Sample Cyclone (*.cyc) file
+// Lasted edited: 2021 Monday November 29th at 4:57 pm
+

@@ -1,0 +1,4 @@
+https://github.com/intel
+https://github.com/AMD
+https://github.com/FFTW
+https://github.com/arduino

@@ -1,0 +1,14 @@
+SNU_2D_ProgrammingTools_IDE_
+
+SNU_2D_ProgrammingTools_IDE_Zig
+
+The Zig Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+SNU_2D_ProgrammingTools_IDE_Cyclone
+
+The Cyclone Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+SNU_2D_ProgrammingTools_IDE_LLVM
+
+The LLVM Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
