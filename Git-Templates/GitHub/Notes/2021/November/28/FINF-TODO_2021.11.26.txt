@@ -1,0 +1,15 @@
+TODO FINF-DB
+
+Pseudo extensions, .OSX, .WIN32 .SOLARIS .DEBIAN .LINUX .:.:.eTc.:.:.
+Mention a problem with current file services: so many extensions not present, some extensions have a top definition of "Spyware/Ransomware" when that is not what they are (example: MAKEFILE was recognized as Ransomware)
+Stylesheets {
+BasicHTML_LightMode.css
+BasicHTML_LightMode.less
+BasicHTML_DarkMode.css
+BasicHTML_DarkMode.less
+BasicNavBar.css
+BasicNarBar.less
+}
+General definitions:
+Media file, source code, plain text, ANSI, ASCII, Unicode, Binary, closed source, open source, archive, compression/compressed, shortcut file, configuration file, Video file, audio file, image file, raster graphics, vector graphics, 3D modeling, 3D model file, folder, directory, DIR, file extension, file format, shebang/hashpling, file system, Wikipedia, web browser, installation file, package, package file, disk image file, system file, temporary file,
+Current goals: support the file extensions that most file services won't cover (including CYC) while still adding common entries

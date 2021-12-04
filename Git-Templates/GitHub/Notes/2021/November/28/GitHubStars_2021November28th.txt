@@ -1,0 +1,4 @@
+https://github.com/otechie/widget
+https://github.com/pug-bootstrap/PUG-Bootstrap
+https://github.com/trabucayre/openFPGALoader
+

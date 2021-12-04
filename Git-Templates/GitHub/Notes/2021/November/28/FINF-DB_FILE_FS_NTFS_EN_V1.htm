@@ -1,0 +1,71 @@
+<!-- Start of script !-->
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+<meta>
+	<meta charset="UTF-16">
+</meta>
+<TITLE>NTFS (File System) - FINF File Info DB</TITLE>
+<BODY lang="en">
+<HR>
+<section>
+<H6 lamg="en"><a href="aboutfile-en_CREDITS.htm">English</a> <a href="aboutfile-eo_CREDITS.htm">Esperanto</a></H6>
+<H5 lang="en">You are viewing this page in Basic HTML view <a href="?href=ABOUT-NIL">[Switch to a different view]</a></H5>
+<article>
+<H1 lang="en">NTFS (File System)</H1>
+<!-- <H4 lang="en">Not to be confused with <a href="/FINF/Database/DB/File/(.)/T/X/T/aboutfile.TXT.htm">.TXT</a></H4> <!-- The linked entry will be mostly a duplicate, with a small exception of explaining the difference !-->
+</section>
+<HR>
+<sectkion>
+<p lang="en">NTFS is a file system by Microsoft. Its name is an acronym for <b>N</b>ew <b>T</b>echnology <b>F</b>ile <b>S</b>ystem.</p> it was first released in July 1993 with the release of Windows NT 3.1. It has been used on all subsequent versions of the Windows NT operating system.</p>
+<p lang="en">There have been 5 releases of the NTFS file system by Microsoft</p>
+<!-- Table !-->
+<p lang="en">/!\ Maintenance: This table is broken</p>
+<table>NTFS version number 	First operating system 	Release date 	New features 	Remarks
+1.0 	Windows NT 3.1 	1993 	Initial version 	NTFS 1.0 is incompatible with 1.1 and newer: volumes written by Windows NT 3.5x cannot be read by Windows NT 3.1 until an update (available on the NT 3.5x installation media) is installed.
+1.1 	Windows NT 3.5 	1994 	Compressed files, named streams, and access control lists 	
+1.2 	Windows NT 3.51 / 4.0 	1995 	Security descriptors 	Commonly called NTFS 4.0 after the OS release
+3.0 	Windows 2000 	2000 	Disk quotas, file-level encryption in a form of Encrypting File System, sparse files, reparse points, update sequence number (USN) journaling, distributed link tracking, the $Extend folder and its files 	Compatibility was also made available for Windows NT 4.0 with the Service Pack 4 update. Commonly called NTFS 5.0 after the OS release.
+3.1 	Windows XP 	October 2001 	Expanded the Master File Table (MFT) entries with redundant MFT record number (useful for recovering damaged MFT files) 	Commonly called NTFS 5.1 after the OS release 
+</table>
+<p lang="en">NTFS has the partition identifier of 0x07 (MBR) EBD0A0A2-B9E5-4433-87C0-68B6B72699C7 (GPT)</p>
+<p lang="en">NTFS is a B-Tree file system</p>
+<p lang="en">It supports 64 bit (2^64) clusters, but is limited depending on the operating system version.</p>
+<p lang="en">256 TiB − 64 KB (Windows 10 version 1703, Windows Server 2016 or earlier implementation)</p>
+<p lang="en">8 PB – 2 MB (Windows 10 version 1709, Windows Server 2019 or later implementation)</p>
+<p lang="en">Max. file size	16 EiB – 1 KB (format);</p>
+<p lang="en">16 TB – 64 KB (Windows 7, Windows Server 2008 R2 or earlier implementation)</p>
+<p lang="en">256 TB – 64 KB (Windows 8, Windows Server 2012 or later implementation)</p>
+<p lang="en">8 PB – 2 MiB (Windows 10 version 1709, Windows Server 2019 or later implementation)</p>
+<p lang="en">NTFS can hold a maximum of 4,294,967,295 (2 to the power of 32) files.</p>
+<p lang="en">It has a maximum file path of 255 UTF-16 code units, which is equivalent to 510 UTF-8 code units, 4080 UTF-1 code units, and 32640 ANSI code units. The operating system has to be modified to do things like this, and this action can be dangerous</p>
+<p lang="en">In Win32 namespace: any UTF-16 code unit (case-insensitive) except /\:*"?<>| as well as NUL</p>
+<p lang="en">In POSIX namespace: any UTF-16 code unit (case-sensitive) except / as well as NUL</p>
+<p lang="en">Trailing spaces are not allowed and will be removed</p>
+<p lang="en"><b>Dates recorded</b>	Creation, modification, POSIX change, access</p>
+<p lang="en"><b>Date range	1 January 1601 – 28 May 60056 (File times are 64-bit numbers counting 100-nanosecond intervals (ten million per second) since 1601, which is 58,000+ years)</p>
+<p lang="en"><b>Date resolution</b>	100 nanoseconds</p>
+<p lang="en"><b>Forks</b>	Yes (see § Alternate data stream (ADS) below)</p>
+<p lang="en"><b>Attributes</b>	Read-only, hidden, system, archive, not content indexed, off-line, temporary, compressed</p>
+<p lang="en"><b>File system permissions</b>	ACLs</p>
+<p lang="en"><b>Transparent compression</b>	Per-file, LZ77 (Windows NT 3.51 onward)</p>
+<p lang="en"><b>Transparent encryption</b>	Per-file,</p>
+<p lang="en"><b>DESX</b> (Windows 2000 onward),</p>
+<p lang="en"><b>Triple</b> DES (Windows XP onward),</p>
+<p lang="en"><b>AES</b> (Windows XP Service Pack 1, Windows Server 2003 onward)</p>
+<p lang="en"><b>Data deduplication</b>	Yes (Windows Server 2012</p>
+<p lang="en">NTFS currently works with the Windows NT operating system family. It works on MacOS (read only) Linux (version 2.2 to 2.4 is read only, 2.6 and later is fully supported) and may not work on other operating systems, although it works on ReactOS, a Windows alternative operating system, but is read only.</p>
+<p lang="en">This document needs a lot of work, and the data was taken from <a href="https://en.wikipedia.org/wiki/NTFS/">Wikipedia: NTFS</a></p>
+<p lang="en">TODO Fact check needed: is NTFS compatible with Windows 9x</p>
+</section>
+</article>
+<HR>
+</BODY>
+</HTML>
+<!-- File info
+File type: HTML document (*.htm)
+File version: 1 (2021, Sunday, November 28th at 6:55 pm)
+Line count (including blank lines and compiler line): 71
+!-->
+<!-- End of script !-->
+

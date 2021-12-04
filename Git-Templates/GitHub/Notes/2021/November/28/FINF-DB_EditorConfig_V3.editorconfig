@@ -1,0 +1,143 @@
+# Start of script
+
+# Editor configuration file for Seanpm2001/FINF-DB
+
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+# Markdown document
+[*.md *.mkd *.mdown *.markdown]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+# YAML (YAML Ain't Markup Language)
+[*.yml *.yaml]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+# Plain Text
+[*.txt]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+# GNU Makefile
+[*.mk *.mak *.make]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+# HTML (HyperText Markup Language) document
+[*.htm *.html *.mhtm *.mhtml *.xhtm *.xhtml]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+# SVG (Scalable Vector Graphics) image
+[*.svg]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+# Pug
+[*.pug]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+# XML (eXtensible Markup Language)
+[*.xml]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+# Handlebars
+[*.hbs *.handlebars]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+# CSS (Cascade Styling Sheets)
+[*.css]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+# LESS stylesheet
+[*.less]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+# Mustache
+[*.mustache]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+# File info
+
+# File type: Editorconfig file (*.editorconfig)
+# File version: 2 (Sunday, 2021 November 28th at 6:13 pm)
+# Line count (including blank lines and compiler line): 143
+
+# End of script
+
