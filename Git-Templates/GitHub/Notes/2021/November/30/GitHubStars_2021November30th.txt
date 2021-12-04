@@ -1,0 +1,10 @@
+https://github.com/KDE/gwenview
+https://github.com/KDE/korganizer
+https://github.com/KDE/knotes
+https://github.com/KDE/kontact
+https://github.com/KDE/khangman
+https://github.com/KDE/ebookreader
+https://github.com/supertuxkart/stk-code
+https://github.com/stevemao/github-issue-templates
+https://github.com/devspace/awesome-github-templates
+

@@ -1,0 +1,118 @@
+/* Start of script */
+
+/* Default light mode CSS stylesheets */
+/* Basic stylesheet, needs work */
+
+/* Heading 1 */
+h1 {
+	color: black;
+	font-family: "Tahoma";
+}
+/* Heading 2 */
+h2 {
+	color: black;
+	font-family: "Tahoma";
+}
+/* Heading 3 */
+h3 {
+	color: black;
+	font-family: "Tahoma";
+}
+/* Heading 4 */
+h4 {
+	color: black;
+	font-family: "Tahoma";
+}
+/* Heading 5 */
+h5 {
+	color: black;
+	font-family: "Tahoma";
+}
+/* Heading 6 */
+h6 {
+	color: black;
+	font-family: "Tahoma";
+}
+/* Italics */
+i {
+	color: black;
+	font-family: "Tahoma";
+}
+/* Bold */
+b {
+	color: black;
+	font-family: "Tahoma";
+}
+/* Underline */
+u {
+	color: black;
+	font-family: "Tahoma";
+}
+/* Paragraph */
+p {
+	color: black;
+	font-family: "Tahoma";
+}
+ /* unvisited link */
+a:link {
+	color: blue;
+}
+
+/* visited link */
+a:visited {
+	color: purple;
+}
+
+/* mouse over link */
+a:hover {
+	color: cyan;
+}
+
+/* selected link */
+a:active {
+	color: navy;
+}
+/* Code block */
+code {
+	color: black;
+	font-family: "Courier";
+}
+/* Details */
+details {
+	color: black;
+}
+/* Summary */
+summary {
+	/* Nothing to apply here */
+}
+/* Section */
+section {
+	/* Nothing to apply here */
+}
+/* Article */
+article {
+	/* Nothing to apply here */
+}
+/* Header */
+header {
+	/* Nothing to apply here */
+}
+/* Footer */
+footer {
+	/* Nothing to apply here */
+}
+/* Header */
+button {
+	/* Nothing to apply here yet */
+}
+
+/* Note for project language files: The languages associated with SNU programming tools are not included as project language files, as there are too many to list. */
+
+/* File info
+* File type: Cascading Styling Sheets 3 stylesheet source file (*.css)
+* File version: 1 (Tuesday, 2021 November 30th at 2:48 pm)
+* Line count (including blank lines and compiler line): 118
+*/
+
+/* End of script */
+
