@@ -1,0 +1,13 @@
+bsd
+BSD
+bsdl
+BSDL
+bmp
+BMP
+dib
+DIB
+avi
+AVI
+dat
+DAT
+

@@ -1,0 +1,126 @@
+Tasks for the start of 2022
+
+Releases for compiling the year
+
+Day 1:
+
+1. Tiny Tower
+2. GNOME System Monitor
+3. Battery
+4. Daily Desktop Screenshots
+5. Tree World
+6. Smurfs Village
+7. Motor World Car Factory
+8. Adventure Communist Part 2
+9. AdCap
+
+Day 2:
+
+1. Khan Academy
+2. Daily articles
+3. Journaling progress
+4. Clash of Clans
+5. Boom Beach
+
+Day 3:
+
+1. GitHub 2020-2021 (part 1 of 24) first half of January
+
+Day 4:
+
+1. GitHub 2020-2021 (part 2 of 24) second half of January
+2. Bit City
+
+Day 5:
+
+1. GitHub 2020-2021 (part 3 of 24) first half of February
+2. Disco Zoo
+
+Day 6:
+
+1. GitHub 2020-2021 (part 4 of 24) second half of February
+2. Lego Tower
+
+Day 7:
+
+1. GitHub 2020-2021 (part 5 of 24) first half of March
+2. Tiny Death Star
+
+Day 8:
+
+1. GitHub 2020-2021 (part 6 of 24) second half of March
+
+Day 9:
+
+1. GitHub 2020-2021 (part 7 of 24) first half of April
+
+Day 10:
+
+1. GitHub 2020-2021 (part 8 of 24) second half of April
+
+Day 11:
+
+1. GitHub 2020-2021 (part 9 of 24) first half of May
+
+Day 12:
+
+1. GitHub 2020-2021 (part 10 of 24) second half of May
+
+Day 13:
+
+1. GitHub 2020-2021 (part 11 of 24) first half of June
+
+Day 14:
+
+1. GitHub 2020-2021 (part 12 of 24) second half of June
+
+Day 15:
+
+1. GitHub 2020-2021 (part 13 of 24) first half of July
+
+Day 16:
+
+1. GitHub 2020-2021 (part 14 of 24) second half of July
+
+Day 17:
+
+1. GitHub 2020-2021 (part 15 of 24) first half of August
+
+Day 18:
+
+1. GitHub 2020-2021 (part 16 of 24) second half of August
+
+Day 19:
+
+1. GitHub 2020-2021 (part 17 of 24) first half of September
+
+Day 20:
+
+1. GitHub 2020-2021 (part 18 of 24) second half of September
+
+Day 21:
+
+1. GitHub 2020-2021 (part 19 of 24) first half of October
+
+Day 22:
+
+1. GitHub 2020-2021 (part 20 of 24) second half of October
+
+Day 23:
+
+1. GitHub 2020-2021 (part 21 of 24) first half of November
+
+Day 24:
+
+1. GitHub 2020-2021 (part 22 of 24) second half of November
+
+Day 25:
+
+1. GitHub 2020-2021 (part 23 of 24) first half of December
+
+Day 26:
+
+1. GitHub 2020-2021 (part 24 of 24) second half of December + finalization
+
+~5110 commits across 24 days, averaging 212.916 commits per day
+
