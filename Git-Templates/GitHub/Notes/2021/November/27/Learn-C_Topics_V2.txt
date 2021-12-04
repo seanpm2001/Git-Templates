@@ -1,0 +1,17 @@
+c
+language
+education
+collection
+knowledge
+gplv3
+md
+txt
+c-language
+dmr
+gpl3
+c-lang
+learn-c
+dennis-ritchie
+portable-c
+c-collection
+standard-c 

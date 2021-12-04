@@ -1,0 +1,8 @@
+https://github.com/ziglang/zig
+https://github.com/llvm-mirror/llvm
+https://github.com/microsoft/verona
+https://github.com/haproxy/haproxy
+https://github.com/scilab/scilab
+https://github.com/qgis/QGIS
+https://github.com/vlang/vinix
+

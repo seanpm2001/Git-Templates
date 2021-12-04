@@ -1,0 +1,7 @@
+https://github.com/Seanpm2001-Zig-lang
+https://github.com/Seanpm2001-LLVM-lang
+https://github.com/Seanpm2001-Verona-lang
+https://github.com/Seanpm2001-Cyclone-lang
+https://github.com/Seanpm2001-HaProxy-lang
+https://github.com/Seanpm2001-SciLab-lang
+https://github.com/Seanpm2001-V-lang

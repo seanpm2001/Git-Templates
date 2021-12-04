@@ -1,0 +1,5 @@
+https://github.com/ziglang
+https://github.com/llvm
+https://github.com/llvm-mirror
+https://github.com/vlang
+
