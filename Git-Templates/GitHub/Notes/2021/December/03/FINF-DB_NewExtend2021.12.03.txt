@@ -1,0 +1,99 @@
+Needs capital counterpart
+
+as (1)
+cyc (2)
+go (3)
+jif (4)
+jp2 (5)
+j (6)
+
+
+
+yml
+YML
+yaml
+YAML
+iso
+ISO
+udf
+UDF
+e
+E
+xspf
+XSPF
+6 more
+
+File system/other todo
+
+ext4
+UDF
+fuseblk
+fat
+fat16
+fat32
+exfat
+btrfs
+apfs
+hfs
+hfs+
+afs
+zfs
+openZFS
+ext3
+ext2
+squashfs
+vfat
+tmpfs
+sysfs
+devpts
+securityfs
+cgroup
+cgroup2
+pstore
+efivarfs
+proc
+bpf
+binfmt_misc
+mqueue
+debugfs
+hugetlbfs
+tracefs
+fusectl
+configfs
+nsfs
+fuse.gvfs-fuse
+advfs
+athfs
+bfs
+ext3cow
+xfs
+ufs
+mts
+sfs
+vfs
+fuse
+vtt
+j2k
+jpf
+jpm
+jpg2
+j2c
+jpc
+jpx
+mj2
+xapk
+#!/usr/bin/env python
+#!/usr/bin/env perl
+
+vtt
+j2k
+jpf
+jpm
+jpg2
+j2c
+jpc
+jpx
+mj2
+xapk
+#!/usr/bin/env python
+

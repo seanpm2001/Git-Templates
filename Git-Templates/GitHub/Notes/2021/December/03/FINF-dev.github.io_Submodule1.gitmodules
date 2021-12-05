@@ -1,0 +1,15 @@
+# Start of script
+
+# Linking to the database, so it can be read from in web view
+[submodule "Seanpm2001/FINF-DB"]
+  path = Seanpm2001/FINF-DB/FINF/SITEMAP.xml
+  url = https://github.com/seanpm2001/FINF-DB/FINF/SITEMAP.yml
+
+# End of script
+# This submodule is currently non-functional
+# File info
+# File type: .gitmodules file (.gitmodules)
+# File version: 1 (Friday, 2021, December 3rd at 2:49 pm)
+# Line count (including blank lines and compiler line): 15
+# End of file
+
