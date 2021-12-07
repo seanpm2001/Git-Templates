@@ -1,0 +1,2 @@
+https://github.com/rpm-software-management/rpm
+https://github.com/github/archive-program
