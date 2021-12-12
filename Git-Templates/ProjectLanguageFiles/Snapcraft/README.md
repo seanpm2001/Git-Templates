@@ -119,7 +119,9 @@ There are far fewer Snapcraft projects than there are GitHub Pages projects. [Cl
 
 31. Bosky-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/Bosky-Snap/) | [View the full project](https://github.com/Bosky-dev/Bosky-Snap) )
 
-32. No other snap projects (as of Wednesday, 2021 November 10th at 8:09 pm)
+32. ZooTree-Snap ( [In this project](/Git-Templates/ProjectLanguageFiles/Snapcraft/ZooTree-Snap/) | [View the full project](https://github.com/ZooTree-dev/ZooTree-Snap) )
+
+33. No other snap projects (as of Wednesday, 2021 November 10th at 8:09 pm)
 
 </details>
 
@@ -131,9 +133,9 @@ There are far fewer Snapcraft projects than there are GitHub Pages projects. [Cl
 
 **File type:**  `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `12 (Wednesday, 2021 November 10th at 8:09 pm)`
+**File version:** `13 (Saturday, 2021 December 11th th at 5:58 pm)`
 
-**Line count (including blank lines and compiler line):** `440`
+**Line count (including blank lines and compiler line):** `462`
 
 **Article language:** `English (US) / Markdown / HTML5`
 
@@ -316,11 +318,15 @@ There are far fewer Snapcraft projects than there are GitHub Pages projects. [Cl
 
 > * No other changes in version 12
 
-**Version 13 (Coming soon)**
+**Version 13 (2021, Saturday, December 11th at 5:58 pm)**
 
 > Changes:
 
-> * Coming soon!
+> * Added 1 new entry
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 13
 
@@ -411,6 +417,22 @@ There are far fewer Snapcraft projects than there are GitHub Pages projects. [Cl
 > * Coming soon!
 
 > * No other changes in version 24
+
+**Version 25 (Coming soon)**
+
+> Changes:
+
+> * Coming soon!
+
+> * No other changes in version 25
+
+**Version 26 (Coming soon)**
+
+> Changes:
+
+> * Coming soon!
+
+> * No other changes in version 26
 
 </details>
 
