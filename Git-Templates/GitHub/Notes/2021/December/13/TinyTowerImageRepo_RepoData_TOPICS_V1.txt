@@ -1,0 +1,15 @@
+android
+pictures
+screenshots
+jpg
+gplv3
+images
+stock-images
+md
+txt
+gpl3
+seanpm2001-life-archive
+git-image
+nimblebit
+tiny-tower
+tinytower
