@@ -1,0 +1,3 @@
+https://github.com/ytdl-org
+https://github.com/gitgitgadget
+https://github.com/yt-dlp

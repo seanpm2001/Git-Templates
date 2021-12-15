@@ -1,0 +1,5 @@
+Game crash, texture messup
+MENTION SOME THINGS NOTED YESTERDAY
+Branch 31, 32
+Mission
+Den upgrade 3: 10000, den upgrade 4: 20000 (breaks the pattern again)

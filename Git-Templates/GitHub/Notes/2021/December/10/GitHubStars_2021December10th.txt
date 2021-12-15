@@ -1,0 +1,3 @@
+https://github.com/gitster/git-manpages
+https://github.com/gitgitgadget/gitgitgadget
+
