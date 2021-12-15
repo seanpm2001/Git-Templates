@@ -1,0 +1,11 @@
+https://github.com/LapLight
+https://github.com/Zombie-Life-re-animated
+https://github.com/Seanpm2001-1C-Enterprise-lang
+https://github.com/Seanpm2001-AngelScript-lang
+https://github.com/Seanpm2001-HLSL-lang
+https://github.com/Seanpm2001-HCL-lang
+https://github.com/Seanpm2001-BitBake-lang
+https://github.com/Seanpm2001-BSDL-lang
+https://github.com/Seanpm2001-Haxe-lang
+https://github.com/Seanpm2001-CodeQL-lang
+

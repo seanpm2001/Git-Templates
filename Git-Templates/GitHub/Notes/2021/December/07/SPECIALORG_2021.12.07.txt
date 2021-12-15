@@ -1,0 +1,6 @@
+https://github.com/1C-Developer-Network
+https://github.com/openembedded
+https://github.com/HaxeFoundation
+https://github.com/SoftwareBuildService
+https://github.com/hpi-schul-cloud
+

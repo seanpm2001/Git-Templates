@@ -1,0 +1,14 @@
+https://github.com/1C-Developer-Network/MobileScanner
+https://github.com/tgjones/HlslTools
+https://github.com/kvz/json2hcl
+https://github.com/E2OpenPlugins/e2openplugins
+https://github.com/openembedded/bitbake
+https://github.com/openembedded/meta-openembedded
+https://github.com/cyrozap/python-bsdl-parser
+https://github.com/brandonetter/haxxServer
+https://github.com/HaxeFoundation/haxe
+https://github.com/HaxeFoundation/HaxeManual
+https://github.com/HaxePunk/HaxePunk
+https://github.com/HaxeFoundation/haxelib
+https://github.com/github/codeql
+
