@@ -1,0 +1,11 @@
+https://github.com/Seanpm2001-Singularity-lang
+https://github.com/Seanpm2001-ShaderLab-lang
+https://github.com/Seanpm2001-E-lang
+https://github.com/Seanpm2001-OpenSCAD-lang
+https://github.com/Seanpm2001-NASL-lang
+https://github.com/Seanpm2001-M-lang
+https://github.com/Seanpm2001-Jinja-lang
+https://github.com/Seanpm2001-NSIS-lang
+https://github.com/Seanpm2001-SWIG-lang
+https://github.com/WakeNote
+

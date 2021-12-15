@@ -1,0 +1,10 @@
+Seanpm2001-Singularity-lang
+Seanpm2001-Shaderlab-lang
+Seanpm2001-E-lang
+Seanpm2001-OpenSCAD-lang
+Seanpm2001-NASL-lang
+Seanpm2001-NSIS-lang
+Seanpm2001-M-lang
+Seanpm2001-Jinja-lang
+Seanpm2001-SWIG-lang
+WakeNote
