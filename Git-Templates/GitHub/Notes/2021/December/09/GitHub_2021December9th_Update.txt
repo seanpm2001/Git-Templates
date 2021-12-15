@@ -1,0 +1,19 @@
+What I like about the 2021 December 9th GitHub update
+
+Lists
+
+What I don't like about the 2021 December 9th GitHub update
+
+The inability to see stargazers anymore (edit: it just got moved, it is still there, just more difficult to access)
+The inability to see fork networks anymore (edit: it just got moved, it is still there, just more difficult to access)
+The inability to see the exact number of stars anymore (insted, it just says 5k+)
+The wasted space of the moving of the star button
+The inability to see watchers anymore (edit: it just got moved, it is still there, just more difficult to access)
+Lists being limited to 16 entries
+Lists not updating
+The swap of the star and fork buttons
+The new graphics (they are a bit of an eyesore, it needs to be a slightly darker shade of yellow for the star button)
+The buttons on the navbar not being lined up
+
+You know what, this update sucks. I originally liked it until noticing how many problems were
+
