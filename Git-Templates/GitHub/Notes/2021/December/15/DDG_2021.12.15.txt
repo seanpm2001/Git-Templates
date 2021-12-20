@@ -1,0 +1,55 @@
+2021.12.09
+
+https://duckduckgo.com/?q=140%2C837%2C355+bytes+to+MiB&t=hy&va=g&ia=answer
+
+140,837,355 bytes
+134.3126297 MiB
+
+2021.12.10
+
+https://duckduckgo.com/?q=122%2C645%2C253+bytes+to+MiB&t=hy&va=g&ia=answer
+
+122,645,253 bytes
+116.963386536 MiB
+
+2021.12.11
+
+https://duckduckgo.com/?q=95%2C657%2C883+bytes+to+MiB&t=hy&va=g&ia=answer
+
+95,657,883 bytes
+91.2264823914 MiB
+
+2021.12.12
+
+https://duckduckgo.com/?q=140%2C177%2C278+bytes+to+MiB&t=hy&va=g&ia=answer
+
+140,177,278 bytes
+133.683204651 MiB
+
+2021.12.13
+
+https://duckduckgo.com/?q=137%2C719%2C578+bytes+to+MiB&t=hy&va=g&ia=answer
+
+137,719,578 bytes
+131.34002686 MiB
+
+-- Notes
+{-
+FISH JUMPS OUT OF TANK
+SuckerFish came out of tank earlier, revived as someone came by at the right time, ~hour recovery, second time this has happened (put the lid back on for the day, despite it being damaged)
+-}
+
+2021.12.14
+
+https://duckduckgo.com/?q=80%2C011%2C041+bytes+to+MiB&t=hy&va=g&ia=answer
+
+80,011,041 bytes
+76.30443573 MiB
+
+2021.12.15
+
+https://duckduckgo.com/?q=138%2C849%2C368+bytes+to+MiB&t=hy&va=g&ia=answer
+
+138,849,368 bytes
+132.416725159 MiB
+
