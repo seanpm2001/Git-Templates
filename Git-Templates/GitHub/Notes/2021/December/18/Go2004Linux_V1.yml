@@ -1,0 +1,67 @@
+name: Go! (2004) for Linux
+# Supports the Go! programming language on Ubuntu, Fedora, and Arch Linux
+# Not to be confused with Google Golang (2009) this action is for the Agent-based language by Francis McCabe named Go! (from 2004)
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+# Ubuntu Linux
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Go! (2004) on Ubuntu (latest)
+      uses: actions/https://github.com/fgmccabe/go@v2
+      with:
+        go2004-version: 2015.12.02
+
+    - name: Build
+      run: go! build -v ./...
+
+    - name: Test
+      run: go! test -v ./...
+
+# Arch Linux
+jobs:
+
+  build:
+    runs-on: linux-arch-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Go! (2004) on Arch Linux (latest)
+      uses: actions/https://github.com/fgmccabe/go@v2
+      with:
+        go2004-version: 2015.12.02
+
+    - name: Build
+      run: go! build -v ./...
+
+    - name: Test
+      run: go! test -v ./...
+
+# Fedora Linux
+jobs:
+
+  build:
+    runs-on: linux-fedora-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Go! (2004) on Fedora Linux (latest)
+      uses: actions/https://github.com/fgmccabe/go@v2
+      with:
+        go2004-version: 2015.12.02
+
+    - name: Build
+      run: go! build -v ./...
+
+    - name: Test
+      run: go! test -v ./...
+

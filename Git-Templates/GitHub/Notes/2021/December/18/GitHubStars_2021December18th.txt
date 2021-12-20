@@ -1,0 +1,8 @@
+https://github.com/openmainframeproject/cobol-programming-course
+https://github.com/IonicaBizau/node-cobol
+https://github.com/azac/cobol-on-wheelchair
+https://github.com/Martinfx/Cobol
+https://github.com/neopragma/cobol-unit-test
+https://github.com/koalaman/linuxatemyram.com
+https://github.com/github/gov-takedowns
+https://github.com/torvalds/uemacs
