@@ -1,0 +1,3 @@
+GNOMESystemMonitor_EndofDay_2021December14th_RAM_CPU_UPDOWN_1080p
+GNOMESystemMonitor_EndofDay_2021December14th_Partitions_1080p
+

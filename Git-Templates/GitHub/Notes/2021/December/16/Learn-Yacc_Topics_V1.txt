@@ -1,0 +1,14 @@
+education
+programming
+collection
+gplv3
+gnu
+yacc
+gpl3
+yacc-lang
+yacc-language
+learn-yacc
+learn-yacc-lang
+learn-yacc-language
+yacc-collection
+

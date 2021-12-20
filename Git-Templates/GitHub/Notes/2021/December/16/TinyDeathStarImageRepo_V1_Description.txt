@@ -1,0 +1,1 @@
+The module for my life story project that contains my NimbleBit × Disney: Tiny Death Star gameplay images. Unfortunately, this game randomly got pulled over half a decade ago, and can't be installed normally. Even then, it hasn't received updates in over 6 years, and all online functionality is gone. More information is available in this repositories README.md file.

@@ -1,0 +1,14 @@
+education
+programming
+collection
+gplv3
+cobol
+md
+txt
+gpl3
+cobol-lang
+cobol-language
+learn-cobol
+cobol-collection
+learn-cobol-lang
+dinosaur-language
