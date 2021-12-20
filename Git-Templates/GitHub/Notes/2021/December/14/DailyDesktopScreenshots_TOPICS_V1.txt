@@ -1,0 +1,17 @@
+linux
+pictures
+screenshots
+png
+ubuntu
+gplv3
+images
+windows10
+stock-images
+md
+txt
+gpl3
+destop
+seanpm2001-life-archive
+git-image
+daily-desktop-screenshots
+year-of-the-linux-desktop
