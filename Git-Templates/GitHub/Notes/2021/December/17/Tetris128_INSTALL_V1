@@ -1,0 +1,31 @@
+---
+Installing Tetrsi128
+---
+
+Tetris128 currently can't be installed, as it is not production ready (or functional) yet. The project uses multiple engines for different editions. You can choose between 4 engines:
+
+Tetris128 Python engine (Linux, MacOS, BSD, Windows) x64 & x128
+
+Tetris128 C++ engine (Android, iOS, Linux, MacOS, BSD, Windows) x64 x x128
+
+Tetris128 Rust engine (Linux, MacOS, BSD, Windows) x64
+
+Tetris128 GDScript (GoDot) engine (Linux, MacOS, BSD, Windows) x64
+
+When the project is ready, you will need a high end computer to run the game (high-end, as in, the top home computer of 2021) although the game is 128 bit, it can also be ran on 64 bit systems. 63 bit systems and lower (including 32 bit) are not supported (because the game is too powerful to run on these platforms, and it isn't worth maintaining a 32 bit version)
+
+More documentation is coming soon.
+~~~~
+
+If you want to view the image files, the majority of files are in PNG format. Make sure your computer can handle images of 1920x200000/2560x1440/2560x1080/1920x1080 resolution well, and that your computer can handle JPG files.
+
+Some image files are in other formats, such as SVG, and JPG. You will need support for viewing these files to view these files.
+
+Some included files are in Markdown format (*.md) for best viewing, you should use a markdown viewer/markdown editor.
+
+Some included files are in PDF format. They should be opened with a document viewer capable of handling PDF documents.
+
+---
+Install instructions file version: 1 (Friday, 2021 December 17th at 6:14 pm)
+---
+

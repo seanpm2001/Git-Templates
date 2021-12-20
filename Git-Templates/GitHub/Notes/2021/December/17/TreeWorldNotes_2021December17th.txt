@@ -1,0 +1,7 @@
+Now costs over 100,000 tree food to expand up 1 branch
+1 vitagem earned from collection
+Adventure : Penguin
+Branch 41
+Sky glitch (own section in status file) occurs at branch 35-41, occurs only when scrolling down, resets once you go back down to branch 33, if you go slow enough, the glitch doesn't trigger
+5 new crits, 4 unique
+62/301
