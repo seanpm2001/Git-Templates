@@ -1,0 +1,34 @@
+# Start of script
+# action.yml (the workflow file for this project)
+
+name: "Go! automation (GitHub action)"
+description: "A GitHub action for the Go! programming language (by Francis McCabe, 2004)"
+
+branding:
+  icon: 'moon'
+  color: 'borange'
+
+inputs:
+  go-Version:
+    description: "The version of GO! to install, must be available on https://github.com/fgmccabe/go/"
+    required: false
+    default: "2015"
+  luaCompileFlags:
+    description: "Command line flags passed to make when building Go!"
+    required: false
+  buildCache:
+    description: "Set to 'false' to skip restoring .lua from cache and always compile it"
+    required: false
+    default: 'true'
+
+runs:
+  using: 'unknown'
+  main: 'Main.py'
+
+# File info
+# File type: YAML source file (*.yml *.yaml)
+# File version: 1 (2021, Monday, December 20th at 4:14 pm)
+# Line count (including blank lines and compiler line): 34
+
+# End of script
+

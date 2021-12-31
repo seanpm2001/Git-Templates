@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Start of script !-->
+<xml>
+<kindlespec>
+<osname>Kindle FireOS</osname>
+<osdeveloper>Amazon.com</osdeveloper><!-- The website shares the same name as the company, including the TLD (Top Level Domain). The company name really is amazon.com !-->
+<rooted>False</rooted>
+<customROM>False</customROM>
+<sdCard>Unknown if supported</sdCard>
+<battery>Healthy, Lithium Ion</battery>
+<displayResolution>either 720p or 1080p</displayResolution>
+<osfamily>Android, Linux</osfamily><!-- Android is based on the Linux kernel, FireOS is based on Amdroid !-->
+<currentOSversion>kindle 6.3.4_user_4132720</currentOSversion><!-- Who names an operating system version like this? This version doesn't apply to just this 1 device. I don't see why _user_4132720 is necessary, it should be "2015 edition" like most sites label it as !-->
+<model1>Kindle Fire</model1> <!-- The model name !-->
+<model2>JAJAJA123</model2> <!-- The model ID !-->
+<applicationMemory>~2 GiB</applicationMemory><!-- The numbers are not exact, and are really odd. I will look more into this another time !-->
+<otherMemory>~6 GiB</otherMemory><!--See above !-->
+<RAM>1 GB</RAM><!-- It may be 1 GiB, I am not sure !-->
+<userNotes>
+I recently started using the Kindle again to read a book about TMS therapy and I realized how much there was to the Kindle and how much I have been missing.
+The Kindle hasn't been updated since 2015, it is a very old device.
+Unfortunately, at the moment, it seems like this operating system is really difficult/nearly impossible to get a disk image of to virtualize, similar to iOS/iPhoneOS/iPadOS
+The apps on here date from before 2016, so please know that the selected apps may no longer be relevant to you
+</userNotes>
+<applist>
+Crime City
+Game Dev Tycoon
+Anime Dev Tycoon
+Restaurant Story
+Five Nights At Freddys
+Five Nights At Freddys 2
+Five Nights At Freddys 3
+Minecraft Pocket Edition (Alpha 0.13.2) w/ 3 worlds
+Other/unlisted
+</applist>
+<booklist>
+Lorem Ipsum/no data available here yet
+</booklist>
+<accessories>Blue fabric Kindle case</accessories><!-- Accessories for the Kindle Fire hardware !-->
+</kindlespec>
+<!-- TODO
+Search Kindle and fill in the rest of the data
+Fix the app memory and other memory counts
+!-->
+</xml>
+<!-- File info
+File type: XML document (*.xml, *many)
+File version: 1 (2021, Monday, December 20th at 10:02 pm)
+Line count (including blank lines and compiler line): 52
+!-->
+<!-- End of script !-->
+

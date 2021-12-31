@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Start of script !-->
+<xml><!-- Data is as of 2021 December 21st at 4:51 pm !-->
+<kindlespec1>
+<osname>Kindle FireOS</osname>
+<osdeveloper>Amazon.com</osdeveloper><!-- The website shares the same name as the company, including the TLD (Top Level Domain). The company name really is amazon.com !-->
+<rooted>False</rooted>
+<customROM>False</customROM>
+<sdCard>Unknown if supported</sdCard>
+<battery>Healthy, Lithium Ion</battery>
+<displayResolution>either 720p or 1080p</displayResolution>
+<osfamily>Android, Linux</osfamily><!-- Android is based on the Linux kernel, FireOS is based on Amdroid !-->
+<currentOSversion>kindle 6.3.4_user_4132720</currentOSversion><!-- Who names an operating system version like this? This version doesn't apply to just this 1 device. I don't see why _user_4132720 is necessary, it should be "2015 edition" like most sites label it as !-->
+<model1>Kindle Fire</model1> <!-- The model name !-->
+<model2>JAJAJA123</model2> <!-- The model ID !-->
+<applicationStorage>1.17 GB</applicationStoage>
+<applicationStorageUsed>598.23 MB (0.59 GB)</applicationStorageUsed>
+<applicationStorageAvailable>571.77 MB (0.57 GB)</applicationStorageAvailable>
+<internalStorage>5.36 GB</internalStorage>
+<interalStorageUsed>0.46 GB (460 MB)</internalStorageUsed>
+<internalStorageAvailable>4.90 GB</internalStorageAvailable>
+<internalStorageUsed>
+<RAM>1 GB</RAM><!-- It may be 1 GiB, I am not sure !-->
+<username>Colleen</username>
+<usernameDisplay>Colleen's Kindle<usernameDisplay> <!-- The username on dosplay at the top left corner !-->
+<password>None</password><!-- The device doesn't have a password !-->
+<wifiMACAddress>[Redacted]</wifiMACAddress>
+<serialNumber>[Redacted]</serialNumber>
+<userNotes>
+I recently started using the Kindle again to read a book about TMS therapy and I realized how much there was to the Kindle and how much I have been missing.
+The Kindle hasn't been updated since 2015, it is a very old device.
+Unfortunately, at the moment, it seems like this operating system is really difficult/nearly impossible to get a disk image of to virtualize, similar to iOS/iPhoneOS/iPadOS
+The apps on here date from before 2016, so please know that the selected apps may no longer be relevant to you
+This is a shared device between 2 people.
+</userNotes>
+<applist>
+Crime City
+Game Dev Tycoon
+Anime Studio Story
+Restaurant Story
+Five Nights At Freddys
+Five Nights At Freddys 2
+Five Nights At Freddys 3
+Minecraft Pocket Edition (Alpha 0.13.2) w/ 3 worlds
+Hill Climb Racing
+Pandora
+HBO Go
+StayConnected @ Hampton
+Audible.com
+Pulse - Bringing you good news
+<applistNote>
+System apps are currently not included
+</applistNote>
+</applist>
+<!-- Start of table !-->
+<applistTable>
+<a01> <!-- App 01 of 14 !-->
+<a01_title>Crime City</a01_title>
+<a01_developer>Unknown</a01_developer>
+<a01_offline>This app does not work offline</a01_offline>
+<a01_paid>This app did not cost money</a01_paid>
+<a01_source>Closed source</a01_source>
+<a01_sourceModel>Freemium (Free, but with in-app purchased)</a01_sourceModel>
+<a01_version>V???</a01_version>
+<a01_language>English (US)</a01_language>
+</a01>
+<a02> <!-- App 02 of 14 !-->
+<a02_title>Game Dev Tycoon</a02_title>
+<a02_developer>Kairosoft</a02_developer>
+<a02_offline>This app works offline</a02_offline>
+<a02_paid>This app costs money ($1.99)</a02_paid><!-- Not exact price !-->
+<a02_source>Closed source</a02_source>
+<a02_sourceModel>Paid (Paid, but with no in-app purchases)</a02_sourceModel>
+<a01_version>V???</a01_version>
+<a02_language>English (US)</a02_language>
+</a02>
+<a03> <!-- App 03 of 14 !-->
+<a03_title>Anime Studio Story</a03_title>
+<a03_developer>Kairosoft</a03_developer>
+<a03_offline>This app works offline</a03_offline>
+<a03_paid>This app costs money ($1.99)</a03_paid><!-- Not exact price !-->
+<a03_source>Closed source</a03_source>
+<a03_sourceModel>Paid (Paid, but with no in-app purchases)</a03_sourceModel>
+<a01_version>V???</a01_version>
+<a03_language>English (US)</a03_language>
+</a03>
+<a04> <!-- App 04 of 14 !-->
+<a04_title>Restaurant Story</a04_title>
+<a04_developer>TeamLava/Storm8</a04_developer>
+<a04_offline>This app does not work offline</a04_offline>
+<a04_paid>This app does not cost money</a04_paid>
+<a04_source>Closed source</a04_source>
+<a04_sourceModel>Freemium (Free, but with in-app purchases)</a04_sourceModel>
+<a01_version>V???</a01_version>
+<a04_language>English (US)</a04_language>
+</a04>
+<a05> <!-- App 05 of 14 !-->
+<a05_title>Five Nights At Freddys</a05_title>
+<a05_developer>Scott Cawthon</a05_developer>
+<a05_offline>This app works offline</a05_offline>
+<a05_paid>This app costs money ($0.99)</a05_paid><!-- Not exact price !-->
+<a05_source>Closed source</a05_source>
+<a05_sourceModel>Paid (Paid, but with no in-app purchases)</a05_sourceModel>
+<a01_version>V???</a01_version>
+<a05_language>English (US)</a05_language>
+</a05>
+<a06> <!-- App 06 of 14 !-->
+<a06_title>Five Nights At Freddys 2</a06_title>
+<a06_developer>Scott Cawthon</a06_developer>
+<a06_offline>This app works offline</a06_offline>
+<a06_paid>This app costs money ($0.99)</a06_paid><!-- Not exact price !-->
+<a06_source>Closed source</a06_source>
+<a06_sourceModel>Paid (Paid, but with no in-app purchases)</a06_sourceModel>
+<a01_version>V???</a01_version>
+<a06_language>English (US)</a06_language>
+</a06>
+<a07> <!-- App 07 of 14 !-->
+<a07_title>Five Nights At Freddys 3</a07_title>
+<a07_developer>Scott Cawthon</a07_developer>
+<a07_offline>This app works offline</a07_offline>
+<a07_paid>This app costs money ($0.99)</a07_paid><!-- Not exact price !-->
+<a07_source>Closed source</a07_source>
+<a07_sourceModel>Paid (Paid, but with no in-app purchases)</a07_sourceModel>
+<a01_version>V???</a01_version>
+<a07_language>English (US)</a07_language>
+</a07>
+<a08> <!-- App 08 of 14 !-->
+<a08_title>Minecraft Pocket Edition</a08_title>
+<a08_developer>Mojang</a08_developer>
+<a08_offline>This app works offline</a08_offline>
+<a08_paid>This app costs money ($6.99)</a08_paid>
+<a08_source>Closed source</a08_source>
+<a08_sourceModel>Paid (Paid, but with no in-app purchases)</a08_sourceModel><!-- Modern Minecraft contains in-app purchases, but this is a super old version, so it doesn't count, since it doesn't have them in this version. !-->
+<a08_language>English (US)</a08_language>
+<a08_version>Alpha 0.13.2</a08_version>
+</a08>
+<a09> <!-- App 09 of 14 !-->
+<a09_title>Hill Climb Racing</a09_title>
+<a09_develope>Fingersoft</a09_developer>
+<a09_offline>This app works offline</a09_offline>
+<a09_paid>This app does not cost money</a09_paid>
+<a09_source>Closed source</a09_source>
+<a09_sourceModel>Freemium (Free, but with in-app purchases, although not needed to play normally)</a09_sourceModel>
+<a09_language>English (US)</a09_language>
+<a09_version>V???</a09_version>
+</a09>
+<a10> <!-- App 10 of 14 !-->
+<a10_title>Pandora</a10_title>
+<a10_developer>Pandora</a10_developer><!-- Pandora was bought out in 2019, but this app hasn't been updated in years, and is a pre-Sirius XM version !-->
+<a10_offline>This app does not work offline</a10_offline>
+<a10_paid>This app does not cost money</a10_paid>
+<a10_source>Closed source</a10_source>
+<a10_sourceModel>Free</a10_sourceModel>
+<a10_language>English (US)</a10_language>
+<a10_version>V???</a10_version>
+</a10>
+<a11> <!-- App 11 of 14 !-->
+<a11_title>HBO Go</a11_title>
+<a11_developer>HBO</a11_developer>
+<a11_offline>This app does not work offline</a11_offline>
+<a11_paid>This app costs money (monthly subscription)</a11_paid>
+<a11_source>Closed source</a11_source>
+<a11_sourceModel>Paid subscription required</a11_sourceModel>
+<a11_language>Multiple</a11_language>
+<a11_version>V???</a11_version>
+</a11>
+<a12> <!-- App 12 of 14 !-->
+<a12_title>Stay Connected @ Hampton</a12_title>
+<a12_developer>Hampton Hotels</a12_developer>
+<a12_offline>This app does not work offline</a12_offline>
+<a12_paid>This app does not cost money</a12_paid>
+<a12_source>Closed source</a12_source>
+<a12_sourceModel>Freeware</a12_sourceModel>
+<a12_language>Multiple</a12_language>
+<a12_version>V???</a12_version>
+</a12>
+<a13> <!-- App 13 of 14 !-->
+<a13_title>Audible</a13_title>
+<a13_developer>Audible</a13_developer><!-- Audible is now an Amazon subsidiary !-->
+<a13_offline>This app does not work offline</a13_offline>
+<a13_paid>This app costs money (subscription-based)</a13_paid>
+<a13_source>Closed source</a13_source>
+<a13_sourceModel>Paid subscription required</a13_sourceModel>
+<a13_language>Multiple</a13_language>
+<a13_version>V???</a13_version>
+</a13>
+<a14> <!-- App 14 of 14 !-->
+<a14_title>Pulse - Bringing you good news</a14_title>
+<a14_developer>Unknown</a14_developer>
+<a14_offline>Unknown</a14_offline>
+<a14_paid>Unknown</a14_paid>
+<a14_source>Closed source</a14_source>
+<a14_sourceModel>Unknown</a14_sourceModel>
+<a14_language>Unknown</a14_language>
+<a14_version>V???</a14_version>
+</a14>
+<applistTable>
+<!-- End of table !-->
+<booklist>
+New Oxford American Dictionary second edition
+Welcome to your new Kindle Fire
+[Sample] Grandma's best Cookie Recipes Marg Ruttan
+[Sample] Sandra Brown Rainwater
+Fifty Shades Darker
+Sandra Brown Rainwater
+A family affair Mary Campisi
+Beyond belief - My secret life inside scientology and my harrowing escape
+[Sample] On mystic like - Kristin Hannah
+And the mountains echoed - Khaled Hosseini
+The Harcombe Diet - Zoë Harcombe
+[Sample] Getting past your past - Francis Shapiro
+Married by mistake - Abby Gaines
+Love Sense - Dr. Sue Johnson
+Hold me tight - Seven conversations for a lifetime of love - Dr. Sue Johnson
+The reason I jump - Naoki Higashida & David Mitchell
+A tale of two cities - Charles Dickens
+Middle School - The WORST years of my life - James Patterson & Chris Tebetts
+[Free preview] Middle School - My brother is a big fat liar - James Patterson & Lisa Papademetriou
+Unbroken - A World War II story of Survival, Resilience, and Redemption - Laura Hillenbrand
+Me before you - Jojo moves
+Life lessons from a horse whisperer - Dr. Lew Sterrett
+Impossible odds - The kidnapping of Jessica Buchanen and Her dramatic Rescue by SEAL Team Six - Jessica Buchanen & Erik Landemalm with Anthony Flacco
+The glass case - Kristin Hannah
+Middle School - GET ME OUT OF HERE! - James Patterson & Chris Tebetts
+Switched on - A Memoir of Brain Change and Emotional Awakening - John Elder Robison
+</booklist>
+<!-- Start of table !-->
+<booklistTable><!-- The book list in a sorted table, should be exported to TeX/BiBTeX !-->
+<b01><!-- Book 01 of 26 !-->
+<b01_title>New Oxford American Dictionary (second edition)</b01_title>
+<b01_author>Erin McKean</b01_author>
+<b01_date>2005 January 1st</b01_date>
+<b01_lang>English (US)</b01_lang>
+<b01_cover>/nil/B01.png</b01_cover>
+<b01_isSample>False</b01_isSample>
+<b01_isAudio>False</b01_isAudio>
+<b01_pageCount>NaN</b01_pageCount>
+<b01_genre>Unknown</b01_genre>
+</b01>
+<b02><!-- Book 02 of 26 !-->
+<b02_title>Welcome to your new Kindle Fire</b02_title>
+<b02_author>Amazon.com</b02_author>
+<b02_date>Unknown</b02_date>
+<b02_lang>English (US)</b02_lang>
+<b02_cover>/nil/B02.png</b02_cover>
+<b02_isSample>False</b02_isSample>
+<b02_isAudio>False</b02_isAudio>
+<b02_pageCount>NaN</b02_pageCount>
+<b02_genre>Unknown</b02_genre>
+</b02>
+<b03><!-- Book 03 of 26 !-->
+<b03_title>Grandma's best Cookie Recipes</b03_title>
+<b03_author>Marg Ruttan</b03_author>
+<b03_date>Unknown</b03_date>
+<b03_lang>English (US)</b03_lang>
+<b03_cover>/nil/b03.png</b03_cover>
+<b03_isSample>Yes</b03_isSample>
+<b03_isAudio>False</b03_isAudio>
+<b03_pageCount>NaN</b03_pageCount>
+<b03_genre>Unknown</b03_genre>
+</b03>
+<b04><!-- Book 04 of 26 !-->
+<b04_title>Rainwater</b04_title>
+<b04_author>Sandra Brown</b04_author>
+<b04_date>Unknown</b04_date>
+<b04_lang>English (US)</b04_lang>
+<b04_cover>/nil/b04.png</b04_cover>
+<b04_isSample>Yes</b04_isSample>
+<b04_isAudio>False</b04_isAudio>
+<b04_pageCount>NaN</b04_pageCount>
+<b04_genre>Unknown</b04_genre>
+</b04>
+<b05><!-- Book 05 of 26 !-->
+<b05_title>Fifty Shades Darker</b05_title>
+<b05_author>E. L. James</b05_author>
+<b05_date2012>April 17th</b05_date>
+<b05_lang>English (US)</b05_lang>
+<b05_cover>/nil/b05.png</b05_cover>
+<b05_isSample>No</b05_isSample>
+<b05_isAudio>False</b05_isAudio>
+<b05_pageCount>544</b05_pageCount>
+<b05_genre>Erotic Romance</b05_genre>
+</b05>
+<b06><!-- Book 06 of 26 !-->
+<b06_title>Rainwater</b06_title>
+<b06_author>Sandra Brown</b06_author>
+<b06_date>Unknown</b06_date>
+<b06_lang>English (US)</b06_lang>
+<b06_cover>/nil/b06.png</b06_cover>
+<b06_isSample>No</b06_isSample>
+<b06_isAudio>False</b06_isAudio>
+<b06_pageCount>NaN</b06_pageCount>
+<b06_genre>Unknown</b06_genre>
+</b06>
+<b07><!-- Book 07 of 26 !-->
+<b07_title>A Family affair</b07_title>
+<b07_author>Mary Campisi</b07_author>
+<b07_date>Unknown</b07_date>
+<b07_lang>English (US)</b07_lang>
+<b07_cover>/nil/b07.png</b07_cover>
+<b07_isSample>No</b07_isSample>
+<b07_isAudio>False</b07_isAudio>
+<b07_pageCount>NaN</b07_pageCount>
+<b07_genre>Unknown</b07_genre>
+</b07>
+<b08><!-- Book 08 of 26 !-->
+<b08_title>Beyond belief - My secret life inside scientology and my harrowing escape</b08_title>
+<b08_author>Unknown</b08_author>
+<b08_date>Unknown</b08_date>
+<b08_lang>English (US)</b08_lang>
+<b08_cover>/nil/b08.png</b08_cover>
+<b08_isSample>No</b08_isSample>
+<b08_isAudio>False</b08_isAudio>
+<b08_pageCount>NaN</b08_pageCount>
+<b08_genre>Unknown</b08_genre>
+</b08>
+<b09><!-- Book 09 of 26 !-->
+<b09_title>On mystic like</b09_title>
+<b09_author>Kristin Hannah</b09_author>
+<b09_date>Unknown</b09_date>
+<b09_lang>English (US)</b09_lang>
+<b09_cover>/nil/b09.png</b09_cover>
+<b09_isSample>Yes</b09_isSample>
+<b09_isAudio>False</b09_isAudio>
+<b09_pageCount>NaN</b09_pageCount>
+<b09_genre>Unknown</b09_genre>
+</b09>
+<b10><!-- Book 10 of 26 !-->
+<b10_title>And the mountains echoed</b10_title>
+<b10_author>Khaled Hosseini</b10_author>
+<b10_date>Unknown</b10_date>
+<b10_lang>English (US)</b10_lang>
+<b10_cover>/nil/b10.png</b10_cover>
+<b10_isSample>No</b10_isSample>
+<b10_isAudio>False</b10_isAudio>
+<b10_pageCount>NaN</b10_pageCount>
+<b10_genre>Unknown</b10_genre>
+</b10>
+<b11><!-- Book 11 of 26 !-->
+<b11_title>The Harcombe Diet</b11_title>
+<b11_author>Zoë Harcombe</b11_author>
+<b11_date>Unknown</b11_date>
+<b11_lang>English (US)</b11_lang>
+<b11_cover>/nil/b11.png</b11_cover>
+<b11_isSample>No</b11_isSample>
+<b11_isAudio>False</b11_isAudio>
+<b11_pageCount>NaN</b11_pageCount>
+<b11_genre>Unknown</b11_genre>
+</b11>
+<b12><!-- Book 12 of 26 !-->
+<b12_title>Getting past your past</b12_title>
+<b12_author>Francis Shapiro</b12_author>
+<b12_date>Unknown</b12_date>
+<b12_lang>English (US)</b12_lang>
+<b12_cover>/nil/b12.png</b12_cover>
+<b12_isSample>Yes</b12_isSample>
+<b12_isAudio>False</b12_isAudio>
+<b12_pageCount>NaN</b12_pageCount>
+<b12_genre>Unknown</b12_genre>
+</b12>
+<b13><!-- Book 13 of 26 !-->
+<b13_title>Married by mistake</b13_title>
+<b13_author>Abby Gaines</b13_author>
+<b13_date>Unknown</b13_date>
+<b13_lang>English (US)</b13_lang>
+<b13_cover>/nil/b13.png</b13_cover>
+<b13_isSample>No</b13_isSample>
+<b13_isAudio>False</b13_isAudio>
+<b13_pageCount>NaN</b13_pageCount>
+<b13_genre>Unknown</b13_genre>
+</b13>
+<b14><!-- Book 14 of 26 !-->
+<b14_title>Love Sense</b14_title>
+<b14_author>Dr. Sue Johnso</b14_author>
+<b14_date>Unknown</b14_date>
+<b14_lang>English (US)</b14_lang>
+<b14_cover>/nil/b14.png</b14_cover>
+<b14_isSample>No</b14_isSample>
+<b14_isAudio>False</b14_isAudio>
+<b14_pageCount>NaN</b14_pageCount>
+<b14_genre>Unknown</b14_genre>
+</b14>
+<b15><!-- Book 15 of 26 !-->
+<b15_title>Hold me tight - Seven conversations for a lifetime of love</b15_title>
+<b15_author>Dr. Sue Johnson</b15_author>
+<b15_date>Unknown</b15_date>
+<b15_lang>English (US)</b15_lang>
+<b15_cover>/nil/b15.png</b15_cover>
+<b15_isSample>No</b15_isSample>
+<b15_isAudio>False</b15_isAudio>
+<b15_pageCount>NaN</b15_pageCount>
+<b15_genre>Unknown</b15_genre>
+</b15>
+<b16><!-- Book 16 of 26 !-->
+<b16_title>The reason I jump</b16_title>
+<b16_author>Naoki Higashida</b16_author>
+<b16_coauthor>David Mitchell</b16_coauthor>
+<b16_date>Unknown</b16_date>
+<b16_lang>English (US)</b16_lang>
+<b16_cover>/nil/b16.png</b16_cover>
+<b16_isSample>No</b16_isSample>
+<b16_isAudio>False</b16_isAudio>
+<b16_pageCount>NaN</b16_pageCount>
+<b16_genre>Unknown</b16_genre>
+</b16>
+<b17><!-- Book 17 of 26 !-->
+<b17_title>A tale of two cities</b17_title>
+<b17_author>Charles Dickens</b17_author>
+<b17_date>April to November 1859</b17_date>
+<b17_lang>English (US)</b17_lang>
+<b17_cover>/nil/b17.png</b17_cover>
+<b17_isSample>No</b17_isSample>
+<b17_isAudio>False</b17_isAudio>
+<b17_pageCount>NaN</b17_pageCount>
+<b17_genre>Historical Novel</b17_genre>
+</b17>
+<b18><!-- Book 18 of 26 !-->
+<b18_title>Middle School - The WORST years of my life</b18_title>
+<b18_author>James Patterson</b18_author>
+<b18_coauthor>Chris Tebetts<b18_coauthor>
+<b18_date>Unknown</b18_date>
+<b18_lang>English (US)</b18_lang>
+<b18_cover>/nil/b18.png</b18_cover>
+<b18_isSample>No</b18_isSample>
+<b18_isAudio>False</b18_isAudio>
+<b18_pageCount>NaN</b18_pageCount>
+<b18_genre>Unknown</b18_genre>
+</b18>
+<b19><!-- Book 19 of 26 !-->
+<b19_title>Middle School - My brother is a big fat liar</b19_title>
+<b19_author>James Patterson</b19_author>
+<b19_coauthor>Lisa Papademetriou</b19_coauthor>
+<b19_date>Unknown</b19_date>
+<b19_lang>English (US)</b19_lang>
+<b19_cover>/nil/b19.png</b19_cover>
+<b19_isSample>Yes (free preview)</b19_isSample>
+<b19_isAudio>False</b19_isAudio>
+<b19_pageCount>NaN</b19_pageCount>
+<b19_genre>Unknown</b19_genre>
+</b19>
+<b20><!-- Book 20 of 26 !-->
+<b20_title>Unbroken - A World War II story of Survival, Resilience, and Redemption</b20_title>
+<b20_author>Laura Hillenbrand</b20_author>
+<b20_date>Unknown</b20_date>
+<b20_lang>English (US)</b20_lang>
+<b20_cover>/nil/b20.png</b20_cover>
+<b20_isSample>No</b20_isSample>
+<b20_isAudio>False</b20_isAudio>
+<b20_pageCount>NaN</b20_pageCount>
+<b20_genre>Unknown</b20_genre>
+</b20>
+<b21><!-- Book 21 of 26 !-->
+<b21_title>Me before you</b21_title>
+<b21_author>Jojo moves</b21_author>
+<b21_date>Unknown</b21_date>
+<b21_lang>English (US)</b21_lang>
+<b21_cover>/nil/b21.png</b21_cover>
+<b21_isSample>No</b21_isSample>
+<b21_isAudio>False</b21_isAudio>
+<b21_pageCount>NaN</b21_pageCount>
+<b21_genre>Unknown</b21_genre>
+</b21>
+<b22><!-- Book 22 of 26 !-->
+<b22_title>Life lessons from a horse whisperer</b22_title>
+<b22_author>Dr. Lew Sterrett</b22_author>
+<b22_date>Unknown</b22_date>
+<b22_lang>English (US)</b22_lang>
+<b22_cover>/nil/b22.png</b22_cover>
+<b22_isSample>No</b22_isSample>
+<b22_isAudio>False</b22_isAudio>
+<b22_pageCount>NaN</b22_pageCount>
+<b22_genre>Unknown</b22_genre>
+</b22>
+<b23><!-- Book 23 of 26 !-->
+<b23_title>Impossible odds - The kidnapping of Jessica Buchanen and Her dramatic Rescue by SEAL Team Six</b23_title>
+<b23_author>Jessica Buchanen</b23_author>
+<b23_coauthor1>Erik Landemalm</b23_coauthor1>
+<b23_coauthor2>Anthony Flacco</b23_coauthor2>
+<b23_date>Unknown</b23_date>
+<b23_lang>English (US)</b23_lang>
+<b23_cover>/nil/b23.png</b23_cover>
+<b23_isSample>No</b23_isSample>
+<b23_isAudio>False</b23_isAudio>
+<b23_pageCount>NaN</b23_pageCount>
+<b23_genre>Unknown</b23_genre>
+</b23>
+<b24><!-- Book 24 of 26 !-->
+<b24_title>The glass case</b24_title>
+<b24_author>Kristin Hannah</b24_author>
+<b24_date>Unknown</b24_date>
+<b24_lang>English (US)</b24_lang>
+<b24_cover>/nil/b24.png</b24_cover>
+<b24_isSample>No</b24_isSample>
+<b24_isAudio>False</b24_isAudio>
+<b24_pageCount>NaN</b24_pageCount>
+<b24_genre>Unknown</b24_genre>
+</b24>
+<b25><!-- Book 25 of 26 !-->
+<b25_title>Middle School - GET ME OUT OF HERE!</b25_title>
+<b25_author>James Patterson</b25_author>
+<b25_coauthor>Chris Tebetts</b25_coauthor>
+<b25_date>Unknown</b25_date>
+<b25_lang>English (US)</b25_lang>
+<b25_cover>/nil/b25.png</b25_cover>
+<b25_isSample>No</b25_isSample>
+<b25_isAudio>False</b25_isAudio>
+<b25_pageCount>NaN</b25_pageCount>
+<b25_genre>Unknown</b25_genre>
+</b25>
+<b26><!-- Book 26 of 26 !-->
+<b26_title>Switched on - A Memoir of Brain Change and Emotional Awakening</b26_title>
+<b26_author>John Elder Robison</b26_author>
+<b26_date>Unknown</b26_date>
+<b26_lang>English (US)</b26_lang>
+<b26_cover>/nil/b26.png</b26_cover>
+<b26_isSample>No</b26_isSample>
+<b26_isAudio>False</b26_isAudio>
+<b26_pageCount>NaN</b26_pageCount>
+<b26_genre>Unknown</b26_genre>
+</b26>
+</booklistTable>
+<!-- End of table !-->
+<accessories>Blue fabric Kindle case</accessories><!-- Accessories for the Kindle Fire hardware !-->
+</kindlespec1>
+<!-- TODO
+Search Kindle and fill in the rest of the data
+Fix the app memory and other memory counts
+!-->
+</xml>
+<!-- Changelog
+Version 1 (2021, Monday, December 20th at 10:02 pm)
+Changes:
+Started the file
+Added the basic XML tags and shebang
+Added the Kindlespec wraparound tag
+Added the OSName label
+Added the OS Developer label
+Added the rooted label
+Added the Custom ROM label
+Added the SD card label
+Added the battery label
+Added the display resolution label
+Added the OS Family label
+Added the current OS version label
+Added the model1 and model2 labels
+Added the application memory label
+Added the other memory label
+Added the RAM label
+Added the usernotes section
+Added the applist section
+Added the booklist section
+Added the accessories section
+Added the todo comment block
+Added the file info section
+No other changes in version 1
+Version 2 (2021, Tuesday, December 21st at 4:15 pm)
+Changes:
+Updated the application list
+Updated the book list
+Added a book table with 26 entries
+Updated the application memory label
+Added the application memory in use label
+Added the application memory available label
+Renamed the other memory label to internal storage
+Added the internal storage in use label
+Added the internal storage available label
+Added the changelog
+Updated the file info section
+Added the username label
+Added the usernameDisplay label
+Added the password label
+Added the MAC address label
+Added the serial number label
+Renamed the Kindlespec wraparound tag from `kindlespec` to `kindlespec1`
+No other changes in version 2
+Version 3 (2021, Tuesday, December 21st at 4:51 pm)
+Changes:
+Updated the application list
+Added an application table
+Updated the changelog
+Updated the file info section
+!-->
+<!-- File info
+File type: XML document (*.xml, *many)
+File version: 2 (2021, Tuesday, December 21st at 4:51 pm)
+Line count (including blank lines and compiler line): 589
+!-->
+<!-- End of script !-->
+
