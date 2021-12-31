@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Start of script !-->
+<!-- H1, H2, H3, H4, H5, H6 !-->
+<!-- XML Sample file !-->
+<title1="Project language file 4 - SeansLifeArchive/Extras/KindleFire"></title1>
+<bodyMain>
+<titlemeta="Project language file 4"></titlemeta>
+<projectDi>For: SeansLifeArchive/Extras/KindleFire</projectDi>
+<description>I decided to make XML the 4th project language file for this project (SeansLifeArchive/Extras/KindleFire) as XML is the main language used for the Kindle Specification files on this project, which is a major component, and deserves its own project language file.</description>
+</bodyMain>
+<!-- Divider !-->
+<fileInfo>
+	<fileVerCurrent="Version 1 (2021, Tuesday, December 21st at 5:07 pm)"></fileVerCurrent>
+	<fileVerFirst="Version 1 (2021, Tuesday, December 21st at 5:07 pm)"></fileVerFirst>
+	<fileType="XML"></fileType><!-- Obvious, but the compiler may need it !-->
+	<lineCount>
+    <includingblanklinesandcompilerline>
+    26 lines (25 SLOC)
+    </includingblanklinesandcompilerline>
+  </lineCount>
+	<encoding1="UTF-8"></encoding1>
+	<indenting="Unix (LF)"></indenting>
+	<size1="Undetermined">SIZE</size1>
+</fileInfo>
+<!-- End of script !-->
+
