@@ -1,0 +1,506 @@
+<pre><font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ tracker reset --hard
+<font color="#CC0000"><b>CAUTION: This process may irreversibly delete data.</b></font>
+Although most content indexed by Tracker can be safely reindexed, it can’t be assured that this is the case for all data. Be aware that you may be incurring in a data loss situation, proceed at your own risk.
+
+Are you sure you want to proceed? [y|N]: y
+Found 2 PIDs…
+  Killed process 1178 — “tracker-miner-fs”
+  Killed process 1532 — “tracker-store”
+_g_io_module_get_default: Found default implementation dconf (DConfSettingsBackend) for ‘gsettings-backend’
+Setting database locations
+Checking database directories exist
+Checking database version
+Checking whether database files exist
+Removing all database/storage files
+  Removing database:&apos;/home/sean/.cache/tracker/meta.db&apos;
+  Removing db-locale file:&apos;/home/sean/.cache/tracker/db-locale.txt&apos;
+  Removing journal:&apos;/home/sean/.local/share/tracker/data/tracker-store.journal&apos;
+  Removing db-version file:&apos;/home/sean/.cache/tracker/db-version.txt&apos;
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free -m
+              total        used        free      shared  buff/cache   available
+Mem:           7542        1803        2166         432        3572        5002
+Swap:          2047         142        1905
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ man free
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free -b
+              total        used        free      shared  buff/cache   available
+Mem:     7909306368  1891778560  2267140096   450699264  3750387712  5248475136
+Swap:    2147479552   148897792  1998581760
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free -g
+              total        used        free      shared  buff/cache   available
+Mem:              7           1           2           0           3           4
+Swap:             1           0           1
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free -k
+              total        used        free      shared  buff/cache   available
+Mem:        7723932     1847496     2215004      439064     3661432     5126472
+Swap:       2097148      145408     1951740
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free -p
+free: invalid option -- &apos;p&apos;
+
+Usage:
+ free [options]
+
+Options:
+ -b, --bytes         show output in bytes
+     --kilo          show output in kilobytes
+     --mega          show output in megabytes
+     --giga          show output in gigabytes
+     --tera          show output in terabytes
+     --peta          show output in petabytes
+ -k, --kibi          show output in kibibytes
+ -m, --mebi          show output in mebibytes
+ -g, --gibi          show output in gibibytes
+     --tebi          show output in tebibytes
+     --pebi          show output in pebibytes
+ -h, --human         show human-readable output
+     --si            use powers of 1000 not 1024
+ -l, --lohi          show detailed low and high memory statistics
+ -t, --total         show total for RAM + swap
+ -s N, --seconds N   repeat printing every N seconds
+ -c N, --count N     repeat printing N times, then exit
+ -w, --wide          wide output
+
+     --help     display this help and exit
+ -V, --version  output version information and exit
+
+For more details see free(1).
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free -t
+              total        used        free      shared  buff/cache   available
+Mem:        7723932     1845340     2216280      439896     3662312     5127804
+Swap:       2097148      145408     1951740
+Total:      9821080     1990748     4168020
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ man free
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free -peta
+free: invalid option -- &apos;p&apos;
+
+Usage:
+ free [options]
+
+Options:
+ -b, --bytes         show output in bytes
+     --kilo          show output in kilobytes
+     --mega          show output in megabytes
+     --giga          show output in gigabytes
+     --tera          show output in terabytes
+     --peta          show output in petabytes
+ -k, --kibi          show output in kibibytes
+ -m, --mebi          show output in mebibytes
+ -g, --gibi          show output in gibibytes
+     --tebi          show output in tebibytes
+     --pebi          show output in pebibytes
+ -h, --human         show human-readable output
+     --si            use powers of 1000 not 1024
+ -l, --lohi          show detailed low and high memory statistics
+ -t, --total         show total for RAM + swap
+ -s N, --seconds N   repeat printing every N seconds
+ -c N, --count N     repeat printing N times, then exit
+ -w, --wide          wide output
+
+     --help     display this help and exit
+ -V, --version  output version information and exit
+
+For more details see free(1).
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free -tera
+free: invalid option -- &apos;e&apos;
+
+Usage:
+ free [options]
+
+Options:
+ -b, --bytes         show output in bytes
+     --kilo          show output in kilobytes
+     --mega          show output in megabytes
+     --giga          show output in gigabytes
+     --tera          show output in terabytes
+     --peta          show output in petabytes
+ -k, --kibi          show output in kibibytes
+ -m, --mebi          show output in mebibytes
+ -g, --gibi          show output in gibibytes
+     --tebi          show output in tebibytes
+     --pebi          show output in pebibytes
+ -h, --human         show human-readable output
+     --si            use powers of 1000 not 1024
+ -l, --lohi          show detailed low and high memory statistics
+ -t, --total         show total for RAM + swap
+ -s N, --seconds N   repeat printing every N seconds
+ -c N, --count N     repeat printing N times, then exit
+ -w, --wide          wide output
+
+     --help     display this help and exit
+ -V, --version  output version information and exit
+
+For more details see free(1).
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free -b
+              total        used        free      shared  buff/cache   available
+Mem:     7909306368  1889705984  2270859264   448995328  3748741120  5252251648
+Swap:    2147479552   148897792  1998581760
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free -t
+              total        used        free      shared  buff/cache   available
+Mem:        7723932     1845736     2216244      439544     3661952     5127760
+Swap:       2097148      145408     1951740
+Total:      9821080     1991144     4167984
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free -tera
+free: invalid option -- &apos;e&apos;
+
+Usage:
+ free [options]
+
+Options:
+ -b, --bytes         show output in bytes
+     --kilo          show output in kilobytes
+     --mega          show output in megabytes
+     --giga          show output in gigabytes
+     --tera          show output in terabytes
+     --peta          show output in petabytes
+ -k, --kibi          show output in kibibytes
+ -m, --mebi          show output in mebibytes
+ -g, --gibi          show output in gibibytes
+     --tebi          show output in tebibytes
+     --pebi          show output in pebibytes
+ -h, --human         show human-readable output
+     --si            use powers of 1000 not 1024
+ -l, --lohi          show detailed low and high memory statistics
+ -t, --total         show total for RAM + swap
+ -s N, --seconds N   repeat printing every N seconds
+ -c N, --count N     repeat printing N times, then exit
+ -w, --wide          wide output
+
+     --help     display this help and exit
+ -V, --version  output version information and exit
+
+For more details see free(1).
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free -tebi
+free: invalid option -- &apos;e&apos;
+
+Usage:
+ free [options]
+
+Options:
+ -b, --bytes         show output in bytes
+     --kilo          show output in kilobytes
+     --mega          show output in megabytes
+     --giga          show output in gigabytes
+     --tera          show output in terabytes
+     --peta          show output in petabytes
+ -k, --kibi          show output in kibibytes
+ -m, --mebi          show output in mebibytes
+ -g, --gibi          show output in gibibytes
+     --tebi          show output in tebibytes
+     --pebi          show output in pebibytes
+ -h, --human         show human-readable output
+     --si            use powers of 1000 not 1024
+ -l, --lohi          show detailed low and high memory statistics
+ -t, --total         show total for RAM + swap
+ -s N, --seconds N   repeat printing every N seconds
+ -c N, --count N     repeat printing N times, then exit
+ -w, --wide          wide output
+
+     --help     display this help and exit
+ -V, --version  output version information and exit
+
+For more details see free(1).
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free -b --tera
+free: Multiple unit options doesn&apos;t make sense.
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free --tera
+              total        used        free      shared  buff/cache   available
+Mem:              0           0           0           0           0           0
+Swap:             0           0           0
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free --peta
+              total        used        free      shared  buff/cache   available
+Mem:              0           0           0           0           0           0
+Swap:             0           0           0
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free --kibi
+              total        used        free      shared  buff/cache   available
+Mem:        7723932     4671212      140884      800860     2911836     1941148
+Swap:       2097148      167936     1929212
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free - mebi
+              total        used        free      shared  buff/cache   available
+Mem:        7723932     4680048      160176      772388     2883708     1960588
+Swap:       2097148      167936     1929212
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free --gibi
+              total        used        free      shared  buff/cache   available
+Mem:              7           4           0           0           2           1
+Swap:             1           0           1
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free --tibi
+free: unrecognized option &apos;--tibi&apos;
+
+Usage:
+ free [options]
+
+Options:
+ -b, --bytes         show output in bytes
+     --kilo          show output in kilobytes
+     --mega          show output in megabytes
+     --giga          show output in gigabytes
+     --tera          show output in terabytes
+     --peta          show output in petabytes
+ -k, --kibi          show output in kibibytes
+ -m, --mebi          show output in mebibytes
+ -g, --gibi          show output in gibibytes
+     --tebi          show output in tebibytes
+     --pebi          show output in pebibytes
+ -h, --human         show human-readable output
+     --si            use powers of 1000 not 1024
+ -l, --lohi          show detailed low and high memory statistics
+ -t, --total         show total for RAM + swap
+ -s N, --seconds N   repeat printing every N seconds
+ -c N, --count N     repeat printing N times, then exit
+ -w, --wide          wide output
+
+     --help     display this help and exit
+ -V, --version  output version information and exit
+
+For more details see free(1).
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free -b
+              total        used        free      shared  buff/cache   available
+Mem:     7909306368  4772376576   184446976   786337792  2952482816  2032222208
+Swap:    2147479552   171966464  1975513088
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free -b
+              total        used        free      shared  buff/cache   available
+Mem:     7909306368  4764684288   190623744   786808832  2953998336  2039427072
+Swap:    2147479552   171966464  1975513088
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free -b
+              total        used        free      shared  buff/cache   available
+Mem:     7909306368  4759252992   195411968   786276352  2954641408  2045403136
+Swap:    2147479552   171966464  1975513088
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free -b
+              total        used        free      shared  buff/cache   available
+Mem:     7909306368  4754141184   199360512   787390464  2955804672  2049421312
+Swap:    2147479552   171966464  1975513088
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free -b
+              total        used        free      shared  buff/cache   available
+Mem:     7909306368  5479710720   290217984   940212224  2139377664  1198759936
+Swap:    2147479552   255328256  1892151296
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ up
+up: command not found
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ uptime
+ 22:50:41 up 10:09,  1 user,  load average: 0.98, 1.14, 1.24
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free -b
+              total        used        free      shared  buff/cache   available
+Mem:     7909306368  5143162880   589021184   721010688  2177122304  1747795968
+Swap:    2147479552   240910336  1906569216
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free -b
+              total        used        free      shared  buff/cache   available
+Mem:     7909306368  5186088960   578539520   687898624  2144677888  1737998336
+Swap:    2147479552   240910336  1906569216
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free -peta
+free: invalid option -- &apos;p&apos;
+
+Usage:
+ free [options]
+
+Options:
+ -b, --bytes         show output in bytes
+     --kilo          show output in kilobytes
+     --mega          show output in megabytes
+     --giga          show output in gigabytes
+     --tera          show output in terabytes
+     --peta          show output in petabytes
+ -k, --kibi          show output in kibibytes
+ -m, --mebi          show output in mebibytes
+ -g, --gibi          show output in gibibytes
+     --tebi          show output in tebibytes
+     --pebi          show output in pebibytes
+ -h, --human         show human-readable output
+     --si            use powers of 1000 not 1024
+ -l, --lohi          show detailed low and high memory statistics
+ -t, --total         show total for RAM + swap
+ -s N, --seconds N   repeat printing every N seconds
+ -c N, --count N     repeat printing N times, then exit
+ -w, --wide          wide output
+
+     --help     display this help and exit
+ -V, --version  output version information and exit
+
+For more details see free(1).
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free --peta
+              total        used        free      shared  buff/cache   available
+Mem:              0           0           0           0           0           0
+Swap:             0           0           0
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free --lohi
+              total        used        free      shared  buff/cache   available
+Mem:        7723932     2529100     2500124      612820     2694708     4281308
+Low:        7723932     5223808     2500124
+High:             0           0           0
+Swap:       2097148      311808     1785340
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free -v
+free: invalid option -- &apos;v&apos;
+
+Usage:
+ free [options]
+
+Options:
+ -b, --bytes         show output in bytes
+     --kilo          show output in kilobytes
+     --mega          show output in megabytes
+     --giga          show output in gigabytes
+     --tera          show output in terabytes
+     --peta          show output in petabytes
+ -k, --kibi          show output in kibibytes
+ -m, --mebi          show output in mebibytes
+ -g, --gibi          show output in gibibytes
+     --tebi          show output in tebibytes
+     --pebi          show output in pebibytes
+ -h, --human         show human-readable output
+     --si            use powers of 1000 not 1024
+ -l, --lohi          show detailed low and high memory statistics
+ -t, --total         show total for RAM + swap
+ -s N, --seconds N   repeat printing every N seconds
+ -c N, --count N     repeat printing N times, then exit
+ -w, --wide          wide output
+
+     --help     display this help and exit
+ -V, --version  output version information and exit
+
+For more details see free(1).
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free --v
+free from procps-ng UNKNOWN
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ free -k
+              total        used        free      shared  buff/cache   available
+Mem:        7723932     2529528     2499916      611264     2694488     4282480
+Swap:       2097148      311808     1785340
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ flow
+
+Command &apos;flow&apos; not found, but can be installed with:
+
+sudo snap install flow
+
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ calm
+
+Command &apos;calm&apos; not found, did you mean:
+
+  command &apos;cal&apos; from deb bsdmainutils (11.1.2ubuntu3)
+  command &apos;calc&apos; from deb calc (2.12.7.2-4)
+  command &apos;bcalm&apos; from deb bcalm (2.2.1-2build1)
+  command &apos;clm&apos; from deb mcl (1:14-137+ds-4)
+
+Try: sudo apt install &lt;deb name&gt;
+
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ cal
+   December 2021      
+Su Mo Tu We Th Fr Sa  
+          1  2  3  4  
+ 5  6  7  8  9 10 11  
+12 13 14 15 16 17 18  
+19 20 21 22 23 24 <span style="background-color:#FFFFFF"><font color="#300A24">25</font></span>  
+26 27 28 29 30 31     
+                      
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ calc
+
+Command &apos;calc&apos; not found, but can be installed with:
+
+sudo apt install calc
+
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ bcalm
+
+Command &apos;bcalm&apos; not found, but can be installed with:
+
+sudo apt install bcalm
+
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ telnet
+telnet&gt; exit
+?Invalid command
+telnet&gt; ?
+Commands may be abbreviated.  Commands are:
+
+close   	close current connection
+logout  	forcibly logout remote user and close the connection
+display 	display operating parameters
+mode    	try to enter line or character mode (&apos;mode ?&apos; for more)
+open    	connect to a site
+quit    	exit telnet
+send    	transmit special characters (&apos;send ?&apos; for more)
+set     	set operating parameters (&apos;set ?&apos; for more)
+unset   	unset operating parameters (&apos;unset ?&apos; for more)
+status  	print status information
+toggle  	toggle operating parameters (&apos;toggle ?&apos; for more)
+slc     	set treatment of special characters
+
+z       	suspend telnet
+environ 	change environment variables (&apos;environ ?&apos; for more)
+telnet&gt; ?close
+?Invalid command
+telnet&gt; close
+Need to be connected first for `bye&apos;.
+telnet&gt; logout
+Need to be connected first for `logout&apos;.
+telnet&gt; ?  
+Commands may be abbreviated.  Commands are:
+
+close   	close current connection
+logout  	forcibly logout remote user and close the connection
+display 	display operating parameters
+mode    	try to enter line or character mode (&apos;mode ?&apos; for more)
+open    	connect to a site
+quit    	exit telnet
+send    	transmit special characters (&apos;send ?&apos; for more)
+set     	set operating parameters (&apos;set ?&apos; for more)
+unset   	unset operating parameters (&apos;unset ?&apos; for more)
+status  	print status information
+toggle  	toggle operating parameters (&apos;toggle ?&apos; for more)
+slc     	set treatment of special characters
+
+z       	suspend telnet
+environ 	change environment variables (&apos;environ ?&apos; for more)
+telnet&gt; quit
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ lol
+
+Command &apos;lol&apos; not found, did you mean:
+
+  command &apos;gol&apos; from deb growl-for-linux (0.8.5-5)
+  command &apos;sol&apos; from deb aisleriot (1:3.22.9-1)
+  command &apos;col&apos; from deb bsdmainutils (11.1.2ubuntu3)
+  command &apos;lola&apos; from deb lola (1.3-1)
+
+Try: sudo apt install &lt;deb name&gt;
+
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ l33t
+l33t: command not found
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ leet
+
+Command &apos;leet&apos; not found, did you mean:
+
+  command &apos;beet&apos; from snap beets (1.4.9)
+  command &apos;peet&apos; from deb pipexec (2.5.5-2)
+  command &apos;eleet&apos; from deb filters (2.55-3build1)
+  command &apos;beet&apos; from deb beets (1.4.9-4)
+  command &apos;eet&apos; from deb libeet-bin (1.23.3-8)
+
+See &apos;snap info &lt;snapname&gt;&apos; for additional versions.
+
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ leetspeek
+leetspeek: command not found
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ rust
+
+Command &apos;rust&apos; not found, did you mean:
+
+  command &apos;dust&apos; from snap dust (v0.7.5)
+  command &apos;rush&apos; from deb rush (1.8+dfsg-1.1)
+  command &apos;trust&apos; from deb p11-kit (0.23.20-1ubuntu0.1)
+  command &apos;rst&apos; from deb bro-aux (0.42-1)
+  command &apos;rustc&apos; from deb rustc (1.53.0+dfsg1+llvm-4ubuntu1~20.04.1)
+
+See &apos;snap info &lt;snapname&gt;&apos; for additional versions.
+
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ git
+
+Command &apos;git&apos; not found, but can be installed with:
+
+sudo apt install git
+
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ xeyes
+q
+:q
+^[^[^[<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ q
+
+Command &apos;q&apos; not found, but can be installed with:
+
+sudo snap install q                       # version 1.6.3-1, or
+sudo apt  install python3-q-text-as-data  # version 1.7.4+2018.12.21+git+28f776ed46-2
+
+See &apos;snap info q&apos; for additional versions.
+
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ :q
+:q: command not found
+<font color="#4E9A06"><b>sean@sean-XPS-13-9300</b></font>:<font color="#3465A4"><b>~</b></font>$ 
+</pre>
+

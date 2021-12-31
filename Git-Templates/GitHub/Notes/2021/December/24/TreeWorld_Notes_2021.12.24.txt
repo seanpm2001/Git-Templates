@@ -1,0 +1,11 @@
+B51
+Tree branch price doubled
+Den upgrade 20000 1x
+Den upgrade 35000 1x
+Den upgrade 60000 0x
+Adventure
+3 critters not placed
+Long session
+Tons of critter level ups in the beginning, lots of level 3 and some level 2
+Quit after battery dropped to 5%
+Over 26% to next branch
