@@ -1,0 +1,12 @@
+https://github.com/goto-bus-stop/setup-zig
+https://github.com/fabasoad/pascal-action
+https://github.com/jiro4989/setup-nim-action
+https://github.com/fortran-lang/setup-fpm
+https://github.com/awvwgk/setup-fortran
+https://github.com/square/workflow-kotlin
+https://github.com/guenchi/setup-scheme
+https://github.com/Bogdanp/racket-actions-example
+https://github.com/Bogdanp/setup-racket
+https://github.com/jackfirth/racket-package-ci-action
+https://github.com/pmqs/Raku-GitHub-Workflows
+https://github.com/fabasoad/setup-cobol-action
