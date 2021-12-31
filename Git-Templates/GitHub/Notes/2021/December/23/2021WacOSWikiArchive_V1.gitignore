@@ -1,0 +1,10 @@
+# Start of script
+# Ignore these files, as they are not part of the Wiki, they were added afterwards
+/LICENSE.txt
+/.github/* # All of this folder
+# File info
+# File type: Gitignore file (*.gitignore)
+# File version: 1 (2021, Thursday, December 23rd at 4:11 pm)
+# Line count (including blank lines and compiler line): 10
+# End of script
+
