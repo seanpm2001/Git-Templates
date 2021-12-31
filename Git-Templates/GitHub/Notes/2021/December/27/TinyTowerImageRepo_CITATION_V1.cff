@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this data set (image data and documentation data) project, please cite it as below."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "SeansLifeArchive_Images_TinyTower"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2021-12-25
+url: "https://github.com/seanpm2001/SeansLifeArchive_Images_TinyTower"
+cff-version: 1.2.0
+message: "If you use this data set (image data and documentation data) project, please cite it as below."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Video game image data for machine learning and stock imagery"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2021-12-25
+url: "https://github.com/seanpm2001/SeansLifeArchive_Images_TinyTower"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 12
+  start: 1 # First page number
+  end: 100000 # Last page number
+  title: "Tiny Tower (2011 video game by NimbleBit LLC) screenshot and documentation articles image and article data for machine learning, stock imagery, and TinyTower education and knowledge."
+  issue: 1
+  volume: 1
+  year: 2021
+# File info
+# File version: 1 (2021, Monday, December 27th at 12:17 pm)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 44
+

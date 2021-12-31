@@ -1,0 +1,13 @@
+Wikis to archive
+
+AudioDB -> https://github.com/seanpm2001/SeansAudioDB.wiki.git
+GOI -> https://github.com/seanpm2001/GitHub_Organization_Info.wiki.git
+Khan Academy -> https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial.wiki.git
+MCPYE -> https://github.com/seanpm2001/MCPYE.wiki.git
+SNU_2D_ProgrammingTools -> https://github.com/seanpm2001/SNU_2D_ProgrammingTools.wiki.git
+SNU -> https://github.com/seanpm2001/SNU.wiki.git
+Code-Distancing -> https://github.com/seanpm2001/Code-distancing.wiki.git
+SPM_FoodIndex -> https://github.com/seanpm2001/SPM_FoodIndex.wiki.git
+SNU_3D_Universe -> https://github.com/seanpm2001/SNU_3D_Universe.wiki.git
+Underune_Maker -> https://github.com/seanpm2001/Underune_Maker.wiki.git
+Scratch_Master -> https://github.com/seanpm2001/Scratch_Master.wiki.git
