@@ -1,0 +1,49 @@
+# Start of script
+# I am going to keep trying on this until I get it right
+# @seanpm2001 is the global code owner for this project
+/// @seanpm2001
+/ @seanpm2001
+/* @seanpm2001
+* @seanpm2001
+# Directories at root
+/.github/ @seanpm2001
+/ModernSmurfsVillage/ @seanpm2001
+# /External/ @seanpm2001
+/OldVersions/ @seanpm2001
+/RepoData/ @seanpm2001
+# Files at root
+.editorconfig @seanpm2001
+.gitattributes @seanpm2001
+.gitignore @seanpm2001
+AUTHORS @seanpm2001
+CITATION.cff @seanpm2001
+CONTRIBUTING.md @seanpm2001
+COPYINGL @seanpm2001
+CREDITS @seanpm2001
+DRM-free_label.en.svg @seanpm2001
+FAIR-USE.md @seanpm2001
+INSTALL @seanpm2001
+K.desktop @seanpm2001
+LICENSE.txt @seanpm2001
+MW_CarFactory_Icon.png @seanpm2001
+MW_CarFactory_Icon2.png @seanpm2001
+PROJECT_LANG_1.rs @seanpm2001
+README.md @seanpm2001
+SECURITY.md @seanpm2001
+SponsorButton.png @seanpm2001
+desktop.ini @seanpm2001
+makefile.mk @seanpm2001
+# Individual file types
+*.txt @seanpm2001
+*.jpg @seanpm2001
+*.md @seanpm2001
+*.c @seanpm2001
+*.png @seanpm2001
+*.svg @seanpm2001
+# No more individual file types for now
+# File info
+# File type: codeowners file (CODEOWNERS)
+# File version: 1 (2021, Saturday, December 25th at 9:52 pm
+# Line count (including blank lines and compiler line): 49
+# End of script
+
