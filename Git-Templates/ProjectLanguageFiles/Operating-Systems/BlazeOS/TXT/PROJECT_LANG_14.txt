@@ -1,0 +1,9 @@
+Project language (file) 14
+For: seanpm2001/BlazeOS
+About:
+I decided to make .txt the147th project language file for this project (BlazeOS) as Plain Text is one of the many languages used in this project, and I am representing all project languages today (2022, Sunday, January 9th at 4:00 pm)
+
+File info
+File type: Plain text file (*.txt)
+File version: 1 (2022, Sunday, January 9th at 4:00 pm)
+Line count (including blank lines and compiler line): 10
