@@ -1,0 +1,26 @@
+
+====
+
+= Project language file 2 =
+
+== For Seanpm2001/SeansLifeArchive/Extras/Wikipedia ==
+
+=== About ===
+
+I decided to make WikiText (Wikimedia) the second project language file for this project (Seanpm2001/SeansLifeArchive/Extras/Wikipedia) as this project heavily uses Wikitext for keeping copies of my Wikipedia homepage.
+
+This is the second time I am using WikiText/MediaWiki as a project language file, as I learned how to make the GitHub linguist recognize Markdown as a language. I found this out 2 days ago when snooping around on [https://github.com/apple/swift-evolution/blob/main/.gitattributes Apple/Swift Evolution] and I have now expanded it to 4 languages. if you want to do this yourself, simply add this to your <code>.gitattributes</code> file (if you haven't created one yet, make it now, do not add anything else to the file name but <code>.gitattributes</code>)
+
+<code>*.wiki linguist-detectable=true</code>
+
+<code>*.wiki linguist-documentation=false</code>
+
+== File info ==
+
+File type: <code>MediaWiki/Wikitext document (*.wiki)</code>
+
+File version: <code>1 (Tuesday, 2022 January 18th at 2:25 pm)</code>
+
+Line count (including blank lines and compiler line): <code>27</code>
+
+=== End of file ===
