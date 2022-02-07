@@ -1,0 +1,11 @@
+class Hello
+    def main
+        print 'Project language file 1'
+        print 'For: SNU/2D/ProgrammingTools/IDE/Cobra'
+        print 'About:'
+        print 'I chose Cobra as the first project language for this project (SNU/2D/ProgrammingTools/IDE/Cobra) as this is a Cobra IDE, and should be represented with the Cobra programming language.'
+    def fileInfo
+        print 'File info'
+        print 'File type: Cobra source file (*.cobra)
+        print 'File version: 1 (Monday, 2022 February 7th at 1:50 pm)
+        print 'Line count (including blank lines and compiler line): 12'
