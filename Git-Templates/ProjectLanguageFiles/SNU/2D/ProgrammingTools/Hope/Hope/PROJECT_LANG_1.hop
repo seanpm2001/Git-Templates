@@ -1,0 +1,19 @@
+
+--- Start of script
+
+--- Basic sample factorial program in Hope, bundled with project language file info
+dec fact : num -> num;
+--- fact 0 <= 1;
+--- fact n <= n*fact(n-1);
+
+--- Project language file 1
+--- For: SNU/2D/ProgrammingTools/IDE/Hope/
+--- About:
+--- I chose Hope as the first project language for this project (SNU/2D/ProgrammingTools/IDE/Hope) as this is a Hope IDE, and should be represented with the Hope programming language.
+
+--- File info
+--- File type: Hope source file (*.hop)
+--- File version: 1 (2022, Sunday, February 13thy at 8:06 pm)
+--- Line count (Including blank lines and compiler line): 20
+
+--- End of script
