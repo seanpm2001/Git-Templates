@@ -1,0 +1,17 @@
+
+-- Start of script
+
+     (         !       (          !   (  n : Nat  !
+data !---------! where !----------! ; !-----------!
+     ! Nat : * )       !zero : Nat)   !suc n : Nat)
+
+-- I am going to take a hard guess, and assume this is the comment format for Epigram, as so little documentation on the language is discoverable
+
+-- I chose Epigram as the first project language for this project (SNU/2D/ProgrammingTools/IDE/Epigram) as this is a Epigram IDE, and should be represented with the Epigram programming language.
+
+-- File info
+-- File type: Epigram source file (*.epi)
+-- File version: 1 (2022. Sunday, February 13th at 5:00 pm)
+-- Line count (Including blank lines and compiler line): 18
+
+-- End of script
