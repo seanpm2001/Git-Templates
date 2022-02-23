@@ -1,0 +1,25 @@
+// Start of script
+// Project language file 3
+// For: Linux Defender for ReplicantOS
+// About
+// I chose SCSS as the third project language file for this project (Linux Defender for ReplicantOS) as SCSS is being used as a backup stylesheet language for this project, as I can't use QML for this project, and a backup stylesheet is needed for when Kotlin/Java/C++/Assembly needs support to do something. I wanted to use SCSS over CSS for software diversity reasons. */
+/* Now to make this a multi-purpose file, I will add styling for a basic SCSS template */
+table.hl {
+  margin: 2em 0;
+  td.ln {
+    text-align: right;
+  }
+}
+
+li {
+  font: {
+    family: serif;
+    weight: bold;
+    size: 1.3em;
+  }
+}
+// File info
+// File type: SCSS Stylesheet file (*.scss)
+// File version: 1 (2022 Tuesday, February 22nd at 4:03 pm)
+// Line count (Including blank lines and compiler line): 26
+// End of script
