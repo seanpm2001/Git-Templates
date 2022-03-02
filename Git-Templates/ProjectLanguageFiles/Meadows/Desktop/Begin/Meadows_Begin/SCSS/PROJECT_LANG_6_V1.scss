@@ -1,0 +1,25 @@
+// Start of script
+// Project language file 6
+// For: Meadows/Begin
+// About
+// I chose SCSS as the sixth project language file for this project (Meadows/Begn) as SCSS is being used as one of the many stylesheet languages in support for this project, and it nees its own project language file. */
+/* Now to make this a multi-purpose file, I will add styling for a basic SCSS template */
+table.hl {
+  margin: 2em 0;
+  td.ln {
+    text-align: right;
+  }
+}
+
+li {
+  font: {
+    family: serif;
+    weight: bold;
+    size: 1.3em;
+  }
+}
+// File info
+// File type: SCSS Stylesheet file (*.scss)
+// File version: 1 (2022 Tuesday, March 1st at 7:10 pm)
+// Line count (Including blank lines and compiler line): 26
+// End of script
