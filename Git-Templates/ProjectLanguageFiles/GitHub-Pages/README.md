@@ -5,7 +5,7 @@
 
 ![GitHubPagesIcon.png failed to load. The file may be missing or corrupt, or it may not have been referenced (linked to) correctly. Check the file for errors. First, check the`README.md` file for errors](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/GitHubPagesIcon.png)
 
-<!-- - [x] 📌 TODO: Add website and project links to all 80 entries. (completed on 2021 October 27th) !-->
+<!-- - [x] 📌 TODO: Add website and `Project link`s to all 80 entries. (completed on 2021 October 27th) !-->
 
 # Project language file listing
 
@@ -13,23 +13,23 @@
 
 <details open><summary><p>Click/tap here to expand/collapse the index</p></summary>
 
-[00.0 - Top](#Top)
+[`00.0 - Top`](#Top)
 
-[01.0 - Title](#Project-language-file-listing)
+[`01.0 - Title`](#Project-language-file-listing)
 
-> [01.1 - Subtitle](#For-Seanpm2001-GitHub-page-projects)
+> [`01.1 - Subtitle`](#For-Seanpm2001-GitHub-page-projects)
 
-[02.0 - Index](#Index)
+[`02.0 - Index`](#Index)
 
-[03.0 - Listing](#Listing)
+[`03.0 - Listing`](#Listing)
 
-[04.0 - File info](#File-info)
+[`04.0 - File info`](#File-info)
 
-[05.0 - File history](#File-history)
+[`05.0 - File history`](#File-history)
 
-[06.0 - Footer](#Footer)
+[`06.0 - Footer`](#Footer)
 
-> [06.9 - EOF (End Of File)](#EOF)
+> [`06.9 - EOF (End Of File)`](#EOF)
 
 </details>
 
@@ -37,7 +37,7 @@
 
 ### Listing
 
-**(as of Wednesday, 2021 Friday December 3rd at 12:52 am)**
+**(as of Wednesday, 2022 March 2nd at 6:30 am)**
 
 **Note to self:** _Please update this list as frequently as possible when new data arrives._
 
@@ -45,177 +45,179 @@
 
 **List is in alphabetical order (for first 28 entries)**
 
-1. ( [404-Day.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/404-Day.github.io/) | [Project link](https://github.com/404-Day/404-Day.github.io/) | [Website link](https://404-Day.github.io/) )
+1. ( [`404-Day.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/404-Day.github.io/) | [`Project link`](https://github.com/404-Day/404-Day.github.io/) | [`Website link`](https://404-Day.github.io/) )
 
-2. ( [CamCamPlus.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/CamCamPlus.github.io/) | [Project link](https://github.com/CamCamPlus/CamCamPlus.github.io/) | [Website link](https://CamCamPlus.github.io/) )
+2. ( [`CamCamPlus.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/CamCamPlus.github.io/) | [`Project link`](https://github.com/CamCamPlus/CamCamPlus.github.io/) | [`Website link`](https://CamCamPlus.github.io/) )
 
-3. ( [Code-distancing.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Code-distancing.github.io/) | [Project link](https://github.com/Code-distancing/Code-distancing.github.io/) | [Website link](https://Code-distancing.github.io/) )
+3. ( [`Code-distancing.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Code-distancing.github.io/) | [`Project link`](https://github.com/Code-distancing/Code-distancing.github.io/) | [`Website link`](https://Code-distancing.github.io/) )
 
-4. ( [CompuSmell.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/CompuSmell.github.io/) | [Project link](https://github.com/CompuSmell/CompuSmell.github.io/) | [Website link](https://CompuSmell.github.io/) )
+4. ( [`CompuSmell.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/CompuSmell.github.io/) | [`Project link`](https://github.com/CompuSmell/CompuSmell.github.io/) | [`Website link`](https://CompuSmell.github.io/) )
 
-5. ( [Doorcrete.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Doorcrete.github.io/) | [Project link](https://github.com/Doorcrete/Doorcrete.github.io/) | [Website link](https://Doorcrete.github.io/) )
+5. ( [`Doorcrete.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Doorcrete.github.io/) | [`Project link`](https://github.com/Doorcrete/Doorcrete.github.io/) | [`Website link`](https://Doorcrete.github.io/) )
 
-6. ( [Egg-Org.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Egg-Org.github.io/) | [Project link](https://github.com/Egg-Org/Egg-Org.github.io/) | [Website link](https://Egg-Org.github.io/) )
+6. ( [`Egg-Org.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Egg-Org.github.io/) | [`Project link`](https://github.com/Egg-Org/Egg-Org.github.io/) | [`Website link`](https://Egg-Org.github.io/) )
 
-7. ( [Engineer-Superdesk.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Engineer-Superdesk.github.io/) | [Project link](https://github.com/Engineer-Superdesk/Engineer-Superdesk.github.io/) | [Website link](https://Engineer-Superdesk.github.io/) )
+7. ( [`Engineer-Superdesk.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Engineer-Superdesk.github.io/) | [`Project link`](https://github.com/Engineer-Superdesk/Engineer-Superdesk.github.io/) | [`Website link`](https://Engineer-Superdesk.github.io/) )
 
-8. ( [Gaslight-Galactica.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Gaslight-Galactica.github.io/) | [Project link](https://github.com/Gaslight-Galactica/Gaslight-Galactica.github.io/) | [Website link](https://Gaslight-Galactica.github.io/) )
+8. ( [`Gaslight-Galactica.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Gaslight-Galactica.github.io/) | [`Project link`](https://github.com/Gaslight-Galactica/Gaslight-Galactica.github.io/) | [`Website link`](https://Gaslight-Galactica.github.io/) )
 
-9. ( [iBlast-Game.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/iBlast-Game.github.io/) | [Project link](https://github.com/iBlast-Game/iBlast-Game.github.io/) | [Website link](https://iBlast-Game.github.io/) )
+9. ( [`iBlast-Game.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/iBlast-Game.github.io/) | [`Project link`](https://github.com/iBlast-Game/iBlast-Game.github.io/) | [`Website link`](https://iBlast-Game.github.io/) )
 
-10. ( [MCPYE.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/MCPYE.github.io/) | [Project link](https://github.com/MCPYE/MCPYE.github.io/) | [Website link](https://MCPYE.github.io/) )
+10. ( [`MCPYE.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/MCPYE.github.io/) | [`Project link`](https://github.com/MCPYE/MCPYE.github.io/) | [`Website link`](https://MCPYE.github.io/) )
 
-11. ( [NimbleBit-Games.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/NimbleBit-Games.github.io/) | [Project link](https://github.com/NimbleBit-Games/NimbleBit-Games.github.io/) | [Website link](https://NimbleBit-Games.github.io/) )
+11. ( [`NimbleBit-Games.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/NimbleBit-Games.github.io/) | [`Project link`](https://github.com/NimbleBit-Games/NimbleBit-Games.github.io/) | [`Website link`](https://NimbleBit-Games.github.io/) )
 
-12. ( [Project1k1.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Project1k1.github.io/) | [Project link](https://github.com/Project1k1/Project1k1.github.io/) | [Website link](https://Project1k1.github.io/) )
+12. ( [`Project1k1.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Project1k1.github.io/) | [`Project link`](https://github.com/Project1k1/Project1k1.github.io/) | [`Website link`](https://Project1k1.github.io/) )
 
-13. ( [Seanpm2001-Biology.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Biology.github.io/) | [Project link](https://github.com/Seanpm2001-Biology/Seanpm2001-Biology.github.io/) | [Website link](https://Seanpm2001-Biology.github.io/) )
+13. ( [`Seanpm2001-Biology.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Biology.github.io/) | [`Project link`](https://github.com/Seanpm2001-Biology/Seanpm2001-Biology.github.io/) | [`Website link`](https://Seanpm2001-Biology.github.io/) )
 
-14. ( [Seanpm2001-COVID-19.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-COVID-19.github.io/) | [Project link](https://github.com/Seanpm2001-COVID-19/Seanpm2001-COVID-19.github.io/) | [Website link](https://Seanpm2001-COVID-19.github.io/) )
+14. ( [`Seanpm2001-COVID-19.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-COVID-19.github.io/) | [`Project link`](https://github.com/Seanpm2001-COVID-19/Seanpm2001-COVID-19.github.io/) | [`Website link`](https://Seanpm2001-COVID-19.github.io/) )
 
-15. ( [Seanpm2001-Food-Index.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Food-Index.github.io/) | [Project link](https://github.com/Seanpm2001-Food-Index/Seanpm2001-Food-Index.github.io/) | [Website link](https://Seanpm2001-Food-Index.github.io/) )
+15. ( [`Seanpm2001-Food-Index.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Food-Index.github.io/) | [`Project link`](https://github.com/Seanpm2001-Food-Index/Seanpm2001-Food-Index.github.io/) | [`Website link`](https://Seanpm2001-Food-Index.github.io/) )
 
-16. ( [Seanpm2001.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001.github.io/) | [Project link](https://github.com/Seanpm2001/Seanpm2001.github.io/) | [Website link](https://Seanpm2001.github.io/) ) (MAIN ACCOUNT)
+16. ( [`Seanpm2001.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001.github.io/) | [`Project link`](https://github.com/Seanpm2001/Seanpm2001.github.io/) | [`Website link`](https://Seanpm2001.github.io/) ) (MAIN ACCOUNT)
 
-17. ( [Seanpm2001-Robotics.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Robotics.github.io/) | [Project link](https://github.com/Seanpm2001-Robotics/Seanpm2001-Robotics.github.io/) | [Website link](https://Seanpm2001-Robotics.github.io/) )
+17. ( [`Seanpm2001-Robotics.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Robotics.github.io/) | [`Project link`](https://github.com/Seanpm2001-Robotics/Seanpm2001-Robotics.github.io/) | [`Website link`](https://Seanpm2001-Robotics.github.io/) )
 
-18. ( [Seanpm2001-testing.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-testing.github.io/) | [Project link](https://github.com/Seanpm2001-testing/Seanpm2001-testing.github.io/) | [Website link](https://Seanpm2001-testing.github.io/) )
+18. ( [`Seanpm2001-testing.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-testing.github.io/) | [`Project link`](https://github.com/Seanpm2001-testing/Seanpm2001-testing.github.io/) | [`Website link`](https://Seanpm2001-testing.github.io/) )
 
-19. ( [Seanwallawalla-testing.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanwallawalla-testing.github.io/) | [Project link](https://github.com/Seanwallawalla-testing/Seanwallawalla-testing.github.io/) | [Website link](https://Seanwallawalla-testing.github.io/) )
+19. ( [`Seanwallawalla-testing.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanwallawalla-testing.github.io/) | [`Project link`](https://github.com/Seanwallawalla-testing/Seanwallawalla-testing.github.io/) | [`Website link`](https://Seanwallawalla-testing.github.io/) )
 
-20. ( [Slaveworks.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Slaveworks.github.io/) | [Project link](https://github.com/Slaveworks/Slaveworks.github.io/) | [Website link](https://Slaveworks.github.io/) )
+20. ( [`Slaveworks.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Slaveworks.github.io/) | [`Project link`](https://github.com/Slaveworks/Slaveworks.github.io/) | [`Website link`](https://Slaveworks.github.io/) )
 
-21. ( [SNU-0D.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SNU-0D.github.io/) | [Project link](https://github.com/SNU-0D/SNU-0D.github.io/) | [Website link](https://SNU-0D.github.io/) )
+21. ( [`SNU-0D.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SNU-0D.github.io/) | [`Project link`](https://github.com/SNU-0D/SNU-0D.github.io/) | [`Website link`](https://SNU-0D.github.io/) )
 
-22. ( [SNU-Programming-Tools.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SNU-Programming-Tools.github.io/) | [Project link](https://github.com/SNU-Programming-Tools/SNU-Programming-Tools.github.io/) | [Website link](https://SNU-Programming-Tools.github.io/) )
+22. ( [`SNU-Programming-Tools.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SNU-Programming-Tools.github.io/) | [`Project link`](https://github.com/SNU-Programming-Tools/SNU-Programming-Tools.github.io/) | [`Website link`](https://SNU-Programming-Tools.github.io/) )
 
-23. ( [SNU-TimeMachine.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SNU-TimeMachine.github.io/) | [Project link](https://github.com/SNU-TimeMachine/SNU-TimeMachine.github.io/) | [Website link](https://SNU-TimeMachine.github.io/) )
+23. ( [`SNU-TimeMachine.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SNU-TimeMachine.github.io/) | [`Project link`](https://github.com/SNU-TimeMachine/SNU-TimeMachine.github.io/) | [`Website link`](https://SNU-TimeMachine.github.io/) )
 
-24. ( [SVG-Video.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SVG-Video.github.io/) | [Project link](https://github.com/SVG-Video/SVG-Video.github.io/) | [Website link](https://SVG-Video.github.io/) )
+24. ( [`SVG-Video.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SVG-Video.github.io/) | [`Project link`](https://github.com/SVG-Video/SVG-Video.github.io/) | [`Website link`](https://SVG-Video.github.io/) )
 
-25. ( [TalkScript.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/TalkScript.github.io/) | [Project link](https://github.com/TalkScript/TalkScript.github.io/) | [Website link](https://TalkScript.github.io/) )
+25. ( [`TalkScript.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/TalkScript.github.io/) | [`Project link`](https://github.com/TalkScript/TalkScript.github.io/) | [`Website link`](https://TalkScript.github.io/) )
 
-26. ( [TouchPetsDogs2Rewritten.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/TouchPetsDogs2Rewritten.github.io/) | [Project link](https://github.com/TouchPetsDogs2Rewritten/TouchPetsDogs2Rewritten.github.io/) | [Website link](https://TouchPetsDogs2Rewritten.github.io/) )
+26. ( [`TouchPetsDogs2Rewritten.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/TouchPetsDogs2Rewritten.github.io/) | [`Project link`](https://github.com/TouchPetsDogs2Rewritten/TouchPetsDogs2Rewritten.github.io/) | [`Website link`](https://TouchPetsDogs2Rewritten.github.io/) )
 
-27. ( [TuxBot-operating-system.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/TuxBot-operating-system.github.io/) | [Project link](https://github.com/TuxBot-operating-system/TuxBot-operating-system.github.io/) | [Website link](https://TuxBot-operating-system.github.io/) )
+27. ( [`TuxBot-operating-system.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/TuxBot-operating-system.github.io/) | [`Project link`](https://github.com/TuxBot-operating-system/TuxBot-operating-system.github.io/) | [`Website link`](https://TuxBot-operating-system.github.io/) )
 
-28. ( [WacOS-Dev.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/WacOS-Dev.github.io/) | [Project link](https://github.com/WacOS-Dev/WacOS-Dev.github.io/) | [Website link](https://WacOS-Dev.github.io/) )
+28. ( [`WacOS-Dev.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/WacOS-Dev.github.io/) | [`Project link`](https://github.com/WacOS-Dev/WacOS-Dev.github.io/) | [`Website link`](https://WacOS-Dev.github.io/) )
 
 **Entries from 29 and up are sorted by most recently created/re-uploaded**
 
-29. ( [BGemJam-game.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/BGemJam-game.github.io/) | [Project link](https://github.com/BGemJam-game/BGemJam-game.github.io/) | [Website link](https://BGemJam-game.github.io/) )
+29. ( [`BGemJam-game.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/BGemJam-game.github.io/) | [`Project link`](https://github.com/BGemJam-game/BGemJam-game.github.io/) | [`Website link`](https://BGemJam-game.github.io/) )
 
-30. ( [Degoogle-your-life.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Degoogle-your-life.github.io/) | [Project link](https://github.com/Degoogle-your-life/Degoogle-your-life.github.io/) | [Website link](https://Degoogle-your-life.github.io/) )
+30. ( [`Degoogle-your-life.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Degoogle-your-life.github.io/) | [`Project link`](https://github.com/Degoogle-your-life/Degoogle-your-life.github.io/) | [`Website link`](https://Degoogle-your-life.github.io/) )
 
-31. ( [Tetris128.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Tetris128.github.io/) | [Project link](https://github.com/Tetris128/Tetris128.github.io/) | [Website link](https://Tetris128.github.io/) )
+31. ( [`Tetris128.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Tetris128.github.io/) | [`Project link`](https://github.com/Tetris128/Tetris128.github.io/) | [`Website link`](https://Tetris128.github.io/) )
 
-32. ( [SuperPower-laptops.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SuperPower-laptops.github.io/) | [Project link](https://github.com/SUperPower-laptops/SuperPower-laptops.github.io/) | [Website link](https://SuperPower-laptops.github.io/) )
+32. ( [`SuperPower-laptops.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SuperPower-laptops.github.io/) | [`Project link`](https://github.com/SUperPower-laptops/SuperPower-laptops.github.io/) | [`Website link`](https://SuperPower-laptops.github.io/) )
 
-33. ( [Seanpm2001-Firefox.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Firefox.github.io/) | [Project link](https://github.com/Seanpm2001-Firefox/Seanpm2001-Firefox.github.io/) | [Website link](https://Seanpm2001-Firefox.github.io/) )
+33. ( [`Seanpm2001-Firefox.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Firefox.github.io/) | [`Project link`](https://github.com/Seanpm2001-Firefox/Seanpm2001-Firefox.github.io/) | [`Website link`](https://Seanpm2001-Firefox.github.io/) )
 
-34. ( [9x-Internet.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/9x-Internet.github.io/) | [Project link](https://github.com/9x-Internet/9x-Internet.github.io/) | [Website link](https://9x-Internet.github.io/) )
+34. ( [`9x-Internet.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/9x-Internet.github.io/) | [`Project link`](https://github.com/9x-Internet/9x-Internet.github.io/) | [`Website link`](https://9x-Internet.github.io/) )
 
-35. ( [seanwallawalla-bots.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/seanwallawalla-bots.github.io/) | [Project link](https://github.com/seanwallawalla-bots/seanwallawalla-bots.github.io/) | [Website link](https://seanwallawalla-bots.github.io/) )
+35. ( [`seanwallawalla-bots.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/seanwallawalla-bots.github.io/) | [`Project link`](https://github.com/seanwallawalla-bots/seanwallawalla-bots.github.io/) | [`Website link`](https://seanwallawalla-bots.github.io/) )
 
-36. ( [Seanpm2001-bots.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-bots.github.io/) | [Project link](https://github.com/Seanpm2001-bots/Seanpm2001-bots.github.io/) | [Website link](https://Seanpm2001-bots.github.io/) )
+36. ( [`Seanpm2001-bots.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-bots.github.io/) | [`Project link`](https://github.com/Seanpm2001-bots/Seanpm2001-bots.github.io/) | [`Website link`](https://Seanpm2001-bots.github.io/) )
 
-37. ( [URLL-Specification.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/URLL-Specification.github.io/) | [Project link](https://github.com/URLL-Specification/URLL-Specification.github.io/) | [Website link](https://URLL-Specification.github.io/) )
+37. ( [`URLL-Specification.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/URLL-Specification.github.io/) | [`Project link`](https://github.com/URLL-Specification/URLL-Specification.github.io/) | [`Website link`](https://URLL-Specification.github.io/) )
 
-38. ( [Reactop-computers.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Reactop-computers.github.io/) | [Project link](https://github.com/Reactop-computers/Reactop-computers.github.io/) | [Website link](https://Reactop-computers.github.io/) )
+38. ( [`Reactop-computers.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Reactop-computers.github.io/) | [`Project link`](https://github.com/Reactop-computers/Reactop-computers.github.io/) | [`Website link`](https://Reactop-computers.github.io/) )
 
-39. ( [YKDefender.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/YKDefender.github.io/) | [Project link](https://github.com/YKDefender/YKDefender.github.io/) | [Website link](https://YKDefender.github.io/) )
+39. ( [`YKDefender.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/YKDefender.github.io/) | [`Project link`](https://github.com/YKDefender/YKDefender.github.io/) | [`Website link`](https://YKDefender.github.io/) )
 
-40. ( [NUNIX-dev.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/NUNIX-dev.github.io/) | [Project link](https://github.com/NUNIX-dev/NUNIX-dev.github.io/) | [Website link](https://NUNIX-dev.github.io/) )
+40. ( [`NUNIX-dev.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/NUNIX-dev.github.io/) | [`Project link`](https://github.com/NUNIX-dev/NUNIX-dev.github.io/) | [`Website link`](https://NUNIX-dev.github.io/) )
 
-41. ( [SNU-Porn.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SNU-Porn.github.io/) | [Project link](https://github.com/SNU-Porn/SNU-Porn.github.io/) | [Website link](https://SNU-Porn.github.io/) )
+41. ( [`SNU-Porn.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SNU-Porn.github.io/) | [`Project link`](https://github.com/SNU-Porn/SNU-Porn.github.io/) | [`Website link`](https://SNU-Porn.github.io/) )
 
-42. ( [SNU-Erotica.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SNU-Erotica.github.io/) | [Project link](https://github.com/SNU-Erotica/SNU-Erotica.github.io/) | [Website link](https://SNU-Erotica.github.io/) )
+42. ( [`SNU-Erotica.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SNU-Erotica.github.io/) | [`Project link`](https://github.com/SNU-Erotica/SNU-Erotica.github.io/) | [`Website link`](https://SNU-Erotica.github.io/) )
 
-43. ( [Seanpm2001-KhanAcademy.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-KhanAcademy.github.io/) | [Project link](https://github.com/Seanpm2001-KhanAcademy/Seanpm2001-KhanAcademy.github.io/) | [Website link](https://Seanpm2001-KhanAcademy.github.io/) )
+43. ( [`Seanpm2001-KhanAcademy.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-KhanAcademy.github.io/) | [`Project link`](https://github.com/Seanpm2001-KhanAcademy/Seanpm2001-KhanAcademy.github.io/) | [`Website link`](https://Seanpm2001-KhanAcademy.github.io/) )
 
-44. ( [SafeT.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SafeT.github.io/) | [Project link](https://github.com/SafeT/SafeT.github.io/) | [Website link](https://SafeT.github.io/) )
+44. ( [`SafeT.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SafeT.github.io/) | [`Project link`](https://github.com/SafeT/SafeT.github.io/) | [`Website link`](https://SafeT.github.io/) )
 
-45. ( [SimZonns.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SimZonns.github.io/) | [Project link](https://github.com/SimZonns/SimZonns.github.io/) | [Website link](https://SimZonns.github.io/) )
+45. ( [`SimZonns.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SimZonns.github.io/) | [`Project link`](https://github.com/SimZonns/SimZonns.github.io/) | [`Website link`](https://SimZonns.github.io/) )
 
-46. ( [Frog-mania.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Frog-mania.github.io/) | [Project link](https://github.com/Frog-mania/Frog-mania.github.io/) | [Website link](https://Frog-mania.github.io/) )
+46. ( [`Frog-mania.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Frog-mania.github.io/) | [`Project link`](https://github.com/Frog-mania/Frog-mania.github.io/) | [`Website link`](https://Frog-mania.github.io/) )
 
-47. ( [Boom-Bay.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Boom-Bay.github.io/) | [Project link](https://github.com/Boom-Bay/Boom-Bay.github.io/) | [Website link](https://Boom-Bay.github.io/) )
+47. ( [`Boom-Bay.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Boom-Bay.github.io/) | [`Project link`](https://github.com/Boom-Bay/Boom-Bay.github.io/) | [`Website link`](https://Boom-Bay.github.io/) )
 
-48. ( [GitHubby-development.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/GitHubby-development.github.io/) | [Project link](https://github.com/GitHubby-development/GitHubby-development.github.io/) | [Website link](https://GitHubby-development.github.io/) )
+48. ( [`GitHubby-development.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/GitHubby-development.github.io/) | [`Project link`](https://github.com/GitHubby-development/GitHubby-development.github.io/) | [`Website link`](https://GitHubby-development.github.io/) )
 
-49. ( [Team8Collection.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Team8Collection.github.io/) | [Project link](https://github.com/Team8Collection/Team8Collection.github.io/) | [Website link](https://Team8Collection.github.io/) )
+49. ( [`Team8Collection.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Team8Collection.github.io/) | [`Project link`](https://github.com/Team8Collection/Team8Collection.github.io/) | [`Website link`](https://Team8Collection.github.io/) )
 
-50. ( [Numeric-Liberation-Front.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Numeric-Liberation-Front.github.io/) | [Project link](https://github.com/Numeric-Liberation-Front/Numeric-Liberation-Front.github.io/) | [Website link](https://Numeric-Liberation-Front.github.io/) )
+50. ( [`Numeric-Liberation-Front.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Numeric-Liberation-Front.github.io/) | [`Project link`](https://github.com/Numeric-Liberation-Front/Numeric-Liberation-Front.github.io/) | [`Website link`](https://Numeric-Liberation-Front.github.io/) )
 
-51. ( [Underune-maker.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Underune-maker.github.io/) | [Project link](https://github.com/Underune-maker/Underune-maker.github.io/) | [Website link](https://Underune-maker.github.io/) )
+51. ( [`Underune-maker.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Underune-maker.github.io/) | [`Project link`](https://github.com/Underune-maker/Underune-maker.github.io/) | [`Website link`](https://Underune-maker.github.io/) )
 
-52. ( [Slick-license-manager.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Slick-license-manager.github.io/) | [Project link](https://github.com/Slick-license-manager/Slick-license-manager.github.io/) | [Website link](https://Slick-license-manager.github.io/) )
+52. ( [`Slick-license-manager.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Slick-license-manager.github.io/) | [`Project link`](https://github.com/Slick-license-manager/Slick-license-manager.github.io/) | [`Website link`](https://Slick-license-manager.github.io/) )
 
-53. ( [Portal-Voice-Assistant.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Portal-Voice-Assistant.github.io/) | [Project link](https://github.com/Portal-Voice-Assistant/Portal-Voice-Assistant.github.io/) | [Website link](https://Portal-Voice-Assistant.github.io/) )
+53. ( [`Portal-Voice-Assistant.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Portal-Voice-Assistant.github.io/) | [`Project link`](https://github.com/Portal-Voice-Assistant/Portal-Voice-Assistant.github.io/) | [`Website link`](https://Portal-Voice-Assistant.github.io/) )
 
-54. ( [Seanpm2001-Blocklist.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Blocklist.github.io/) | [Project link](https://github.com/Seanpm2001-Blocklist/Seanpm2001-Blocklist.github.io/) | [Website link](https://Seanpm2001-Blocklist.github.io/) )
+54. ( [`Seanpm2001-Blocklist.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Blocklist.github.io/) | [`Project link`](https://github.com/Seanpm2001-Blocklist/Seanpm2001-Blocklist.github.io/) | [`Website link`](https://Seanpm2001-Blocklist.github.io/) )
 
-55. ( [SNU-Beliefs.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SNU-Beliefs.github.io/) | [Project link](https://github.com/SNU-Beliefs/SNU-Beliefs.github.io/) | [Website link](https://SNU-Beliefs.github.io/) )
+55. ( [`SNU-Beliefs.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SNU-Beliefs.github.io/) | [`Project link`](https://github.com/SNU-Beliefs/SNU-Beliefs.github.io/) | [`Website link`](https://SNU-Beliefs.github.io/) )
 
-56. ( [The-Pirates-Copy.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/The-Pirates-Copy.github.io/) | [Project link](https://github.com/The-Pirates-Copy/The-Pirates-Copy.github.io/) | [Website link](https://The-Pirates-Copy.github.io/) )
+56. ( [`The-Pirates-Copy.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/The-Pirates-Copy.github.io/) | [`Project link`](https://github.com/The-Pirates-Copy/The-Pirates-Copy.github.io/) | [`Website link`](https://The-Pirates-Copy.github.io/) )
 
-57. ( [NimbleBit-Glossary.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/NimbleBit-Glossary.github.io/) | [Project link](https://github.com/NimbleBit-Glossary/NimbleBit-Glossary.github.io/) | [Website link](https://NimbleBit-Glossary.github.io/) )
+57. ( [`NimbleBit-Glossary.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/NimbleBit-Glossary.github.io/) | [`Project link`](https://github.com/NimbleBit-Glossary/NimbleBit-Glossary.github.io/) | [`Website link`](https://NimbleBit-Glossary.github.io/) )
 
-58. ( [BluPhone.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/BluPhone.github.io/) | [Project link](https://github.com/BluPhone/BluPhone.github.io/) | [Website link](https://BluPhone.github.io/) )
+58. ( [`BluPhone.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/BluPhone.github.io/) | [`Project link`](https://github.com/BluPhone/BluPhone.github.io/) | [`Website link`](https://BluPhone.github.io/) )
 
-59. ( [GratyBot.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/GratyBot.github.io/) | [Project link](https://github.com/GratyBot/GratyBot.github.io/) | [Website link](https://GratyBot.github.io/) )
+59. ( [`GratyBot.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/GratyBot.github.io/) | [`Project link`](https://github.com/GratyBot/GratyBot.github.io/) | [`Website link`](https://GratyBot.github.io/) )
 
-60. ( [Self-Care-Bot.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Self-Care-Bot.github.io/) | [Project link](https://github.com/Self-Care-Bot/Self-Care-Bot.github.io/) | [Website link](https://Self-Care-Bot.github.io/) )
+60. ( [`Self-Care-Bot.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Self-Care-Bot.github.io/) | [`Project link`](https://github.com/Self-Care-Bot/Self-Care-Bot.github.io/) | [`Website link`](https://Self-Care-Bot.github.io/) )
 
-61. ( [Virg-io-dev.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Virg-io-dev.github.io/)| [Project link](https://github.com/Virg-io-dev/Virg-io-dev.github.io/) | [Website link](https://Virg-io-dev.github.io/) )
+61. ( [`Virg-io-dev.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Virg-io-dev.github.io/)| [`Project link`](https://github.com/Virg-io-dev/Virg-io-dev.github.io/) | [`Website link`](https://Virg-io-dev.github.io/) )
 
-62. ( [Cyborg-System-Monitor.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Cyborg-System-Monitor.github.io/) | [Project link](https://github.com/Cyborg-System-Monitor/Cyborg-System-Monitor.github.io/) | [Website link](https://Cyborg-System-Monitor.github.io/) )
+62. ( [`Cyborg-System-Monitor.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Cyborg-System-Monitor.github.io/) | [`Project link`](https://github.com/Cyborg-System-Monitor/Cyborg-System-Monitor.github.io/) | [`Website link`](https://Cyborg-System-Monitor.github.io/) )
 
-63. ( [UltimateCalculator.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/UltimateCalculator.github.io/) | [Project link](https://github.com/UltimateCalculator/UltimateCalculator.github.io/) | [Website link](https://UltimateCalculator.github.io/) )
+63. ( [`UltimateCalculator.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/UltimateCalculator.github.io/) | [`Project link`](https://github.com/UltimateCalculator/UltimateCalculator.github.io/) | [`Website link`](https://UltimateCalculator.github.io/) )
 
-64. ( [Computing-longevity.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Computing-longevity.github.io/) | [Project link](https://github.com/Computing-longevity/Computing-longevity.github.io/) | [Website link](https://Computing-longevity.github.io/) )
+64. ( [`Computing-longevity.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Computing-longevity.github.io/) | [`Project link`](https://github.com/Computing-longevity/Computing-longevity.github.io/) | [`Website link`](https://Computing-longevity.github.io/) )
 
-65. ( [Snail-Bob-Maker.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Snail-Bob-Maker.github.io/) | [Project link](https://github.com/Snail-Bob-Maker/Snail-Bob-Maker.github.io/) | [Website link](https://Snail-Bob-Maker.github.io/) )
+65. ( [`Snail-Bob-Maker.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Snail-Bob-Maker.github.io/) | [`Project link`](https://github.com/Snail-Bob-Maker/Snail-Bob-Maker.github.io/) | [`Website link`](https://Snail-Bob-Maker.github.io/) )
 
-66. ( [Medical-ethics.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Medical-ethics.github.io/) | [Project link](https://github.com/Medical-ethics/Medical-ethics.github.io/) | [Website link](https://Medical-ethics.github.io/) )
+66. ( [`Medical-ethics.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Medical-ethics.github.io/) | [`Project link`](https://github.com/Medical-ethics/Medical-ethics.github.io/) | [`Website link`](https://Medical-ethics.github.io/) )
 
-67. ( [Seanwallawalla-Health.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanwallawalla-health.github.io/) | [Project link](https://github.com/Seanwallawalla-Health/Seanwallawalla-Health.github.io/) | [Website link](https://Seanwallawalla-Health.github.io/) )
+67. ( [`Seanwallawalla-Health.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanwallawalla-health.github.io/) | [`Project link`](https://github.com/Seanwallawalla-Health/Seanwallawalla-Health.github.io/) | [`Website link`](https://Seanwallawalla-Health.github.io/) )
 
-68. ( [Seanpm2001-health.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-health.github.io/) | [Project link](https://github.com/Seanpm2001-health/Seanpm2001-health.github.io/) | [Website link](https://Seanpm2001-health.github.io/) )
+68. ( [`Seanpm2001-health.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-health.github.io/) | [`Project link`](https://github.com/Seanpm2001-health/Seanpm2001-health.github.io/) | [`Website link`](https://Seanpm2001-health.github.io/) )
 
-69. ( [Seanpm2001-KolibriGames.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-KolibriGames.github.io/) | [Project link](https://github.com/Seanpm2001-KolibriGames/Seanpm2001-KolibriGames.github.io/) | [Website link](https://Seanpm2001-KolibriGames.github.io/) )
+69. ( [`Seanpm2001-KolibriGames.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-KolibriGames.github.io/) | [`Project link`](https://github.com/Seanpm2001-KolibriGames/Seanpm2001-KolibriGames.github.io/) | [`Website link`](https://Seanpm2001-KolibriGames.github.io/) )
 
-70. ( [DentalBar-Whitetooth-pro.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/DentalBar-Whitetooth-pro.github.io/) | [Project link](https://github.com/DentalBar-Whitetooth-pro/DentalBar-Whitetooth-pro.github.io/) | [Website link](https://DentalBar-Whitetooth-pro.github.io/) )
+70. ( [`DentalBar-Whitetooth-pro.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/DentalBar-Whitetooth-pro.github.io/) | [`Project link`](https://github.com/DentalBar-Whitetooth-pro/DentalBar-Whitetooth-pro.github.io/) | [`Website link`](https://DentalBar-Whitetooth-pro.github.io/) )
 
-71. ( [Hospital-defender.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Hospital-defender.github.io/) | [Project link](https://github.com/Hospital-defender/Hospital-defender.github.io/) | [Website link](https://Hospital-defender.github.io/) )
+71. ( [`Hospital-defender.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Hospital-defender.github.io/) | [`Project link`](https://github.com/Hospital-defender/Hospital-defender.github.io/) | [`Website link`](https://Hospital-defender.github.io/) )
 
-72. ( [README-Desktop-LIBrary.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/README-Desktop-LIBrary.github.io/) | [Project link](https://github.com/README-Desktop-LIBrary/README-Desktop-LIBrary.github.io/) | [Website link](https://README-Desktop-LIBrary.github.io/) )
+72. ( [`README-Desktop-LIBrary.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/README-Desktop-LIBrary.github.io/) | [`Project link`](https://github.com/README-Desktop-LIBrary/README-Desktop-LIBrary.github.io/) | [`Website link`](https://README-Desktop-LIBrary.github.io/) )
 
-73. ( [SNU-DennisRitchieMemorial.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SNU-DennisRitchieMemorial.github.io/) | [Project link](https://github.com/SNU-DennisRitchieMemorial/SNU-DennisRitchieMemorial.github.io/) | [Website link](https://SNU-DennisRitchieMemorial.github.io/) )
+73. ( [`SNU-DennisRitchieMemorial.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/SNU-DennisRitchieMemorial.github.io/) | [`Project link`](https://github.com/SNU-DennisRitchieMemorial/SNU-DennisRitchieMemorial.github.io/) | [`Website link`](https://SNU-DennisRitchieMemorial.github.io/) )
 
-74. ( [Seapm2001-Scratch.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Scratch.github.io/) | [Project link](https://github.com/Seanpm2001-Scratch/Seanpm2001-Scratch.github.io/) | [Website link](https://Seanpm2001-Scratch.github.io/) )
+74. ( [`Seapm2001-Scratch.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Scratch.github.io/) | [`Project link`](https://github.com/Seanpm2001-Scratch/Seanpm2001-Scratch.github.io/) | [`Website link`](https://Seanpm2001-Scratch.github.io/) )
 
-75. ( [Seanwallawalla.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanwallawalla.github.io/) | [Project link](https://github.com/Seanwallawalla/Seanwallawalla.github.io/) | [Website link](https://Seanwallawalla.github.io/) ) (ALT ACCOUNT)
+75. ( [`Seanwallawalla.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanwallawalla.github.io/) | [`Project link`](https://github.com/Seanwallawalla/Seanwallawalla.github.io/) | [`Website link`](https://Seanwallawalla.github.io/) ) (ALT ACCOUNT)
 
-76. ( [Its-time-to-cut-WideVine-DRM.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Its-time-to-cut-WideVine-DRM.github.io/) | [Project link](https://github.com/Its-time-to-cut-WideVine-DRM/Its-time-co-cut-WideVine-DRM.github.io/) | [Website link](https://Its-time-to-cut-WideVine-DRM.github.io/) )
+76. ( [`Its-time-to-cut-WideVine-DRM.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Its-time-to-cut-WideVine-DRM.github.io/) | [`Project link`](https://github.com/Its-time-to-cut-WideVine-DRM/Its-time-co-cut-WideVine-DRM.github.io/) | [`Website link`](https://Its-time-to-cut-WideVine-DRM.github.io/) )
 
-77. ( [Perl-harbor.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Perl-harbor.github.io/) | [Project link](https://github.com/Perl-harbor/Perl-harbor.github.io/) | [Website link](https://Perl-harbor.github.io/) )
+77. ( [`Perl-harbor.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Perl-harbor.github.io/) | [`Project link`](https://github.com/Perl-harbor/Perl-harbor.github.io/) | [`Website link`](https://Perl-harbor.github.io/) )
 
-78. ( [BootDown-dev.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/BootDown-dev.github.io/) | [Project link](https://github.com/BootDown-dev/BootDown-dev.github.io/) | [Website link](https://BootDown-dev.github.io/) )
+78. ( [`BootDown-dev.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/BootDown-dev.github.io/) | [`Project link`](https://github.com/BootDown-dev/BootDown-dev.github.io/) | [`Website link`](https://BootDown-dev.github.io/) )
 
-79. ( [ScreenTeX.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/ScreenTeX.github.io/) | [Project link](https://github.com/ScreenTeX/ScreenTeX.github.io/) | [Website link](https://ScreenTeX.github.io/) )
+79. ( [`ScreenTeX.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/ScreenTeX.github.io/) | [`Project link`](https://github.com/ScreenTeX/ScreenTeX.github.io/) | [`Website link`](https://ScreenTeX.github.io/) )
 
-80. ( [uOffice.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/uOffice.github.io/) | [Project link](https://github.com/uOffice/uOffice.github.io/) | [Website link](https://uOffice.github.io/) )
+80. ( [`uOffice.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/uOffice.github.io/) | [`Project link`](https://github.com/uOffice/uOffice.github.io/) | [`Website link`](https://uOffice.github.io/) )
 
-81. ( [AUTOMATE-2001.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/AUTOMATE-2001.github.io/) | [Project link](https://github.com/AUTOMATE-2001/AUTOMATE-2001.github.io/) | [Website link](https://AUTOMATE-2001.github.io/) )
+81. ( [`AUTOMATE-2001.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/AUTOMATE-2001.github.io/) | [`Project link`](https://github.com/AUTOMATE-2001/AUTOMATE-2001.github.io/) | [`Website link`](https://AUTOMATE-2001.github.io/) )
 
-82. ( [Bosky-dev.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Bosky-dev.github.io/) | [Project link](https://github.com/Bosky-dev/Bosky-dev.github.io/) | [Website link](https://bosky-dev.github.io/) )
+82. ( [`Bosky-dev.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Bosky-dev.github.io/) | [`Project link`](https://github.com/Bosky-dev/Bosky-dev.github.io/) | [`Website link`](https://bosky-dev.github.io/) )
 
-83. ( [FINF-dev.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/FINF-dev.github.io/) | [Project link](https://github.com/FINF-dev/FINF-dev.github.io/) | [Website link](https://finf-dev.github.io/) )
+83. ( [`FINF-dev.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/FINF-dev.github.io/) | [`Project link`](https://github.com/FINF-dev/FINF-dev.github.io/) | [`Website link`](https://finf-dev.github.io/) )
 
-84. ( [ZooTree.github.io](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/ZooTree.github.io/) | [Project link](https://github.com/ZooTree/ZooTree.github.io/) | [Website link](https://ZooTree.github.io/) )
+84. ( [`ZooTree.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/ZooTree.github.io/) | [`Project link`](https://github.com/ZooTree/ZooTree.github.io/) | [`Website link`](https://ZooTree.github.io/) )
 
-85. No other entries at the moment (1 entry is from my own account and not an organization, and 1 entry is from my alt account)
+85. ( [`QMeadows-development.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/QMeadows-development.github.io/) | [`Project link`](https://github.com/QMeadows-development/QMeadows-development.github.io/) | [`Website link`](https://QMeadows-development.github.io/) )
+
+86. No other entries at the moment (1 entry is from my own account and not an organization, and 1 entry is from my alt account)
 
 </details>
 
@@ -227,15 +229,15 @@
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `29 (Saturday, 2021 December 11th at 5:55 pm)`
+**File version:** `30 (Wednesday, 2022 March 2nd at 6:30 pm)`
 
-**Article language:** `English (US) / Markdown / HTML5`
+**Article language:** `English (US) / Markdown (CommonMark) / HTML5`
 
-**Line count (including blank lines and compiler line):** `0,856`
+**Line count (including blank lines and compiler line):** `0,877`
 
-**All times are UTC-7 (PDT/Pacific Time)**
+**All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
 
-**You may need special rendering support for the `<dropdown>` HTML tag being used in this document**
+**You may need special rendering support for the `<details>` HTML tag being used in this document**
 
 </details>
 
@@ -243,8 +245,7 @@
 
 ## File history
 
-<details>
-  <summary><p>This section has been collapsed for readability. <b>Click/tap here to expand/collapse the file version history section.</b></p></summary>
+<details><summary><p>This section has been collapsed for readability. <b>Click/tap here to expand/collapse the file version history section.</b></p></summary>
 
 **Version 1 (Friday, July 9th 2021 at 8:50 pm)**
 
@@ -564,7 +565,7 @@
 
 > * Changes:
 
-> * Added 1 new entry and added repository, and website links to all entries.
+> * Added 1 new entry and added repository, and `Website link`s to all entries.
 
 > * Updated the file info section
 
@@ -604,15 +605,19 @@
 
 > * Updated the file history section
 
-> * Coming soon!
-
 > * No other changes in version 29
 
-**Version 30 (Coming soon)**
+**Version 30 (2022, Wednesday, March 2nd at 6:30 pm)**
 
 > * Changes:
 
-> * Coming soon!
+> * Added 1 new entry (QMeadows-development)
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * Updated the footer
 
 > * No other changes in version 30
 
@@ -840,6 +845,22 @@
 
 > * No other changes in version 58
 
+**Version 59 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 59
+
+**Version 60 (Coming soon)**
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 60
+
 </details>
 
 ***
@@ -848,7 +869,7 @@
 
 You have reached the end of this file.
 
-( [Back to top](#Top) | [Exit to Seanpm2001/Git-Templates](https://github.com/seanpm2001/Git-Templates/) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Safe.DuckDuckGo](https://safe.duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://www.swisscows.com/) )
+( [`Back to top`](#Top) | [`Exit to Seanpm2001/Git-Templates`](https://github.com/seanpm2001/Git-Templates/) | [`Exit to GitHub`](https://github.com) | [`Exit to Bing`](https://www.bing.com/) | [`Exit to DuckDuckGo`](https://duckduckgo.com/) | [`Exit to Safe.DuckDuckGo`](https://safe.duckduckgo.com/) | [`Exit to Ecosia`](https://www.ecosia.org/) | [`Exit to Swisscows`](https://www.swisscows.com/) )
 
 ##### EOF
 
