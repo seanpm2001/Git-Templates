@@ -1,0 +1,48 @@
+
+----
+
+{{int:version-credits-summary}}
+Seanpm2001/Git-Templates is NOT a collaborative project, but it IS released under the GNU General Public License v3. We would like to recognize the following names for their contribution to the product.
+
+<!-- This comment block and this file (excluding author names) was modified from MediaWiki/CREDITS -->
+
+== Maintainers ==
+
+<!-- BEGIN MAINTAINERS LIST !-->
+
+1. @seanpm2001 - Creator and primary maintainer of Git-Templates
+
+2. @all-contributors[bot] - Handles crediting contributors via README
+
+2. No other contributors as of Wednesday, 2022 March 16th
+
+
+== Contributors ==
+
+<!-- BEGIN CONTRIBUTOR LIST -->
+
+1. @seanpm2001
+
+2. @all-contributors[bot] - Handles crediting contributors via README
+
+3. @GitHub (For GitHub, and for being the first host of this project)
+
+4. @GNOME (For the GNOME Screenshot tool, used to get over 99.8% of this projects screenshots)
+
+5. @Mozilla (For the Mozilla Firefox web browser, what it did for this project, and what it can do for an open Internet)
+
+6. @VARIOUS:LANG (for language usage, too many to list)
+
+7. No other contributors as of Wednesday, 2022 March 16th
+
+----
+
+=== File info ===
+
+<b>File type:</b> <code>WikiText document (*.wiki)</cde>
+
+<b>File version:</b> <code>2 (2022 Wednesday, March 6th at 8:54 pm)
+
+<b>Line count (including blank lines and compiler line):</b> <code>49</code>
+
+----
