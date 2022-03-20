@@ -1,0 +1,18 @@
+# Start of script
+# Sample KDE desktop entry
+[Desktop Entry]
+Type=Application
+Exec=your-app %u
+MimeType=application/x-your-mime-type;
+Icon=some-icon
+X-DocPath=yourapp/index.html
+Terminal=false
+Name=Your App
+GenericName=Project language file 2
+Comment=I decided to make .desktop the 2nd project language file for this project (Seanpm2001/Daily-Desktop-Screenshots) as before, I used makefile as the project language for this project. I didn't know about the desktop language until the past 6 months. I feel it fits much better here.
+Categories=Qt;KDE;
+# File info
+# File type: KDE desktop file (*.desktop)
+# File version: 1 (2022, Saturday, March 19th at 8:13 pm)
+# Line count (including blank lines and compiler line): 19
+# End of script
