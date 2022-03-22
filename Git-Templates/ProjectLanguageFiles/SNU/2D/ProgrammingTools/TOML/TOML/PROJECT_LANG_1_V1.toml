@@ -1,0 +1,26 @@
+# Start of script
+
+[meta]
+title = "Project language file 1"
+repo = "https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_TOML/"
+isFork = false
+isSource = true
+homeProjectRepo = "https://github.com/seanpm2001/SNU_2D_ProgrammingTools/"
+language = "English (US)"
+
+[file owner]
+name = "Sean Patrick Myrick"
+dob = 2001-03-21T00:00:00-08:00 # First class dates
+
+[project language file info]
+title = "Project language file 1"
+subtitle = "For: SNU/2D/ProgrammingTools/IDE/TOML"
+subheading = "About:"
+description = "I chose TOML as the first project language for this project (SNU/2D/ProgrammingTools/IDE/TOML) as this is TOML IDE, and should be represented with the TOML programming language"
+
+[file info]
+fileType = "TOML Document (*.toml)"
+fileVersion = "1 (2022, Monday, March 21st at 9:57 pm)"
+lineCount = "(including blank lines and compiler line): 27"
+
+# End of script
