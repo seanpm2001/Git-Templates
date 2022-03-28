@@ -1,0 +1,13 @@
+# Start of script
+# Project language file 5
+# For: Seanpm2001/AquariOS/
+# I decided to make YAML the 5th project language file for this project (Seanpm2001/AquariOS/) as YAML is the main configuration for the outside part of this project (the development of parts other than the core operating system) and it needs to be represented with a project language file. 
+# This is a rare instance in which I am using YAML as a project language file, as I learned how to make the GitHub linguist recognize Markdown as a language, and I extended this to other languages, this time with YAML. I found this out when snooping around on [Apple/Swift Evolution](https://github.com/apple/swift-evolution/blob/main/.gitattributes) if you want to do this yourself, simply add this to your `.gitattributes` file (if you haven't created one yet, make it now, do not add anything else to the file name but `.gitattributes`)
+gitattributes: ".gitattributes"
+line1: *.yml linguist-detectable=true
+line2: *.yaml linguist-detectable=true
+## File info
+# File type: YAML document (*.yml *.yaml)
+# File version: 1 (2022, Monday, March 28th at 4:34 pm)
+# Line count (including blank lines and compiler line): 14
+# End of script
