@@ -1,0 +1,18 @@
+# Start of script
+# Sample KDE desktop entry
+[Desktop Entry]
+Type=Application
+Exec=your-app %u
+MimeType=application/x-your-mime-type;
+Icon=some-icon
+X-DocPath=yourapp/index.html
+Terminal=false
+Name=Your App
+GenericName=Project language file 6
+Comment=I decided to make .desktop the 6th project language file for this project (Seanpm2001/AquariOS/) as .desktop is one of the languages used for configuration for the outside part of this project (the development of parts other than the core operating system) and it needs to be represented with a project language file.
+Categories=Qt;KDE;
+# File info
+# File type: KDE desktop file (*.desktop)
+# File version: 1 (2022, Monday, March 28th at 4:38 pm)
+# Line count (including blank lines and compiler line): 19
+# End of script
