@@ -1,0 +1,9 @@
+Project language (file) 16
+For: seanpm2001/AquariOS
+About:
+I decided to make .txt the 16th project language file for this project (Seanpm2001/AquariOS) as Plain Text is one of the many languages used in this project, and I am representing all project languages today (2022 Monday, March 28th)
+
+File info
+File type: Plain text file (*.txt)
+File version: 1 (2022, Monday, March 28th at 5:34 pm)
+Line count (including blank lines and compiler line): 10
