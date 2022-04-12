@@ -3,7 +3,11 @@
 
 ##### Top
 
+<details open><summary><b>Click/tap here to expand/collapse the logo for this section</b></summary>
+
 ![GitHubPagesIcon.png failed to load. The file may be missing or corrupt, or it may not have been referenced (linked to) correctly. Check the file for errors. First, check the`README.md` file for errors](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/GitHubPagesIcon.png)
+
+</details>
 
 <!-- - [x] 📌 TODO: Add website and `Project link`s to all 80 entries. (completed on 2021 October 27th) !-->
 
@@ -37,7 +41,7 @@
 
 ### Listing
 
-**(as of Wednesday, 2022 March 2nd at 6:30 am)**
+**(as of Monday, 2022 April 11th at 6:27 pm PST)**
 
 **Note to self:** _Please update this list as frequently as possible when new data arrives._
 
@@ -217,7 +221,9 @@
 
 85. ( [`QMeadows-development.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/QMeadows-development.github.io/) | [`Project link`](https://github.com/QMeadows-development/QMeadows-development.github.io/) | [`Website link`](https://QMeadows-development.github.io/) )
 
-86. No other entries at the moment (1 entry is from my own account and not an organization, and 1 entry is from my alt account)
+86. ( [`Seapm2001-Education.github.io`](/Git-Templates/ProjectLanguageFiles/GitHub-Pages/Seanpm2001-Education.github.io/) | [`Project link`](https://github.com/Seanpm2001-Education/Seanpm2001-Education.github.io/) | [`Website link`](https://Seanpm2001-Educaiton.github.io/) )
+
+87. No other entries at the moment (1 entry is from my own account and not an organization, and 1 entry is from my alt account)
 
 </details>
 
@@ -229,13 +235,15 @@
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `30 (Wednesday, 2022 March 2nd at 6:30 pm)`
+**File version:** `31 (Monday, 2022 April 11th at 6:27 pm PST)`
 
 **Article language:** `English (US) / Markdown (CommonMark) / HTML5`
 
-**Line count (including blank lines and compiler line):** `0,877`
+**Line count (including blank lines and compiler line):** `1,093`
 
 **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
+
+_Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
 **You may need special rendering support for the `<details>` HTML tag being used in this document**
 
@@ -247,7 +255,9 @@
 
 <details><summary><p>This section has been collapsed for readability. <b>Click/tap here to expand/collapse the file version history section.</b></p></summary>
 
-**Version 1 (Friday, July 9th 2021 at 8:50 pm)**
+<details><summary><b>Version 1 (Friday, July 9th 2021 at 8:50 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > Changes:
 
@@ -259,7 +269,11 @@
 
 > * No other changes in version 1
 
-**Version 2 (Saturday, July 10th 2021 at 3:52 pm)**
+</details>
+
+<details><summary><b>Version 2 (Saturday, July 10th 2021 at 3:52 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > Changes:
 
@@ -273,7 +287,11 @@
 
 > * No other changes in version 2
 
-**Version 3 (Saturday, July 10th 2021 at 6:20 pm)**
+</details>
+
+<details><summary><b>Version 3 (Saturday, July 10th 2021 at 6:20 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -285,7 +303,11 @@
 
 > * No other changes in version 3
 
-**Version 4 (Saturday, July 10th 2021 at 8:38 pm)**
+</details>
+
+<details><summary><b>Version 4 (Saturday, July 10th 2021 at 8:38 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -297,7 +319,11 @@
 
 > * No other changes in version 4
 
-**Version 5 (Tuesday, July 13th 2021 at 9:00 pm)**
+</details>
+
+<details><summary><b>Version 5 (Tuesday, July 13th 2021 at 9:00 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -309,7 +335,11 @@
 
 > * No other changes in version 5
 
-**Version 6 (Thursday, July 15th 2021 at 5:28 pm)**
+</details>
+
+<details><summary><b>Version 6 (Thursday, July 15th 2021 at 5:28 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -321,7 +351,11 @@
 
 > * No other changes in version 6
 
-**Version 7 (Tuesday, July 20th 2021 at 6:55 pm)**
+</details>
+
+<details><summary><b>Version 7 (Tuesday, July 20th 2021 at 6:55 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -333,7 +367,11 @@
 
 > * No other changes in version 7
 
-**Version 8 (Tuesday, July 20th 2021 at 8:34 pm)**
+</details>
+
+<details><summary><b>Version 8 (Tuesday, July 20th 2021 at 8:34 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -345,7 +383,11 @@
 
 > * No other changes in version 8
 
-**Version 9 (Saturday, July 24th 2021 at 9:14 pm)**
+</details>
+
+<details><summary><b>Version 9 (Saturday, July 24th 2021 at 9:14 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -357,7 +399,11 @@
 
 > * No other changes in version 9
 
-**Version 10 (Sunday, July 25th 2021 at 9:11 pm)**
+</details>
+
+<details><summary><b>Version 10 (Sunday, July 25th 2021 at 9:11 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -369,7 +415,11 @@
 
 > * No other changes in version 10
 
-**Version 11 (Saturday, July 31st 2021 at 6:21 pm)**
+</details>
+
+<details><summary><b>Version 11 (Saturday, July 31st 2021 at 6:21 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -381,7 +431,11 @@
 
 > * No other changes in version 11
 
-**Version 12 (Friday, August 6th 2021 at 6:40 pm)**
+</details>
+
+<details><summary><b>Version 12 (Friday, August 6th 2021 at 6:40 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -393,7 +447,11 @@
 
 > * No other changes in version 12
 
-**Version 13 (Wednesday, August 11th 2021 at 4:50 pm)**
+</details>
+
+<details><summary><b>Version 13 (Wednesday, August 11th 2021 at 4:50 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -407,7 +465,11 @@
 
 > * No other changes in version 13
 
-**Version 14 (2021, Saturday September 4th at 10:50 pm)**
+</details>
+
+<details><summary><b>Version 14 (2021, Saturday September 4th at 10:50 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -421,7 +483,11 @@
 
 > * No other changes in version 14
 
-**Version 15 (2021, Tuesday September 7th at 4:49 pm)**
+</details>
+
+<details><summary><b>Version 15 (2021, Tuesday September 7th at 4:49 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -433,7 +499,11 @@
 
 > * No other changes in version 15
 
-**Version 16 (2021, Tuesday September 7th at 5:09 pm)**
+</details>
+
+<details><summary><b>Version 16 (2021, Tuesday September 7th at 5:09 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -447,7 +517,11 @@
 
 > * No other changes in version 16
 
-**Version 17 (2021, Tuesday September 7th at 5:13 pm)**
+</details>
+
+<details><summary><b>Version 17 (2021, Tuesday September 7th at 5:13 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -455,7 +529,11 @@
 
 > * No other changes in version 17
 
-**Version 18 (2021, Tuesday September 7th at 7:57 pm)**
+</details>
+
+<details><summary><b>Version 18 (2021, Tuesday September 7th at 7:57 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -467,7 +545,11 @@
 
 > * No other changes in version 18
 
-**Version 19 (2021, Wednesday Septemnber 8th at 7:53 pm)**
+</details>
+
+<details><summary><b>Version 19 (2021, Wednesday Septemnber 8th at 7:53 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -479,7 +561,11 @@
 
 > * No other changes in version 19
 
-**Version 20 (2021, Thursday September 9th at 9:27 pm)**
+</details>
+
+<details><summary><b>Version 20 (2021, Thursday September 9th at 9:27 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -491,7 +577,11 @@
 
 > * No other changes in version 20
 
-**Version 21 (2021, Friday Septemnber 10th at 6:21 pm)**
+</details>
+
+<details><summary><b>Version 21 (2021, Friday Septemnber 10th at 6:21 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -503,7 +593,11 @@
 
 > * No other changes in version 21
 
-**Version 22 (2021 Saturday September 11th at 3:45 pm)**
+</details>
+
+<details><summary><b>Version 22 (2021 Saturday September 11th at 3:45 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -515,7 +609,11 @@
 
 > * No other changes in version 22
 
-**Version 23 (2021, Sunday September 12th at 4:20 pm)**
+</details>
+
+<details><summary><b>Version 23 (2021, Sunday September 12th at 4:20 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -527,7 +625,11 @@
 
 > * No other changes in version 23
 
-**Version 24 (2021, Tuesday, September 21st at 4:22 pm)**
+</details>
+
+<details><summary><b>Version 24 (2021, Tuesday, September 21st at 4:22 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -539,7 +641,11 @@
 
 > * No other changes in version 24
 
-**Version 25 (2021, Thursday, October 21st at 7:46 pm)**
+</details>
+
+<details><summary><b>Version 25 (2021, Thursday, October 21st at 7:46 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -561,7 +667,11 @@
 
 > * No other changes in version 25
 
-**Version 26 (2021, Wednesday, October 27th at 6:42 pm)**
+</details>
+
+<details><summary><b>Version 26 (2021, Wednesday, October 27th at 6:42 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -573,7 +683,11 @@
 
 > * No other changes in version 26
 
-**Version 27 (2021, Wednesday, November 10th at 8:05 pm)**
+</details>
+
+<details><summary><b>Version 27 (2021, Wednesday, November 10th at 8:05 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -585,7 +699,11 @@
 
 > * No other changes in version 27
 
-**Version 28 (2021 Friday December 3rd at 12:52 am)**
+</details>
+
+<details><summary><b>Version 28 (2021 Friday December 3rd at 12:52 am)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -597,7 +715,11 @@
 
 > * No other changes in version 28
 
-**Version 29 (2021, Saturday, December 11th at 5:55 pm)**
+</details>
+
+<details><summary><b>Version 29 (2021, Saturday, December 11th at 5:55 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Added 1 new entry and corrected 1 entry (FIND-DB changed to FINF-DB)
 
@@ -607,7 +729,11 @@
 
 > * No other changes in version 29
 
-**Version 30 (2022, Wednesday, March 2nd at 6:30 pm)**
+</details>
+
+<details><summary><b>Version 30 (2022, Wednesday, March 2nd at 6:30 pm)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
@@ -621,15 +747,27 @@
 
 > * No other changes in version 30
 
-**Version 31 (Coming soon)**
+</details>
+
+<details><summary><b>Version 31 (2022, Monday, April 11th at 6:27 pm PST)</b></summary>
+
+***This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)***
 
 > * Changes:
 
-> * Coming soon!
+> * Updated the lead section
+
+> * Updated the list, adding 1 new entry from today (seanpm2001-education.github.io)
+
+> * Updated the file info section
+
+> * Remodeled and updated the file history section
 
 > * No other changes in version 31
 
-**Version 32 (Coming soon)**
+</details>
+
+<details><summary><b>Version 32 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -637,7 +775,9 @@
 
 > * No other changes in version 32
 
-**Version 33 (Coming soon)**
+</details>
+
+<details><summary><b>Version 33 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -645,7 +785,9 @@
 
 > * No other changes in version 33
 
-**Version 34 (Coming soon)**
+</details>
+
+<details><summary><b>Version 34 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -653,7 +795,9 @@
 
 > * No other changes in version 34
 
-**Version 35 (Coming soon)**
+</details>
+
+<details><summary><b>Version 35 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -661,7 +805,9 @@
 
 > * No other changes in version 35
 
-**Version 36 (Coming soon)**
+</details>
+
+<details><summary><b>Version 36 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -669,7 +815,9 @@
 
 > * No other changes in version 36
 
-**Version 37 (Coming soon)**
+</details>
+
+<details><summary><b>Version 37 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -677,7 +825,9 @@
 
 > * No other changes in version 37
 
-**Version 38 (Coming soon)**
+</details>
+
+<details><summary><b>Version 38 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -685,7 +835,9 @@
 
 > * No other changes in version 38
 
-**Version 39 (Coming soon)**
+</details>
+
+<details><summary><b>Version 39 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -693,7 +845,9 @@
 
 > * No other changes in version 39
 
-**Version 40 (Coming soon)**
+</details>
+
+<details><summary><b>Version 40 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -701,7 +855,9 @@
 
 > * No other changes in version 40
 
-**Version 41 (Coming soon)**
+</details>
+
+<details><summary><b>Version 41 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -709,7 +865,9 @@
 
 > * No other changes in version 41
 
-**Version 42 (Coming soon)**
+</details>
+
+<details><summary><b>Version 42 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -717,7 +875,9 @@
 
 > * No other changes in version 42
 
-**Version 43 (Coming soon)**
+</details>
+
+<details><summary><b>Version 43 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -725,7 +885,9 @@
 
 > * No other changes in version 43
 
-**Version 44 (Coming soon)**
+</details>
+
+<details><summary><b>Version 44 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -733,7 +895,9 @@
 
 > * No other changes in version 44
 
-**Version 45 (Coming soon)**
+</details>
+
+<details><summary><b>Version 45 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -741,7 +905,9 @@
 
 > * No other changes in version 45
 
-**Version 46 (Coming soon)**
+</details>
+
+<details><summary><b>Version 46 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -749,7 +915,9 @@
 
 > * No other changes in version 46
 
-**Version 47 (Coming soon)**
+</details>
+
+<details><summary><b>Version 47 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -757,7 +925,9 @@
 
 > * No other changes in version 47
 
-**Version 48 (Coming soon)**
+</details>
+
+<details><summary><b>Version 48 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -765,7 +935,9 @@
 
 > * No other changes in version 48
 
-**Version 49 (Coming soon)**
+</details>
+
+<details><summary><b>Version 49 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -773,7 +945,9 @@
 
 > * No other changes in version 49
 
-**Version 50 (Coming soon)**
+</details>
+
+<details><summary><b>Version 50 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -781,7 +955,9 @@
 
 > * No other changes in version 50
 
-**Version 51 (Coming soon)**
+</details>
+
+<details><summary><b>Version 51 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -789,7 +965,9 @@
 
 > * No other changes in version 51
 
-**Version 52 (Coming soon)**
+</details>
+
+<details><summary><b>Version 52 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -797,7 +975,9 @@
 
 > * No other changes in version 52
 
-**Version 53 (Coming soon)**
+</details>
+
+<details><summary><b>Version 53 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -805,7 +985,9 @@
 
 > * No other changes in version 53
 
-**Version 54 (Coming soon)**
+</details>
+
+<details><summary><b>Version 54 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -813,7 +995,9 @@
 
 > * No other changes in version 54
 
-**Version 55 (Coming soon)**
+</details>
+
+<details><summary><b>Version 55 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -821,7 +1005,9 @@
 
 > * No other changes in version 55
 
-**Version 56 (Coming soon)**
+</details>
+
+<details><summary><b>Version 56 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -829,7 +1015,9 @@
 
 > * No other changes in version 56
 
-**Version 57 (Coming soon)**
+</details>
+
+<details><summary><b>Version 57 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -837,7 +1025,9 @@
 
 > * No other changes in version 57
 
-**Version 58 (Coming soon)**
+</details>
+
+<details><summary><b>Version 58 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -845,7 +1035,9 @@
 
 > * No other changes in version 58
 
-**Version 59 (Coming soon)**
+</details>
+
+<details><summary><b>Version 59 (Coming soon)</b></summary>
 
 > * Changes:
 
@@ -853,13 +1045,37 @@
 
 > * No other changes in version 59
 
-**Version 60 (Coming soon)**
+</details>
+
+<details><summary><b>Version 60 (Coming soon)</b></summary>
 
 > * Changes:
 
 > * Coming soon!
 
 > * No other changes in version 60
+
+</details>
+
+<details><summary><b>Version 61 (Coming soon)</b></summary>
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 61
+
+</details>
+
+<details><summary><b>Version 62 (Coming soon)</b></summary>
+
+> * Changes:
+
+> * Coming soon!
+
+> * No other changes in version 62
+
+</details>
 
 </details>
 
