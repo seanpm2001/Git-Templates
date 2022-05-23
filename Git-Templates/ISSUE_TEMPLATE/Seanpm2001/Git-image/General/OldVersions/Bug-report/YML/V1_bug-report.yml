@@ -1,0 +1,522 @@
+name: Bug Report
+description: File a bug report
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Unknown
+  - type: checkboxes
+    attributes:
+      label: Prerequisites
+      description: |
+        To rule out invalid issues, confirm and check each one of the checkboxes.
+      options:
+        - label: I verified that this is not an existing issue
+          required: true
+        - label: This is not a question, poll, or discussion
+          required: true
+        - label: I checked the documentation to understand that the issue I report is not a normal behavior
+          required: true
+    
+  - type: checkboxes
+    attributes:
+      label: I tried to reproduce the issue when...
+      options:
+        - label: The repository was downloaded to my device/was viewing through the web browser
+          required: true
+        - label: I was using the latest version of the project
+          required: true
+        - label: I was using the version from the right source
+          required: false
+        - label: I did not modify the project
+          required: false
+          
+  - type: radio
+    attributes:
+      label: My issue involves...
+      options:
+        - label: An image file (being missing)
+          required: false
+        - label: An image file (being in the wrong place)
+          required: true
+        - label: An image file (corrupted)
+          required: false
+        - label: The project language file (won't run)
+          required: false
+        - label: The project language file (doesn't run correctly)
+          required: false
+        - label: Documentation (not being clear)
+          required: false
+        - label: Documentation (being missing)
+          required: false
+        - label: Other (please describe)
+          required: false
+          
+  - type: checkboxes
+    attributes:
+      label: I am running the following operating system (choose only one)
+      options:
+# This section is being kept, as it is still needed. Not for the Git-image portion, but for the project language file and configuration portion
+        - label: Android 1.1 (Petit Four)
+          required: false
+        - label: Android 1.5 (Cupcake)
+          required: false
+        - label: Android 1.6 (Donut)
+          required: false
+        - label: Android 2.0 (Eclair)
+          required: false
+        - label: Android 2.1/2.2 (Froyb)
+          required: false
+        - label: Android 2.3 (Gingerbread)
+          required: false
+        - label: Android 3.0 (Honeycomb)
+          required: false
+        - label: Android 4.0 (Ice Cream Sandwich)
+          required: false
+        - label: Android 4.1/4.2/4.3 (JellyBean)
+          required: false
+        - label: Android 4.4 (KitKat)
+          required: false
+        - label: Android 5.0/5.1 (Lollipop)
+          required: false
+        - label: Android 6.0/6.1 (Marshmallow)
+          required: false
+        - label: Android 7.0/7.1 (Nougat)
+          required: false
+        - label: Android 8.0/8.1 (Oreo)
+          required: false
+        - label: Android 9.0/9.1 (Pie)
+          required: false
+        - label: Android 10.0/10.1 (Q)
+          required: false
+        - label: Android 11.0/11.1 (R)
+          required: false
+        - label: Android 12.0/12.1 (S)
+          required: false
+        - label: CentOS 6
+          required: false
+        - label: CentOS 7
+          required: false
+        - label: CentOS 8
+          required: false
+        - label: CentOS 8 (stream)
+          required: false
+        - label: Fedora Linux Core 1
+          required: false
+        - label: Fedora Linux Core 2
+          required: false
+        - label: Fedora Linux Core 3
+          required: false
+        - label: Fedora Linux Core 4
+          required: false
+        - label: Fedora Linux Core 5
+          required: false
+        - label: Fedora Linux Core 6
+          required: false
+        - label: Fedora Linux 7
+          required: false
+        - label: Fedora Linux 8
+          required: false
+        - label: Fedora Linux 9
+          required: false
+        - label: Fedora Linux 10
+          required: false
+        - label: Fedora Linux 11
+          required: false
+        - label: Fedora Linux 12
+          required: false
+        - label: Fedora Linux 13
+          required: false
+        - label: Fedora Linux 14
+          required: false
+        - label: Fedora Linux 15
+          required: false
+        - label: Fedora Linux 16
+          required: false
+        - label: Fedora Linux 17
+          required: false
+        - label: Fedora Linux 18
+          required: false
+        - label: Fedora Linux 19
+          required: false
+        - label: Fedora Linux 20
+          required: false
+        - label: Fedora Linux 21
+          required: false
+        - label: Fedora Linux 22
+          required: false
+        - label: Fedora Linux 23
+          required: false
+        - label: Fedora Linux 24
+          required: false
+        - label: Fedora Linux 25
+          required: false
+        - label: Fedora Linux 26
+          required: false
+        - label: Fedora Linux 27
+          required: false
+        - label: Fedora Linux 28
+          required: false
+        - label: Fedora Linux 29
+          required: false
+        - label: Fedora Linux 30
+          required: false
+        - label: Fedora Linux 31
+          required: false
+        - label: Fedora Linux 32
+          required: false
+        - label: Fedora Linux 33
+          required: false
+        - label: Fedora Linux 34
+          required: false
+        - label: Fedora Linux 35
+          required: false
+        - label: Fedora Linux 36
+          required: false
+        - label: iPhoneOS 1
+          required: false
+        - label: iPhoneOS 2
+          required: false
+        - label: iPhoneOS 3
+          required: false
+        - label: iPadOS 13
+          required: false
+        - label: iPadOS 14
+          required: false
+        - label: iPadOS 15
+          required: false
+        - label: iOS 4
+          required: false
+        - label: iOS 5
+          required: false
+        - label: iOS 6
+          required: false
+        - label: iOS 7
+          required: false
+        - label: iOS 8
+          required: false
+        - label: iOS 9
+          required: false
+        - label: iOS 10
+          required: false
+        - label: iOS 11
+          required: false
+        - label: iOS 12
+          required: false
+        - label: iOS 13
+          required: false
+        - label: iOS 14
+          required: false
+        - label: iOS 15
+          required: false
+        - label: Apple System 6
+          required: false
+        - label: Mac OS 7
+          required: false
+        - label: Mac OS 8
+          required: false
+        - label: Mac OS 9
+          required: false
+        - label: Mac OS X 10.0 (Cheetah)
+          required: false
+        - label: Mac OS X 10.1 (Puma)
+          required: false
+        - label: Mac OS X 10.2 (Jaguar)
+          required: false
+        - label: Mac OS X 10.3 (Panther)
+          required: false
+        - label: Mac OS X 10.4 (Tiger)
+          required: false
+        - label: Mac OS X 10.5 (Leopard)
+          required: false
+        - label: Mac OS X 10.6 (Snow Leopard)
+          required: false
+        - label: OS X 10.7 (Lion)
+          required: false
+        - label: OS X 10.8 (Mountain Lion)
+          required: false
+        - label: OS X 10.9 (Mavericks)
+          required: false
+        - label: OS X 10.10 (Yosemite)
+          required: false
+        - label: OS X 10.11 (El Capitan)
+          required: false
+        - label: MacOS 10.12 (Sierra)
+          required: false
+        - label: MacOS 10.13 (High Sierra)
+          required: false
+        - label: MacOS 10.14 (Mojave)
+          required: false
+        - label: MacOS 10.15 (Catalina)
+          required: false
+        - label: MacOS 11.x (Big Sur)
+          required: false
+        - label: MacOS 12.x (Monterey)
+          required: false
+        - label: Ubuntu 4.10
+          required: false
+        - label: Ubuntu 5.04
+          required: false
+        - label: Ubuntu 5.10
+          required: false
+        - label: Ubuntu 6.06
+          required: false
+        - label: Ubuntu 6.10
+          required: false
+        - label: Ubuntu 7.04
+          required: false
+        - label: Ubuntu 7.10
+          required: false
+        - label: Ubuntu 8.04
+          required: false
+        - label: Ubuntu 8.10
+          required: false
+        - label: Ubuntu 9.04
+          required: false
+        - label: Ubuntu 9.10
+          required: false
+        - label: Ubuntu 10.04
+          required: false
+        - label: Ubuntu 10.10
+          required: false
+        - label: Ubuntu 11.04
+          required: false
+        - label: Ubuntu 11.10
+          required: false
+        - label: Ubuntu 12.04
+          required: false
+        - label: Ubuntu 12.10
+          required: false
+        - label: Ubuntu 13.04
+          required: false
+        - label: Ubuntu 13.10
+          required: false
+        - label: Ubuntu 14.04
+          required: false
+        - label: Ubuntu 14.10
+          required: false
+        - label: Ubuntu 15.04
+          required: false
+        - label: Ubuntu 15.10
+          required: false
+        - label: Ubuntu 16.04
+          required: false
+        - label: Ubuntu 16.10
+          required: false
+        - label: Ubuntu 17.04
+          required: false
+        - label: Ubuntu 17.10
+          required: false
+        - label: Ubuntu 18.04
+          required: false
+        - label: Ubuntu 18.10
+          required: false
+        - label: Ubuntu 19.04
+          required: false
+        - label: Ubuntu 19.10
+          required: false
+        - label: Ubuntu 20.04
+          required: false
+        - label: Ubuntu 20.10
+          required: false
+        - label: Ubuntu 21.04
+          required: false
+        - label: Ubuntu 21.10
+          required: false
+        - label: Ubuntu 22.04
+          required: false
+        - label: Ubuntu 22.10
+          required: false
+        - label: Windows 3.0
+          required: false
+        - label: Windows 3.1
+          required: false
+        - label: Windows NT 3.1
+          required: false
+        - label: Windows NT 3.11
+          required: false
+        - label: Windows NT 3.5
+          required: false
+        - label: Windows NT 3.51
+          required: false
+        - label: Windows NT 4.0
+          required: false
+        - label: Windows 95
+          required: false
+        - label: Windows 98
+          required: false
+        - label: Windows ME
+          required: false 
+        - label: Windows 2000
+          required: false 
+        - label: Windows XP (no service pack)
+          required: false
+        - label: Windows XP (with service pack 1)
+          required: false
+        - label: Windows XP (with service pack 2)
+          required: false
+        - label: Windows XP (with service pack 3)
+          required: false
+        - label: Windows Vista (no service pack)
+          required: false
+        - label: Windows Vista (with service pack 1)
+          required: false
+        - label: Windows Vista (with service pack 2)
+          required: false
+        - label: Windows 7 (no service pack)
+          required: false
+        - label: Windows 7 (with service pack 1)
+          required: false
+        - label: Windows 8
+          required: false
+        - label: Windows 8.1
+          required: false
+        - label: Windows 10
+          required: false
+        - label: Windows 11
+          required: false
+        - label: Windows Server 2003
+          required: false
+        - label: Windows Server 2003 R2
+          required: false
+        - label: Windows Server 2008
+          required: false
+        - label: Windows Server 2008 R2
+          required: false
+        - label: Windows Server 2012
+          required: false
+        - label: Windows Server 2012 R2
+          required: false
+        - label: Windows Server 2016
+          required: false
+        - label: Windows Server 2019
+          required: false
+        - label: Windows Server 2022
+          required: false
+        - label: Other/unlisted
+          required: false
+
+  - type: checkboxes
+    attributes:
+      label: I am running the following web browser (choose only one) (please also list the specific version below) 
+      options:
+        - label: AOSP (Android Stock Browser, not to be confused with Google Chrome/Google Chromium)
+          required: false
+        - label: Brave
+          required: false
+        - label: Basilisk
+          required: false
+        - label: Comodo IceDragon
+          required: false
+        - label: Comodo Dragon
+          required: false
+        - label: DuckDuckGo
+          required: false
+        - label: Firefox
+          required: false
+        - label: Google Chrome
+          required: false
+        - label: Google Chromium
+          required: false
+        - label: GNU IceCat
+          required: false
+        - label: Internet Explorer
+          required: false
+        - label: Konquerer
+          required: false
+        - label: Lynx
+          required: false
+        - label: Microsoft Edge
+          required: false
+        - label: Netscape
+          required: false
+        - label: Opera
+          required: false
+        - label: Opera Mini
+          required: false
+        - label: Opera GX
+          required: false
+        - label: Pale Moon
+          required: false
+        - label: Safari
+          required: false
+        - label: Samsung Internet
+          required: false
+        - label: SeaMonkey
+          required: false
+        - label: Tor
+          required: false
+        - label: TenFourFox
+          required: false
+        - label: Vivaldi
+          required: false
+        - label: Waterfox
+          required: false
+        - label: Yandex
+          required: false
+        - label: Other/not listed here
+          required: false
+
+  - type: checkboxes
+    attributes:
+      label: I obtained this repository data from...
+      options:
+        - label: This GitHub repository
+          required: true
+  - type: checkboxes
+    attributes:
+      label: I am running this repository in a virtual machine...
+      options:
+        - label: Yes (with Oracle VM VirtualBox)
+          required: false
+        - label: Yes (with VMWare)
+          required: false
+        - label: Yes (with Hyper-V)
+          required: false
+        - label: Yes (with Qemu)
+          required: false
+        - label: Yes (with another virtual machine option that isn't listed)
+          required: false
+        - label: No (I am running it on my host computer)
+          required: false
+  - type: textarea
+    attributes:
+      label: Description
+      description: Description of the bug or feature. Please also list the version of the programming language you tested with.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Steps to Reproduce
+      placeholder: |
+        1. [First Step]
+        2. [Second Step]
+        3. [and so on...]
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Expected behavior
+      description: What you expected to happen
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Actual behavior
+      description: What actually happened
+    validations:
+      required: true  
+
+  - type: input
+    attributes:
+      label: Git-image repository version
+    validations:
+      required: true
+
+# File info
+# File type: GitHub bug report issue template (*.yml)
+# File version: 1 (2022, Thursday, May 19th at 3:12 pm PST)
+# Line count (including blank lines and compiler line): 523
