@@ -1,0 +1,33 @@
+// Start of script
+// I chose JavaScript++ as the tenth project language file for this project (seanpm2001/SPM_FoodIndex) as JavaScript has the word Java in it, and the same terminology as project language 8 applies here: I don't drink coffee, but I associated it with this project to match the food and drink theme. It also fits well with web development. It is getting its own project language file, starting here.
+class projectLanguageFileTen() {
+  void main() {
+    int x = 1; // declares the variable x with an "internal type" (JS++ type)
+    var y = 2; // declares the variable y with an "external type" (JavaScript type)
+    bool z = true; // declares the variable z with an "internal type" (JS++ type)
+    console.log ("Project language file 10");
+    console.log ("For: seanpm2001/SPM_FoodIndex");
+    console.log ("About:");
+    console.log ("I chose JavaScript++ as the tenth project language file for this project (seanpm2001/SPM_FoodIndex) as JavaScript has the word Java in it, and the same terminology as project language 8 applies here: I don't drink coffee, but I associated it with this project to match the food and drink theme. It also fits well with web development. It is getting its own project language file, starting here.");
+    /* Garbage syntax, so I can test out 2 new keywords I recently learned. Uncomment to highlight
+    x = bool("true");
+    y = bool("false");
+    if (x == "false"); {
+      try y
+    } else: {
+      catch x;
+    }
+    */
+    break;
+    return 0;
+  }
+}
+// Note for project language files: The languages associated with SNU programming tools are not included as project language files, as there are too many to list.
+return main();
+break;
+/* File info
+* File version: 1 (2022, Thursday, May 26th at 1:00 pm PST)
+* File type: JavaScript 1.8 source file (*.js)
+* Line count (including blank lines and compiler line): 34
+*/
+// End of script
