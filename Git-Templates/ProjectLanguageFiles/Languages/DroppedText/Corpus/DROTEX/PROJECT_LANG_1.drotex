@@ -1,0 +1,27 @@
+/:DroppedText:\
+/:OS{Linux/Ubuntu}:\
+/:DroppedTextSpec={"V0.0.1"}:\
+/:FileDate:Y2022-M2-D03:\
+/:FileExtension:*.drotex:\
+// All extensions: *.dropt *.droptex *.droptxt *.drotex *.drotxt *.drtxt *.dtxt *.droppedtext *.droppedtxt *.droppedtex
+/:FileLanguage:English{US}:\
+/:Encoding:{UTF-8}:\
+// UTF-16 and UTF-32 are also supported
+// This is a syntax file for droppedText, a handy markup language manual way of moving filenames across manually. It isn't recommended for professional use, I just can't automate tasks yet
+// Why are backslashes used in syntax?
+// A backslash is the only character that can't be used in a filename (which is a good thing) and it is used for configuration and comments in this file specification
+// Config lines start with a /: and end with a :\ but are not applicable if the line starts with //
+// Also, any character after the :\ is ignored (unless of course, it is a comment)
+// Start of script
+DROTEX.png
+/:Title: Project language file 1:\
+/:Subtitle: For seanpm2001/DroppedText_Corpus:\
+/:About:\
+/:I decided to make DroppedText the main project language file for this project (DroppedText_Corpus) as this project relies solely on the dropped text language, and it should be represented with a project language file in the source language.:\
+/:It is getting its own project language file, starting here:\
+/:File info:\
+// File type: DroppedText source file (*.drotex)
+// File version: 1 (2022, Wednesday, June 15th at 5:59 pm PST)
+// Line count (including blank lines and compile line): 28
+// Current file language: English (USA)
+// End of script
