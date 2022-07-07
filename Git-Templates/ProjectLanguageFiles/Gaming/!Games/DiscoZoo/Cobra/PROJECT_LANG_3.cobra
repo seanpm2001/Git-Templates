@@ -1,0 +1,11 @@
+# Start of script
+class ProjectLanguageFile3
+    def main
+        print 'Project language file 3\nFor: SeansLifeArchive/Images/DiscoZoo\nAbout:\nI chose Cobra as the 3rd project language file for this project (Seanpm2001_LifeArchive/Images/DiscoZoo) as a Cobra is a type of snake, and snakes are commonly found in zoos, although this game doesn't have any Cobras. It is getting its own project language file, starting here.'
+        end
+return main
+# File info
+# File type: Cobra source file (*.cobra)
+# File version: 1 (2022, Wednesday, July 6th at 6:21 pm PST)
+# Line count (including blank lines and compiler line): 12
+# End of script
