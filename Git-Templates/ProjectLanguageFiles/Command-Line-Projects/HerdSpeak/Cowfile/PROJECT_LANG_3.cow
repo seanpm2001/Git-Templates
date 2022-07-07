@@ -1,0 +1,21 @@
+#!/usr/bin/env perl
+# Start of script
+## /PROJECT_LANG_3.cow
+## I chose Cowfile as the 3rd project language file for this project (HerdSpeak) as this project is based directly on Cowsay, and Cowsay uses the Cowfile format, which I have now standardized. It is getting its own project language file, starting here.
+## License: GPL-3
+## Author: @seanpm2001 <seanpm2001-mailing-list@protonmail.com>
+## Start of cowfile
+$the_cow = <<"EOC";
+        $thoughts   ^__^
+         $thoughts  ($eyes)\\_______
+            (__)\\       )\\/\\
+             $tongue ||----w |
+                ||     ||
+EOC
+# End of cowfile
+# File version: 1 (2022, Wednesday, July 6th at 8:48 pm PST)
+# Formatting: Perl 5
+# File type: Cowfile (*.cow)
+# Cowfile template version: 1 (2022, Tuesday, July 5th at 4:13 pm PST)
+# Backwards compatible with: Cowsay 2.x, Cowsay 3.x, HerdSpeak 1.x
+# End of script
