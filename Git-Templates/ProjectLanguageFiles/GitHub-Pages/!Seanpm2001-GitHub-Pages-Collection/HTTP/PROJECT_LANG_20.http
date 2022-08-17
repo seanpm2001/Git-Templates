@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Date: Tuesday, 2022 August 16th
+Content-Type: text/html; charset=UTF-8
+Content-Length: 595
+Last-Modified: Tuesday, 2022 August 16th at 20:47 PST
+Server: Apache/2.4.54 (Unix) (Debian/Linux)
+ETag:
+Accept-Ranges: bytes
+Connection: close
+
+<html>
+  <head>
+    <title>Project language file 20 - seanpm2001/Seanpm2001-GitHub-Pages-Collection</title>
+  </head>
+  <body>
+    <H1>Project language file 20</H1>
+    <H2>For: seanpm2001/Seanpm2001-GitHub-Pages-Collection</H2>
+    <H3>About:</H3>
+    <p>I decided to make HTTP the 20th project language file for this project (seanpm2001/Seanpm2001-GitHub-Pages-Collection) as HTTP is one of the languages briefly used in some GitHub pages portions of this project, and I am representing all project languages today via project language files (2022, Tuesday, August 16th)</p>
+  </body>
+</html>
