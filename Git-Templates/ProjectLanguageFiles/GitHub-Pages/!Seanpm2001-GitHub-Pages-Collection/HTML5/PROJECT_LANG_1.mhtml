@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<!-- Start of script !-->
+<HTML lang="en"><BODY><TITLE>Project Language file 1 - Seanpm2001-GitHub-Pages-Collection</TITLE>
+<META><META CHARSET="UTF-8"></META>
+<H1 lang="en">Project language file 1</H1>
+<H2 lang="en">For: Seanpm2001/Seanpm2001-GitHub-Pages-Collection</H2>
+<H3 lang="en">About</H3>
+<!-- I chose HTML5 as the first project language file for this project (Seanpm2001/Seanpm2001-GitHub-Pages-Collection) as HTML is one of the main documentation lanuages used in this project. It was the original language of this project, and is still in use for the website, and some other portions. It is also the dominant language, somehow surpassing Markdown. It is getting its own project language file, starting here. !-->
+<HR>
+<section>
+<H2 lang="en">I chose HTML5 as the first project language file for this project (Seanpm2001/Seanpm2001-GitHub-Pages-Collection) as HTML is one of the main documentation lanuages used in this project. It was the original language of this project, and is still in use for the website, and some other portions. It is also the dominant language, somehow surpassing Markdown. It is getting its own project language file, starting here.</H2>
+</section>
+<HR>
+</BODY>
+</HTML>
+<!-- File version: 1 (2022, Tuesday, August 16th at 4:51 pm PST) !-->
+<!-- File type: HTML 5 document (*.html *.htm *.xhtm *.xhtml *.mhtm *.mhtml) !-->
+<!-- Line count (including blank lines and compiler line): 20 !-->
+<!-- End of script !-->
