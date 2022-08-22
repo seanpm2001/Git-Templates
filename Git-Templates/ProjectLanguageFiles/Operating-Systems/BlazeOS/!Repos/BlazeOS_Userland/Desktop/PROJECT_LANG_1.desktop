@@ -1,0 +1,27 @@
+# Start of script
+
+# Sample KDE desktop entry
+
+[Desktop Entry]
+Type=Application
+Exec=your-app %u
+MimeType=application/x-your-mime-type;
+Icon=some-icon
+X-DocPath=yourapp/index.html
+Terminal=false
+Name=Your App
+GenericName=Project language file 1
+Comment=I decided to make .desktop the 1st project language file for this project (BlazeOS/Userland) as this project didn't have a language associated with it, and since this is about the userland or desktop, the .desktop language was the best fit. It is getting its own project language file, starting here.
+Categories=Qt;KDE;
+
+# Project language file 1
+# For: BlazeOS/Userland
+# About:
+# I decided to make .desktop the 1st project language file for this project (BlazeOS/Userland) as this project didn't have a language associated with it, and since this is about the userland or desktop, the .desktop language was the best fit. It is getting its own project language file, starting here.
+
+# File info
+# File type: KDE desktop file (*.desktop)
+# File version: 1 (2022, Monday, August 22nd at 4:00 pm PST)
+# Line count (including blank lines and compiler line): 28
+
+# End of script
