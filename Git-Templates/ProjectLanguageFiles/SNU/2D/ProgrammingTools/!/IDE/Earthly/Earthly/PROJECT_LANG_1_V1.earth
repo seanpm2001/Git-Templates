@@ -1,0 +1,18 @@
+VERSION 0.6
+# Start of script
+
+# Notes
+# I don't know how to make strings in Earthly, so comments will do for now
+# I know that Earthly files don't usually have an extension (or it is unrecognized by GitHub) that is being done here for reference purposes.
+
+# Project language file 1
+# For: SNU/2D/ProgrammingTools/IDE/Earthly
+# About:
+# I decided to make Earthly the main project language file for this project (SNU / 2D / Programming Tools / IDE / Earthly) as this is a Earthly IDE, and it needs its main language to be represented here.
+
+# File info
+# File type: Earthly source file (*Earthfile *.earth)
+# File version: 1 (2022, Monday, August 29th at 4:20 pm PST)
+# Line count (including blank lines and compiler line): 19
+
+# End of script
