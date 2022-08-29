@@ -1,0 +1,67 @@
+Bootstrap: library
+From: ubuntu:18.04
+Stage: build
+# Start of script
+
+# Notes
+# I don't know how to make strings in Singularity, so comments will do for now
+# I know that Singularity files don't have an extension, that is being done here for reference purposes.
+
+# Project language file 1
+# For: SNU/2D/ProgrammingTools/IDE/Singularity
+# About:
+# I decided to make Singularity the main project language file for this project (SNU / 2D / Programming Tools / IDE / Singularity) as this is a Singularity IDE, and it needs its main language to be represented here.
+
+# Now for a Singularity build file:
+
+# https://www.sylabs.io/guides/3.2/user-guide/definition_files.html
+
+%setup
+    touch /file1
+    touch ${SINGULARITY_ROOTFS}/file2
+
+%files
+    /file1
+    /file1 /opt
+
+%environment
+    export LISTEN_PORT=12345
+    export LC_ALL=C
+
+%post
+    apt-get update && apt-get install -y netcat
+    NOW=`date`
+    echo "export NOW=\"${NOW}\"" >> $SINGULARITY_ENVIRONMENT
+
+%runscript
+    echo "Container was created $NOW"
+    echo "Arguments received: $*"
+    exec echo "$@"
+
+%startscript
+    nc -lp $LISTEN_PORT
+
+%test
+    grep -q NAME="Ubuntu" /etc/os-release
+    if [ $? -eq 0 ]; then
+        echo "Container base is Ubuntu as expected."
+    else
+        echo "Container base is not Ubuntu."
+    fi
+
+%labels
+    Author d@sylabs.io
+    Version v0.0.1
+
+%help
+    This is a demo container used to illustrate a def file that uses all
+    supported sections.
+
+# Taken and modified from: https://github.com/onnovalkering/vscode-singularity/blob/master/test/Singularity
+
+# File info
+# File type: Singularity source file (*Singularity *Apptainer)
+# File version: 1 (2022, Monday, August 29th at 4:26 pm PST)
+# Line count (including blank lines and compiler line): 68
+
+# End of script
