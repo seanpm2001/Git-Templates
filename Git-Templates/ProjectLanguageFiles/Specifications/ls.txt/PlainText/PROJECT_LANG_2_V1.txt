@@ -1,0 +1,15 @@
+Project language file 2
+
+For seanpm2001/ls.txt
+
+About:
+
+I chose plain text as the second project language file for this project (seanpm2001/ls.txt) as this project is just documentation and an article set on the ls.txt specification. I had to use Markdown as the first project language, as the documentation couldn't be done purely in plain text. Plain text is the first official language of this project, but is designated as the second, due to the project language file. It is getting its own project language file, starting here.
+
+This is an instance in which I am using Markdown as a project language file, as I learned how to make the GitHub linguist recognize Markdown as a language. I found this out when snooping around on [Apple/Swift Evolution](https://github.com/apple/swift-evolution/blob/main/.gitattributes) if you want to do this yourself, simply add this to your `.gitattributes` file (if you haven't created one yet, make it now, do not add anything else to the file name but `.gitattributes`)
+
+File info
+
+File type: Plain text document (*.txt)
+File version: 1 (2022, Sunday, September 4th at 7:47 pm PST)
+Line count (including blank lines and compiler line): 16
