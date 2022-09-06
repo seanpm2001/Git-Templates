@@ -1,0 +1,18 @@
+WEBVTT 
+Kind: captions
+Language: en
+
+00:01.000 --> 00:06.000
+<v>system</v>Project language file 1
+00:06.001 --> 00:13.030
+<v>system</v>For: seanpm2001/Learn-WebVTT
+00:13.031 --> 00:15.002
+<v>system</v>About:
+00:15:003 --> 00:52:240
+<v>system</v>I decided to make WebVTT the main project language file for this project (seanpm2001/Learn-WebVTT) as WebVTT is the language this project is dedicated to, because this project is about learning the WebVTT subtitle language. It only makes sense to WebVTT the official language for this project. It is getting its own project language file, starting here.
+
+NOTE
+File info
+File type: WebVTT source file (*.vtt)
+File version: 1 (2022, Monday, September 5th at 6:40 pm PST)
+Line count (including blank lines and compiler line): 19
