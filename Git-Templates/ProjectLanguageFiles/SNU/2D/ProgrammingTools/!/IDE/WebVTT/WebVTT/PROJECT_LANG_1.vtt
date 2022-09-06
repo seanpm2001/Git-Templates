@@ -1,0 +1,18 @@
+WEBVTT 
+Kind: captions
+Language: en
+
+00:01.000 --> 00:06.000
+<v>system</v>Project language file 1
+00:06.001 --> 00:13.030
+<v>system</v>For: seanpm2001/SNU_2D_ProgrammingTools_IDE_WebVTT
+00:13.031 --> 00:15.002
+<v>system</v>About:
+00:15:003 --> 00:52:240
+<v>system</v>I decided to make WebVTT the main project language file for this project (SNU / 2D / Programming Tools / IDE / WebVTT) as this is a WebVTT IDE, and it needs its main language to be represented here.
+
+NOTE
+File info
+File type: WebVTT source file (*.vtt)
+File version: 1 (2022, Monday, September 5th at 7:03 pm PST)
+Line count (including blank lines and compiler line): 19
