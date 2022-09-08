@@ -1,0 +1,38 @@
+// Start of script
+class projectLanguageFileOne() {
+  void main() {
+    int x = 1; // declares the variable x with an "internal type" (JS++ type)
+    var y = 2; // declares the variable y with an "external type" (JavaScript type)
+    bool z = true; // declares the variable z with an "internal type" (JS++ type)
+    console.log ("Project language file 1");
+    console.log ("For: seanpm2001/Learn-JavaScriptPlusPlus");
+    console.log ("About:");
+    console.log ("I decided to make JavaScript++ the main project language file for this project (Seanpm2001/Learn-JavaScriptPlusPus) as JavaScript++ is the language this project is dedicated to, because this project is about learning the JavaScript++ programming language. It only makes sense to JavaScript++ the official language for this project. It is getting its own project language file, starting here.");
+    /* Garbage syntax, so I can test out 2 new keywords I recently learned. Uncomment to highlight
+    x = bool("true");
+    y = bool("false");
+    if (x == "false"); {
+      try y
+    } else: {
+      catch x;
+    }
+    */
+    break;
+    return 0;
+  }
+}
+// Note for project language files: The languages associated with SNU programming tools are not included as project language files, as there are too many to list.
+return main();
+break;
+// Output:
+// Project language file 1
+// For: seanpm2001/Learn-JavaScript-PlusPlus
+// About:
+// I decided to make JavaScript++ the main project language file for this project (Seanpm2001/Learn-JavaScriptPlusPus) as JavaScript++ is the language this project is dedicated to, because this project is about learning the JavaScript++ programming language. It only makes sense to JavaScript++ the official language for this project. It is getting its own project language file, starting here.
+
+/* File info
+* File version: 1 (2022, Wednesday, September 7th at 5:58 pm PST)
+* File type: JS++ source file (*.jspp *.js++ *.jpp)
+* Line count (including blank lines and compiler line): 39
+*/
+// End of script
