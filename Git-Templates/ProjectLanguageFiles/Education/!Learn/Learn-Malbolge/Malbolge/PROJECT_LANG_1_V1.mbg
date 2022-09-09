@@ -1,0 +1,11 @@
+§//" Start of script
+§//" I don't know how to make strings or comments in Malbulge, so I am hoping that an unrecognized character (Section sign: § followed by //") at the start of the line can act as a comment for now.
+§//" Project language file 1
+§//" For: seanpm2001/Learn-MalBolge
+§//" About:
+§//" I decided to make MalBolge the main project language file for this project (Seanpm2001/Learn-MalBolge) as MalBolge is the language this project is dedicated to, because this project is about learning the MalBolge programming language. It only makes sense to MalBolge the official language for this project. It is getting its own project language file, starting here.
+§//" File info
+§//" File type: MalBolge source file (*.mb *.mbg *.mal)
+§//" File version: 1 (2022, Thursday, September 8th at 6:10 pm PST)
+§//" Line count (including blank lines and compiler line): 12
+§//" End of script
