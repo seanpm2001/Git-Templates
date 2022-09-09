@@ -1,0 +1,17 @@
+// Start of script
+on startmovie
+  alert "Project language file 1\nFor: seanpm2001/Learn-Lingo\nAbout:\nI decided to make Adobe Lingo the main project language file for this project (Seanpm2001/Learn-Lingo) as Adobe Lingo is the language this project is dedicated to, because this project is about learning the Adobe Lingo programming language. It only makes sense to Adobe Lingo the official language for this project. It is getting its own project language file, starting here."
+end
+// Output
+
+// Project language file 1
+// For: seanpm2001/Learn-Lingo
+// About:
+// I decided to make Adobe Lingo the main project language file for this project (Seanpm2001/Learn-Lingo) as Adobe Lingo is the language this project is dedicated to, because this project is about learning the Adobe Lingo programming language. It only makes sense to Adobe Lingo the official language for this project. It is getting its own project language file, starting here.
+
+// File info
+// File type: Adobe Lingo 4 source file (*.lg4)
+// File version: 1 (2022, Thursday, September 8th at 6:47 pm PST)
+// Line count (including blank lines and compiler line): 18
+
+// End of script
