@@ -1,0 +1,16 @@
+# Start of script
+# Project language file 1
+# For: seanpm2001/Learn-YAML
+# About:
+# I decided to make YAML the main project language file for this project (Seanpm2001/Learn-YAML) as YAML is the language this project is dedicated to, because this project is about learning the YAML programming language. It only makes sense to YAML the official language for this project. It is getting its own project language file, starting here.
+# This is an instance in which I am using YAML as a project language file, as I learned how to make the GitHub linguist recognize Markdown as a language, and I extended this to other languages, this time with YAML. I found this out when snooping around on [Apple/Swift Evolution](https://github.com/apple/swift-evolution/blob/main/.gitattributes) if you want to do this yourself, simply add this to your `.gitattributes` file (if you haven't created one yet, make it now, do not add anything else to the file name but `.gitattributes`)
+gitattributes: ".gitattributes"
+line1: *.yml linguist-detectable=true
+line2: *.yaml linguist-detectable=true
+line3: *.yml linguist-language=SVG
+line4: *.yaml linguist-language=SVG
+## File info
+# File type: YAML source document (*.yml *.yaml)
+# File version: 1 (2022, Sunday, September 11th at 6:55 pm PST)
+# Line count (including blank lines and compiler line): 17
+# End of script
