@@ -1,0 +1,13 @@
+# Start of script
+<plang1 .htaccess>
+    # Project language file 1
+    # For: SNU/2D/ProgrammingTools/IDE/ApacheConf
+    # About:
+    # I decided to make ApacheConf the main project language file for this project (SNU / 2D / Programming Tools / IDE / ApacheConf) as this is a ApacheConf IDE, and it needs its main language to be represented here.
+</plang1>
+# I would do something other than comments, but there doesn't appear to be an easy way of writing strings in this language as far as I am aware
+# File info
+# File type: ApacheConf source file (*.htaccess *.conf)
+# File version: 1 (2022, Tuesday, September 13th at 5:35 pm PST)
+# Line count (including blank lines and compiler line): 14
+# End of script
