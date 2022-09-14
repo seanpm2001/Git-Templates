@@ -1,0 +1,13 @@
+# Start of script
+<plang1 .htaccess>
+    # Project language file 1
+    # For: seanpm2001/Learn-ApacheConf
+    # About:
+    # I decided to make ApacheConf the main project language file for this project (Seanpm2001/Learn-ApacheConf) as ApacheConf is the language this project is dedicated to, because this project is about learning the ApacheConf programming language. It only makes sense to ApacheConf the official language for this project. It is getting its own project language file, starting here.
+</plang1>
+# I would do something other than comments, but there doesn't appear to be an easy way of writing strings in this language as far as I am aware
+# File info
+# File type: ApacheConf source file (*.htaccess *.conf)
+# File version: 1 (2022, Tuesday, September 13th at 5:27 pm PST)
+# Line count (including blank lines and compiler line): 14
+# End of script
