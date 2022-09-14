@@ -1,0 +1,22 @@
+# Start of script
+{
+   "data": {
+      "title": "Project language file 1"
+      "subtitle": "For: SNU/2D/ProgrammingTools/IDE/GraphQL"
+      "about": "About:"
+      "description": "I decided to make GraphQL the main project language file for this project (SNU / 2D / Programming Tools / IDE / GraphQL) as this is a GraphQL IDE, and it needs its main language to be represented here."
+   }
+}
+# Output:
+
+# Project language file 1
+# For: SNU/2D/ProgrammingTools/IDE/GraphQL
+# About:
+# I decided to make GraphQL the main project language file for this project (SNU / 2D / Programming Tools / IDE / GraphQL) as this is a GraphQL IDE, and it needs its main language to be represented here.
+
+# File info
+# File type: GraphQL source file (*.graphql)
+# File version: 1 (2022, Tuesday, September 13th at 5:00 pm PST)
+# Line count (including blank lines and compiler line): 23
+
+# End of script
