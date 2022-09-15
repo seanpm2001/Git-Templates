@@ -1,0 +1,31 @@
+<pre class='metadata'>
+Title: Project language file 1
+Shortname: Plang1
+Level: 1
+Status: seanpm2001/V1
+Group: Repository Decorations
+URL: https://github.com/seanpm2001/Learn-Bikeshed/
+Editor: Sean Patrick Myrick, unaffiliated
+Abstract: [Placeholder] Abstract.
+Markup Shorthands: markdown yes
+</pre>
+
+***
+
+# Project language file 1
+
+## For: seanpm2001/Learn-Bikeshed
+
+### About:
+
+I decided to make Bikeshed the main project language file for this project (Seanpm2001/Learn-Bikeshed) as Bikeshed is the language this project is dedicated to, because this project is about learning the Bikeshed progrmaming language. It only makes sense to Bikeshed the official language for this project. It is getting its own project language file, starting here.
+
+## File info
+
+**File type:** `Bikeshed source file (*.bs)`
+
+**File version:** `1 (2022, Wednesday, September 14th at 5:54 pm PST)`
+
+**Line count (including blank lines and compiler line):** `32`
+
+***
