@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE eagle SYSTEM "eagle.dtd">
+<eagle version="6.3">
+<drawing>
+<settings>
+<setting alwaysvectorfont="yes"/>
+<setting verticaltext="up"/>
+</settings>
+<layers>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
+</layers>
+<board>
+<plain>
+</plain>
+<attributes>
+</attributes>
+<variantdefs>
+</variantdefs>
+<classes>
+</class>
+</classes>
+<description language="en">&lt;b&gt;Project language file 1&lt;/b&gt;
+&lt;p&gt;
+For: seanpm2001/Learn-Eagle
+About:
+I decided to make Eagle the main project language file
+for this project (Seanpm2001/Learn-Eagle) as Eagle is
+the language this project is dedicated to, because this
+project is about learning the Eagle progrmaming language.
+It only makes sense to Eagle the official language for
+this project. It is getting its own project language file,
+starting here.
+</description>
+<!-- File info
+File type: AutoDesk Eagle source file (*.brd)
+File version: 1 (2022, Wednesday, September 14th at 6:11 pm PST)
+Line count (including blank lines and compiler line): 42
+!-->
+</board>
+</drawing>
+</eagle>
