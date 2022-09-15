@@ -1,0 +1,31 @@
+<pre class='metadata'>
+Title: Project language file 1
+Shortname: Plang1
+Level: 1
+Status: seanpm2001/V1
+Group: Repository Decorations
+URL: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Bikeshed/
+Editor: Sean Patrick Myrick, unaffiliated
+Abstract: [Placeholder] Abstract.
+Markup Shorthands: markdown yes
+</pre>
+
+***
+
+# Project language file 1
+
+## For: SNU/2D/ProgrammingTools/IDE/Bikeshed
+
+### About:
+
+I decided to make Bikeshed the main project language file for this project (SNU / 2D / Programming Tools / IDE / Bikeshed) as this is a Bikeshed IDE, and it needs its main language to be represented here.
+
+## File info
+
+**File type:** `Bikeshed source file (*.bs)`
+
+**File version:** `1 (2022, Wednesday, September 14th at 5:57 pm PST)`
+
+**Line count (including blank lines and compiler line):** `32`
+
+***
