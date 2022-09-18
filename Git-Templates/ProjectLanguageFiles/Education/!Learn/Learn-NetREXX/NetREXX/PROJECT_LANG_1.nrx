@@ -1,0 +1,21 @@
+-- Start of script
+
+say 'Project language file 1'
+say 'For: seanpm2001/Learn-NetREXX'
+say 'About: '
+say 'I decided to make NetREXX the main project language file for this project (Seanpm2001/Learn-NetREXX) as NetREXX is the language this project is dedicated to, because this project is about learning the NetREXX programming language. It only makes sense to NetREXX the official language for this project. It is getting its own project language file, starting here.'
+end
+-- Output
+
+-- Project language file 1
+-- For: seanpm2001/Learn-NetREXX
+-- About:
+-- I decided to make NetREXX the main project language file for this project (Seanpm2001/Learn-NetREXX) as NetREXX is the language this project is dedicated to, because this project is about learning the NetREXX programming language. It only makes sense to NetREXX the official language for this project. It is getting its own project language file, starting here.
+
+-- File info
+
+-- File type: NetREXX source file (*.nrx)
+-- File version: 1 (2022, Sunday, September 18th at 4:57 pm PST)
+-- Line count (including blank lines and compiler line): 22
+
+-- End of script
