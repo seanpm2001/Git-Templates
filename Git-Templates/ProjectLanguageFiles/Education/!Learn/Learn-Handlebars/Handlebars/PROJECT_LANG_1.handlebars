@@ -1,0 +1,25 @@
+<!-- Start of script !--->
+<h1>{{header}}</h1>
+{{#if items}}
+  <ul>
+    {{#each items}}
+      {{#if current}}
+        <li><strong>{{name}}</strong></li>
+      {{^}}
+        <li><a href="{{url}}">{{name}}</a></li>
+        <li><p>Project language file 1</p></li>
+        <li><p>For: Seanpm2001/Learn-Handlebars</p></li>
+        <li><p>About:</p></li>
+        <li><p>I decided to make Handlebars the main project language file for this project (Seanpm2001/Learn-Handlebars) as Handlebars is the language this project is dedicated to, because this project is about learning the Handlebars programming language. It only makes sense to Handlebars the official language for this project. It is getting its own project language file, starting here.</p></li>
+      {{/if}}
+    {{/each}}
+  </ul>
+{{^}}
+  <p>The list is empty.</p>
+{{/if}}
+<!-- File info
+>>* File type: HandleBars source file (*.hbs *.handlebars)
+>>* File version: 1 (2022, Monday, September 19th at 7:08 pm PST)
+>>* Line count (including blank lines and compiler line): 26
+!-->
+<!-- End of script !-->
