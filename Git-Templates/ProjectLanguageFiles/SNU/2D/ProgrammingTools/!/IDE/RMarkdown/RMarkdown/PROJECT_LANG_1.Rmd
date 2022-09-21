@@ -1,0 +1,19 @@
+# Start of script
+
+## Project language file 1
+
+### For: SNU/2D/ProgrammingTools/IDE/RMarkdown
+
+#### About:
+
+I decided to make RMarkdown the main project language file for this project (SNU / 2D / Programming Tools / IDE / RMarkdown) as this is a RMarkdown IDE, and it needs its main language to be represented here.
+
+## File info
+
+File type: RMarkdown source file (*.Rmd)
+
+File version: 1 (2022, Tuesday, September 20th at 9:51 pm PST)
+
+Line count (including blank lines and compiler line): 20
+
+# End of script
