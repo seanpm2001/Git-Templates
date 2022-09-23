@@ -1,0 +1,16 @@
+
+=head1 Project language file1
+
+=head2 For: seanpm2001/Learn-Pod
+
+=head3 About:
+
+=head4 I decided to make Pod the main project language file for this project (Seanpm2001/Learn-Pod) as Pod is the language this project is dedicated to, because this project is about learning the Pod programming language. It only makes sense to Pod the official language for this project. It is getting its own project language file, starting here.
+
+=head1 File info
+
+=head2 File type: Perl Pod source file (*.pod)
+
+=head2 File version: 1 (2022, Thursday, September 22nd at 8:37 pm PST)
+
+=head2 Line count (including blank lines and compiler line): 17
