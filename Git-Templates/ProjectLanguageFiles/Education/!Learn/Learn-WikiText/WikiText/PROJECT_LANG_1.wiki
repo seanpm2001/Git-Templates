@@ -1,0 +1,20 @@
+
+====
+
+= Project language file 1 =
+
+== For seanpm2001/Learn-WikiText ==
+
+=== About ===
+
+I decided to make WikiText the main project language file for this project (Seanpm2001/Learn-WikiText) as WikiText is the language this project is dedicated to, because this project is about learning the WikiText programming language. It only makes sense to WikiText the official language for this project. It is getting its own project language file, starting here.
+
+== File info ==
+
+File type: <code>MediaWiki/Wikitext document (*.wiki)</code>
+
+File version: <code>1 (2022, Thursday, September 22nd at 8:45 pm PST)</code>
+
+Line count (including blank lines and compiler line): <code>21</code>
+
+====
