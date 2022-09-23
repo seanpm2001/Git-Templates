@@ -1,0 +1,16 @@
+
+=head1 Project language file 1
+
+=head2 For: SNU/2D/ProgrammingTools/IDE/Pod
+
+=head3 About:
+
+=head4 I decided to make Pod the main project language file for this project (SNU / 2D / Programming Tools / IDE / Pod) as this is a Pod IDE, and it needs its main language to be represented here.
+
+=head1 File info
+
+=head2 File type: Perl Pod source file (*.pod)
+
+=head2 File version: 1 (2022, Thursday, September 22nd at 8:40 pm PST)
+
+=head2 Line count (including blank lines and compiler line): 17
