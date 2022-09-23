@@ -1,0 +1,16 @@
+MODULE PLANG1;
+
+(* Notes *)
+(* I don't know how to make strings in Oberon, so comments will do for now *)
+
+(* Project language file 1 *)
+(* For: SNU/2D/ProgrammingTools/IDE/Oberon *)
+(* About: *)
+(* I decided to make BitBake the main project language file for this project (SNU / 2D / Programming Tools / IDE / BitBake) as this is a BitBake IDE, and it needs its main language to be represented here. *)
+
+(* File info *)
+(* File type: Oberon source file (*.obn) *)
+(* File version: 1 (2022, Thursday, September 22nd at 8:31 pm PST) *)
+(* Line count (including blank lines and compiler line): 17 *)
+
+(* End of script *)
