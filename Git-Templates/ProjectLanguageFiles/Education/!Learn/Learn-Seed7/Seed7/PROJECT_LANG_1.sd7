@@ -1,0 +1,14 @@
+const proc: main is func
+  begin
+    writeln("Project language file 1");
+    writeln("For: seanpm2001/Learn-Seed7");
+    weiteln("About:");
+    writeln("I decided to make Seed7 the main project language file for this project (Seanpm2001/Learn-Seed7) as Seed7 is the language this project is dedicated to, because this project is about learning the Seed7 programming language. It only makes sense to Seed7 the official language for this project. It is getting its own project language file, starting here.");
+  end func;
+const proc: hidden is func
+  begin
+    writeln("File info");
+    writeln("File type: Seed7 sourc efile (*.sd7)");
+    writeln("File version: 1 (2022, Friday, September 23rd at 9:12 pm PST)");
+    writeln("Line count (including blank lines and compiler line): 15");
+  end func;
