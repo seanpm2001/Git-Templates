@@ -1,0 +1,14 @@
+const proc: main is func
+  begin
+    writeln("Project language file 1");
+    writeln("For: SNU/2D/ProgrammingTools/IDE/Seed7");
+    weiteln("About:");
+    writeln("I decided to make Seed7 the main project language file for this project (SNU / 2D / Programming Tools / IDE / Seed7) as this is a Seed7 IDE, and it needs its main language to be represented here.");
+  end func;
+const proc: hidden is func
+  begin
+    writeln("File info");
+    writeln("File type: Seed7 sourc efile (*.sd7)");
+    writeln("File version: 1 (2022, Friday, September 23rd at 9:16 pm PST)");
+    writeln("Line count (including blank lines and compiler line): 15");
+  end func;
