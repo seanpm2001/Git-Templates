@@ -1,0 +1,19 @@
+{{{ Start of script }}}
+
+= Project language 1
+
+== For: seanpm2001/Learn-Creole
+
+=== About:
+
+I decided to make Creole the main project language file for this project (Seanpm2001/Learn-Creole) as Creole is the language this project is dedicated to, because this project is about learning the Creole markup language. It only makes sense to Creole the official language for this project. It is getting its own project language file, starting here.
+
+{{{ File info: }}}
+
+{{{ File type: Creole source file (*.creole) }}}
+
+{{{ File version: 1 (2022, Friday, September 23rd at 9:47 pm PST) }}}
+
+{{{ Line count (including blank lines and compiler line): 20 }}}
+
+{{{ End of script }}}
