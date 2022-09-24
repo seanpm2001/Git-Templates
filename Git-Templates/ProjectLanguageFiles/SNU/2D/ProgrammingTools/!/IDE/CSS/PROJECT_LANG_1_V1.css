@@ -1,0 +1,35 @@
+/* Start of script */
+
+/* I decided to make C# the main project language file for this project (Seanpm2001/Learn-C#) as C# is the language this project is dedicated to, because this project is about learning the C# markup language. It only makes sense to C# the official language for this project. It is getting its own project language file, starting here. */
+
+h1 {
+  color: white;
+}
+h2 {
+  color: white;
+}
+h3 {
+  color: white;
+}
+h4 {
+  color: white;
+}
+h5 {
+  color: white;
+}
+h6 {
+  color: white;
+}
+p {
+  color: white;
+}
+
+/* Note for project language files: The languages associated with SNU programming tools are not included as project language files, as there are too many to list. */
+
+/* File info
+* File type: Cascading Styling Sheets 3 stylesheet source file (*.css)
+* File version: 1 (2022, Friday, September 23rd at 10:18 pm PST)
+* Line count (including blank lines and compiler line): 36
+*/
+
+/* End of script */
