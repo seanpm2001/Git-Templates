@@ -1,0 +1,19 @@
+{{{ Start of script }}}
+
+= Project language 1
+
+== For: SNU/2D/ProgrammingTools/IDE/Creole
+
+=== About:
+
+I decided to make Creole the main project language file for this project (SNU / 2D / Programming Tools / IDE / Creole) as this is a Creole IDE, and it needs its main language to be represented here.
+
+{{{ File info: }}}
+
+{{{ File type: Creole source file (*.creole) }}}
+
+{{{ File version: 1 (2022, Friday, September 23rd at 9:51 pm PST) }}}
+
+{{{ Line count (including blank lines and compiler line): 20 }}}
+
+{{{ End of script }}}
