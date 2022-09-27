@@ -1,0 +1,16 @@
+#C Start of script
+
+#C Notes
+#C I don't know how to make strings in PureData, so (pseudocode) comments will do for now
+
+#C Project language file 1
+#C For: SNU/2D/ProgammingTools/IDE/PureData
+#C About:
+#C I decided to make PureData the main project language file for this project (SNU / 2D / Programming Tools / IDE / PureData) as this is a PureData IDE, and it needs its main language to be represented here.
+
+#C File info
+#C File type: PureData source file (*.pd)
+#C File version: 1 (2022, Monday, Septemnber 26th at 8:30 pm PST)
+#C Line count (including blank lines and compiler line): 17
+
+#C End of script
