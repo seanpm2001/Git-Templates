@@ -1,0 +1,16 @@
+#C Start of script
+
+#C Notes
+#C I don't know how to make strings in PureData, so (pseudocode) comments will do for now
+
+#C Project language file 1
+#C For: seanpm2001/Learn-PureData
+#C About:
+#C I decided to make PureData the main project language file for this project (Seanpm2001/Learn-PureData) as PureData is the language this project is dedicated to, because this project is about learning the PureData programming language. It only makes sense to PureData the official language for this project. It is getting its own project language file, starting here.
+
+#C File info
+#C File type: PureData source file (*.pd)
+#C File version: 1 (2022, Monday, September 26th at 8:26 pm PST)
+#C Line count (including blank lines and compiler line): 17
+
+#C End of script
