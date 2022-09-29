@@ -1,0 +1,17 @@
+|| Start of script
+
+|| Notes
+|| I don't know how to make strings in Orwell, so comments will do for now
+|| I can't find any syntax examples, so I am guessing that Orwell uses Miranda-style comments. This is a guess, and may not be accurate.
+
+|| Project language file 1
+|| For: seanpm2001/Learn-Orwell
+|| About:
+|| I decided to make Orwell the main project language file for this project (Seanpm2001/Learn-Orwell) as Orwell is the language this project is dedicated to, because this project is about learning the Orwell programming language. It only makes sense to Orwell the official language for this project. It is getting its own project language file, starting here.
+
+|| File info
+|| File type: Orwell source file (*.or) (this is also a guess)
+|| File version: 1 (2022, Wednesday, September 28th at 9:31 pm PST)
+|| Line count (including blank lines and compiler line): 18
+
+|| End of script
