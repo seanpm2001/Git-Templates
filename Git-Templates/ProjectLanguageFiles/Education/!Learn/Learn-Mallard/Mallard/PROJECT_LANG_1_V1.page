@@ -1,0 +1,12 @@
+<page xmlns="http://projectmallard.org/1.0/">
+<info>
+	<H1>Project language file 1</H1>
+	<H2>For: seanpm2001/Learn-Mallard</H2>
+	<H4>About:</H4>
+	<p>"I decided to make JADE the main project language file for this project (Seanpm2001/Learn-JADE) as JADE is the language this project is dedicated to, because this project is about learning the JADE programming language. It only makes sense to JADE the official language for this project. It is getting its own project language file, starting here.</p>
+</info>
+<!-- File info
+File type: Mallard source file (*.page)
+FIle version: 1 (2022, Thursday, September 29th at 10:43 pm PST)
+Line count (including blank lines and compiler line): 13
+!-->
