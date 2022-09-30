@@ -1,0 +1,14 @@
+DEFINE plang1 ==
+   ['Project language file 1\n']
+   ['For: SNU/2D/ProgrammingTools/IDE/Joy\n']
+   ['About:\n']
+   ['I decided to make Joy the main project language file for this project (SNU / 2D / Programming Tools / IDE / Joy) as this is a Joy IDE, and it needs its main language to be represented here.']
+   binrec.
+   
+DEFINE fileInfo ==
+   ; I am completely guessing on the syntax
+   ['File info']
+   ['File type: Joy source file (*.joy)']
+   ['File version: 1 (2022, Thursday, September 29th at 10:27 pm PST)`]
+   ['Line count (including blank lines and compiler line): 15']
+   binrec.
