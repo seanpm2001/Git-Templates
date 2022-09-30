@@ -1,0 +1,17 @@
+
+-- Start of script
+
+     (         !       (          !   (  n : Nat  !
+data !---------! where !----------! ; !-----------!
+     ! Nat : * )       !zero : Nat)   !suc n : Nat)
+
+-- I am going to take a hard guess, and assume this is the comment format for Epigram, as so little documentation on the language is easily discoverable
+
+-- I decided to make Epigram the main project language file for this project (Seanpm2001/Learn-Epigram) as Epigram is the language this project is dedicated to, because this project is about learning the Epigram programming language. It only makes sense to Epigram the official language for this project. It is getting its own project language file, starting here.
+
+-- File info
+-- File type: Epigram source file (*.epi)
+-- File version: 1 (2022. Thursday, September 29th at 8:58 pm PST)
+-- Line count (Including blank lines and compiler line): 18
+
+-- End of script
