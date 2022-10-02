@@ -1,0 +1,19 @@
+# Start of script
+# Project language file 1
+print ("Project language file 1")
+print ("For: SNU/2D/ProgrammingTools/IDE/GN")
+print ("About:")
+print ("I decided to make GN the main project language file for this project (SNU / 2D / Programming Tools / IDE / GN) as this is a GN IDE, and it needs its main language to be represented here.")
+
+# Output:
+# Project language file 1
+# For: SNU/2D/ProgrammingTools/IDE/GN
+# About:
+# I decided to make GN the main project language file for this project (SNU / 2D / Programming Tools / IDE / GN) as this is a GN IDE, and it needs its main language to be represented here.
+
+# File info
+# File type: Google GN source file (*.gn)
+# File version: 1 (2022, Saturday, October 1st at 11:03 pm PST)
+# Line count (including blank lines and compiler line): 20
+
+# End of script
