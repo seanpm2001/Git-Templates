@@ -1,0 +1,14 @@
+<!DOCTYPE motd [ <!E
+<motd>
+<!-- Start of script !-->
+<sentence>Project language file 1</>
+<sentence>For: SNU/2D/ProgrammingTools/IDE/SGML</>
+<sentence>About:</>
+<sentence>I decided to make SGML the main project language file for this project (SNU / 2D / Programming Tools / IDE / SGML) as this is a SGML IDE, and it needs its main language to be represented here..</>
+<!-- File info
+File type: SGML source file (*.sgml)
+File version: 1 (2022, Sunday, October 2nd at 9:42 pm PST)
+Line count (including blank lines and compiler line): 15
+!-->
+<!-- End of script !-->
+</motd>
