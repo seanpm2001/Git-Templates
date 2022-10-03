@@ -1,0 +1,16 @@
+; Start of script
+
+; Notes
+; Motorola S-RECORD does not support comments or strings, but any line that doesn't start with S is ignored by most compilers. For similarity with related languages, each line in this file starts with a semicolon (similar to most assembly languages, although this isn't an assembly language)
+
+; Project language file 1
+; For: seanpm2001/Learn-S-RECORD
+; About:
+; I decided to make Motorola S-RECORD the main project language file for this project (Seanpm2001/Learn-S-RECORD) as Motorola S-RECORD is the language this project is dedicated to, because this project is about learning the Motorola S-RECORD programming language. It only makes sense to Motorola S-RECORD the official language for this project. It is getting its own project language file, starting here.
+
+; File info
+; File type: Motorola S-RECORD source file (*.mot)
+; File version: 1 (2022, Sunday, October 2nd at 9:46 pm PST)
+; Line count (including blank lines and compiler line): 17
+
+; End of script
