@@ -1,0 +1,25 @@
+; Start of script
+
+; Read value from registry
+$ProductID = ReadValue("HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion","ProductId")
+
+; Display result or error message
+If @ERROR = 0
+    ? "ProductID=$ProductID"
+Else
+    ? "Error reading product ID"
+Endif
+?
+
+; Done
+Exit @ERROR
+
+; I decided to make the first project language file for this project (SNU / 2D / ProgrammingTools / IDE / KiXtart) to be KiXtart, as this is a KiXtart legacy IDE. I don't think I can bootstrap KiXtart though, so another language will be used as well. Right now (as of Wednesday, July 21st 2021) GitHub doesn't recognize KiXtart as a language
+
+; File info
+
+; File type: KiXtart source file (*.kix)
+; File version: 1 (Wednesday, July 21st 2021 at 6:21 pm)
+; Line count (including blank lines and compiler line): 26
+
+; End of script
