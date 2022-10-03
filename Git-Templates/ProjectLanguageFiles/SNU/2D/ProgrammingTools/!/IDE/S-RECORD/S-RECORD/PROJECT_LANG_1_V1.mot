@@ -1,0 +1,16 @@
+; Start of script
+
+; Notes
+; Motorola S-RECORD does not support comments or strings, but any line that doesn't start with S is ignored by most compilers. For similarity with related languages, each line in this file starts with a semicolon (similar to most assembly languages, although this isn't an assembly language)
+
+; Project language file 1
+; For: SNU/2D/ProgrammingTools/IDE/S-RECORD
+; About:
+; I decided to make Motorola S-RECORD the main project language file for this project (SNU / 2D / Programming Tools / IDE / S-RECORD) as this is a Motorola S-RECORD IDE, and it needs its main language to be represented here.
+
+; File info
+; File type: Motorola S-RECORD source file (*.mot)
+; File version: 1 (2022, Sunday, October 2nd at 9:50 pm PST)
+; Line count (including blank lines and compiler line): 17
+
+; End of script
