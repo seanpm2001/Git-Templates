@@ -1,0 +1,14 @@
+<!DOCTYPE motd [ <!E
+<motd>
+<!-- Start of script !-->
+<sentence>Project language file 1</>
+<sentence>For: seanpm2001/Learn-SGML</>
+<sentence>About:</>
+<sentence>I decided to make SGML the main project language file for this project (Seanpm2001/Learn-SGML) as SGML is the language this project is dedicated to, because this project is about learning the SGML programming language. It only makes sense to SGML the official language for this project. It is getting its own project language file, starting here.</>
+<!-- File info
+File type: SGML source file (*.sgml)
+File version: 1 (2022, Sunday, October 2nd at 9:38 pm PST)
+Line count (including blank lines and compiler line): 15
+!-->
+<!-- End of script !-->
+</motd>
