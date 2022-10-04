@@ -1,0 +1,8 @@
+variable'plang1title'="Project language file 1"
+variable'plang1subtitle'="For: seanpm2001/Learn-DIGITAL-Command-Language"
+variable'about'="About:"
+variable'description1'="I decided to make DIGITAL Command Language the main project language file for this project (Seanpm2001/Learn-DIGITAL-Command-Language) as DIGITAL Command Language is the language this project is dedicated to, because this project is about learning the DIGITAL Command Language programming language. It only makes sense to DIGITAL Command Language the official language for this project. It is getting its own project language file, starting here."
+variable'FileInfoHidden'="File info"
+variable'FileInfoFileType'="File type: DIGITAL command language source file (*.com)"
+variable'FileInfoFileVersion'="File version: 1 (2022, Monday, October 3rd at 8:29 pm PST)"
+variable'FileInfoLineCount'="Line count (including blank lines and compiler line): 9"
