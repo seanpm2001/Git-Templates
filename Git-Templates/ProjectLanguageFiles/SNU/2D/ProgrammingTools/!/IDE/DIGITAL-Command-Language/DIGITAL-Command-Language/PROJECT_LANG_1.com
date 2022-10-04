@@ -1,0 +1,8 @@
+variable'plang1title'="Project language file 1"
+variable'plang1subtitle'="For: SNU/2D/ProgrammingTools/IDE/DIGITAL-Command-Language"
+variable'about'="About:"
+variable'description1'="I decided to make DIGITAL Command Language the main project language file for this project (SNU / 2D / Programming Tools / IDE / DIGITAL Command Language) as this is a DIGITAL Command Language IDE, and it needs its main language to be represented here."
+variable'FileInfoHidden'="File info"
+variable'FileInfoFileType'="File type: DIGITAL command language source file (*.com)"
+variable'FileInfoFileVersion'="File version: 1 (2022, Monday, October 3rd at 8:48 pm PST)"
+variable'FileInfoLineCount'="Line count (including blank lines and compiler line): 9"
