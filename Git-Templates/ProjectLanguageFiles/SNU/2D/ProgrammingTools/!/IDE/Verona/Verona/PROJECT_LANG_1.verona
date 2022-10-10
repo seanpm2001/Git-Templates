@@ -1,0 +1,20 @@
+// Start of script
+
+// Project language file 1
+// For: SNU/2D/ProgrammingTools/IDE/Verona
+// About:
+// I decided to make Verona the main project language file for this project (SNU / 2D / Programming Tools / IDE / Verona) as this is a Verona IDE, and it needs its main language to be represented here.
+
+'"
+Project language file 1
+For: SNU/2D/ProgrammingTools/IDE/Verona
+About:
+I decided to make Verona the main project language file for this project (SNU / 2D / Programming Tools / IDE / Verona) as this is a Verona IDE, and it needs its main language to be represented here.
+"';
+
+// File info
+// File type: Verona source file (*.verona)
+// File version: 1 (2022, Sunday, October 9th at 9:17 pm PST)
+// Line count (including blank lines and compiler line): 21
+
+// End of script
