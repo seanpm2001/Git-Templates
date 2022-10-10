@@ -1,0 +1,20 @@
+// Start of script
+
+// Project language file 1
+// For: seanpm2001/Learn-Verona
+// About:
+// I decided to make Verona the main project language file for this project (Seanpm2001/Learn-Verona) as Verona is the language this project is dedicated to, because this project is about learning the Verona programming language. It only makes sense to Verona the official language for this project. It is getting its own project language file, starting here.
+
+'"
+Project language file 1
+For: seanpm2001/Learn-Verona
+About:
+I decided to make Verona the main project language file for this project (Seanpm2001/Learn-Verona) as Verona is the language this project is dedicated to, because this project is about learning the Verona programming language. It only makes sense to Verona the official language for this project. It is getting its own project language file, starting here.
+"';
+
+// File info
+// File type: Verona source file (*.verona)
+// File version: 1 (2022, Sunday, October 9th at 9:11 pm PST)
+// Line count (including blank lines and compiler line): 21
+
+// End of script
