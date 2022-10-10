@@ -1,0 +1,18 @@
+// Start of script
+
+// Project language file 1
+// For: seanpm2001/Learn-Cyclone
+// About:
+// I decided to make Cyclone the main project language file for this project (Seanpm2001/Learn-Cyclone) as Cyclone is the language this project is dedicated to, because this project is about learning the Cyclone programming language. It only makes sense to Cyclone the official language for this project. It is getting its own project language file, starting here.
+
+printf("Project language file 1\n");
+printf("For: seanpm2001/Learn-Cyclone\n");
+printf("About:\n");
+printf("I decided to make Cyclone the main project language file for this project (Seanpm2001/Learn-Cyclone) as Cyclone is the language this project is dedicated to, because this project is about learning the Cyclone programming language. It only makes sense to Cyclone the official language for this project. It is getting its own project language file, starting here.\n");
+
+// File info
+// File type: Cyclone source file (*.cyc)
+// File version: 1 (2022, Sunday, October 9th at 9:47 pm PST)
+// Line count (including blank lines and compiler line): 19
+
+// End of script
