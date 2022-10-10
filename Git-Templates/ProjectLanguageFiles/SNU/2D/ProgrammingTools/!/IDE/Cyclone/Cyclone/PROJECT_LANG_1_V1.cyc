@@ -1,0 +1,18 @@
+// Start of script
+
+// Project language file 1
+// For: SNU/2D/ProgrammingTools/IDE/Cyclone
+// About:
+// I decided to make Cyclone the main project language file for this project (SNU / 2D / Programming Tools / IDE / Cyclone) as this is a Cyclone IDE, and it needs its main language to be represented here.
+
+printf("Project language file 1\n");
+printf("For: SNU/2D/ProgrammingTools/IDE/Cyclone\n");
+printf("About:\n");
+printf("I decided to make Cyclone the main project language file for this project (SNU / 2D / Programming Tools / IDE / Cyclone) as this is a Cyclone IDE, and it needs its main language to be represented here.\n");
+
+// File info
+// File type: Cyclone source file (*.cyc)
+// File version: 1 (2022, Sunday, October 9th at 9:52 pm PST)
+// Line count (including blank lines and compiler line): 19
+
+// End of script
