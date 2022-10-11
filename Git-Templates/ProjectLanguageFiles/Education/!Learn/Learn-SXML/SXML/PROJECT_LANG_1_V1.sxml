@@ -1,0 +1,18 @@
+; Start of script
+
+; Project language file 1
+; For: seanpm2001/Learn-SXML
+; About:
+; I decided to make SXML the main project language file for this project (Seanpm2001/Learn-SXML) as SXML is the language this project is dedicated to, because this project is about learning the SXML programming language. It only makes sense to SXML the official language for this project. It is getting its own project language file, starting here.
+
+(tag (@ (attr1="Project language file 1")))
+(tag (@ (attr2="For: seanpm2001/Learn-SXML")))
+(tag (@ (attr3="About:")))
+(tag (@ (attr4="I decided to make SXML the main project language file for this project (Seanpm2001/Learn-SXML) as SXML is the language this project is dedicated to, because this project is about learning the SXML programming language. It only makes sense to SXML the official language for this project. It is getting its own project language file, starting here.")))
+
+; File info
+; File type: SXML source file (*.sxml)
+; File version: 1 (2022, Monday, October 10th at 8:35 pm PST)
+; Line count (including blank lines and compiler line): 19
+
+; End of script
