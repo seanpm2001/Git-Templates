@@ -1,0 +1,18 @@
+; Start of script
+
+; Project language file 1
+; For: SNU/2D/ProgrammingTools/IDE/SXML
+; About:
+; I decided to make SXML the main project language file for this project (SNU / 2D / Programming Tools / IDE / SXML) as this is a SXML IDE, and it needs its main language to be represented here.
+
+(tag (@ (attr1="Project language file 1")))
+(tag (@ (attr2="For: SNU/2D/ProgrammingTools/IDE/SXML")))
+(tag (@ (attr3="About:")))
+(tag (@ (attr4="I decided to make SXML the main project language file for this project (SNU / 2D / Programming Tools / IDE / SXML) as this is a SXML IDE, and it needs its main language to be represented here.")))
+
+; File info
+; File type: SXML source file (*.sxml)
+; File version: 1 (2022, Monday, October 10th at 8:40 pm PST)
+; Line count (including blank lines and compiler line): 19
+
+; End of script
