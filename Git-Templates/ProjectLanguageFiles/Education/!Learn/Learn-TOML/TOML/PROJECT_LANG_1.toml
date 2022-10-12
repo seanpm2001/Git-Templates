@@ -1,0 +1,26 @@
+# Start of script
+
+[meta]
+title = "Project language file 1"
+repo = "https://github.com/seanpm2001/Learn-TOML/"
+isFork = false
+isSource = true
+homeProjectRepo = "https://github.com/seanpm2001/Learn/"
+language = "English (US)"
+
+[file owner]
+name = "Sean Patrick Myrick"
+dob = 2001-03-21T00:00:00-08:00 # First class dates
+
+[project language file info]
+title = "Project language file 1"
+subtitle = "For: seanpm2001/Learn-TOML"
+subheading = "About:"
+description = "I decided to make TOML the main project language file for this project (Seanpm2001/Learn-TOML) as TOML is the language this project is dedicated to, because this project is about learning the TOML programming language. It only makes sense to TOML the official language for this project. It is getting its own project language file, starting here."
+
+[file info]
+fileType = "TOML Document (*.toml)"
+fileVersion = "1 (2022, Tuesday, October 11th at 9:31 pm PST)"
+lineCount = "(including blank lines and compiler line): 27"
+
+# End of script
