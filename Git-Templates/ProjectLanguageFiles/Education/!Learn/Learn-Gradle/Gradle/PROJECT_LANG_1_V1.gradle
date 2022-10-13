@@ -1,0 +1,32 @@
+// Start of script \\
+
+/* Project language file 1 */
+// Need some liquid, as this is very DRY
+
+titleStr("Title") {
+	description = "Project language file 1
+}
+subtitleStr("Subtitle") {
+	description = "For: seanpm2001/Learn-Gradle"
+}
+aboutStr("About") {
+	description = "About:"
+}
+descriptionStr("Description") {
+	description = "I decided to make Gradle the main project language file for this project (Seanpm2001/Learn-Gradle) as Gradle is the language this project is dedicated to, because this project is about learning the Gradle programming language. It only makes sense to Gradle the official language for this project. It is getting its own project language file, starting here."
+}
+
+/* Output */
+
+// Project language file 1
+// For: seanpm2001/Learn-Gradle
+// About:
+// I decided to make Gradle the main project language file for this project (Seanpm2001/Learn-Gradle) as Gradle is the language this project is dedicated to, because this project is about learning the Gradle programming language. It only makes sense to Gradle the official language for this project. It is getting its own project language file, starting here.
+
+/* File info */
+
+// File type: Gradle source file (*.gradle)
+// File version: 1 (2022, Wednesday, October 12th at 10:04 pm PST)
+// Line count (including blank lines and compiler line): 33
+
+// End of script \\
