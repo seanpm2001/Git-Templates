@@ -1,0 +1,17 @@
+name: "Project language file 1"
+# Start of script
+
+# Notes
+# I don't know how to make strings very well in CSON, so comments will do for now
+
+# Project language file 1
+# For: seanpm2001/Learn-CSON
+# About:
+# I decided to make CSON the main project language file for this project (Seanpm2001/Learn-CSON) as CSON is the language this project is dedicated to, because this project is about learning the CSON programming language. It only makes sense to make CSON the official language for this project. It is getting its own project language file, starting here.
+
+# File info
+# File type: CSON source file (*.cson)
+# File version: 1 (2022, Thursday, October 13th at 8:15 pm PST)
+# Line count (including blank lines and compiler line): 18
+
+# End of script
