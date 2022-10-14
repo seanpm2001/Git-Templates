@@ -1,0 +1,18 @@
+/* Start of script */
+
+/* Project language file 1 */
+/* For: SNU/2D/ProgrammingTools/IDE/Maxima */
+/* About: */
+/* I decided to make Maxima the main project language file for this project (SNU / 2D / Programming Tools / IDE / Maxima) as this is a Maxima IDE, and it needs its main language to be represented here. */
+
+string "Project language file 1"
+string "For: SNU/2D/ProgrammingTools/IDE/Maxima"
+string "About: "
+string "I decided to make Maxima the main project language file for this project (SNU / 2D / Programming Tools / IDE / Maxima) as this is a Maxima IDE, and it needs its main language to be represented here."
+
+/* File info */
+/* File type: Maxima source file (*.mac) */
+/* File version: 1 (2022, Thursday, October 13th at 8:31 pm PST) */
+/* Line count (including blank lines and compiler line): 19 */
+
+/* End of script */
