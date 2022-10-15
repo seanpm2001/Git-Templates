@@ -1,0 +1,18 @@
+; Start of script
+
+; Project language file 1
+; For: SNU/2D/ProgrammingTools/IDE/ABNF
+; About:
+; I decided to make ABNF the main project language file for this project (SNU / 2D / Programming Tools / IDE / ABNF) as this is a ABNF IDE, and it needs its main language to be represented here.
+
+field-content   = <Project language file 1
+                  For: SNU/2D/ProgrammingTools/IDE/ABNF
+                  About:
+                  I decided to make ABNF the main project language file for this project (SNU / 2D / Programming Tools / IDE / ABNF) as this is a ABNF IDE, and it needs its main language to be represented here.>
+
+; File info
+; File type: ABNF source file (*.abnf)
+; File version: 1 (2022, Friday, October 14th at 8:57 pm PST)
+; Line count (including blank lines and compiler line): 19
+
+; End of script
