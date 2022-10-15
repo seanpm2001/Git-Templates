@@ -1,0 +1,16 @@
+# Start of script
+
+# Notes
+# I don't know how to make strings in PowerFX, so comments will do for now
+
+# Project language file 1
+# For: SNU/2D/ProgrammingTools/IDE/PowerFX
+# About:
+# I decided to make PowerFX the main project language file for this project (SNU / 2D / Programming Tools / IDE / PowerFX) as this is a PowerFX IDE, and it needs its main language to be represented here.
+
+# File info
+# File type: PowerFX source file (*.fx.yml *.fx.yaml)
+# File version: 1 (2022, Friday, October 14th at 8:45 pm PST)
+# Line count (including blank lines and compiler line): 17
+
+# End of script
