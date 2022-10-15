@@ -1,0 +1,27 @@
+.ds Start of script
+
+.ds Notes
+
+.ds Strings in RUNOFF are identical to strings in Java
+
+.ds Project language file 1
+
+.in Project language file 1
+.in For: seanpm2001/Learn-RUNOFF
+.in About:
+.in I decided to make RUNOFF the main project language file for this project (Seanpm2001/Learn-RUNOFF) as RUNOFF is the language this project is dedicated to, because this project is about learning the RUNOFF programming language. It only makes sense to make RUNOFF the official language for this project. It is getting its own project language file, starting here.
+
+.ds Output
+
+.ds Project language file 1
+.ds For: seanpm2001/Learn-RUNOFF
+.ds About:
+.ds I decided to make RUNOFF the main project language file for this project (Seanpm2001/Learn-RUNOFF) as RUNOFF is the language this project is dedicated to, because this project is about learning the RUNOFF programming language. It only makes sense to make RUNOFF the official language for this project. It is getting its own project language file, starting here.
+
+.ds File info
+
+.ds File type: RUNOFF source file (*.nroff)
+.ds File version: 1 (2022, Friday, October 14th at 8:27 pm PST)
+.ds Line count (including blank lines and compiler line): 28
+
+.ds End of script
