@@ -1,0 +1,23 @@
+.ds Start of script
+
+.ds Project language file 1
+
+.in Project language file 1
+.in For: SNU/2D/ProgrammingTools/IDE/RUNOFF
+.in About:
+.in I decided to make RUNOFF the main project language file for this project (SNU / 2D / Programming Tools / IDE / RUNOFF) as this is a RUNOFF IDE, and it needs its main language to be represented here.
+
+.ds Output
+
+.ds Project language file 1
+.ds For: SNU/2D/ProgrammingTools/IDE/RUNOFF
+.ds About:
+.ds I decided to make RUNOFF the main project language file for this project (SNU / 2D / Programming Tools / IDE / RUNOFF) as this is a RUNOFF IDE, and it needs its main language to be represented here.
+
+.ds File info
+
+.ds File type: RUNOFF source file (*.nroff)
+.ds File version: 1 (2022, Friday, October 14th at 8:33 pm PST)
+.ds Line count (including blank lines and compiler line): 24
+
+.ds End of script
