@@ -1,0 +1,16 @@
+
+-----
+
+** Project language file 1
+*** For: seanpm2001/Learn-OrgMode
+**** About:
+~I decided to make ABAP-CDS the main project language file for this project (SNU / 2D / Programming Tools / IDE / ABAP-CDS) as this is a ABAP-CDS IDE, and it needs its main language to be represented here.~
+
+*** File info
+*File type:* ~Org source file (*.org)~
+
+*File version:* ~1 (2022, Saturday, October 15th at 10:40 pm PST)~
+
+*Line count (including blank lines and compiler line):* ~17~
+
+-----
