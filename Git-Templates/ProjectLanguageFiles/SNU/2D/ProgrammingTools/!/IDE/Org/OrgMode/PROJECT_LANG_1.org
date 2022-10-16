@@ -1,0 +1,16 @@
+
+-----
+
+** Project language file 1
+*** For: SNU/2D/ProgrammingTools/IDE/OrgMode
+**** About:
+~I decided to make Org the main project language file for this project (SNU / 2D / Programming Tools / IDE / Org) as this is a Org IDE, and it needs its main language to be represented here.~
+
+*** File info
+*File type:* ~Org source file (*.org)~
+
+*File version:* ~1 (2022, Saturday, October 15th at 10:44 pm PST)~
+
+*Line count (including blank lines and compiler line):* ~17~
+
+-----
