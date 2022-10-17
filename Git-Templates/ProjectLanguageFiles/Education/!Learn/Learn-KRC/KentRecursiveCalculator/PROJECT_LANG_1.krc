@@ -1,0 +1,17 @@
+#! /usr/bin/krc -e main!
+|| Start of script
+
+|| Notes
+|| I don't know how to make strings in KRC, so comments will do for now
+
+|| Project language file 1
+|| For: seanpm2001/Learn-KRC
+|| About:
+|| I decided to make Kent Recursive Calculator (KRC) the main project language file for this project (Seanpm2001/Learn-KRC) as KRC is the language this project is dedicated to, because this project is about learning the KRC programming language. It only makes sense to make KRC the official language for this project. It is getting its own project language file, starting here.
+
+|| File info
+|| File type: Kent Recursive Calculator source file (*.krc) note: the KRC extension was added afterwards, as the language itself doesn't use a file extension, it uses this shebang: #! /usr/bin/krc -e main!
+|| File version: 1 (2022, Monday, October 17th at 3:08 pm PST)
+|| Line count (including blank lines and compiler line): 18
+
+|| End of script
