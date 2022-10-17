@@ -1,0 +1,19 @@
+; Start of script
+
+; Project language file 1
+; For: /SNU/2D/ProgrammingTools/IDE/WindowsRegistry/
+; About:
+; I decided to make Windows Registry Entry the main project language file for this project (SNU / 2D / Programming Tools / IDE / WindowsRegistry) as this is a Windows Registry IDE, and it needs its main language to be represented here.
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\PLANG1]
+"TITLE"=<String>:<"Project language file 1">
+"SUBTITLE"=<String>:<"For: /SNU/2D/ProgrammingTools/IDE/WindowsRegistry/">
+"ABOUT"=<String>:<"About:">
+"DESCRIPTION"=<String>:<"I decided to make Windows Registry Entry the main project language file for this project (SNU / 2D / Programming Tools / IDE / WindowsRegistry) as this is a Windows Registry IDE, and it needs its main language to be represented here.">
+
+; File info
+; File type: Windows Registry Entry source file (*.REG)
+; File version: 1 (2022, Sunday, October 16th at 9:02 pm PST)
+; Line count (including blank lines and compiler line): 20
+
+; End of script
