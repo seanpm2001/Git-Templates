@@ -1,0 +1,17 @@
+#! /usr/bin/krc -e main!
+|| Start of script
+
+|| Notes
+|| I don't know how to make strings in KRC, so comments will do for now
+
+|| Project language file 1
+|| For: /SNU/2D/ProgrammingTools/IDE/KRC/
+|| About:
+|| I decided to make Kent Recursive Calculator (KRC) the main project language file for this project (SNU / 2D / Programming Tools / IDE / KRC) as this is a KRC IDE, and it needs its main language to be represented here.
+
+|| File info
+|| File type: Kent Recursive Calculator source file (*.krc) note: the KRC extension was added afterwards, as the language itself doesn't use a file extension, it uses this shebang: #! /usr/bin/krc -e main!
+|| File version: 1 (2022, Monday, October 17th at 3:11 pm PST)
+|| Line count (including blank lines and compiler line): 18
+
+|| End of script
