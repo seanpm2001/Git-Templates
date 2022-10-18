@@ -1,0 +1,16 @@
+
+== Project language file 1
+
+=== For: /SNU/2D/ProgrammingTools/IDE/RDoc/
+
+==== About:
+
+I decided to make RDoc the main project language file for this project (SNU / 2D / Programming Tools / IDE / RDoc) as this is a RDoc IDE, and it needs its main language to be represented here.
+
+==== File info
+
+File type: Ruby Doc (RDoc) source file (*.rdoc)
+
+File version: 1 (2022, Monday, October 17th at 8:45 pm PST)
+
+Line count (including blank lines and compiler line): 17
