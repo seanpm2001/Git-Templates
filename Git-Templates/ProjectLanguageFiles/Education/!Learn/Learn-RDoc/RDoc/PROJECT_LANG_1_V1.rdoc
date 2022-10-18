@@ -1,0 +1,16 @@
+
+== Project language file 1
+
+=== For: seanpm2001/Learn-RDoc
+
+==== About:
+
+I decided to make RDoc the main project language file for this project (Seanpm2001/Learn-RDoc) as RDoc is the language this project is dedicated to, because this project is about learning the RDoc programming language. It only makes sense to make RDoc the official language for this project. It is getting its own project language file, starting here.
+
+==== File info
+
+File type: Ruby Doc (RDoc) source file (*.rdoc)
+
+File version: 1 (2022, Monday, October 17th at 8:40 pm PST)
+
+Line count (including blank lines and compiler line): 17
