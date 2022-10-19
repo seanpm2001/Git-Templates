@@ -1,0 +1,27 @@
+<!-- Start of script !-->
+<!-- H1, H2, H3, H4, H5, H6 !-->
+<!-- XML Sample file !-->
+<title1="Project language file 1 - /SNU/2D/ProgrammingTools/IDE/XML/"></title1>
+<bodyMain>
+<titlemeta="Project language file 1"></titlemeta>
+<projectDi>For: /SNU/2D/ProgrammingTools/IDE/XML/</projectDi>
+<description>I decided to make XML the main project language file for this project (SNU / 2D / Programming Tools / IDE / XML) as this is a XML IDE, and it needs its main language to be represented here.</description>
+</bodyMain>
+<!-- Divider !-->
+<fileInfo>
+	<fileVerCurrent="Version 1 (2022, Tuesday October 18th at 9:14 pm PST)"></fileVerCurrent>
+	<fileVerFirst="Version 1 (2022, Tuesday October 18th at 9:14 pm PST)"></fileVerFirst>
+	<fileType="XML"></fileType><!-- Obvious, but the compiler may need it !-->
+	<lineCount>
+    <includingblanklinesandcompilerline>
+    28 lines
+    </includingblanklinesandcompilerline>
+    <notIncludingCompilerLine<>
+    27 lines
+    </notIncludingCompilerLine>
+  </lineCount>
+	<encoding1="UTF-8"></encoding1>
+	<indenting="Unix (LF)"></indenting>
+	<size1="Undetermined">SIZE</size1>
+</fileInfo>
+<!-- End of script !-->
