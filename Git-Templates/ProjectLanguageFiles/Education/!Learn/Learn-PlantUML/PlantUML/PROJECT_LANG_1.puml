@@ -1,0 +1,18 @@
+'' Start of script
+
+'' Project language file 1
+'' For: seanpm2001/Learn-PlantUML
+'' About:
+'' I decided to make PlantUML the main project language file for this project (Seanpm2001/Learn-PlantUML) as PlantUML is the language this project is dedicated to, because this project is about learning the PlantUML programming language. It only makes sense to PlantUML the official language for this project. It is getting its own project language file, starting here.
+
+this.Text = "Project language file 1";
+this.Text = "For: seanpm2001/Learn-PlantUML";
+this.Text = "About:";
+this.Text = "I decided to make PlantUML the main project language file for this project (Seanpm2001/Learn-PlantUML) as PlantUML is the language this project is dedicated to, because this project is about learning the PlantUML programming language. It only makes sense to PlantUML the official language for this project. It is getting its own project language file, starting here.";
+
+'' File info
+'' File type: PlantUML source file (*.puml)
+'' File version: 1 (2022, Tuesday, October 18th at 11:46 pm PST)
+'' Line count (including blank lines and compiler line): 19
+
+'' End of script
