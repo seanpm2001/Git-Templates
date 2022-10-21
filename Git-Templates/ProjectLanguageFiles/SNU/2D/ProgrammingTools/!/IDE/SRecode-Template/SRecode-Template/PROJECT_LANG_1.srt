@@ -1,0 +1,23 @@
+; Start of script
+
+; Project language file 1
+
+"Project language file 1"
+"For: /SNU/2D/ProgrammingTools/IDE/S-RECODE-Template/"
+"About:"
+"I decided to make SRecode Template the main project language file for this project (SNU / 2D / Programming Tools / IDE / SRecode Template) as this is a SRecode Template IDE, and it needs its main language to be represented here."
+
+; Output
+
+; Project language file 1
+; For: /SNU/2D/ProgrammingTools/IDE/S-RECODE-Template/
+; About:
+; I decided to make SRecode Template the main project language file for this project (SNU / 2D / Programming Tools / IDE / SRecode Template) as this is a SRecode Template IDE, and it needs its main language to be represented here.
+
+; File info
+
+; File type: SRecode Template source file (*.srt)
+; File version: 1 (2022, Thursday, October 20th at 9:16 pm PST)
+; Line count (including blank lines and compiler line): 24
+
+; End of script
