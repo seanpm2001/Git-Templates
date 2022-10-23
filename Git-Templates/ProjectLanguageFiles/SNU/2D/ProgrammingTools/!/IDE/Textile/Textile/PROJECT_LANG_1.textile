@@ -1,0 +1,15 @@
+.h1 Project language file 1
+
+.h2 For: /SNU/2D/ProgrammingTools/Textile/
+
+.h3 About:
+
+I decided to make Textile the main project language file for this project (SNU / 2D / Programming Tools / IDE / Textile) as this is a Textile IDE, and it needs its main language to be represented here.
+
+.h1 File info
+
+.h2 File type: Textile source file (*.textile)
+
+.h2 File version: 1 (2022, Thursday, September 22nd at 11:06 pm PST)
+
+.h2 Line count (including blank lines and compiler line): 16
