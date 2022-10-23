@@ -1,0 +1,15 @@
+.h1 Project language file 1
+
+.h2 For: seanpm2001/Learn-Textile
+
+.h3 About:
+
+I decided to make Textile the main project language file for this project (Seanpm2001/Learn-Textile) as Textile is the language this project is dedicated to, because this project is about learning the Textile programming language. It only makes sense to Textile the official language for this project. It is getting its own project language file, starting here.
+
+.h1 File info
+
+.h2 File type: Textile source file (*.textile)
+
+.h2 File version: 1 (2022, Thursday, September 22nd at 11:01 pm PST)
+
+.h2 Line count (including blank lines and compiler line): 16
