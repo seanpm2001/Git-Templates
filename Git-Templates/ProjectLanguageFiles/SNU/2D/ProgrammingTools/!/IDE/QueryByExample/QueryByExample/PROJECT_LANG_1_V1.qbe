@@ -1,0 +1,8 @@
+.....Heading: Project language file 1
+..Subheading: For: /SNU/2D/ProgrammingTools/IDE/QueryByExample/
+..SubHeadi02: About:
+..SubHeadi03: I decided to make QueryByExample the main project language file for this project (SNU / 2D / Programming Tools / IDE / QueryByExample) as this is a QueryByExample IDE, and it needs its main language to be represented here.
+.....FileInf: File info
+..IsFileType: File type: QueryByExample source file (*.qbs)
+..FileVersio: File version: 1 (2022, Saturday, October 22nd at 11:28 pm PST)
+..LineCount1: Line count (including blank lines and compiler line): 9
