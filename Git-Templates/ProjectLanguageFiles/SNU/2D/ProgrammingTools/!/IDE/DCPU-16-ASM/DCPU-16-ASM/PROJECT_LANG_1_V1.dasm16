@@ -1,0 +1,19 @@
+; Start of script
+
+; Project language file 1
+; For: /SNU/2D/ProgrammingTools/IDE/DCPU-16-ASM/
+; About:
+; I decided to make DCPU-16-ASM the main project language file for this project (SNU / 2D / Programming Tools / IDE / DCPU-16-ASM) as this is a DCPU-16-ASM IDE, and it needs its main language to be represented here.
+
+:text
+    dat "Project language file 1", 3
+    dat "For: /SNU/2D/ProgrammingTools/IDE/DCPU-16-ASM/", 2
+    dat "About:", 1
+    dat "I decided to make DCPU-16-ASM the main project language file for this project (SNU / 2D / Programming Tools / IDE / DCPU-16-ASM) as this is a DCPU-16-ASM IDE, and it needs its main language to be represented here.", 0
+    
+; File info
+; File type: DCPU-16-ASM source file (*.dasm16)
+; File version: 1 (2022, Monday, October 24th at 11:43 pm PST)
+; Line count (including blank lines and compiler line): 20
+
+; End of script
