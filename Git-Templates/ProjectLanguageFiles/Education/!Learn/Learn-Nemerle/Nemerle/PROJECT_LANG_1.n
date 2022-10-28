@@ -1,0 +1,20 @@
+// Start of script
+
+/* Project language file 1
+* For: seanpm2001/Learn-Nemerle
+* About:
+* I decided to make Nemerle the main project language file for this project (Seanpm2001/Learn-Nemerle) as Nemerle is the language this project is dedicated to, because this project is about learning the Nemerle programming language. It only makes sense to Nemerle the official language for this project. It is getting its own project language file, starting here.
+*/
+
+System.Console.WriteLine ("Project language file 1");
+System.Console.WriteLine ("For: seanpm2001/Learn-Nemerle");
+System.Console.WriteLine ("About:");
+System.Console.WriteLine ("I decided to make Nemerle the main project language file for this project (Seanpm2001/Learn-Nemerle) as Nemerle is the language this project is dedicated to, because this project is about learning the Nemerle programming language. It only makes sense to Nemerle the official language for this project. It is getting its own project language file, starting here.");
+
+/** File info
+* File type: Nemerle source file (*.n)
+* File version: 1 (2022, Thursday, October 27th at 9:38 pm PST)
+* Line count (including blank lines and compiler line): 21
+*/
+
+// End of script
