@@ -1,0 +1,21 @@
+# Start of script
+
+# Note
+# Seanpm2001 is added to the language name due to the possibility of an existing Matrix language
+
+# Project language file 1
+# For: /SNU/2D/ProgrammingTools/IDE/Seanpm2001_Matrix/
+# About:
+# I decided to make Matrix the main project language file for this project (SNU / 2D / Programming Tools / IDE / Matrix) as this is a Matrix IDE, and it needs its main language to be represented here.
+
+print("Project language file 1")
+print("For: /SNU/2D/ProgrammingTools/IDE/Seanpm2001_Matrix/")
+print("About:")
+print("I decided to make Matrix the main project language file for this project (SNU / 2D / Programming Tools / IDE / Matrix) as this is a Matrix IDE, and it needs its main language to be represented here.")
+
+# File info
+# File type: (seanpm2001) Matrix source file (*.scmatrix)
+# File version: 1 (2022, Friday, October 28th at 11:11 pm PST)
+# Line count (including blank lines and compiler line): 22
+
+# End of script
