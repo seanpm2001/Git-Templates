@@ -1,0 +1,17 @@
+--URLL-version=2;
+-- Start of script
+-- Project language file 1
+-- For: /SNU/2D/ProgrammingTools/IDE/URLL/
+-- About:
+-- I decided to make URLL the main project language file for this project (SNU / 2D / Programming Tools / IDE / URLL) as this is a URLL IDE, and it needs its main language to be represented here.
+
+-- Links
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_URLL/
+https://github.com/seanpm2001/URLL-Specification/
+
+-- File info
+-- File type: URLL source file (*.urll)
+-- File version: 1 (2022, Friday, October 28th at 11:22 pm PST)
+-- Line count (including blank lines and compiler line): 18
+
+-- End of script
