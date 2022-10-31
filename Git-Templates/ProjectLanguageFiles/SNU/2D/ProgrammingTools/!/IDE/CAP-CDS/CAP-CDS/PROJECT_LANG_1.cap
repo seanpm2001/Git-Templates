@@ -1,0 +1,16 @@
+; Start of script
+
+; Notes
+; I don't know how to make strings or comments in CAP-CDS, so comments will do for now, although the comments are a hard guess.
+
+; Project language file 1
+; For: /SN/2D/ProgrammingTools/IDE/CAP-CDS/
+; About:
+; I decided to make CAP-CDS the main project language file for this project (SNU / 2D / Programming Tools / IDE / CAP-CDS) as this is a CAP-CDS IDE, and it needs its main language to be represented here.
+
+; File info
+; File type: CAP-CDS source file (*.cap) (this is also a guess)
+; File version: 1 (2022, Sunday, October 30th at 11:33 pm PST)
+; Line count (including blank lines and compiler line): 17
+
+; End of script
