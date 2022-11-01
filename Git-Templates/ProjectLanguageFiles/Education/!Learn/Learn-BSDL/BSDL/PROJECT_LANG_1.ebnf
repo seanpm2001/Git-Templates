@@ -1,0 +1,20 @@
+(* Start of script *)
+
+(* Project language file 1
+For: seanpm2001/Learn-BSDL
+About:
+I decided to make BSDL the main project language file for this project (Seanpm2001/Learn-BSDL) as BSDL is the language this project is dedicated to, because this project is about learning the BSDL programming language. It only makes sense to BSDL the official language for this project. It is getting its own project language file, starting here.
+*)
+
+"Project language file 1"
+"For: seanpm2001/Learn-BSDL"
+"About:"
+I decided to make BSDL the main project language file for this project (Seanpm2001/Learn-BSDL) as BSDL is the language this project is dedicated to, because this project is about learning the BSDL programming language. It only makes sense to BSDL the official language for this project. It is getting its own project language file, starting here."
+
+(* File info
+File type: BSDL source file (*.ebnf)
+File version: 1 (2022, Monday, October 31st at 11:30 pm PST)
+Line count (including blank lines and compiler line): 21
+*)
+
+(* End of script *)
