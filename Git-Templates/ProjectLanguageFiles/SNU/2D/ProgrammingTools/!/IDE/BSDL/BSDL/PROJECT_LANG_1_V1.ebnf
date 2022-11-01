@@ -1,0 +1,20 @@
+(* Start of script *)
+
+(* Project language file 1
+For: /SNU/2D/ProgrammingTools/IDE/BSDL/
+About:
+I decided to make BSDL the main project language file for this project (SNU / 2D / Programming Tools / IDE / BSDL) as this is a BSDL IDE, and it needs its main language to be represented here.
+*)
+
+"Project language file 1"
+"For: /SNU/2D/ProgrammingTools/IDE/BSDL/"
+"About:"
+"I decided to make BSDL the main project language file for this project (SNU / 2D / Programming Tools / IDE / BSDL) as this is a BSDL IDE, and it needs its main language to be represented here."
+
+(* File info
+File type: BSDL source file (*.ebnf)
+File version: 1 (2022, Monday, October 31st at 11:35 pm PST)
+Line count (including blank lines and compiler line): 21
+*)
+
+(* End of script *)
