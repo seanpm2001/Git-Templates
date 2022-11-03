@@ -1,0 +1,16 @@
+/* Start of script */
+
+/* Project language file 1 */
+/* For: seanpm2001/Learn-Graphviz-DOT */
+/* About: */
+/* I decided to make Graphviz (DOT) the main project language file for this project (Seanpm2001/Learn-Graphviz-DOT) as Graphviz (DOT) is the language this project is dedicated to, because this project is about learning the Graphviz (DOT) programming language. It only makes sense to Graphviz (DOT) the official language for this project. It is getting its own project language file, starting here. */
+
+"Title" -> "Project language file 1"
+"Subtitle" -> "For: seanpm2001/Learn-Graphviz-DOT"
+"Abt" -> "About:"
+"Description" -> "I decided to make Graphviz (DOT) the main project language file for this project (Seanpm2001/Learn-Graphviz-DOT) as Graphviz (DOT) is the language this project is dedicated to, because this project is about learning the Graphviz (DOT) programming language. It only makes sense to Graphviz (DOT) the official language for this project. It is getting its own project language file, starting here."
+
+/* File info */
+/* File type: Graphviz (DOT) source file (*.gv *.dot) */
+/* File version: 1 (2022, Wednesday, November 2nd at 11:48 pm PST) */
+/* Line count (including blank lines and compiler line): 17 */
