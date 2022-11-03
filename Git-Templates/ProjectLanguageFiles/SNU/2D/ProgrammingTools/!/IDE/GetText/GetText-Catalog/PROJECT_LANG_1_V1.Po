@@ -1,0 +1,18 @@
+#, Start of script
+
+#, Project language file 1
+#, For: /SNU/2D/ProgrammingTools/IDE/GetText/
+#, About:
+#, I decided to make GetText the main project language file for this project (SNU / 2D / Programming Tools / IDE / GetText) as this is a GetText IDE, and it needs its main language to be represented here.
+
+printf(_("Project language file 1"), str1);
+printf(_("For: /SNU/2D/ProgrammingTools/IDE/GetText/"), str2);
+printf(_("About:"), str3);
+printf(_("I decided to make GetText the main project language file for this project (SNU / 2D / Programming Tools / IDE / GetText) as this is a GetText IDE, and it needs its main language to be represented here."), str4);
+
+#, File info
+#, File type: GetText source file (*.Po)
+#, File version: 1 (2022, Wednesday, November 2nd at 11:41 pm PST)
+#, Line count (including blank lines and compiler line): 19
+
+#, End of script
