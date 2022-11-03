@@ -1,0 +1,18 @@
+#, Start of script
+
+#, Project language file 1
+#, For: seanpm2001/Learn-GetText
+#, About:
+#, I decided to make GetText the main project language file for this project (Seanpm2001/Learn-GetText) as GetText is the language this project is dedicated to, because this project is about learning the GetText programming language. It only makes sense to GetText the official language for this project. It is getting its own project language file, starting here.
+
+printf(_("Project language file 1"), str1);
+printf(_("For: seanpm2001/Learn-GetText"), str2);
+printf(_("About:"), str3);
+printf(_("I decided to make GetText the main project language file for this project (Seanpm2001/Learn-GetText) as GetText is the language this project is dedicated to, because this project is about learning the GetText programming language. It only makes sense to GetText the official language for this project. It is getting its own project language file, starting here."), str4);
+
+#, File info
+#, File type: GetText source file (*.Po)
+#, File version: 1 (2022, Wednesday, November 2nd at 11:37 pm PST)
+#, Line count (including blank lines and compiler line): 19
+
+#, End of script
