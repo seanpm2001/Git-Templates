@@ -1,0 +1,16 @@
+:co Start of script
+
+:co Notes
+:co I don't know how to make strings in Intel Hex Binary (or comments for that matter) so comments will do for now, although they are likely not correct
+
+:co Project language file 1
+:co For: /SNU/2D/ProgrammingTools/IDE/IntelHexBinary/
+:co About:
+:co I decided to make Intel Hex Binary the main project language file for this project (SNU / 2D / Programming Tools / IDE / IntelHexBinary) as this is a Intel HexB inary IDE, and it needs its main language to be represented here.
+
+:co File info
+:co File type: Intel Hex Binary source file (*.hex)
+:co File version: 1 (2022, Thursday, November 3rd at 11:25 pm PST)
+:co Line count (including blank lines and compiler line): 17
+
+:co End of script
