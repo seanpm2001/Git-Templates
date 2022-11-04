@@ -1,0 +1,16 @@
+:co Start of script
+
+:co Notes
+:co I don't know how to make strings in Intel Hex Binary (or comments for that matter) so comments will do for now, although they are likely not correct
+
+:co Project language file 1
+:co For: seanpm2001/Learn-IntelHexBinary
+:co About:
+:co I decided to make Intel Hex Binary the main project language file for this project (Seanpm2001/Learn-IntelHexBinary) as Intel Hex Binary is the language this project is dedicated to, because this project is about learning the Intel Hex Binary programming language. It only makes sense to Intel Hex Binary the official language for this project. It is getting its own project language file, starting here.
+
+:co File info
+:co File type: Intel Hex Binary source file (*.hex)
+:co File version: 1 (2022, Thursday, November 3rd at 11:18 pm PST)
+:co Line count (including blank lines and compiler line): 17
+
+:co End of script
