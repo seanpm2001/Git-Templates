@@ -1,0 +1,22 @@
+( Start of script )
+
+( Project language file 1 )
+( For: /SNU/2D/ProgrammingTools/IDE/Refal/ )
+( About: )
+( I decided to make Refal the main project language file for this project (SNU / 2D / Programming Tools / IDE / Refal) as this is a Refal IDE, and it needs its main language to be represented here. )
+
+module main;
+$ENTRY Go { = <StrTest>;}
+StrTest {
+   = <Prout 'Project language file 1'>;
+   = <Prout 'For: /SNU/2D/ProgrammingTools/IDE/Refal/'>;
+   = <Prout 'About:'>;
+   = <Prout 'I decided to make Refal the main project language file for this project (SNU / 2D / Programming Tools / IDE / Refal) as this is a Refal IDE, and it needs its main language to be represented here.'>;
+}
+
+( File info )
+( File type: Refal source file [*.ref] )
+( File version: 1 [2022, Saturday, November 5th at 11:12 pm PST] )
+( Line count [including blank lines and compiler line]: 23 )
+
+( End of script )
