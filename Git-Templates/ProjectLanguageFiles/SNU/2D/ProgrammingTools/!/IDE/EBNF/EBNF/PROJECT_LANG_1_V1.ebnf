@@ -1,0 +1,25 @@
+<?xqlint
+/* Start of script */
+
+/* Project language file 1
+* For: /SNU/2D/ProgrammingTools/IDE/EBNF/
+* About:
+* I decided to make EBNF the main project language file for this project (SNU / 2D / Programming Tools / IDE / EBNF) as this is a EBNF IDE, and it needs its main language to be represented here.
+*/
+
+::= 'Project language file 1'
+::= 'For: /SNU/2D/ProgrammingTools/IDE/EBNF/'
+::= 'About:'
+::= 'I decided to make EBNF the main project language file for this project (SNU / 2D / Programming Tools / IDE / EBNF) as this is a EBNF IDE, and it needs its main language to be represented here.'
+
+/* File info
+* File type: EBNF source file (*.ebnf)
+* File version: 1 (2022, Thursday, November 10th at 10:50 pm PST)
+* Line count (including blank lines and compiler line): 26
+*/
+
+/* End of script */
+
+<?xqlint
+});
+?>
