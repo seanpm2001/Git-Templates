@@ -1,0 +1,16 @@
+HOW TO RETURN projectlanguagefile document:
+   PUT {"Project language file 1"} IN collection
+   PUT {"For: /SNU/2D/ProgrammingTools/IDE/ABC/"} IN collection
+   PUT {"About:"} IN collection
+   PUT {"I decided to make ABC the main project language file for this project (SNU / 2D / Programming Tools / IDE / ABC) as this is a ABC IDE, and it needs its main language to be represented here."} IN collection
+   FOR line IN document:
+      FOR word IN split line:
+         IF word not.in collection:
+            INSERT word IN collection
+         ELSE:
+            PUT {"File info"} IN collection
+            PUT {"File type: ABC source file (*.zpd)"} IN collection
+            PUT {"File version: 1 (2022, Saturday, November 12th at 6:55 pm PST)"} IN collection
+            PUT {"Line count (including blank lines and compiler line): 17"} IN collection
+   RETURN collection
+END
