@@ -1,0 +1,11 @@
+{
+	"projectLanguage": "2",
+	"projectLangHead": "For SNU/2D/ProgrammingTools/IDE/Blockly",
+	"projectLanHead2": "About:",
+	"projectLangBody": "I decided to make JSON the second project language for this project (SNU/2D/ProgrammingTools/IDE/Blockly) as this is a Blockly IDE, and JSON is its primary language for storing Blockly programs, while the main program is mostly written in JavaScript. It is getting its own project language file, starting here.",
+}[]{
+	"FileInfo": "Nil",
+	"FileType": "JSON source file (*.json)",
+	"FileVersion": "1 (2022, Thursday, November 17th at 10:38 pm PST)",
+	"LineCount": "Including blank lines and compiler line): 12",
+}
