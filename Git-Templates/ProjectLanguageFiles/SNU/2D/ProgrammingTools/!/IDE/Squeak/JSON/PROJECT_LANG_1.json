@@ -1,0 +1,16 @@
+{"Start of script"}
+
+{"Notes"}
+{"I don't have access to Squeak right now, so I am just writing JSON."}
+
+{"Project language file 1"}
+{"For: /SNU/2D/ProgrammingTools/IDE/Squeak/"}
+{"About:"}
+{"I decided to make Squeak the main project language file for this project (SNU / 2D / Programming Tools / IDE / Squeak) as this is a Squeak IDE, and it needs its main language to be represented here. Squeak programs are stored mostly in JSON format, so JSON is in use here. It is getting its own project language file, starting here."}
+
+{"File info"}
+{"File type: Squeak contents source file (*.json)"}
+{"File version: 1 (2022, Thursday, November 17th at 10:51 pm PST)"}
+{"Line count (including blank lines and compiler line): 17"}
+
+{"End of script"}
