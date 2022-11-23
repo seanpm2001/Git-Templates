@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Date: Tuesday, 2022 November 22nd
+Content-Type: text/html; charset=UTF-8
+Content-Length: 446
+Last-Modified: Tuesday, 2022 November 22nd at 18:51 PST
+Server: Apache/2.4.54 (Unix) (Debian/Linux)
+ETag:
+Accept-Ranges: bytes
+Connection: close
+
+<html>
+  <head>
+    <title>Project language file 1 - /SNU/2D/ProgrammingTools/IDE/HTTP/</title>
+  </head>
+  <body>
+    <H1>Project language file 1</H1>
+    <H2>For: /SNU/2D/ProgrammingTools/IDE/HTTP/</H2>
+    <H3>About:</H3>
+    <p>I decided to make HTTP the main project language file for this project (SNU / 2D / Programming Tools / IDE / HTTP) as this is a HTTP IDE, and it needs its main language to be represented here.</p>
+  </body>
+</html>
