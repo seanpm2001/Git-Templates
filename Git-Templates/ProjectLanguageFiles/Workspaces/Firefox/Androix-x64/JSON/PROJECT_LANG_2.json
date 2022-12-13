@@ -1,0 +1,11 @@
+{
+	"projectLanguage": "1",
+	"projectLangHead": "For: Android x64/Workspace/Firefox",
+	"projectLanHead2": "About:",
+	"projectLangBody": "I decided to make JSON the second project language file for this project (Android-x64_Workspace_Firefox) as JSON is the main language for bookmark data on this project, but comes second to HTML in terms of overall usage. It is getting its own project language file, starting here.",
+}[]{
+	"FileInfo": "Nil",
+	"FileType": "JSON source file (*.json)",
+	"FileVersion": "1 (2022, Tuesday, December 13th at 1:48 pm PST)",
+	"LineCount": "Including blank lines and compiler line): 12",
+}
