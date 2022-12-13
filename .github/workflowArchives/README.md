@@ -15,106 +15,60 @@ The current workflows are installed for SNU (2d) Programming Tools:
 
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
-38/50
+41/53
 
+- [x] Jekyll site (GitHub Pages)
+- [x] Jekyll GitHub Pages (GitHub Pages)
+- [x] Static HTML (GitHub Pages)
 - [ ] Docker image
-
 - [x] Gulp
-
 - [x] C/C++ with Make
-
 - [x] CMake Based Projects
-
 - [x] D
-
 - [x] Erlang
-
 - [x] Haskell
-
 - [x] Dart
-
 - [ ] iOS
-
 - [x] Scala
-
 - [x] Webpack
-
 - [x] Build projects with Make
-
 - [x] R
-
 - [x] Crystal
-
 - [x] Elixir
-
 - [x] xcode
-
 - [ ] Android CI
-
 - [x] Ada
-
 - [x] Clojure
-
 - [x] Rust
-
 - [x] Ruby
-
 - [ ] Ruby Gem
-
 - [ ] Rails - Install Dependencies and Run Linters
-
 - [x] PHP
-
 - [x] Symfony
-
 - [x] Django
-
 - [x] Swift
-
 - [ ] Publish Docker container
-
 - [x] .NET
-
 - [x] Java with Gradle
-
 - [x] .NET Desktop
-
 - [x] Python Package
-
 - [x] Node.js
-
 - [x] Deno
-
 - [ ] Node.js GitHub package
-
 - [ ] Node.js NPM package
-
 - [x] Superlinter
-
 - [x] Java with ANT
-
 - [x] Java with Maven
-
 - [x] Java package Gradle
-
 - [x] Pylint
-
 - [x] Python application
-
 - [ ] Python package publish
-
 - [x] Grunt
-
 - [x] MSBuild
-
 - [ ] Python package Anaconda
-
 - [ ] Publish Maven package
-
 - [x] Jekyll
-
 - [x] Go
-
 - [ ] Custom simple starter workflow
 
 </details>
@@ -135,9 +89,9 @@ None at the moment.
 
 **File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2021, Thursday, December 16th at 9:35 pm)`
+**File version:** `2 (2022, Monday, December 12th at 7:34 pm PST)`
 
-**Line count (including blank lines and compiler line):** `159`
+**Line count (including blank lines and compiler line):** `113`
 
 **File language:** `English (US) / Markdown / HTML5`
 
