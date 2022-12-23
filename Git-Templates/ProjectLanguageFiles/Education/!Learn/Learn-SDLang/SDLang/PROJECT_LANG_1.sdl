@@ -1,0 +1,20 @@
+// Start of script
+
+# Project language file 1
+-- For: seanpm2001/Learn-SDLang
+/* About:
+* I decided to make SDLang the main project language file for this project (Seanpm2001/Learn-SDLang) as SDLang is the language this project is dedicated to, because this project is about learning the SDLang programming language. It only makes sense to SDLang the official language for this project. It is getting its own project language file, starting here.
+*/
+
+title "Project language file 1"
+subtitle "For: seanpm2001/Learn-SDLang"
+abt "About:"
+description "I decided to make SDLang the main project language file for this project (Seanpm2001/Learn-SDLang) as SDLang is the language this project is dedicated to, because this project is about learning the SDLang programming language. It only makes sense to SDLang the official language for this project. It is getting its own project language file, starting here."
+
+/* File info
+* File type: SDLang source file (*.sdl)
+* File version: 1 (2022, Thursday, December 22nd at 10:53 pm PST)
+* Line count (including blank lines and compiler line): 21
+*/
+
+// End of script
