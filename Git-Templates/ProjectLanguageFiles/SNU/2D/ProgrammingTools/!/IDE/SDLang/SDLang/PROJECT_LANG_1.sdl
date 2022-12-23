@@ -1,0 +1,20 @@
+// Start of script
+
+# Project language file 1
+-- For: /SNU/2D/ProgrammingTools/IDE/SDLang/
+/* About:
+* I decided to make SDLang the main project language file for this project (SNU / 2D / Programming Tools / IDE / SDLang) as this is a SDLang IDE, and it needs its main language to be represented here.
+*/
+
+title "Project language file 1"
+subtitle "For: /SNU/2D/ProgrammingTools/IDE/SDLang/"
+abt "About:"
+description "I decided to make SDLang the main project language file for this project (SNU / 2D / Programming Tools / IDE / SDLang) as this is a SDLang IDE, and it needs its main language to be represented here."
+
+/* File info
+* File type: SDLang source file (*.sdl)
+* File version: 1 (2022, Thursday, December 22nd at 10:58 pm PST)
+* Line count (including blank lines and compiler line): 21
+*/
+
+// End of script
