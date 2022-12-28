@@ -1,0 +1,15 @@
+# Start of script
+# Project language file
+# For SNU/2D/Programming Tools/IDE/StrictYAML
+# The project language file for this project is StrictYAML as this project (SNU_2D_ProgrammingTools_IDE_StrictYAML) focuses directly on StrictYAML. This language is a variant of YAML, and there aren't many significant syntax changes that can be made for this file. 
+# This is an instance in which I am using StrictYAML as a project language file, as I learned how to make the GitHub linguist recognize Markdown as a language, and I extended this to other languages, this time with StrictYAML, although it is being recognized as YAML for now. I found this out when snooping around on [Apple/Swift Evolution](https://github.com/apple/swift-evolution/blob/main/.gitattributes) if you want to do this yourself, simply add this to your `.gitattributes` file (if you haven't created one yet, make it now, do not add anything else to the file name but `.gitattributes`)
+gitattributes: ".gitattributes"
+line1: *.yml linguist-detectable=true
+line2: *.StrictYAML linguist-detectable=true
+line3: *.yml linguist-language=SVG
+line4: *.StrictYAML linguist-language=SVG
+## File info
+# File type: StrictYAML document (*.yml *.yaml)
+# File version: 1 (2022, Tuesday, December 27th at 10:54 pm PST)
+# Line count (including blank lines and compiler line): 16
+# End of script
