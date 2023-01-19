@@ -1,0 +1,19 @@
+# -*- mode: snippet -*-
+#-*- Project language file 1
+#-*- For: seanpm2001/Learn-YASnippet
+#-*- About:
+#-*- I decided to make YASnippet the main project language file for this project (Seanpm2001/Learn-YASnippet) as YASnippet is the language this project is dedicated to, because this project is about learning the YASnippet programming language. It only makes sense to YASnippet the official language for this project. It is getting its own project language file, starting here.
+#-*-
+
+#-*- File info
+#-*- File type: YASnippet snippet source file (custom extension *.yasnip as YASnippet does not have a default file name or file extension)
+#-*- File version: 1 (2023, Wednesday, January 18th at 4:33 pm PST)
+#-*- Line count (including blank lines and compiler line): 20
+#-*- 
+
+#-*- Modified (failed) attempt from StackOverflow : https://stackoverflow.com/a/4583535
+${1:`(nth 5 (decode-time))`}
+fn main() {
+    "String"
+}
+`(let ((comment-style 'box))(comment-region (point-min) (point-at-eol 0)))`
