@@ -1,0 +1,16 @@
+// Start of script
+
+// Note: I don't know how to make strings in ProtoBuf, so comments will do for now.
+/* Project language file 1
+* For: SNU/2D/ProgrammingTools/IDE/Protocol-Buffer
+* About:
+* I decided to make Protocol Buffer the main project language file for this project (SNU / 2D / Programming Tools / IDE / Protocol Buffer) as this is a Protocol Buffer IDE, and it needs its main language to be represented here.
+*/
+
+/* File info
+* File type: Protocol Buffer source file (*.proto)
+* File version: 1 (2023, Wednesday, January 25th at 7:38 pm PST)
+*Line count (including blank lines and compiler line): 17
+*/
+
+// End of script
