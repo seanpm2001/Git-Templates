@@ -1,0 +1,16 @@
+// Start of script
+
+// Note: I don't know how to make strings in ProtoBuf, so comments will do for now.
+/* Project language file 1"
+* For: seanpm2001/Learn-Protocol-Buffer"
+* About:"
+* I decided to make Protocol Buffer the main project language file for this project (Seanpm2001/Learn-Protocol-Buffer) as Protocol Buffer is the language this project is dedicated to, because this project is about learning the Protocol Buffer programming language. It only makes sense to Protocol Buffer the official language for this project. It is getting its own project language file, starting here."
+*/
+
+/* File info
+* File type: Protocol Buffer source file (*.proto)
+* File version: 1 (2023, Wednesday, January 25th at 7:35 pm PST)
+*Line count (including blank lines and compiler line): 17
+*/
+
+// End of script
