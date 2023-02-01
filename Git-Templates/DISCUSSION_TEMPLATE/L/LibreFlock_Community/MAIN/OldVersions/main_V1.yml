@@ -1,0 +1,35 @@
+title: "<title>"
+labels: [Repositories]
+body:
+- type: dropdown
+  attributes:
+    label: Select Topic Area
+    description: What would you like to discuss?
+    options:
+      - "Announcement"
+      - "General"
+      - "Ideas"
+      - "LibreFlock Brazil (open-ended discussion)"
+      - "LibreFlock Brazil (Q&A)"
+      - "LibreFlock Classic (open-ended discussion)"
+      - "LibreFlock Classic (Q&A)"
+      - "LibreFlock Seasonal (open-ended discussion)"
+      - "LibreFlock Seasonal (Q&A)"
+      - "LibreFlock Space (open-ended discussion)"
+      - "LibreFlock Space (Q&A)"
+      - "Polls"
+      - "Q&A"
+      - "Show and tell"
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Body
+    description: Start your discussion!
+  validations:
+    required: true
+# This is my first attempt at trying out the new GitHub discussion templates
+# File info
+# File version: 1 (2023, Tuesday, January 31st at 4:00 pm PST)
+# File type: GitHub discussion template (*.yaml)
+# Line count (including blank lines and compiler line): 36
