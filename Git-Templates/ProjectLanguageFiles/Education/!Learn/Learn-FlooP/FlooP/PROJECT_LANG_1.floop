@@ -1,0 +1,15 @@
+DEFINE PROCEDURE ''PROJECTL1'' [N]:
+BLOCK 0: BEGIN
+     PRINT['Project language file 1']
+     PRINT['For: seanpm2001/Learn-FlooP']
+     PRINT['About:']
+     PRINT['I decided to make FlooP the main project language file for this project (Seanpm2001/Learn-FlooP) as FlooP is the language this project is dedicated to, because this project is about learning the FlooP programming language. It only makes sense to FlooP the official language for this project. It is getting its own project language file, starting here.']
+BLOCK 0: END.
+STRING[1];
+BLOCK 1: BEGIN
+    PRINT['File info']
+    PRINT['File type: FlooP source file (*.FlooP)']
+    PRINT['File version: 1 (2023, Thursday, February 16th at 11:31 pm PST)']
+    PRINT['Line count (including blank lines and compiler line): 16']
+BLOCK 1: END
+STRING[2];
