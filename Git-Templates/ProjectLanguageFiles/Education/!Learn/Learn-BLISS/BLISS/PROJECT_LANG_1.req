@@ -1,0 +1,27 @@
+! Start of script
+
+BEGIN
+ST1: ’Project language file 1’
+ST2: ’For: seanpm2001/Learn-BLISS’
+ST3: ’About:’
+ST4: ’I decided to make BLISS the main project language file for this project (Seanpm2001/Learn-BLISS) as BLISS is the language this project is dedicated to, because this project is about learning the BLISS programming language. It only makes sense to BLISS the official language for this project. It is getting its own project language file, starting here.’
+END
+
+!+
+! Output
+! 
+! Project language file 1
+! For: seanpm2001/Learn-BLISS
+! About:
+! I decided to make BLISS the main project language file for this project (Seanpm2001/Learn-BLISS) as BLISS is the language this project is dedicated to, because this project is about learning the BLISS programming language. It only makes sense to BLISS the official language for this project. It is getting its own project language file, starting here.
+!
+!-
+
+!+
+! File info
+! File type: BLISS source file (*.bli *.b64 *.req)
+! File version: 1 (2023, Friday, February 17th at 7:23 pm PST)
+! Line count (including blank lines and compiler line): 28
+!-
+
+! End of script
