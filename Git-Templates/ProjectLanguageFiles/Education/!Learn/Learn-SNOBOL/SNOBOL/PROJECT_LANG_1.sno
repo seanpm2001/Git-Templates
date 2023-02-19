@@ -1,0 +1,21 @@
+* Start of script
+
+        OUTPUT1 = "Project language file 1"
+        OUTPUT2 = "For: seanpm2001/Learn-SNOBOL"
+        OUTPUT3 = "About:"
+        OUTPUT4 = "I decided to make SNOBOL the main project language file for this project (Seanpm2001/Learn-SNOBOL) as SNOBOL is the language this project is dedicated to, because this project is about learning the SNOBOL programming language. It only makes sense to SNOBOL the official language for this project. It is getting its own project language file, starting here."
+END
+
+* Output
+*
+* Project language file 1
+* For: seanpm2001/Learn-SNOBOL
+* About:
+* I decided to make SNOBOL the main project language file for this project (Seanpm2001/Learn-SNOBOL) as SNOBOL is the language this project is dedicated to, because this project is about learning the SNOBOL programming language. It only makes sense to SNOBOL the official language for this project. It is getting its own project language file, starting here.
+
+* File info
+* File type: SNOBOL source file (*.sno)
+* File version: 1 (2023, Saturday, February 18th at 6:14 pm PST)
+* Line count (including blank lines and compiler line): 22
+
+* End of script
