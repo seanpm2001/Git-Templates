@@ -1,0 +1,21 @@
+* Start of script
+
+        OUTPUT1 = "Project language file 1"
+        OUTPUT2 = "For: /SNU/2D/ProgrammingTools/IDE/SNOBOL/"
+        OUTPUT3 = "About:"
+        OUTPUT4 = "I decided to make SNOBOL the main project language file for this project (SNU / 2D / Programming Tools / IDE / SNOBOL) as this is a SNOBOL IDE, and it needs its main language to be represented here."
+END
+
+* Output
+*
+* Project language file 1
+* For: /SNU/2D/ProgrammingTools/IDE/SNOBOL/
+* About:
+* I decided to make SNOBOL the main project language file for this project (SNU / 2D / Programming Tools / IDE / SNOBOL) as this is a SNOBOL IDE, and it needs its main language to be represented here.
+
+* File info
+* File type: SNOBOL source file (*.sno)
+* File version: 1 (2023, Saturday, February 18th at 6:17 pm PST)
+* Line count (including blank lines and compiler line): 22
+
+* End of script
