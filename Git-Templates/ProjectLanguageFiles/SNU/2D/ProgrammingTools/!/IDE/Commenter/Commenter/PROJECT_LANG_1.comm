@@ -1,0 +1,13 @@
+C Start of script
+
+* Project language file 1
+// For: /SNU/2D/ProgrammingTools/IDE/Commenter/
+# About:
+; I decided to make Commenter the main project language file for this project (SNU / 2D / Programming Tools / IDE / Commenter) as this is a Commenter IDE, and it needs its main language to be represented here.
+
+(* File info *)
+-- File type: Commenter source file (*.comm)
+% File version: 1 (2023, Sunday, February 19th at 5:48 pm PST)
+<!-- Line count (including blank lines and compiler line): 14 !-->
+
+' End of script
