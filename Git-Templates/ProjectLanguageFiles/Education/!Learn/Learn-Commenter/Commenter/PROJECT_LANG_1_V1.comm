@@ -1,0 +1,13 @@
+C Start of script
+
+* Project language file 1
+// For: seanpm2001/Learn-Commenter
+# About:
+; I decided to make Commenter the main project language file for this project (Seanpm2001/Learn-Commenter) as Commenter is the language this project is dedicated to, because this project is about learning the Commenter programming language. It only makes sense to Commenter the official language for this project. It is getting its own project language file, starting here.
+
+(* File info *)
+-- File type: Commenter source file (*.comm)
+% File version: 1 (2023, Sunday, February 19th at 5:46 pm PST)
+<!-- Line count (including blank lines and compiler line): 14 !-->
+
+' End of script
