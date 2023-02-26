@@ -1,0 +1,19 @@
+# Start of script
+
+## Project language file 2
+
+### For: AI2001/Categories/Documents/SC:Wikis:Wiktionary
+
+#### About:
+
+I decided to make RMarkdown the second project language file for this project (AI2001/Categories/Documents/SC:Wikis:Wiktionary) as RMarkdown is the planned sub-language for R-based AI2001 projects. It is getting its own project language file, starting here.
+
+## File info
+
+File type: RMarkdown source file (*.Rmd)
+
+File version: 1 (2023, Saturday, February 25th at 4:50 pm PST)
+
+Line count (including blank lines and compiler line): 20
+
+# End of script
