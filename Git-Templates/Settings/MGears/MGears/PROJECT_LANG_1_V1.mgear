@@ -1,0 +1,25 @@
+#!/usr/bin/env mgearB
+# Use variant B for non-settings pages
+# Start of script
+
+print("Project language file 1")
+print("For: MGears")
+print("About:")
+print("I decided to make MGears the main project language file for this project (MGears) as this is the official MGears language/LIBrary repository, and should be represented with the language in development here. It is getting its own project language file, starting here.")
+
+# Output
+'''
+Project language file 1
+For: MGears
+About:
+I decided to make MGears the main project language file for this project (MGears) as this is the official MGears language/LIBrary repository, and should be represented with the language in development here. It is getting its own project language file, starting here.
+'''
+
+''' File info '''
+"""
+File type: MGears source file (*.mgear)
+File version: 1 (2023, Wednesday, March 8th at 3:57 pm PST)
+Line count (including blank lines and compiler line): 26
+"""
+
+# End of script
