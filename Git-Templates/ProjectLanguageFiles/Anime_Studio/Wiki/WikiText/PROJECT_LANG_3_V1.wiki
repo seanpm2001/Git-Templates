@@ -1,0 +1,20 @@
+
+====
+
+= Project language file 3 =
+
+== For Anime_Studio/Wiki ==
+
+=== About ===
+
+I decided to make WikiText the third project language file for this project (Anime_Studio/Wiki) as WikiText is one of the main Wiki content languages for this project. It is getting its own project language file, starting here.
+
+== File info ==
+
+File type: <code>MediaWiki/Wikitext document (*.wiki)</code>
+
+File version: <code>1 (2023, Wednesday, March 15th at 4:08 pm PST)</code>
+
+Line count (including blank lines and compiler line): <code>21</code>
+
+====
