@@ -1,0 +1,15 @@
+// Start of script
+
+// Note: I don't know how to make strings in GremlinQL, so comments will do for now.
+
+// Project language file 1
+// For: seanpm2001/Learn-Gremlin
+// About:
+// I decided to make Gremlin the main project language file for this project (Seanpm2001/Learn-Gremlin) as Gremlin is the language this project is dedicated to, because this project is about learning the Gremlin programming language. It only makes sense to Gremlin the official language for this project. It is getting its own project language file, starting here.
+
+// File info
+// File type: Gremlin source file (*.graphml)
+// File version: 1 (2023, Thursday, March 16th at 9:30 pm PST)
+// Line count (including blank lines and compiler line): 16
+
+// End of script
