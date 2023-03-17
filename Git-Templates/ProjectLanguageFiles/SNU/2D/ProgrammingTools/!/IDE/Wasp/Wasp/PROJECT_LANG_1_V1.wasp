@@ -1,0 +1,19 @@
+// Start of script
+
+title: "Project language file 1",
+subtitle: "For: SNU/2D/ProgrammingTools/IDE/Wasp",
+abt: "About:",
+description: "I decided to make Wasp the main project language file for this project (SNU / 2D / Programming Tools / IDE / Wasp) as this is a Wasp IDE, and it needs its main language to be represented here.",
+
+// Output
+// Project language file 1
+// For: SNU/2D/ProgrammingTools/IDE/Wasp
+// About:
+// I decided to make Wasp the main project language file for this project (SNU / 2D / Programming Tools / IDE / Wasp) as this is a Wasp IDE, and it needs its main language to be represented here.
+
+// File info
+// File type: Wasp source file (*.wasp)
+// File version: 1 (2023, Thursday, March 16th at 9:18 pm PST)
+// Line count (including blank lines and compiler line): 20
+
+// End of script
