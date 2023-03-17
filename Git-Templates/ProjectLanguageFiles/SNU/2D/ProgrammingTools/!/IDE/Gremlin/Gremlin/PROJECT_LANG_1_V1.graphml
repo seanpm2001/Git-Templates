@@ -1,0 +1,15 @@
+// Start of script
+
+// Note: I don't know how to make strings in GremlinQL, so comments will do for now.
+
+// Project language file 1
+// For: /SNU/2D/ProgrammingTools/IDE/Gremlin/
+// About:
+// I decided to make Gremlin the main project language file for this project (SNU / 2D / Programming Tools / IDE / Gremlin) as this is a Gremlin IDE, and it needs its main language to be represented here.
+
+// File info
+// File type: Gremlin source file (*.graphml)
+// File version: 1 (2023, Thursday, March 16th at 9:33 pm PST)
+// Line count (including blank lines and compiler line): 16
+
+// End of script
