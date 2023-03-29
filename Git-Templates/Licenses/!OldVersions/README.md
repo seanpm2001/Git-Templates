@@ -1,14 +1,19 @@
 
+***
+
 # Languages to add
 
-**V3:** `As of 2023, Wednesday, March 29th at 2:18 pm PST`
+**V4:** `As of 2023, Wednesday, March 29th at 2:20 pm PST`
 
 **[2023.03.29]** `I spent a lot of time on this today, and will go no further with this today. Significant progress was made.`
+
+**[2023.03.29 [2]]** `Small update to make this list compatible with Markdown.`
 
 > **Note** _Duplicate entries are present_
 
 > **Note** _List is not complete_
 
+```text
 PowerShell ✅️
 PHP ✅️
 Perl ✅️
@@ -399,3 +404,6 @@ Lingo ✅️
 Linux Kernel Module ✅️
 Logcat ✅️
 Lucid ✅️
+```
+
+***
