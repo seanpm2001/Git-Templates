@@ -3,15 +3,19 @@
 
 # Languages to add
 
-**V4:** `As of 2023, Wednesday, March 29th at 2:20 pm PST`
+**V5:** `As of 2023, Wednesday, March 29th at 2:38 pm PST`
 
-**[2023.03.29]** `I spent a lot of time on this today, and will go no further with this today. Significant progress was made.`
-
-**[2023.03.29 [2]]** `Small update to make this list compatible with Markdown.`
+- **[2023.03.29 [1]]** `I spent a lot of time on this today, and will go no further with this today. Significant progress was made.`
+- **[2023.03.29 [2]]** `Small update to make this list compatible with Markdown.`
+- **[2023.03.29 [3]]** `Small update to add lots of Markdown enhancements. Also, I am surprised I ended at 50% progress, I wasn't planning for that (although the number is still not completely caught up, it should be above 500, not below 400)`
 
 > **Note** _Duplicate entries are present_
 
 > **Note** _List is not complete_
+
+**Progress:** `195` / `390` **(`50.00%`)**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the main list]</b></p></summary>
 
 ```text
 PowerShell ✅️
@@ -405,5 +409,95 @@ Linux Kernel Module ✅️
 Logcat ✅️
 Lucid ✅️
 ```
+
+</details>
+
+***
+
+## Todo
+
+Find license files for:
+
+- Lobster (GPL)
+- Vim Script (GPL)
+
+As I couldn't find completed examples to go from (they will have to be done manually)
+
+Add support for Apache and MIT licenses
+
+***
+
+## File history
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the file history section]</b></p></summary>
+
+<details><summary><p><b>V1: 2023, Monday, March 27th at 6:36 pm PST</b></p></summary>
+
+> **Changes:**
+
+- [x] Started the file
+- [x] Added 372 entries, with 16 checked
+- [x] Added some notes
+- [ ] No other changes in version 1
+
+</details> <!-- V1 !-->
+
+<details><summary><p><b>V2: 2023, Tuesday, March 28th at 5:51 pm PST</b></p></summary>
+
+> **Changes:**
+
+- [x] Added 4 entries, with 89 checked (73 new entries checked)
+- [x] Updated the file version timestamp
+- [x] Added a note about possible duplicates
+- [ ] No other changes in version 2
+
+</details> <!-- V2 !-->
+
+<details><summary><p><b>V3: 2023, Wednesday, March 29th at 2:18 pm PST</b></p></summary>
+
+> **Changes:**
+
+- [x] Added 14 entries, with 195 checked (106 new entries checked)
+- [x] Added some Markdown syntax
+- [x] Added a blog section
+- [x] Updated the file version timestamp
+- [ ] No other changes in version 3
+
+</details> <!-- V3 !-->
+
+<details><summary><p><b>V4: 2023, Wednesday, March 29th at 2:20 pm PST</b></p></summary>
+
+> **Changes:**
+
+- [x] Added 0 entries, with 195 checked (0 new entries checked)
+- [x] Added more Markdown syntax
+- [x] Updated the blog section
+- [x] Updated the file version timestamp
+- [ ] No other changes in version 4
+
+</details> <!-- V4 !-->
+
+<details><summary><p><b>V5: 2023, Wednesday, March 29th at 2:38 pm PST</b></p></summary>
+
+> **Changes:**
+
+- [x] Added 0 entries, with 195 checked (0 new entries checked)
+- [x] Added a progress counter with percentage (current: 50.00%)
+- [x] Converted the main list into a dropdown section
+- [x] Added more Markdown syntax
+- [x] Added a todo section
+- [x] Updated the blog section
+- [x] Updated the file version timestamp
+- [x] Added the file history section
+- - [x] Added an entry for version 1
+- - [x] Added an entry for version 2
+- - [x] Added an entry for version 3
+- - [x] Added an entry for version 4
+- - [x] Added an entry for version 5
+- [ ] No other changes in version 5
+
+</details> <!-- V5 !-->
+
+</details> <!-- File history !-->
 
 ***
