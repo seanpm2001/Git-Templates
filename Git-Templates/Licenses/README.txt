@@ -1,6 +1,6 @@
 Languages to add
 
-As of 2023, Monday, March 27th at 6:36 pm PST
+v2: As of 2023, Tuesday, March 28th at 5:51 pm PST
 
 Note: duplicate entries are present
 
@@ -16,42 +16,42 @@ C# ✅️
 F# ✅️
 Q# ✅️
 QML ✅️
-Makefile
-Ada
-AppleScript
-BASIC
-MoonScript
+Makefile ✅️
+Ada ✅️
+AppleScript ✅️
+BASIC ✅️
+MoonScript ✅️
 RMarkdown ✅️
 Uno
 UnrealScript
 Verilog
 VHDL
-WDL
+WDL ✅️
 XML
 Zig ✅️
 Nim
 JSON
-GDScript
-Swift
+GDScript ✅️
+Swift ✅️
 PureScript ✅️
 PureData ✅️
 CSV
-Assembly
-WebAssembly
-ActionScript
-Agda
-AngelScript
+Assembly ✅️
+WebAssembly ✅️
+ActionScript ✅️
+Agda ✅️
+AngelScript ✅️
 Ceylon
 COBOL
 FORTRAN
 Eiffel
-Mercury
-Objective-C
+Mercury ✅️
+Objective-C ✅️
 Objective-C++
-Meson
+Meson ✅️
 Julia ✅️
 Cython ✅️
-CSON
+CSON ✅️
 SCSS
 SASS
 SugarSS
@@ -62,22 +62,22 @@ BlitzBasic
 Bicep
 Bro
 Zeek
-Brainfuck
+Brainfuck ✅️
 B
 BSDL
 PostScript
-Metal
+Metal ✅️
 SVG
 Gerber Image
-M
-E
-J
+M ✅️
+E ✅️
+J ✅️
 q
 V
-CoffeeScript
+CoffeeScript ✅️
 Crystal
 Clojure
-Wren
+Wren ✅️
 Berry
 LiveScript
 LiveCode
@@ -95,9 +95,9 @@ LOLCODE
 Awk
 Limbo
 Logtalk
-ZAP
-ZIL
-ZenScript
+ZAP ✅️
+ZIL ✅️
+ZenScript ✅️
 mcFunction
 Rebol
 RouterOS-Script
@@ -107,24 +107,24 @@ HXML
 MTML
 Erlang
 Blade
-Mustache
-Handlebars
-Stylus
-Svelte
+Mustache ✅️
+Handlebars ✅️
+Stylus ✅️
+Svelte ✅️
 Sage
-Lean
-INI/CFG
+Lean ✅️
+INI/CFG ✅️
 OpenEdge ABL
 Component Pascal
 Twig
 Smarty
-BrightScript
-BrighterScript
+BrightScript ✅️
+BrighterScript ✅️
 MAXScript
-Monkey
-Stan
-Monkey-C
-Stata
+Monkey ✅️
+Stan ✅️
+Monkey-C ✅️
+Stata ✅️
 Starlark
 MATLAB
 Mathematica
@@ -135,13 +135,13 @@ Perl6
 ASL
 CartoCSS
 Fancy
-Cool
-Clean
+Cool ✅️
+Clean ✅️
 CLIPS
 SQL
 PLpgSQL
 TSQL
-Tcl
+Tcl ✅️
 Objective-J
 DTrace
 Graphviz-DOT
@@ -151,14 +151,14 @@ HLSL
 GLSL
 Elm
 LFE
-Scala
+Scala ✅️
 Sweave
 SWIG
 Emacs Lisp
 PicoLisp
 Isabelle
-TeX
-BibTeX
+TeX ✅️
+BibTeX ✅️
 GN
 Desktop
 VBA
@@ -166,12 +166,12 @@ VBScript
 VB.NET
 Classic ASP
 ASP
-ASP.NET
+ASP.NET ✅️
 NetREXX
 REXX
-Factor
+Factor ✅️
 Fluent
-TOML
+TOML ✅️
 XBase
 XQuery
 Logos
@@ -188,12 +188,12 @@ Lobster
 CodeQL
 GraphQL
 WebVTT
-Hack
+Hack ✅️
 Peg.js
-Self
-Sed
+Self ✅️
+Sed ✅️
 Earthly
-Terra
+Terra ✅️
 URLL
 DroppedText
 Lex
@@ -215,19 +215,19 @@ DIGITAL Command Language
 BLISS
 FlooP
 BlooP
-Alloy
-Flux
+Alloy ✅️
+Flux ✅️
 Thrift
 CAML
 OCAML
-Groovy
+Groovy ✅️
 HiveQL
-HAML
+HAML ✅️
 AMPL
-AGS Script
+AGS Script ✅️
 Rich Text Format
 Protocol Buffer
-Gleam
+Gleam ✅️
 Antlers
 Slash
 WebIDL
@@ -251,7 +251,7 @@ WikiText
 Hy
 HyPhy
 HCL
-Slim
+Slim ✅️
 NGinx
 Jsonnet
 FreeMarker
@@ -259,13 +259,13 @@ Vue
 YASnippet
 Jinja
 Nunjucks
-CUE
+CUE ✅️
 Nix
 SASS
 Jupyter Notebook
 Mako
 Less
-Astro
+Astro ✅️
 jq
 Oxygene
 CSound Document
@@ -275,9 +275,9 @@ MLIR
 XTend
 FreeBASIC
 Closure Templates
-M4
+M4 ✅️
 M4Sugar
-Augeas
+Augeas ✅️
 NASL
 Ballerina
 BlitzMax
@@ -307,20 +307,20 @@ KiCad Schematic
 Smali
 RPGLE
 BlitzBasic
-SaltStack
+SaltStack ✅️
 Module Management System
 TXL
 SRecode Template
 PlantUML
-Chapel
+Chapel ✅️
 Befunge
 RPC
-AutoHotKey
+AutoHotKey ✅️
 Windows Registry Entries
 SMT
 Org
 ABAP CDS
-RUNOFF
+RUNOFF ✅️
 AspectJ
 SAS
 Gradle
@@ -332,7 +332,7 @@ Apex
 Slim
 VCL
 Modelica
-GAP
+GAP ✅️
 OpenSCAD
 ShaderLab
 POV-Ray SDL
@@ -342,12 +342,12 @@ Idris
 ImageJ Macro
 Common Workflow Language
 ANTLR
-Boogie
-HolyC
+Boogie ✅️
+HolyC ✅️
 GCC Machine Description
 Nextflow
 AL
-ABAP
+ABAP ✅️
 QMake
 OpenPolicyAgent
 XProc
@@ -360,7 +360,7 @@ GnuPlot
 PicoLisp
 F*
 1C Enterprise
-Dylan
+Dylan ✅️
 LLVM
 NewLisp
 Fantom
@@ -376,3 +376,7 @@ kvlang
 GSC
 Squirrel
 KiCad Layout
+Go! ✅️
+Vim Snippet
+Seed7
+AssemblyScript
