@@ -1,8 +1,13 @@
-Languages to add
 
-v2: As of 2023, Tuesday, March 28th at 5:51 pm PST
+# Languages to add
 
-Note: duplicate entries are present
+**V3:** `As of 2023, Wednesday, March 29th at 2:18 pm PST`
+
+**[2023.03.29]** `I spent a lot of time on this today, and will go no further with this today. Significant progress was made.`
+
+> **Note** _Duplicate entries are present_
+
+> **Note** _List is not complete_
 
 PowerShell ✅️
 PHP ✅️
@@ -22,14 +27,14 @@ AppleScript ✅️
 BASIC ✅️
 MoonScript ✅️
 RMarkdown ✅️
-Uno
-UnrealScript
-Verilog
-VHDL
+Uno ✅️
+UnrealScript ✅️
+Verilog ✅️
+VHDL ✅️
 WDL ✅️
-XML
+XML ✅️
 Zig ✅️
-Nim
+Nim ✅️
 JSON
 GDScript ✅️
 Swift ✅️
@@ -44,10 +49,10 @@ AngelScript ✅️
 Ceylon
 COBOL
 FORTRAN
-Eiffel
+Eiffel ✅️
 Mercury ✅️
 Objective-C ✅️
-Objective-C++
+Objective-C++ ✅️
 Meson ✅️
 Julia ✅️
 Cython ✅️
@@ -55,7 +60,7 @@ CSON ✅️
 SCSS
 SASS
 SugarSS
-XSLT
+XSLT ✅️
 Boo
 Batchfile
 BlitzBasic
@@ -63,7 +68,7 @@ Bicep
 Bro
 Zeek
 Brainfuck ✅️
-B
+B ✅️
 BSDL
 PostScript
 Metal ✅️
@@ -72,29 +77,29 @@ Gerber Image
 M ✅️
 E ✅️
 J ✅️
-q
-V
+q ✅️
+V ✅️
 CoffeeScript ✅️
 Crystal
 Clojure
 Wren ✅️
 Berry
-LiveScript
-LiveCode
+LiveScript ✅️
+LiveCode ✅️
 Common Lisp
 Vim Script
 SystemVerilog
-Verilog AMS
-Oberon
+Verilog AMS ✅️
+Oberon ✅️
 Modula-2
 Modula-3
 Motoko
 mIRC-Script
 DogeScript
-LOLCODE
-Awk
-Limbo
-Logtalk
+LOLCODE ✅️
+Awk ✅️
+Limbo ✅️
+Logtalk ✅️
 ZAP ✅️
 ZIL ✅️
 ZenScript ✅️
@@ -105,7 +110,7 @@ Rascal
 Haxe
 HXML
 MTML
-Erlang
+Erlang ✅️
 Blade
 Mustache ✅️
 Handlebars ✅️
@@ -114,7 +119,7 @@ Svelte ✅️
 Sage
 Lean ✅️
 INI/CFG ✅️
-OpenEdge ABL
+OpenEdge ABL ✅️
 Component Pascal
 Twig
 Smarty
@@ -128,11 +133,11 @@ Stata ✅️
 Starlark
 MATLAB
 Mathematica
-Inno Setup
+Inno Setup ✅️
 Pod
 Pod6
 Perl6
-ASL
+ALS ✅️
 CartoCSS
 Fancy
 Cool ✅️
@@ -142,46 +147,46 @@ SQL
 PLpgSQL
 TSQL
 Tcl ✅️
-Objective-J
+Objective-J ✅️
 DTrace
 Graphviz-DOT
 STAR
 Markdown
 HLSL
 GLSL
-Elm
-LFE
+Elm ✅️
+LFE ✅️
 Scala ✅️
 Sweave
 SWIG
-Emacs Lisp
+Emacs Lisp ✅️
 PicoLisp
-Isabelle
+Isabelle ✅️
 TeX ✅️
 BibTeX ✅️
 GN
 Desktop
-VBA
-VBScript
-VB.NET
+VBA ✅️
+VBScript ✅️
+VB.NET ✅️
 Classic ASP
 ASP
 ASP.NET ✅️
-NetREXX
+NetREXX ✅️
 REXX
 Factor ✅️
 Fluent
 TOML ✅️
-XBase
-XQuery
-Logos
-XS
+XBase ✅️
+XQuery ✅️
+Logos ✅️
+XS ✅️
 Max
 Pug
 Pawn
 SourcePawn
 BikeShed
-Vala
+Vala ✅️
 Genie
 Google Apps Script
 Lobster
@@ -194,20 +199,20 @@ Self ✅️
 Sed ✅️
 Earthly
 Terra ✅️
-URLL
+URLL ✅️
 DroppedText
-Lex
-Latte
+Lex ✅️
+Latte ✅️
 ReStructuredText
-ASCIIDoc
+ASCIIDoc ✅️
 Textile
 RDoc
 Mallard
 Macaulay2
-Liquid
+Liquid ✅️
 Gherkin
-LookML
-Euphoria
+LookML ✅️
+Euphoria ✅️
 ImageJ
 CMake
 CUDA
@@ -219,16 +224,16 @@ Alloy ✅️
 Flux ✅️
 Thrift
 CAML
-OCAML
+OCAML ✅️
 Groovy ✅️
 HiveQL
 HAML ✅️
-AMPL
+AMPL ✅️
 AGS Script ✅️
 Rich Text Format
 Protocol Buffer
 Gleam ✅️
-Antlers
+Antlers ✅️
 Slash
 WebIDL
 YARA
@@ -238,9 +243,9 @@ ReScript
 DNF
 Io
 Fish
-IDL
-LabVIEW
-OpenQASM
+IDL ✅️
+LabVIEW ✅️
+OpenQASM ✅️
 Roff
 Groff
 DataWeave
@@ -252,44 +257,45 @@ Hy
 HyPhy
 HCL
 Slim ✅️
-NGinx
+NGinx ✅️
 Jsonnet
 FreeMarker
-Vue
+Vue ✅️
+Vue.js ✅️
 YASnippet
 Jinja
-Nunjucks
+Nunjucks ✅️
 CUE ✅️
-Nix
+Nix ✅️
 SASS
 Jupyter Notebook
 Mako
-Less
+Less ✅️
 Astro ✅️
 jq
-Oxygene
+Oxygene ✅️
 CSound Document
 CSound Score
 Dhall
 MLIR
-XTend
+XTend ✅️
 FreeBASIC
 Closure Templates
 M4 ✅️
 M4Sugar
 Augeas ✅️
-NASL
+NASL ✅️
 Ballerina
 BlitzMax
 RenderScript
 SQLPL
-EBNF
+EBNF ✅️
 Grammatical Framework
 RobotFramework
-API BluePrint
-NesC
+API BluePrint ✅️
+NesC ✅️
 WaveFront Object
-Linker Script
+Linker Script ✅️
 Standard ML
 PigLatin
 GetText Catalog
@@ -300,9 +306,9 @@ JetBrains MPS
 CAP CDS
 WaveFront Material
 ProGuard
-Unity3D Asset
+Unity3D Asset ✅️
 Jasmine
-Nemerle
+Nemerle ✅️
 KiCad Schematic
 Smali
 RPGLE
@@ -318,65 +324,78 @@ RPC
 AutoHotKey ✅️
 Windows Registry Entries
 SMT
-Org
-ABAP CDS
+Org ✅️
+OrgMode ✅️
+ABAP CDS ✅️
 RUNOFF ✅️
-AspectJ
+AspectJ ✅️
 SAS
 Gradle
 SuperCollider
 Diff
-EJS
-Nu
-Apex
+EJS ✅️
+Nu ✅️
+Apex ✅️
 Slim
-VCL
+VCL ✅️
 Modelica
 GAP ✅️
-OpenSCAD
+OpenSCAD ✅️
 ShaderLab
 POV-Ray SDL
-AIDL
+AIDL ✅️
 TLA
-Idris
-ImageJ Macro
+Idris ✅️
+ImageJ Macro ✅️
 Common Workflow Language
-ANTLR
+ANTLR ✅️
 Boogie ✅️
 HolyC ✅️
 GCC Machine Description
-Nextflow
-AL
+Nextflow ✅️
+AL ✅️
 ABAP ✅️
-QMake
-OpenPolicyAgent
-XProc
+QMake ✅️
+OpenPolicyAgent ✅️
+XProc ✅️
 Creole
 StringTemplate
-AutoIt
+AutoIt ✅️
 SciLab
 G-Code
 GnuPlot
 PicoLisp
 F*
-1C Enterprise
+1C Enterprise ✅️
 Dylan ✅️
-LLVM
-NewLisp
+LLVM ✅️
+NewLisp ✅️
 Fantom
 Forth
 HAProxy
-Eagle
-ApacheConf
-ooc
+Eagle ✅️
+ApacheConf ✅️
+ooc ✅️
 BitBake
 GDB
-QT Script
+QT Script ✅️
 kvlang
 GSC
 Squirrel
 KiCad Layout
 Go! ✅️
-Vim Snippet
+Vim Snippet ✅️
 Seed7
-AssemblyScript
+AssemblyScript ✅️
+NSIS ✅️
+UNIX Assembly ✅️
+Verona ✅️
+QueryByExample ✅️
+Octave ✅️
+OpenCL ✅️
+Orwell ✅️
+LISP ✅️
+Lingo ✅️
+Linux Kernel Module ✅️
+Logcat ✅️
+Lucid ✅️
