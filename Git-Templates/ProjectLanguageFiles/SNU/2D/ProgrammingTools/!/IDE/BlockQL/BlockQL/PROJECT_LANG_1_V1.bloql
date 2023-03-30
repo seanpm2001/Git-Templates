@@ -1,0 +1,21 @@
+-- Start of script
+
+"Project language file 1"
+"For: /SNU/2D/ProgrammingTools/IDE/BlockQL"
+"About:"
+"I decided to make BlockQL the main project language file for this project (SNU / 2D / Programming Tools / IDE / BlockQL) as this is a BlockQL IDE, and it needs its main language to be represented here."
+
+-=-Output
+Project language file 1
+For: /SNU/2D/ProgrammingTools/IDE/BlockQL
+About:
+I decided to make BlockQL the main project language file for this project (SNU / 2D / Programming Tools / IDE / BlockQL) as this is a BlockQL IDE, and it needs its main language to be represented here.
+-=-
+
+-=- File info
+File type: BlockQL source file (*.bloql)
+File version: 1 (2023, Wednesday, March 29th at 8:59 pm PST)
+Line count (including blank lines and compiler line): 22
+-=-
+
+-- End of script
