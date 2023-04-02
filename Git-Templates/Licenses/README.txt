@@ -3,18 +3,19 @@
 
 # Languages to add
 
-**V6:** `As of 2023, Thursday, March 30th at 4:52 pm PST`
+**V7:** `As of 2023, Sunday, April 2nd at 1:55 pm PST`
 
 - **[2023.03.29 [1]]** `I spent a lot of time on this today, and will go no further with this today. Significant progress was made.`
 - **[2023.03.29 [2]]** `Small update to make this list compatible with Markdown.`
 - **[2023.03.29 [3]]** `Small update to add lots of Markdown enhancements. Also, I am surprised I ended at 50% progress, I wasn't planning for that (although the number is still not completely caught up, it should be above 500, not below 400)`
 - **[2023.03.30 [1]]** `Another very large update, I spent too much time on this. Hopefully I can get everything else done today. Over 30% progress was added today.`
+- **[2023.04.02 [1]]** `Just a small update today.`
 
 > **Note** _Duplicate entries are present (and are actively being removed)_
 
 > **Note** _List is not complete_
 
-**Progress:** `339` / `387` **(`87.59%`)**
+**Progress:** `342` / `389` **(`87.91%`)**
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the main list]</b></p></summary>
 
@@ -405,7 +406,9 @@ Linux Kernel Module ✅️
 Logcat ✅️
 Lucid ✅️
 BlockQL ✅️
-CSS ❌️
+CSS ✅️
+DSergeant ✅️
+GRANNY ✅️
 ```
 
 </details>
@@ -496,7 +499,7 @@ Add support for Apache and MIT licenses
 
 </details> <!-- V5 !-->
 
-<details><summary><p><b>V6: 2023, Thursdays, March 30th at 4:52 pm PST</b></p></summary>
+<details><summary><p><b>V6: 2023, Thursday, March 30th at 4:52 pm PST</b></p></summary>
 
 > **Changes:**
 
@@ -508,6 +511,19 @@ Add support for Apache and MIT licenses
 - [ ] No other changes in version 6
 
 </details> <!-- V6 !-->
+
+<details><summary><p><b>V7: 2023, Sunday, April 2nd at 1:55 pm PST</b></p></summary>
+
+> **Changes:**
+
+- [x] Added 2 new entries, with 342 checked (3 new entries checked)
+- [x] Updated the blog section
+- [x] Updated the file version timestamp
+- [x] Updated the file history section
+- - [x] Added an entry for version 7
+- [ ] No other changes in version 7
+
+</details> <!-- V7 !-->
 
 </details> <!-- File history !-->
 
