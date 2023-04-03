@@ -1,0 +1,19 @@
+C: Start of script
+
+android.output.printBox("Project language file 1")
+android.output.printBox("For: /SNU/2D/ProgrammingTools/IDE/GRANNY")
+android.output.printBox("About:")
+android.output.printBox("I decided to make GRANNY the main project language file for this project (SNU / 2D / Programming Tools / IDE / GRANNY) as this is a GRANNY IDE, and it needs its main language to be represented here.")
+
+C: Output
+C: Project language file 1
+C: For: /SNU/2D/ProgrammingTools/IDE/GRANNY
+C: About:
+C: I decided to make GRANNY the main project language file for this project (SNU / 2D / Programming Tools / IDE / GRANNY) as this is a GRANNY IDE, and it needs its main language to be represented here.
+
+C: File info
+C: File type: GRANNY source file (*.granny)
+C: File version: 1 (2023, Sunday, April 2nd at 5:40 pm PST)
+C: Line count (including blank lines and compiler line): 20
+
+C: End of script
