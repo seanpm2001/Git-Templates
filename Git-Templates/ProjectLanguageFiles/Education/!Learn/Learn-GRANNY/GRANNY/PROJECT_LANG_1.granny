@@ -1,0 +1,19 @@
+C: Start of script
+
+android.output.printBox("Project language file 1")
+android.output.printBox("For: seanpm2001/Learn-GRANNY")
+android.output.printBox("About:")
+android.output.printBox("I decided to make GRANNY the main project language file for this project (Seanpm2001/Learn-GRANNY) as GRANNY is the language this project is dedicated to, because this project is about learning the GRANNY programming language. It only makes sense to GRANNY the official language for this project. It is getting its own project language file, starting here.")
+
+C: Output
+C: Project language file 1
+C: For: seanpm2001/Learn-GRANNY
+C: About:
+C: I decided to make GRANNY the main project language file for this project (Seanpm2001/Learn-GRANNY) as GRANNY is the language this project is dedicated to, because this project is about learning the GRANNY programming language. It only makes sense to GRANNY the official language for this project. It is getting its own project language file, starting here.
+
+C: File info
+C: File type: GRANNY source file (*.granny)
+C: File version: 1 (2023, Sunday, April 2nd at 5:37 pm PST)
+C: Line count (including blank lines and compiler line): 20
+
+C: End of script
