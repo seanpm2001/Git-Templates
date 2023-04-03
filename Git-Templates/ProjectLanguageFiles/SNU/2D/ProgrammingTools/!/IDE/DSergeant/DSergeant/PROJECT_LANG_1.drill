@@ -1,0 +1,32 @@
+%% Start of script
+
+%% Note: All keywords have to start with a capital letter
+Drill:
+Do Or Die {
+    VoiceOn
+    Go Go Go %% More than 1 go is redundant, and is done for syntax only
+    Loud("Project language file 1")
+    Pause(1)
+    Quiet("For: /SNU/2D/ProgrammingTools/IDE/DSergeant")
+    Pause(1)
+    Quiet("About:")
+    Pause(1)
+    Loud("I decided to make DSergeant the main project language file for this project (SNU / 2D / Programming Tools / IDE / DSergeant) as this is a DSergeant IDE, and it needs its main language to be represented here.")
+    VoiceOff
+    Stop %% Ends the loop
+}
+
+Halt! %% The ! indicates a full stop when applied to halt, in effect ending the program
+
+%% Output
+%% Project language file 1
+%% For: /SNU/2D/ProgrammingTools/IDE/DSergeant
+%% About:
+%% I decided to make DSergeant the main project language file for this project (SNU / 2D / Programming Tools / IDE / DSergeant) as this is a DSergeant IDE, and it needs its main language to be represented here.
+
+%% File info
+%% File type: DSergeant "drill" (script) source file (*.drill)
+%% File version: 1 (2023, Sunday, April 2nd at 5:33 pm PST)
+%% Line count (including blank lines and compiler line): 33
+
+%% End of script
