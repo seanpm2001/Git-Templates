@@ -3,19 +3,20 @@
 
 # Languages to add
 
-**V7:** `As of 2023, Sunday, April 2nd at 1:55 pm PST`
+**V8:** `As of 2023, Monday, April 3rd at 2:01 pm PST`
 
 - **[2023.03.29 [1]]** `I spent a lot of time on this today, and will go no further with this today. Significant progress was made.`
 - **[2023.03.29 [2]]** `Small update to make this list compatible with Markdown.`
 - **[2023.03.29 [3]]** `Small update to add lots of Markdown enhancements. Also, I am surprised I ended at 50% progress, I wasn't planning for that (although the number is still not completely caught up, it should be above 500, not below 400)`
 - **[2023.03.30 [1]]** `Another very large update, I spent too much time on this. Hopefully I can get everything else done today. Over 30% progress was added today.`
 - **[2023.04.02 [1]]** `Just a small update today.`
+- **[2023.04.03 [1]]** `Just a decent sized update today, clearing out several entries.`
 
 > **Note** _Duplicate entries are present (and are actively being removed)_
 
 > **Note** _List is not complete_
 
-**Progress:** `342` / `389` **(`87.91%`)**
+**Progress:** `374` / `388` **(`96.39%`)**
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the main list]</b></p></summary>
 
@@ -74,7 +75,7 @@ SugarSS ✅️
 XSLT ✅️
 Boo ✅️
 Batchfile ✅️
-BlitzBasic ❌️
+BlitzBasic ✅️
 Bicep ✅️
 Bro ✅️
 Zeek ✅️
@@ -97,7 +98,7 @@ Wren ✅️
 Berry ✅️
 LiveScript ✅️
 LiveCode ✅️
-Common Lisp ❌️
+Common Lisp ✅️
 Vim Script ❌️
 SystemVerilog ✅️
 Verilog AMS ✅️
@@ -209,7 +210,7 @@ Self ✅️
 Sed ✅️
 Terra ✅️
 URLL ✅️
-DroppedText ❌️
+DroppedText ✅️
 Lex ✅️
 Latte ✅️
 ReStructuredText ✅️
@@ -282,49 +283,48 @@ Less ✅️
 Astro ✅️
 jq ✅️
 Oxygene ✅️
-CSound Document ❌️
-CSound Score ❌️
-Dhall ❌️
-MLIR ❌️
+CSound Document ✅️
+CSound Score ✅️
+Dhall ✅️
+MLIR ✅️
 XTend ✅️
-FreeBASIC ❌️
-Closure Templates ❌️
+FreeBASIC  ✅️
+Closure Templates ✅️
 M4 ✅️
-M4Sugar ❌️
+M4Sugar ✅️
 Augeas ✅️
 NASL ✅️
 Ballerina ❌️
-BlitzMax ❌️
+BlitzMax ✅️
 RenderScript ✅️
 SQLPL ✅️
 EBNF ✅️
-Grammatical Framework ❌️
-RobotFramework ❌️
+Grammatical Framework ✅️
+RobotFramework ✅️
 API BluePrint ✅️
 NesC ✅️
-WaveFront Object ❌️
+WaveFront Object ✅️
 Linker Script ✅️
-Standard ML ❌️
-PigLatin ❌️
-GetText Catalog ❌️
+Standard ML ✅️
+PigLatin ✅️
+GetText Catalog ✅️
 Coq ✅️
-Cap'n Proto ❌️
-JetBrains MPS ❌️
-CAP CDS ❌️
-WaveFront Material ❌️
-ProGuard ❌️
+Cap'n Proto ✅️
+JetBrains MPS ✅️
+CAP CDS ✅️
+WaveFront Material ✅️
+ProGuard ✅️
 Unity3D Asset ✅️
-Jasmine ❌️
+Jasmin ✅️
 Nemerle ✅️
-KiCad Schematic ❌️
-Smali ❌️
-RPGLE ❌️
-BlitzBasic ❌️
+KiCad Schematic ✅️
+Smali ✅️
+RPGLE ✅️
 SaltStack ✅️
-Module Management System ❌️
-TXL ❌️
+Module Management System ✅️
+TXL ✅️
 SRecode Template ❌️
-PlantUML ❌️
+PlantUML ✅️
 Chapel ✅️
 Befunge ✅️
 RPC ✅️
@@ -350,7 +350,7 @@ OpenSCAD ✅️
 ShaderLab ✅️
 POV-Ray SDL ✅️
 AIDL ✅️
-TLA ❌️
+TLA ✅️
 Idris ✅️
 ImageJ Macro ✅️
 Common Workflow Language ✅️
@@ -376,9 +376,9 @@ F* ✅️
 Dylan ✅️
 LLVM ✅️
 NewLisp ✅️
-Fantom ❌️
+Fantom ✅️
 Forth ✅️
-HAProxy ❌️
+HAProxy ✅️
 Eagle ✅️
 ApacheConf ✅️
 ooc ✅️
@@ -417,10 +417,20 @@ GRANNY ✅️
 
 ## Todo
 
-Find license files for:
+Find/create license files for:
 
-- Lobster (GPL)
 - Vim Script (GPL)
+- Ballerina (GPL)
+- SVG (GPL)
+- Groff (GPL)
+- BlooP (GPL)
+- FlooP (GPL)
+- DNF (GPL)
+- Io (GPL)
+- Classic ASP (GPL)
+- ASP (GPL)
+- ImageJ (but not ImageJ macro) (GPL)
+- SRecode Template (GPL)
 
 As I couldn't find completed examples to go from (they will have to be done manually)
 
@@ -524,6 +534,20 @@ Add support for Apache and MIT licenses
 - [ ] No other changes in version 7
 
 </details> <!-- V7 !-->
+
+<details><summary><p><b>V8: 2023, Monday, April 3rd at 2:01 pm PST</b></p></summary>
+
+> **Changes:**
+
+- [x] Removed 1 duplicate entry, with 374 checked (32 new entries checked)
+- [x] Updated the todo section
+- [x] Updated the blog section
+- [x] Updated the file version timestamp
+- [x] Updated the file history section
+- - [x] Added an entry for version 8
+- [ ] No other changes in version 8
+
+</details> <!-- V8 !-->
 
 </details> <!-- File history !-->
 
