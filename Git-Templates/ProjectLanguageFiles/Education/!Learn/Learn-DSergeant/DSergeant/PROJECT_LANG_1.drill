@@ -1,0 +1,32 @@
+%% Start of script
+
+%% Note: All keywords have to start with a capital letter
+Drill:
+Do Or Die {
+    VoiceOn
+    Go Go Go %% More than 1 go is redundant, and is done for syntax only
+    Loud("Project language file 1")
+    Pause(1)
+    Quiet("For: seanpm2001/Learn-DSergeant")
+    Pause(1)
+    Quiet("About:")
+    Pause(1)
+    Loud("I decided to make DSergeant the main project language file for this project (Seanpm2001/Learn-DSergeant) as DSergeant is the language this project is dedicated to, because this project is about learning the DSergeant programming language. It only makes sense to DSergeant the official language for this project. It is getting its own project language file, starting here.")
+    VoiceOff
+    Stop %% Ends the loop
+}
+
+Halt! %% The ! indicates a full stop when applied to halt, in effect ending the program
+
+%% Output
+%% Project language file 1
+%% For: seanpm2001/Learn-DSergeant
+%% About:
+%% I decided to make DSergeant the main project language file for this project (Seanpm2001/Learn-DSergeant) as DSergeant is the language this project is dedicated to, because this project is about learning the DSergeant programming language. It only makes sense to DSergeant the official language for this project. It is getting its own project language file, starting here.
+
+%% File info
+%% File type: DSergeant "drill" (script) source file (*.drill)
+%% File version: 1 (2023, Sunday, April 2nd at 5:30 pm PST)
+%% Line count (including blank lines and compiler line): 33
+
+%% End of script
