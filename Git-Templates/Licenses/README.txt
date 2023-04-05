@@ -3,7 +3,7 @@
 
 # Languages to add
 
-**V8:** `As of 2023, Monday, April 3rd at 2:01 pm PST`
+**V9:** `As of 2023, Wednesday, April 5th at 2:13 pm PST`
 
 - **[2023.03.29 [1]]** `I spent a lot of time on this today, and will go no further with this today. Significant progress was made.`
 - **[2023.03.29 [2]]** `Small update to make this list compatible with Markdown.`
@@ -11,12 +11,13 @@
 - **[2023.03.30 [1]]** `Another very large update, I spent too much time on this. Hopefully I can get everything else done today. Over 30% progress was added today.`
 - **[2023.04.02 [1]]** `Just a small update today.`
 - **[2023.04.03 [1]]** `Just a decent sized update today, clearing out several entries.`
+- **[2023.04.05 [1]]** `Clearing out some entries manually, the rest are a bit difficult. Nearly 99% done with the current set`
 
 > **Note** _Duplicate entries are present (and are actively being removed)_
 
 > **Note** _List is not complete_
 
-**Progress:** `374` / `388` **(`96.39%`)**
+**Progress:** `382` / `388` **(`98.45%`)**
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the main list]</b></p></summary>
 
@@ -84,7 +85,7 @@ B ✅️
 BSDL ✅️
 PostScript ✅️
 Metal ✅️
-SVG ❌️
+SVG ✅️
 Gerber Image ✅️
 M ✅️
 E ✅️
@@ -99,7 +100,7 @@ Berry ✅️
 LiveScript ✅️
 LiveCode ✅️
 Common Lisp ✅️
-Vim Script ❌️
+Vim Script ✅️
 SystemVerilog ✅️
 Verilog AMS ✅️
 Oberon ✅️
@@ -180,8 +181,8 @@ Desktop ✅️
 VBA ✅️
 VBScript ✅️
 VB.NET ✅️
-Classic ASP ❌️
-ASP ❌️
+Classic ASP ✅️
+ASP ✅️
 ASP.NET ✅️
 NetREXX ✅️
 REXX ✅️
@@ -228,8 +229,8 @@ CMake ✅️
 CUDA ✅️
 DIGITAL Command Language ✅️
 BLISS ✅️
-FlooP ❌️
-BlooP ❌️
+FlooP ✅️
+BlooP ✅️
 Alloy ✅️
 Flux ✅️
 Thrift ✅️
@@ -251,7 +252,7 @@ Singularity ✅️
 RAML ✅️
 ReScript ✅️
 DNF ❌️
-Io ❌️
+Io ✅️
 Fish ✅️
 IDL ✅️
 LabVIEW ✅️
@@ -294,7 +295,7 @@ M4 ✅️
 M4Sugar ✅️
 Augeas ✅️
 NASL ✅️
-Ballerina ❌️
+Ballerina ✅️
 BlitzMax ✅️
 RenderScript ✅️
 SQLPL ✅️
@@ -419,16 +420,8 @@ GRANNY ✅️
 
 Find/create license files for:
 
-- Vim Script (GPL)
-- Ballerina (GPL)
-- SVG (GPL)
 - Groff (GPL)
-- BlooP (GPL)
-- FlooP (GPL)
 - DNF (GPL)
-- Io (GPL)
-- Classic ASP (GPL)
-- ASP (GPL)
 - ImageJ (but not ImageJ macro) (GPL)
 - SRecode Template (GPL)
 
@@ -548,6 +541,20 @@ Add support for Apache and MIT licenses
 - [ ] No other changes in version 8
 
 </details> <!-- V8 !-->
+
+<details><summary><p><b>V9: 2023, Wednesday, April 5th at 2:13 pm PST</b></p></summary>
+
+> **Changes:**
+
+- [x] Checked 8 more entries, with 382 checked total (6 to go in the current set)
+- [x] Updated the todo section
+- [x] Updated the blog section
+- [x] Updated the file version timestamp
+- [x] Updated the file history section
+- - [x] Added an entry for version 9
+- [ ] No other changes in version 9
+
+</details> <!-- V9 !-->
 
 </details> <!-- File history !-->
 
