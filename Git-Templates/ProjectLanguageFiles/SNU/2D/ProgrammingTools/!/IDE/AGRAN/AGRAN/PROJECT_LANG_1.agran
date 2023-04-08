@@ -1,0 +1,19 @@
+C: Start of script
+
+android.output.printBox("Project language file 1")
+android.output.printBox("For: /SNU/2D/ProgrammingTools/IDE/AGRAN")
+android.output.printBox("About:")
+android.output.printBox("I decided to make AGRAN the main project language file for this project (SNU / 2D / Programming Tools / IDE / AGRAN) as this is a AGRAN IDE, and it needs its main language to be represented here.")
+
+C: Output
+C: Project language file 1
+C: For: /SNU/2D/ProgrammingTools/IDE/AGRAN
+C: About:
+C: I decided to make AGRAN the main project language file for this project (SNU / 2D / Programming Tools / IDE / AGRAN) as this is a AGRAN IDE, and it needs its main language to be represented here.
+
+C: File info
+C: File type: AGRAN source file (*.agran)
+C: File version: 1 (2023, Friday, April 7th at 7:43 pm PST)
+C: Line count (including blank lines and compiler line): 20
+
+C: End of script
