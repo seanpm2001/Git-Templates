@@ -1,0 +1,24 @@
+
+---
+
+{{int:version-credits-summary}}
+Seanpm2001/Git-Templates is NOT a collaborative project, but it IS released under the GNU General Public License v3. We would like to recognize the following names for their contribution to the product.
+
+This comment block and this file (excluding author names) was modified from MediaWiki/CREDITS -->
+
+== Maintainers ==
+<!-- BEGIN MAINTAINERS LIST !-->
+
+1. @seanpm2001 - Creator and primary maintainer of Git-Templates
+2. No other contributors as of Friday, August 20th 2021
+
+== Contributors ==
+<!-- BEGIN CONTRIBUTOR LIST -->
+1. @seanpm2001
+2. @GitHub (For GitHub, and for being the first host of this project)
+3. @GNOME (For the GNOME Screenshot tool, used to get over 99.8% of this projects screenshots)
+4. @Mozilla (For the Mozilla Firefox web browser, what it did for this project, and what it can do for an open Internet)
+5. @VARIOUS:LANG (for language usage, too many to list)
+6. No other contributors as of Friday, August 20th 2021
+
+---
