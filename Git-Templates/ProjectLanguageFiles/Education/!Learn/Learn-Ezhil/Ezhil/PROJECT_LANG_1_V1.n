@@ -1,0 +1,21 @@
+# Start of script
+# Tamil translations unavailable for now
+
+பதிப்பி "Project language file 1"
+பதிப்பி "For: seanpm2001/Learn-Ezhil";
+பதிப்பி "About:";
+பதிப்பி "I decided to make Ezhil the main project language file for this project (Seanpm2001/Learn-Ezhil) as Ezhil is the language this project is dedicated to, because this project is about learning the Ezhil programming language. It only makes sense to Ezhil the official language for this project. It is getting its own project language file, starting here.";
+exit()
+
+# Output
+# Project language file 1
+# For: seanpm2001/Learn-Ezhil
+# About:
+# I decided to make Ezhil the main project language file for this project (Seanpm2001/Learn-Ezhil) as Ezhil is the language this project is dedicated to, because this project is about learning the Ezhil programming language. It only makes sense to Ezhil the official language for this project. It is getting its own project language file, starting here.")
+
+# File info
+# File type: Ezhil source file (*.n)
+# File version: 1 (2023, Friday, May 26th at 9:08 pm PST)
+# Line count (including blank lines and compiler line): 22
+
+# End of script
