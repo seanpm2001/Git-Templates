@@ -1,0 +1,21 @@
+# Start of script
+# Tamil translations unavailable for now
+
+பதிப்பி "Project language file 1"
+பதிப்பி "For: /SNU/2D/ProgrammingTools/IDE/Ezhil"
+பதிப்பி "About:"
+பதிப்பி "I decided to make Ezhil the main project language file for this project (SNU / 2D / Programming Tools / IDE / Ezhil) as this is a Ezhil IDE, and it needs its main language to be represented here."
+exit()
+
+# Output
+# Project language file 1
+# For: /SNU/2D/ProgrammingTools/IDE/Ezhil
+# About:
+# I decided to make Ezhil the main project language file for this project (SNU / 2D / Programming Tools / IDE / Ezhil) as this is a Ezhil IDE, and it needs its main language to be represented here.
+
+# File info
+# File type: Ezhil source file (*.n)
+# File version: 1 (2023, Friday, May 26th at 9:11 pm PST)
+# Line count (including blank lines and compiler line): 22
+
+# End of script
