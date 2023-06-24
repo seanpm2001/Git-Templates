@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Start of script !-->
+<fuzzySystem name="FML" ip="127.0.0.1">
+	<knowledgeBase>
+		<fuzzyTerm name="Project language file 1" complement="false"></fuzzyTerm>
+		<fuzzyTerm name="For: /SNU/2D/ProgrammingTools/IDE/Fuzzy Markup Language (FML)" complement="false"></fuzzyTerm>
+		<fuzzyTerm name="About:" complement="false"></fuzzyTerm>
+		<fuzzyTerm name="I decided to make Fuzzy Markup Language (FML) the main project language file for this project (SNU / 2D / Programming Tools / IDE / Fuzzy Markup Language (FML)) as this is a Fuzzy Markup Language (FML) IDE, and it needs its main language to be represented here." complement="false"></fuzzyTerm>
+		<!-- Output
+Project language file 1
+For: /SNU/2D/ProgrammingTools/IDE/Fuzzy Markup Language (FML)
+About:
+I decided to make Fuzzy Markup Language (FML) the main project language file for this project (SNU / 2D / Programming Tools / IDE / Fuzzy Markup Language (FML)) as this is a Fuzzy Markup Language (FML) IDE, and it needs its main language to be represented here.
+!-->
+	</knowledgeBase>
+	<!-- File info
+File type: Fuzzy Markup Language (FML) source file (*.fml *.xl)
+File version: 1 (2023, Friday, June 23rd at 05:14 pm PST)
+Line count (including blank lines and compiler line): 23
+!-->
+</fuzzySystem>
+<!-- End of script !-->
