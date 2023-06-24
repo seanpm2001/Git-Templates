@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Start of script !-->
+<fuzzySystem name="FML" ip="127.0.0.1">
+	<knowledgeBase>
+		<fuzzyTerm name="Project language file 1" complement="false"></fuzzyTerm>
+		<fuzzyTerm name="For: seanpm2001/Learn-Fuzzy Markup Language (FML)" complement="false"></fuzzyTerm>
+		<fuzzyTerm name="About:" complement="false"></fuzzyTerm>
+		<fuzzyTerm name="I decided to make Fuzzy Markup Language (FML) the main project language file for this project (Seanpm2001/Learn-Fuzzy Markup Language (FML)) as Fuzzy Markup Language (FML) is the language this project is dedicated to, because this project is about learning the Fuzzy Markup Language (FML) programming language. It only makes sense to Fuzzy Markup Language (FML) the official language for this project. It is getting its own project language file, starting here." complement="false"></fuzzyTerm>
+		<!-- Output
+Project language file 1
+For: seanpm2001/Learn-Fuzzy Markup Language (FML)
+About:
+I decided to make Fuzzy Markup Language (FML) the main project language file for this project (Seanpm2001/Learn-Fuzzy Markup Language (FML)) as Fuzzy Markup Language (FML) is the language this project is dedicated to, because this project is about learning the Fuzzy Markup Language (FML) programming language. It only makes sense to Fuzzy Markup Language (FML) the official language for this project. It is getting its own project language file, starting here.
+!-->
+	</knowledgeBase>
+	<!-- File info
+File type: Fuzzy Markup Language (FML) source file (*.fml *.xl)
+File version: 1 (2023, Friday, June 23rd at 05:09 pm PST)
+Line count (including blank lines and compiler line): 23
+!-->
+</fuzzySystem>
+<!-- End of script !-->
