@@ -1,0 +1,33 @@
+# Start of script
+
+# For Finnish text within strings, Bing translate is being used. Accuracy may not be that good. Everything else in Finnish was tested within the source repository, while English is my native language.
+Kun nykyinen sivu avautuu,
+	nykyinen sivu näyttää tekstin "Projektin kielitiedosto 1",
+	# current page show text "Project language file 1",
+	nykyinen sivu näyttää tekstin "Varten: seanpm2001/Oppia-Tampio",
+	# current page show text "For: seanpm2001/Learn-Tampio",
+	nykyinen sivu näyttää tekstin "Noin:",
+	# current page show text "About:",
+	nykyinen sivu näyttää tekstin "Päätin tehdä Tampiosta tämän projektin pääkielitiedoston (Seanpm2001/Learn-Tampio), koska Tampio on kieli, jolle tämä projekti on omistettu, koska tässä projektissa on kyse Tampion ohjelmointikielen oppimisesta. On vain järkevää Tampiolle, tämän projektin viralliselle kielelle. Se saa oman projektin kielitiedoston, joka alkaa tästä."
+	# current page show text "I decided to make Tampio the main project language file for this project (Seanpm2001/Learn-Tampio) as Tampio is the language this project is dedicated to, because this project is about learning the Tampio programming language. It only makes sense to Tampio the official language for this project. It is getting its own project language file, starting here."
+
+# Output (Finnish)
+
+# Projektin kielitiedosto 1
+# Varten: seanpm2001/Oppia-Tampio
+# Noin:
+# Päätin tehdä Tampiosta tämän projektin pääkielitiedoston (Seanpm2001/Learn-Tampio), koska Tampio on kieli, jolle tämä projekti on omistettu, koska tässä projektissa on kyse Tampion ohjelmointikielen oppimisesta. On vain järkevää Tampiolle, tämän projektin viralliselle kielelle. Se saa oman projektin kielitiedoston, joka alkaa tästä.
+
+# Output (English)
+
+# Project language file 1
+# For: seanpm2001/Learn-Tampio
+# About:
+# I decided to make Tampio the main project language file for this project (Seanpm2001/Learn-Tampio) as Tampio is the language this project is dedicated to, because this project is about learning the Tampio programming language. It only makes sense to Tampio the official language for this project. It is getting its own project language file, starting here.
+
+# File info
+# File type: Tampio source file (*tp)
+# File version: 1 (2023, Monday, June 26th at 10:55 pm PST)
+# Line count (including blank lines and compiler line): 34
+
+# End of script
