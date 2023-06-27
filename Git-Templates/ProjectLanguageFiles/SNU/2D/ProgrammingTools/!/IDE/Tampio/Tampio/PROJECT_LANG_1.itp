@@ -1,0 +1,33 @@
+# Start of script
+
+# For Finnish text within strings, Bing translate is being used. Accuracy may not be that good. Everything else in Finnish was tested within the source repository, while English is my native language.
+Kun nykyinen sivu avautuu,
+	nykyinen sivu näyttää tekstin "Projektin kielitiedosto 1",
+	# current page show text "Project language file 1",
+	nykyinen sivu näyttää tekstin "Varten: SNU/2D/ProgrammingTools/IDE/Tampio",
+	# current page show text "For: SNU/2D/ProgrammingTools/IDE/Tampio",
+	nykyinen sivu näyttää tekstin "Noin:",
+	# current page show text "About:",
+	nykyinen sivu näyttää tekstin "Päätin tehdä Tampiosta tämän projektin pääkielitiedoston (SNU / 2D / Programming Tools / IDE / Tampio), koska tämä on Tampio IDE, ja se tarvitsee pääkielensä edustettuna täällä."
+	# current page show text "I decided to make Tampio the main project language file for this project (SNU / 2D / Programming Tools / IDE / Tampio) as this is a Tampio IDE, and it needs its main language to be represented here."
+
+# Output (Finnish)
+
+# Projektin kielitiedosto 1
+# Varten: SNU/2D/ProgrammingTools/IDE/Tampio
+# Noin:
+# Päätin tehdä Tampiosta tämän projektin pääkielitiedoston (SNU / 2D / Programming Tools / IDE / Tampio), koska tämä on Tampio IDE, ja se tarvitsee pääkielensä edustettuna täällä.
+
+# Output (English)
+
+# Project language file 1
+# For: SNU/2D/ProgrammingTools/IDE/Tampio
+# About:
+# I decided to make Tampio the main project language file for this project (SNU / 2D / Programming Tools / IDE / Tampio) as this is a Tampio IDE, and it needs its main language to be represented here.
+
+# File info
+# File type: Tampio source file (*tp)
+# File version: 1 (2023, Monday, June 26th at 11:00 pm PST)
+# Line count (including blank lines and compiler line): 34
+
+# End of script
