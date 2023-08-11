@@ -1,0 +1,20 @@
+% Start of script
+
+print_ln("Project language file 1")
+print_ln("For: /SNU/2D/ProgrammingTools/IDE/WEB")
+print_ln("About:")
+print_ln("I decided to make WEB the main project language file for this project (SNU / 2D / Programming Tools / IDE / WEB) as this is a WEB IDE, and it needs its main language to be represented here.")
+
+% Output
+
+% Project language file 1
+% For: /SNU/2D/ProgrammingTools/IDE/WEB
+% About:
+% I decided to make WEB the main project language file for this project (SNU / 2D / Programming Tools / IDE / WEB) as this is a WEB IDE, and it needs its main language to be represented here.
+
+% File info
+% File type: WEB source file (*.web)
+% File version: 1 (2023, Thursday, August 10th at 9:12 pm PST)
+% Line count (including blank lines and compiler line): 21
+
+% End of script
