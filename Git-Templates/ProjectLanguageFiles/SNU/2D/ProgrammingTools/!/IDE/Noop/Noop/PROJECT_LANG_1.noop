@@ -1,0 +1,24 @@
+// Start of script
+import noop.Application;
+import noop.Console;
+class projectLanguageFileOne(Console console) implements Application {
+  Int main(List args) {
+    String s1 = "Project language file 1";
+    String s2 = "For: /SNU/2D/ProgrammingTools/IDE/Noop/";
+    String s3 = "About:";
+    String s4 = "I decided to make Noop the main project language file for this project (SNU / 2D / Programming Tools / IDE / Noop) as this is a Noop IDE, and it needs its main language to be represented here.";";
+    console.println(s1,s2,s3,s4);
+    return 0;
+}}
+/* Output
+Project language file 1
+For: seanpm2001/Learn-Noop
+About:
+I decided to make Noop the main project language file for this project (Seanpm2001/Learn-Noop) as Noop is the language this project is dedicated to, because this project is about learning the Noop programming language. It only makes sense to Noop the official language for this project. It is getting its own project language file, starting here.
+*/
+/* File info
+** File type: Google Noop source file (*.noop)
+** File version: 1 (2023, Wednesday, August 16th at 9:40 pm PST)
+** Line count (including blank lines and compiler line): 25
+*/
+// End of script
