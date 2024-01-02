@@ -1,0 +1,9 @@
+"Project language file 1."
+"For: seanpm2001/Learn-PLANNER."
+"About."
+"I decided to make PLANNER the main project language file for this project (Seanpm2001/Learn-PLANNER) as PLANNER is the language this project is dedicated to, because this project is about learning the PLANNER programming language. It only makes sense to PLANNER the official language for this project. It is getting its own project language file, starting here."
+"***"
+"File info.
+"File type: PLANNER source file (*.P)"
+"File version: 1 (2024, Monday, January 1st at 10:55 pm PST)"
+"Line count (including blank lines and compiler line): 10"
