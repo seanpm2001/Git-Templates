@@ -1,0 +1,9 @@
+"Project language file 1."
+"For: SNU/2D/ProgrammingTools/IDE/PLANNER"
+"About."
+"I decided to make PLANNER the main project language file for this project (SNU / 2D / Programming Tools / IDE / PLANNER) as this is a PLANNER IDE, and it needs its main language to be represented here."
+"***"
+"File info.
+"File type: PLANNER source file (*.P)"
+"File version: 1 (2024, Monday, January 1st at 10:57 pm PST)"
+"Line count (including blank lines and compiler line): 10"
