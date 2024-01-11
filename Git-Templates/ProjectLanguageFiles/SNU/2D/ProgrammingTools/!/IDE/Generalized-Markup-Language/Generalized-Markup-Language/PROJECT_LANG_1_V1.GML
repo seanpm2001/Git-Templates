@@ -1,0 +1,9 @@
+:h1 Project language file 1
+:h1 For: /SNU/2D/ProgrammingTools/IDE/Generalized-Markup-Language
+:h1 About:
+:p I decided to make Generalized Markup Language the main project language file for this project (SNU / 2D / Programming Tools / IDE / Generalized Markup Language) as this is a Generalized Markup Language IDE, and it needs its main language to be represented here.
+:h1 File info:
+:p File version: 1 (2024, Wednesday, January 5th at 04:18 pm PST)
+:p File type: Generalized Markup Language source file (*.GML)
+:p Line count (including blank lines and compiler line): 10
+:eol.
