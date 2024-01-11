@@ -1,0 +1,9 @@
+:h1 Project language file 1
+:h1 For: seanpm2001/Learn-Generalized-Markup-Language
+:h1 About:
+:p I decided to make Generalized Markup Language the main project language file for this project (Seanpm2001/Learn-Generalized-Markup-Language) as Generalized Markup Language is the language this project is dedicated to, because this project is about learning the Generalized Markup Language programming language. It only makes sense to Generalized Markup Language the official language for this project. It is getting its own, project language file, starting here.
+:h1 File info:
+:p File version: 1 (2024, Wednesday, January 5th at 04:14 pm PST)
+:p File type: Generalized Markup Language source file (*.GML)
+:p Line count (including blank lines and compiler line): 10
+:eol.
