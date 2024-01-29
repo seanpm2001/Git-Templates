@@ -1,0 +1,14 @@
+!START OF SCRIPT
+
+!Project language file 1
+!For: /SNU/2D/ProgrammingTools/IDE/Adblock-Filter-List
+!About:
+!I decided to make Adblock Filter List the main project language file for this project (SNU / 2D / Programming Tools / IDE / Adblock-Filter-List) as this is a Adblock Filter List IDE, and it needs its main language to be represented here.
+
+!FILE INFO
+
+!File type: Adblock Filter List source file (*.txt)
+!File version: 1 (2024, Sunday, January 28th at 11:30 pm PST)
+!Line count (including blank lines and compiler line): 15
+
+!END OF SCRIPT
