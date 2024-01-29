@@ -1,0 +1,19 @@
+%% START OF SCRIPT
+
+%% Project language file 1
+%% For: seanpm2001/Learn-VisionScript
+%% About:
+%% I decided to make VisionScript the main project language file for this project (Seanpm2001/Learn-VisionScript) as VisionScript is the language this project is dedicated to, because this project is about learning the VisionScript programming language. It only makes sense to VisionScript the official language for this project. It is getting its own, project language file, starting here.
+
+Say["Project language file 1"]
+Say["For: seanpm2001/Learn-VisionScript"]
+Say["About:"]
+Say["I decided to make VisionScript the main project language file for this project (Seanpm2001/Learn-VisionScript) as VisionScript is the language this project is dedicated to, because this project is about learning the VisionScript programming language. It only makes sense to VisionScript the official language for this project. It is getting its own, project language file, starting here."]
+
+%% FILE INFO
+
+%% File type: VisionScript source file (*.vic)
+%% File version: 1 (2024, Sunday, January 28th at 11:41 pm PST)
+%% Line count (including blank lines and compiler line): 20
+
+%% END OF SCRIPT
